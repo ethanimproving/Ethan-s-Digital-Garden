@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 ---
+
 [Recipe Book](https://onedrive.live.com/redir.aspx?cid=045b8bbf34c84a9d&resid=45B8BBF34C84A9D!2326&type=3) on MS OneNote.
 # Advance Plan Recipe Book:
 
