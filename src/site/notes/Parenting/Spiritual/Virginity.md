@@ -1,5 +1,0 @@
----
-dg-publish: true
----
-
-Our kids will be virgins until they are married. But I will train the boys to kiss the hell out of a woman.
