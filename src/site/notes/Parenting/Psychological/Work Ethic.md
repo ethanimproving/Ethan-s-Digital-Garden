@@ -1,8 +1,0 @@
----
-dg-publish: true
----
-
-# Food doesn't grow on trees (socialism)
-
-
-I know I'm going to regret saying this, but food doesn't grow on trees. What I mean by that is that if a 3 year old is going to eat, somebody has to work to feed him. He won't survive on his own. And that means <mark class="hltr-yellow">we have a responsibility to our fellow man, the limits of which must be carefully observed, and the extent of which requires the sweat of our brow</mark>. Without the sweat of the strong men, there would be no bread for the young man. And without the labors of the strong women, there would be no bread at all. The suckling child's mouth grows dry when his mother forgets him from the womb. Do you see a child abandoned in the streets? He is not yours. Why should you sweat for the life of a stranger? But your mind won't let you forget his cry. This helpless child who was left alone won't leave your memory. What is this? It's your conscience bearing witness to your human duty. Some call it humanity, I call it human duty. So you go back to the dark road, maybe not to do everything, but to do what you need to for the life if the baby. My great aunt started an orphanage that way, by taking one child from the streets, and soon many mother's dropped their babies off at her door step. What could she do? She bore the burdens of 40 men, and there are others who will do the same. Don't kill your baby.
