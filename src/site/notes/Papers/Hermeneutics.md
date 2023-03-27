@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 ---
+
 [God Saves People with Bad Theology](https://www.youtube.com/watch?v=yCeCwt4wSBE&list=LLBkWJNMdlBmY0zh6VArtv4Q&index=644&t=1s)
 
 >"Matthew 22:14 and Romans 8:30 do not apparently use the word ‘call' in the same way, and if they do they contradict each other. . . . When you want to know the meaning of a word in the Bible, you must not assume that the use of that word by other authors besides the one that you're studying will be the same as the place where you're reading. If fact, I would stress, even the same author can use the same word in two very different ways. Now we all know this in English. In the Oxford English Dictionary the word ‘set' has listed 464 definitions. And the word ‘run' has 396 listed definitions. Now if you need any evidence that words are flexible, that's it. And it's true in the Bible as well." ~ John Piper
