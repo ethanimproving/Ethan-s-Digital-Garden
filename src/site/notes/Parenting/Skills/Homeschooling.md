@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 ---
+
 The primary purpose of learning is to increase the value of your labor hour (see "Absolute Value of Labor Hours" paper). As such I will focus on a more practical curriculum wherein my children will gain skills and practical knowledge as opposed to irrelevant facts that have no application for their futures. #parentingmotivation 
 
 # Public School
