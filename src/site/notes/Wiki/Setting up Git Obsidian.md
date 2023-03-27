@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/setting-up-git-obsidian/","tags":["wiki tutorial matadata","gardenEntry"]}
+tags: wiki tutorial matadata
+dg-home: true
+dg-publish: true
 ---
-
 
 # Introduction to Obsidian
 
