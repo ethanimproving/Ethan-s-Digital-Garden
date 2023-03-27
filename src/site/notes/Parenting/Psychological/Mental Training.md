@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 ---
+
 It has been well established in the psychological industry that intelligence tapers off around the age of 25, at a pace of between 3 to 7 IQ points per decade. ([Apprehension, Memory, and Fluid Intelligence Decline in Adulthood](https://journals.sagepub.com/doi/abs/10.1177/016402758131002)).
 
 However there is one thing you 
