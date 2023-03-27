@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/"}
+dg-publish: true
 ---
-
-
 # Balloon Payment
 
 Carol's mom is the bank, getting the interest. She got $975 a month on the interest. For 5 years. They might give you a point or 2 below the going interest rate. They stand to make a lot more money on the house.
