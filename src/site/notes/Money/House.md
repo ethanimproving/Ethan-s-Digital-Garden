@@ -11,7 +11,7 @@ A $200,000, for 5 years I'm paying it down at the rate we agree on, so that at t
 
 Look at an amortization chart.
 
-- Old builds are mote sturdy than new builds.
+- Old builds are more sturdy than new builds.
 - If someone's renting an destroyed it, you're going to redo it anyway.
 
 
@@ -90,7 +90,7 @@ Homebot uses an automated valuation model (AVM) to provide an estimated home val
 
 - Texas A&M Real Estate Center
 - Texas Association of Realtors
-- [Zollow Housing Data](https://www.zillow.com/research/data/)
+- [Zillow Housing Data](https://www.zillow.com/research/data/)
 - Trulia Heat Map - [4 Maps to Help Your Home Search](https://www.trulia.com/blog/4-maps-help-home-search/)
 - [Trulia's Property Pages](https://www.trulia.com/blog/tech/know-neighborhood-with-trulia/)
 
