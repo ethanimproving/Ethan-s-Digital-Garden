@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 ---
+
 Created: Sunday, Dec 9, 2018, 8:31 PM
 
 We live in a world today where only a small percent of the population actually needs to work to create enough goods for the whole world to have a decent life. 2% of the population produces enough food for 20 billion people. We produce enough grain for every person in the world to have 2 pounds per day. World hunger is not a problem is production. It's a problem in distribution.
