@@ -4,6 +4,7 @@ dg-home: true
 dg-publish: true
 ---
 
+
 # Introduction to Obsidian
 
 Obsidian was built from the ground up to be a second-brain or <mark class="hltr-yellow">personal knowledge management system</mark>, so it included second-brain functionality from the start. It’s more than just a place to jot down and keep your notes; it’s an intuitive productivity app, more than a digital note-taking platform for capturing ideas. It’s a second brain.[^1]
