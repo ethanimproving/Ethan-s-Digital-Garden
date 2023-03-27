@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 ---
+
 Drawing is said to be a good way to acquire knowledge because the act of drawing adds another layer of memory encoding in your brain. Just like singing, drawing is a skill we effectively left behind as children that continues to occasionally haunt us.
 ​
 Shared from [Beginners](https://headway.onelink.me/9USK?pid=app_referral&af_web_dp=https%3A%2F%2Fweb.get-headway.com%2Fbook%2Fbeginners&c=highlight&af_siteid=summary_text) on the Headway app
