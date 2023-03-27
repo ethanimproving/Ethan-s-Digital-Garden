@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 ---
+
 There are 3 destinations we are thinking about traveling to:
 
 1. Switzerland
