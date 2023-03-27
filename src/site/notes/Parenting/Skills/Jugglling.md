@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 ---
+
 Vanderbilt was instructed to simply throw the scarves, one after the other, to the top corners of an imaginary box positioned over his head. He did, and the scarves fluttered to the floor. She wanted him to throw and then catch the scarves, once. He did easily, but it became overwhelming for him when he was asked to keep repeating the process.
 ​
 Wolf didn’t want him to think of the catches; she explained that the key to learning juggling is not thinking. If he just kept throwing to the corners, his hands would move to where they needed to be for the catch.
