@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 ---
+
 Psychologists Sheena Iyengar and Mark Lepper published a remarkable study. On one day, shoppers at an upscale food market saw a display table with 24 varieties of gourmet jam. Those who sampled the spreads received a coupon for $1 off any jam. On another day, shoppers saw a similar table, except that only six varieties of the jam were on display. The large display attracted more interest than the small one. But when the time came to purchase, <mark class="hltr-yellow">people who saw the large display were one-tenth as likely to buy as people who saw the small display</mark>.
 
 # Law of Diminishing Returns
