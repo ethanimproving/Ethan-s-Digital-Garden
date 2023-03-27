@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 ---
+
 Singing can also help to boost our immune function, respiratory function. It enables the brain to regulate heart rate, blood pressure, digestion, and may even counter depression.
 ​
 Singing has greatly declined in public life, and one of the reasons is that the arrival of recorded music, radio, and then television meant people no longer had to produce their own musical entertainment, whether alone or communally. Another reason is that we tend to think we’re just not good enough, and only a few people feel confident singing in front of anyone.
