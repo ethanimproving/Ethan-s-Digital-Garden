@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 ---
+
 # What is the science behind homeopathic remedies?
 
 Homeopathic remedies are a type of alternative medicine that are based on the principle of "like cures like" and the dilution of substances to create remedies. The little white balls that are commonly associated with homeopathy are called "globules" or "pellets," and they are typically made from a sugar or lactose base that has been impregnated with a small amount of the active ingredient.
