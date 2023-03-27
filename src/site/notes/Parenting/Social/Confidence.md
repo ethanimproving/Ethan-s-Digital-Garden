@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 ---
+
 [What are the behaviors of a confident person?](https://www.quora.com/What-are-the-behaviors-of-a-confident-person)
 
 Observe confident people around you. You’ll find these 9 behaviors in them:
