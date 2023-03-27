@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 ---
+
 #laborhours 
 
 With the advent of AI technology and machine learning, more and more tasks can by managed by machines, freeing up humans to climb to new heights up Maslow's Hierarchy and do more meaningful work, addressing higher needs above base needs.
