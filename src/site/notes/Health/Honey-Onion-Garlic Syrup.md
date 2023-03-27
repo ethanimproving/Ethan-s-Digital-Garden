@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 ---
+
 - Garlic is a great **immune system booster**, and is especially apt at **treating colds & sore throats**.
 - Onions are full of antibiotic, antiviral and antioxidant properties. Onion is also an expectorant, which will help thin & loosen up any mucus you have and cause a productive cough.
 - Honey soothes sore throats, and also boasts antimicrobial properties that will fight your cold.<sup>1</sup>
