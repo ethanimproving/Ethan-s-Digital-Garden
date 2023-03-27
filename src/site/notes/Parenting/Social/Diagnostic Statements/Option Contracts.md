@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 ---
+
 Created: Sunday, Dec 9, 2018, 8:31 PM
 
 An option contract can be thought of as a coupon to buy 100 shares of stock of a specified company at a certain price by a certain expiration date. So let's say one share of American Airlines is trading at $50. I might pay $1 for an option contract that let's me buy American Airlines at $50 anytime in the next month. That way if it goes up to $60, I can buy stock for $50 a share, sell it at $60 a share, and I'm up $9 times 100, because an option contract controls 100 shares of stock. And if American Airlines goes down to 0, I only lost the $1 times 100 that I spent on the option.
