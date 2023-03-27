@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 ---
+
 [Brad Lea - Leading Indicators](https://www.facebook.com/TheRealBradLea/videos/the-truth-is-it-doesnt-matter-where-youre-from-or-what-your-culture-is-ability-c/425870638779180/)
 
 I had a goal to get 20 units that year. My mentor was like, "Nah, don't set those goals. That's what you call a lagging indicator. You need to set goals around. You need to set goals around what's known as your leading indicator. Things that you can control." You can control time, how much content you input into your body, you control these things. Set goals around that. The byproduct of my standards and expectations was 82 units that year.
