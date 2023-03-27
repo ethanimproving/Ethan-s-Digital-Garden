@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 ---
+
 There is a popular idea that asking someone to change is contrary to the virtue of accepting them as they are.  The term "Virtue" shall mean accepting someone as they are.
 
 [Sabrina Carpenter - Why](https://www.youtube.com/watch?v=fhH4pbRJh0k) is saturated with this same belief, suggesting that their relationship works well in part because neither party asks the other to change.
