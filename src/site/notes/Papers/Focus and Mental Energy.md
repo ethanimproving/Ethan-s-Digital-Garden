@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 ---
+
 [Schedule focus, not time](https://www.youtube.com/watch?v=ifZWcPXDyFc)
 Your will-power is highest in the morning generally speaking. This varies based on your chronotype. What's important is to plan your study intensity according to when your battery is the fullest. 
 
