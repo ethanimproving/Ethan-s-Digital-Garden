@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/health/exercise/excersize-gi-fs/"}
+dg-publish: true
 ---
-
-
 https://fitnessprogramer.com/exercise-primary-muscle/triceps/
 
 # Back Squat
