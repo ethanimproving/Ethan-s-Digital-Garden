@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 ---
+
 # Support Sources
 
 ## Oscillococcinum for upper respiratory tract infections: an observational, prospective study
