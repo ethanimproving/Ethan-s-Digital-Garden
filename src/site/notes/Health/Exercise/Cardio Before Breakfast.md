@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 ---
+
 Ethan Miller
 Research Paper # 1
 Cardio Before Breakfast
