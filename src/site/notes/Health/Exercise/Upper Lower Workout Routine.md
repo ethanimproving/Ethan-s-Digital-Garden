@@ -1,6 +1,8 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/health/exercise/upper-lower-workout-routine/"}
 ---
+
+
 [Jeff Nippard's Fundamentals Workout Routine.xlsx](https://mysite.aa.com/:x:/g/personal/242924_corpaa_aa_com/Ed95f-GtiB1NlUkC7YAY-c8B9dHJ7ZFa51baXrsSWAGZXA?e=imwwfh)
 
 # Week 1
