@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 ---
+
 1. Gargle Listerine
 2. Gargle Thieves
 3. [Nebulize](https://www.amazon.com/dp/B096YQMM7B/ref=cm_sw_r_api_i_2ZFA2DPHAC8B4TJ7XBW7_0) with [Nephron STERILE Sodium Chloride](https://www.mountainside-medical.com/products/sodium-chloride-for-inhalation-solution-15-ml) INH. SOL., USP 7%, 4 ML
