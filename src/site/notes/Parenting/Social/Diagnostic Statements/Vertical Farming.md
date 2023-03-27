@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 ---
+
 Created: Sunday, Dec 9, 2018, 8:31 PM
 #laborhours 
 
