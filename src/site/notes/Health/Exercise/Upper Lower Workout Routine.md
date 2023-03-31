@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/exercise/upper-lower-workout-routine/"}
+{"dg-publish":true,"permalink":"/health/exercise/upper-lower-workout-routine/","created":"","updated":""}
 ---
 
 
