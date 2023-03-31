@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/technology-digital-revolution/"}
+{"dg-publish":true,"permalink":"/politics/technology-digital-revolution/","created":"","updated":""}
 ---
 
 
