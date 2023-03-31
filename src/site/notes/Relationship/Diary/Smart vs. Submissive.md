@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/smart-vs-submissive/","tags":["checklistitem, favorites"],"created":"Jul 8, 2022, 10:56 AM","updated":""}
+{"dg-publish":true,"permalink":"/relationship/diary/smart-vs-submissive/","tags":["checklistitem","favorites"],"created":"Jul 8, 2022, 10:56 AM","updated":""}
 ---
 
 
