@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/phone/"}
+{"dg-publish":true,"permalink":"/shopping/phone/","created":"","updated":""}
 ---
 
 
