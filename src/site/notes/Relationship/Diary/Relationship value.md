@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/relationship-value/","created":"Feb 17, 2023 3:30 PM","updated":""}
+{"dg-publish":true,"permalink":"/relationship/diary/relationship-value/","created":"Friday, Feb 17, 2023, 3:30 CST","updated":""}
 ---
 
 
