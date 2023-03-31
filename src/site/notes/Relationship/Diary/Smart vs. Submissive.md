@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/smart-vs-submissive/","tags":["checklistitem favorites"],"created":"Jul 8, 2022, 10:56 AM","updated":""}
+{"dg-publish":true,"permalink":"/relationship/diary/smart-vs-submissive/","tags":["checklistitem, favorites"],"created":"Jul 8, 2022, 10:56 AM","updated":""}
 ---
 
 
@@ -49,7 +49,7 @@ man keepeth it in till afterwards.
 > 3. For a dream cometh through the multitude of business; and a fool’s voice
 is known by multitude of words.
 
-The very thing that made me think Sarah is smarter than Mariana, the Bible actually says is in indication that Mariana has more knowledge than Sarah.
+The very thing that made me think Sarah is smarter than Mariana, the Bible actually says is an indication that Mariana has more knowledge than Sarah.
 
 > [!Bible] [Proverbs 18:8 - KJV](https://bible-api.com/Proverbs+18:8?translation=kjv)
 > 8. The words of a talebearer are as wounds, and they go down into the innermost parts of the belly.
