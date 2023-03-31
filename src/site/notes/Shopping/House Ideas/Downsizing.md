@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/house-ideas/downsizing/"}
+{"dg-publish":true,"permalink":"/shopping/house-ideas/downsizing/","created":"","updated":""}
 ---
 
 
