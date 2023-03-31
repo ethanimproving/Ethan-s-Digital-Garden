@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/laptops/"}
+{"dg-publish":true,"permalink":"/shopping/laptops/","created":"","updated":""}
 ---
 
 
