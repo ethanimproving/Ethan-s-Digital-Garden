@@ -7,6 +7,4 @@ Rain. Nothing soothes my soul like a million droplets pattering atop the roof of
 
 Come, my lover, my peace. Let me wrap you with all my protection, I long for you. The world outside has stopped for a day, the roads are empty and the markets are closed. The parks are vacant, even all the animals are hidden from the woods. The sun is hidden behind the clouds and it’s light is turned into darkness. Come and stay in my arms, and rest.
 
-  
-
 You are to my soul what rain is to my peace. As long as you’re wrapped in my embrace, the world outside doesn’t exist. You are my holiday, the only love that can stop time when I give my heart to you. Keep my heart safe, and let me love you forever. My love, my color, my friend.
