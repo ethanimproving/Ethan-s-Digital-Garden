@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/cable-standards/"}
+{"dg-publish":true,"permalink":"/shopping/cable-standards/","created":"","updated":""}
 ---
 
 
