@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/rain/","created":"Oct 28, 2022, 8:05 AM","updated":""}
+{"dg-publish":true,"permalink":"/relationship/diary/rain/","tags":["poetry","diary"],"created":"Oct 28, 2022, 8:05 AM","updated":""}
 ---
 
 
