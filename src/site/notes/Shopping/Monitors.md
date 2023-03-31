@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/monitors/"}
+{"dg-publish":true,"permalink":"/shopping/monitors/","created":"","updated":""}
 ---
 
 
