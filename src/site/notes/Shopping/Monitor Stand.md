@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/monitor-stand/"}
+{"dg-publish":true,"permalink":"/shopping/monitor-stand/","created":"","updated":""}
 ---
 
 
