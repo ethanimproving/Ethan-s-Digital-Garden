@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/custom-pc-desktop/"}
+{"dg-publish":true,"permalink":"/shopping/custom-pc-desktop/","created":"","updated":""}
 ---
 
 
