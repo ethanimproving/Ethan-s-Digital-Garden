@@ -18,5 +18,5 @@ In `timestamps.njk` make the following change:
 // This supports ISO standard format
 el.innerHTML = luxon.DateTime.fromISO(el.getAttribute('data-date') || el.innerText).toFormat(TIMESTAMP_FORMAT);
 // This supports the evernote format such as: Jan 16, 2023, 11:51 AM
-el.innerHTML = luxon.DateTime.fromFormat(el.getAttribute('data-date') || el.innerText, 'MMM dd, yyyy, h:mm a').toFormat(TIMESTAMP_FORMAT);
+el.innerHTML = luxon.DateTime.fromFormat(el.getAttribute('data-date') || el.innerText, 'MMM d, yyyy, h:mm a').toFormat(TIMESTAMP_FORMAT);
 ```
