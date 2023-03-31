@@ -2,6 +2,6 @@
 <script defer>
     TIMESTAMP_FORMAT = "{{meta.timestampSettings.timestampFormat}}";
     document.querySelectorAll('.human-date').forEach(function (el) {
-        el.innerHTML = luxon.DateTime.fromISO(el.getAttribute('data-date') || el.innerText).toFormat(TIMESTAMP_FORMAT);
+        el.innerHTML = luxon.DateTime.fromFormat(el.getAttribute('data-date') || el.innerText, 'MMM dd, yyyy, h:mm a').toFormat(TIMESTAMP_FORMAT);
       });
 </script>
