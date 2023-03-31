@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/applied-kinesiology-muscle-testing/applied-kinesiology/"}
+{"dg-publish":true,"permalink":"/health/applied-kinesiology-muscle-testing/applied-kinesiology/","created":"","updated":""}
 ---
 
 
