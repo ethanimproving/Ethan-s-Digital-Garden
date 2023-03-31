@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/house-ideas/house-rennovation-ideas/","tags":["clean interiordesign spiritualmotivation"]}
+{"dg-publish":true,"permalink":"/shopping/house-ideas/house-rennovation-ideas/","tags":["clean interiordesign spiritualmotivation"],"created":"","updated":""}
 ---
 
 
