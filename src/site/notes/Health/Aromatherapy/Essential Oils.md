@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/aromatherapy/essential-oils/"}
+{"dg-publish":true,"permalink":"/health/aromatherapy/essential-oils/","created":"","updated":""}
 ---
 
 
