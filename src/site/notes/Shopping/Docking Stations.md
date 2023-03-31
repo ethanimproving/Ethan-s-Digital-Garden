@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/docking-stations/"}
+{"dg-publish":true,"permalink":"/shopping/docking-stations/","created":"","updated":""}
 ---
 
 
