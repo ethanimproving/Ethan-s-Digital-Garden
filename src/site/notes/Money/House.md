@@ -69,23 +69,6 @@ Weight 1-5, tally Ethan and Mariana
 - 503 Katherine Ct, Duncanville, TX 75137 - [$210,000](https://www.zillow.com/homedetails/503-Katherine-Ct-Duncanville-TX-75137/26988880_zpid/)
 - 4236 Wilshire Blvd, Dallas, TX 75241 - [$245,000](https://www.zillow.com/homedetails/4236-Wilshire-Blvd-Dallas-TX-75241/26877814_zpid/)
 
-## Grandpa's House
-
-7322 Oakmore Drive | [Zillow](https://www.zillow.com/homes/7322-Oakmore-Dr-Dallas,-TX-75249_rb/26892483_zpid/) | [Google Photos](https://photos.app.goo.gl/jdnMXBsykBx8wXVN6) | [Redfin](https://www.redfin.com/TX/Dallas/7322-Oakmore-Dr-75249/home/31116051)
-
-| [Homebot](https://find.searchtexashomes.com/seller?gclid=EAIaIQobChMIxJq5jJ33_QIV1MmUCR1mzAsBEAAYASAAEgITBvD_BwE) Estimate | [$265,000](https://i.imgur.com/1HuB9ZE.png)<img src="https://i.imgur.com/1HuB9ZE.png"  width="400">      |
-|------------------|---------------|
-| Redfin Estimate  | $275,158      |
-| Year Built       | 1979          |
-| House Size       | 1,780 Sq. Ft. |
-| Lot Size         | 6,573 Sq. Ft. |
-| Beds             | 3             |
-| Baths            | 2             |
-
-### How is your home value estimate calculated?
-
-Homebot uses an automated valuation model (AVM) to provide an estimated home value. The main market data that helps calculate this value are your home details and similar home sale trends in your area.
-
 ### Land Value
 
 - Texas A&M Real Estate Center
@@ -98,6 +81,23 @@ Homebot uses an automated valuation model (AVM) to provide an estimated home val
 *Typical value map where land/property value is increased by the proximity of water, large transportation channels and distance to the commercial center.*
 
 
+
+## Grandpa's House
+
+7322 Oakmore Drive | [Zillow](https://www.zillow.com/homes/7322-Oakmore-Dr-Dallas,-TX-75249_rb/26892483_zpid/) | [Google Photos](https://photos.app.goo.gl/jdnMXBsykBx8wXVN6) | [Redfin](https://www.redfin.com/TX/Dallas/7322-Oakmore-Dr-75249/home/31116051)
+
+| [Homebot](https://find.searchtexashomes.com/seller?gclid=EAIaIQobChMIxJq5jJ33_QIV1MmUCR1mzAsBEAAYASAAEgITBvD_BwE) Estimate | [$265,000](https://i.imgur.com/1HuB9ZE.png)      |
+|------------------|---------------|
+| Redfin Estimate  | $275,158      |
+| Year Built       | 1979          |
+| House Size       | 1,780 Sq. Ft. |
+| Lot Size         | 6,573 Sq. Ft. |
+| Beds             | 3             |
+| Baths            | 2             |
+
+### How is your home value estimate calculated?
+
+Homebot uses an automated valuation model (AVM) to provide an estimated home value. The main market data that helps calculate this value are your home details and similar home sale trends in your area.
 
 ### Gyms Close By
 
