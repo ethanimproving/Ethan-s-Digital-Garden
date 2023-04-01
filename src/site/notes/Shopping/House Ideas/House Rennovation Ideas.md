@@ -245,6 +245,11 @@ title:: Paint the Brick White
 ![](https://photos.zillowstatic.com/fp/ea3c3f8b3c44449213b93cd372e18166-cc_ft_1536.webp)
 
 ![](https://photos.zillowstatic.com/fp/ec5ba7b2f847555f0a5caf25e0370789-cc_ft_1344.webp)
+
+# Intermitted Stones
+
+![](https://photos.zillowstatic.com/fp/6cfdb3fb9f53dc4803c6df105ebddbc7-uncropped_scaled_within_1536_1152.webp)
+
 # Warm wooden floor for living room and hallways
 
 title:: Warm wooden floor for living room and hallways
