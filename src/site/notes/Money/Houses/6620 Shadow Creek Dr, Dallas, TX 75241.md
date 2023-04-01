@@ -19,7 +19,8 @@
 $$$287,500 / 2,308 Sq. Ft. = $124.57 / Sq. Ft. $$
 ### Places Close By
 
-Refer to [[Money/House#Requirements\|House Requirements]].
+Refer to [[Money/House#Requirements\|House Requirements]]. This table is generated from an Excel Spreadsheet called [House Evaluations.xlsx](https://mysite.aa.com/:x:/g/personal/242924_corpaa_aa_com/EY6agpdwMRNGhUHcrjf7j5QBWW5_BBdaP1URvQK_NJ4syQ?e=GCzSeC).
+
 | Place          | Drive   | Location                                            |
 |----------------|---------|-----------------------------------------------------|
 | Home           | 49 mins | 1310 Leeward Ln, Wylie, TX 75098                    |
@@ -39,3 +40,5 @@ Refer to [[Money/House#Requirements\|House Requirements]].
 # Birdseye View
 
 ![](https://i.imgur.com/JYG9Xqk.png)
+
+Intrinsic Value of the House: [[Money/Personal Economics Assignment\|$125 / sqft]]
