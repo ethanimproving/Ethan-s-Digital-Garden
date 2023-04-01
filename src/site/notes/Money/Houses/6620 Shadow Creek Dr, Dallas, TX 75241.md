@@ -19,6 +19,7 @@
 $$$287,500 / 2,308 Sq. Ft. = $124.57 / Sq. Ft. $$
 ### Places Close By
 
+Refer to [[Money/House#Requirements\|House Requirements]].
 | Place          | Drive   | Location                                            |
 |----------------|---------|-----------------------------------------------------|
 | Home           | 49 mins | 1310 Leeward Ln, Wylie, TX 75098                    |
