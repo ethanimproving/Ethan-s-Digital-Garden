@@ -35,3 +35,7 @@ Refer to [[Money/House#Requirements\|House Requirements]].
 | Park           | 3 mins  | 2905 Alta Mesa Dr, Dallas, TX 75241                 |
 
 ![](https://i.imgur.com/FSFyFVv.png)
+
+# Birdseye View
+
+![](https://i.imgur.com/JYG9Xqk.png)
