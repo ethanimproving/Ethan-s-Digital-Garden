@@ -54,4 +54,4 @@ $$2^n - 1 = 8,000,000,000$$
 The other way to reach people is by creating scalable information, such as a video that can be viewed an unlimited number of times. This is where Amplify Ministries came in for me. I wanted to create a platform where people can grow qualitatively from video resources that inspire them and stir up their affections and zeal for walking with Jesus.
 
 ---
-[^1] Chan, Francis. “[Lukewarm and Lovin' It!](https://www.youtube.com/watch?v=uOImdkpuecA)” _YouTube_, Cornerstone Community Church, 2 Dec. 2014.
+[^1]: Chan, Francis. “[Lukewarm and Lovin' It!](https://www.youtube.com/watch?v=uOImdkpuecA)” _YouTube_, Cornerstone Community Church, 2 Dec. 2014.
