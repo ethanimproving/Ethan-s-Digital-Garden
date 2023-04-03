@@ -5,7 +5,7 @@
 
 We live in a world today where only a small percent of the population actually needs to work to create enough goods for the whole world to have a decent life. 2% of the population produces enough food for 20 billion people. We produce enough grain for every person in the world to have 2 pounds per day. World hunger is not a problem is production. It's a problem in distribution.
 
-So as a 20 year-old college student pondering what to do with my life, I realized that the world does not need me to spearhead a movement in vertical farming to make food production more efficient. <mark class="hltr-yellow">The world doesn't need to produce more, the world needs to be parented</mark>. We have the technology and the resources to put every person in the world in a mansion. The reason 50% of the world lives on less than $2 a day is because the other 50% is complacent. If we would send a lawn mower to 
+So as a 20 year-old college student pondering what to do with my life, I realized that the world does not need me to spearhead a movement in vertical farming to make food production more efficient. <mark class="hltr-yellow">The world doesn't need to produce more, the world needs to be parented</mark>. We have the technology and the resources to put every person in the world in a mansion. The reason 50% of the world lives on less than $2 a day[^1] is because the other 50% is complacent. If we would send a lawn mower to 
 
 See `A:\Users\Ethan\OneDrive for Business\Documents\Resource Library\Wisdom\Labor Hours\Worth It.docx`.
 
@@ -52,3 +52,6 @@ $$2^n - 1 = 8,000,000,000$$
 ## Scalable Information: Unlimited Growth
 
 The other way to reach people is by creating scalable information, such as a video that can be viewed an unlimited number of times. This is where Amplify Ministries came in for me. I wanted to create a platform where people can grow qualitatively from video resources that inspire them and stir up their affections and zeal for walking with Jesus.
+
+---
+[^1] Chan, Francis. “[Lukewarm and Lovin' It!](https://www.youtube.com/watch?v=uOImdkpuecA)” _YouTube_, Cornerstone Community Church, 2 Dec. 2014.
