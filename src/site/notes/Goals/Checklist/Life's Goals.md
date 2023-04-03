@@ -5,7 +5,7 @@
 
 - [ ] I want to help free young boys from pornography.
 
-This was the biggest cause of distress to me in my teenage years. Their battle isn't in the heated moment of burning passions. Their battle is in the early part of the morning when they read their Bible or don't. Then they pray or don't. When they sing or don't. When they build a life that allows them to become a man who a woman will want to marry, and they marry that girl. Focus on those positive changes, because once you have a wife, your pornography problems are over. And until them, strive so hard towards that positive life that you don't have time to look at phonography. You can't live in guilt, shame, and condemnation to achieve victory.
+This was the biggest cause of distress to me in my teenage years. Their battle isn't in the heated moment of burning passions. Their battle is in the early part of the morning when they read their Bible or don't. When they pray or don't. When they sing or don't. When they build a life that allows them to become a man who a woman will want to marry, and they marry that girl. Focus on those positive changes, because once you have a wife, your pornography problems are over. And until them, strive so hard towards that positive life that you don't have time to look at phonography. You can't live in guilt, shame, and condemnation to achieve victory.
 
 - [ ] I want to [[Parenting/Social/Diagnostic Statements/Amplify Ministries\|disciple multitudes of people]].
 
