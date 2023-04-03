@@ -9,7 +9,7 @@ Needing to choose between two good options can lead to overthinking — take act
 
 We think moving slowly will help us, but we can spend so much time considering our options that we get stuck in analysis paralysis. We need to remember that “important doesn’t necessarily require slow” every step of the way. There comes a time when a decision doesn’t need any more thought — and past this point, we’re overthinking it.
 
-==Each decision we make throughout the day takes a toll on our finite amount of mental energy== — what to have for breakfast, which route to take to work, how to handle a tricky conversation, whether to buy new jeans before the sale ends, how our child will get home from practice on Friday. Each small decision requires only a bit of brain power, but the cumulative effect is large.
+==Each decision we make throughout the day takes a toll on our finite amount of mental energy== — what to have for breakfast, which route to take to work, how to handle a tricky conversation, whether to buy new jeans before the sale ends, how our child will get home from practice on Friday. Each small decision requires only a bit of brain power, but the cumulative effect is large.[^1]
 
 > Schedule focus, not time. ~ [[Papers/Focus and Mental Energy\|Focus and Mental Energy]]
 
