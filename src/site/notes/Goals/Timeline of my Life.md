@@ -2,6 +2,15 @@
 {"dg-publish":true,"permalink":"/goals/timeline-of-my-life/","created":"","updated":""}
 ---
 
+`Alt+Scroll` to zoom.
+```timeline-vis
+tags=personal
+startDate=1990
+endDate=2000,10,10
+minDate=1990
+maxDate=2030
+```
+
 
 Download the Standalone [Timeglider GitHub repository](https://github.com/tkuhn/timeglider) and serve it with VS Code Live Server. Ask ChatGPT if it can write an Obsidian Plugin to incorporate Timeglider as it's own file, like Excellidraw does. In the meantime, simply add it to the digital garden client repository. There can be multiple files: History, Plans, Alternative Plans. You can go back and look at all the timelines that you imagined that never came to fruition. Like marrying Amy, or interning for a coding position. That way it's not conflated with what actually happened, but you can still live intentionally and make plans for your life.
 
@@ -26,6 +35,97 @@ Another idea is to render a dataview table from individual notes, and compile th
 | [[Goals/Timelines/First impression of Steven Anderson\|First impression of Steven Anderson]]         | March 07, 2016     | \-                |
 | [[Goals/Timelines/My first time rebuking Pastor Anderson\|My first time rebuking Pastor Anderson]]   | April 21, 2016     | \-                |
 | [[Goals/Timelines/Anderson rebuking Lordship Salvation\|Anderson rebuking Lordship Salvation]]       | April 29, 2016     | \-                |
+
+
+# ChatGPT Project
+
+## Standalone Dataviewjs
+
+### Prompts
+
+I want you to act as a principle software engineer with  with decades of experience in high-end companies, such as Google, Amazon, and others. You also helped work on created the Dataview plugin for Obsidian, and you are the former creator of the Timeglider app that was bought out by Preceden. I will ask you to write a specific script using dataviewjs and you will implement my requirements. Do you understand?
+
+### Feature Requirements
+
+As a former creator of Timeglider, you are aware that the Timeglider app (available at https://github.com/tkuhn/timeglider/blob/master/js/timeglider.min.js) uses the following JSON data to render a timeline:
+
+```json
+{  
+  "id": "jshist-self",  
+  "title": "Self",  
+  "description": "Self, one of the inspirations for Javascript's simplicity, is created at Xerox PARC ",  
+  "startdate": "1986-01-01 12:00:00",  
+  "importance": "40",  
+  "date_display": "none",  
+  "link": "http://selflanguage.org/",  
+  "icon": "flag_green.png"  
+}
+```
+
+
+I want you to write a `dataviewjs` query that uses the notes in my Obsidian vault at the directory `Goals/Timelines/`. Instead of JSON data, it will take fields from the frontmatter of the note. Here is an example note:
+
+```markdown
+---
+dg-publish: true
+start-date: 1996-03-22
+end-date: 2009-03-08
+title: Age of innocence
+icon: circle_green.png
+date-limit: year
+importance: 50
+link: 
+---
+
+"For I was alive without the law once: but when the commandment came, sin revived, and I died." This was the period in which I thought my biggest problem was that I had no problems. I stole money from my brother to buy Legos, and I cheated in school from 4th grade onward, but I had no puncture in my conscience. I didn't know the commandments of God, and so I didn't understand sin.
+```
+
+Below are the requirements for the dataview:
+
+1.  Timeline Format: The timeline should be displayed as a horizontal bar, with time progressing from left to right. Each event should be represented by a box or icon on the timeline, with its position on the timeline determined by its date.
+    
+2.  Zooming and Scrolling: The timeline should allow users to zoom in and out to view events in more or less detail. Users should also be able to scroll left and right to navigate the timeline.
+    
+3.  Date Ranges: The timeline should be able to display events over various date ranges, such as years, months, weeks, days, or even hours. Users should be able to choose the date range that best fits their needs.
+    
+4.  Categories: The timeline should allow users to categorize events based on different criteria, such as project phases, event types, or people involved. Users should be able to color-code categories for easy identification.
+    
+5.  Event Details: Each event on the timeline should link to a note in `Goals/Timelines/` using Obsidian Wikilinks.
+    
+6.  Filtering: The timeline should allow users to filter events based on various criteria, such as category, date range, or keyword. Users should be able to apply multiple filters at once.
+    
+7.  Search: The timeline should allow users to search for events based on keywords or phrases. The search should return all events that match the query.
+
+Walk me through how to integrate TimelineJS with dataviewjs for visualizing the timeline based on the following table:
+
+```
+TABLE start-date, end-date, title, icon, date-limit, importance, link
+FROM "Goals/Timelines"
+SORT start_date ASC
+```
+
+## Obsidian Plugin
+
+| File                                                                                                    | start-date         | end-date          | title                                   | icon             | date-limit | importance | link |
+| ------------------------------------------------------------------------------------------------------- | ------------------ | ----------------- | --------------------------------------- | ---------------- | ---------- | ---------- | ---- |
+| [[Goals/Timelines/Age of innocence\|Age of innocence]]                                               | March 22, 1996     | March 08, 2009    | Age of innocence                        | circle_green.png | year       | 50         | \-   |
+| [[Goals/Timelines/Ethan is born\|Ethan is born]]                                                     | March 22, 1996     | \-                | Ethan is born!                          | \-               | year       | 30         | \-   |
+| [[Goals/Timelines/Ethan asks Jesus to come into his heart\|Ethan asks Jesus to come into his heart]] | October 18, 1999   | \-                | Ethan asks Jesus to come into his heart | \-               | year       | 30         | \-   |
+| [[Goals/Timelines/Crush on Savannah Calvert\|Crush on Savannah Calvert]]                             | July 05, 2004      | July 05, 2009     | Crush on Savannah Calvert               | \-               | year       | 30         | \-   |
+| [[Goals/Timelines/Broken laptop\|Broken laptop]]                                                     | September 19, 2008 | \-                | Broken laptop                           | \-               | week       | 30         | \-   |
+| [[Goals/Timelines/Crush on Kayleigh Forbes\|Crush on Kayleigh Forbes]]                               | July 05, 2009      | January 28, 2013  | Crush on Kayleigh Forbes                | \-               | year       | 30         | \-   |
+| [[Goals/Timelines/Spiritual deadness\|Spiritual deadness]]                                           | November 08, 2009  | August 23, 2017   | Spiritual deadness                      | \-               | year       | 30         | \-   |
+| [[Goals/Timelines/Left to my own devices (uTorrent)\|Left to my own devices (uTorrent)]]             | May 17, 2010       | October 25, 2015  | Left to my own devices (uTorrent)       | \-               | year       | 30         | \-   |
+| [[Goals/Timelines/Feeling fresh at 14\|Feeling fresh at 14]]                                         | October 24, 2010   | \-                | Feeling fresh at 14                     | \-               | week       | 30         | \-   |
+| [[Goals/Timelines/Photoshop\|Photoshop]]                                                             | September 30, 2011 | August 02, 2015   | Photoshop                               | \-               | week       | 30         | \-   |
+| [[Goals/Timelines/FL Studio\|FL Studio]]                                                             | August 02, 2012    | May 03, 2013      | FL Studio                               | \-               | year       | 30         | \-   |
+| [[Goals/Timelines/Greatest passion is sleep\|Greatest passion is sleep]]                             | December 03, 2012  | \-                | Greatest passion is sleep               | \-               | year       | 30         | \-   |
+| [[Goals/Timelines/Crush on Bethany White\|Crush on Bethany White]]                                   | January 29, 2013   | January 16, 2018  | Crush on Bethany White                  | \-               | year       | 30         | \-   |
+| [[Goals/Timelines/College\|College]]                                                                 | August 26, 2013    | December 13, 2016 | College                                 | \-               | year       | 30         | \-   |
+| [[Goals/Timelines/First impression of Steven Anderson\|First impression of Steven Anderson]]         | March 07, 2016     | \-                | First impression of Steven Anderson     | \-               | year       | 30         | \-   |
+| [[Goals/Timelines/My first time rebuking Pastor Anderson\|My first time rebuking Pastor Anderson]]   | April 21, 2016     | \-                | My first time rebuking Pastor Anderson  | \-               | year       | 30         | \-   |
+| [[Goals/Timelines/Anderson rebuking Lordship Salvation\|Anderson rebuking Lordship Salvation]]       | April 29, 2016     | \-                | My first time rebuking Pastor Anderson  | \-               | month      | 30         | \-   |
+
 
 
 ### The Great Falling Away
