@@ -109,6 +109,7 @@
 ## Christmas
 - Gaylord Texas during Christmas
 - ICE at the Gaylord Texan
+- [The Gift Of Christmas](https://prestonwoodgoc.org/tickets.html) by Prestonwood Church
 
 # Virtual Games:
 1. Choose between 2 options, and your partner guesses.
