@@ -18,23 +18,23 @@ Another idea is to render a dataview table from individual notes, and compile th
 
 | File                                                                                                    | Start_Date         | End_Date          |
 | ------------------------------------------------------------------------------------------------------- | ------------------ | ----------------- |
-| [[Goals/Timelines/Anderson rebuking Lordship Salvation\|Anderson rebuking Lordship Salvation]]       | April 29, 2016     | \-                |
 | [[Goals/Timelines/Age of innocence\|Age of innocence]]                                               | March 22, 1996     | March 08, 2009    |
 | [[Goals/Timelines/Broken laptop\|Broken laptop]]                                                     | September 19, 2008 | \-                |
-| [[Goals/Timelines/College\|College]]                                                                 | August 26, 2013    | December 13, 2016 |
+| [[Goals/Timelines/Anderson rebuking Lordship Salvation\|Anderson rebuking Lordship Salvation]]       | April 29, 2016     | \-                |
 | [[Goals/Timelines/Crush on Bethany White\|Crush on Bethany White]]                                   | January 29, 2013   | January 16, 2018  |
+| [[Goals/Timelines/College\|College]]                                                                 | August 26, 2013    | December 13, 2016 |
 | [[Goals/Timelines/Crush on Kayleigh Forbes\|Crush on Kayleigh Forbes]]                               | July 05, 2009      | January 28, 2013  |
-| [[Goals/Timelines/Ethan asks Jesus to come into his heart\|Ethan asks Jesus to come into his heart]] | October 18, 1999   | \-                |
 | [[Goals/Timelines/Crush on Savannah Calvert\|Crush on Savannah Calvert]]                             | July 05, 2004      | July 05, 2009     |
 | [[Goals/Timelines/Feeling fresh at 14\|Feeling fresh at 14]]                                         | October 24, 2010   | \-                |
+| [[Goals/Timelines/Ethan asks Jesus to come into his heart\|Ethan asks Jesus to come into his heart]] | October 18, 1999   | \-                |
 | [[Goals/Timelines/Ethan is born\|Ethan is born]]                                                     | March 22, 1996     | \-                |
+| [[Goals/Timelines/First impression of Steven Anderson\|First impression of Steven Anderson]]         | March 07, 2016     | \-                |
 | [[Goals/Timelines/FL Studio\|FL Studio]]                                                             | August 02, 2012    | May 03, 2013      |
+| [[Goals/Timelines/Greatest passion is sleep\|Greatest passion is sleep]]                             | December 03, 2012  | \-                |
+| [[Goals/Timelines/Photoshop\|Photoshop]]                                                             | September 30, 2011 | August 02, 2015   |
 | [[Goals/Timelines/Left to my own devices (uTorrent)\|Left to my own devices (uTorrent)]]             | May 17, 2010       | October 25, 2015  |
 | [[Goals/Timelines/My first time rebuking Pastor Anderson\|My first time rebuking Pastor Anderson]]   | April 21, 2016     | \-                |
 | [[Goals/Timelines/Spiritual deadness\|Spiritual deadness]]                                           | November 08, 2009  | August 23, 2017   |
-| [[Goals/Timelines/First impression of Steven Anderson\|First impression of Steven Anderson]]         | March 07, 2016     | \-                |
-| [[Goals/Timelines/Greatest passion is sleep\|Greatest passion is sleep]]                             | December 03, 2012  | \-                |
-| [[Goals/Timelines/Photoshop\|Photoshop]]                                                             | September 30, 2011 | August 02, 2015   |
 
 
 # ChatGPT Project
@@ -108,23 +108,23 @@ SORT start_date ASC
 
 | File                                                                                                    | start-date         | end-date          | title                                   | icon             | date-limit | importance | link |
 | ------------------------------------------------------------------------------------------------------- | ------------------ | ----------------- | --------------------------------------- | ---------------- | ---------- | ---------- | ---- |
-| [[Goals/Timelines/Anderson rebuking Lordship Salvation\|Anderson rebuking Lordship Salvation]]       | April 29, 2016     | \-                | My first time rebuking Pastor Anderson  | \-               | month      | 30         | \-   |
 | [[Goals/Timelines/Age of innocence\|Age of innocence]]                                               | March 22, 1996     | March 08, 2009    | Age of innocence                        | circle_green.png | year       | 50         | \-   |
 | [[Goals/Timelines/Broken laptop\|Broken laptop]]                                                     | September 19, 2008 | \-                | Broken laptop                           | \-               | week       | 30         | \-   |
-| [[Goals/Timelines/College\|College]]                                                                 | August 26, 2013    | December 13, 2016 | College                                 | \-               | year       | 30         | \-   |
+| [[Goals/Timelines/Anderson rebuking Lordship Salvation\|Anderson rebuking Lordship Salvation]]       | April 29, 2016     | \-                | My first time rebuking Pastor Anderson  | \-               | month      | 30         | \-   |
 | [[Goals/Timelines/Crush on Bethany White\|Crush on Bethany White]]                                   | January 29, 2013   | January 16, 2018  | Crush on Bethany White                  | \-               | year       | 30         | \-   |
+| [[Goals/Timelines/College\|College]]                                                                 | August 26, 2013    | December 13, 2016 | College                                 | \-               | year       | 30         | \-   |
 | [[Goals/Timelines/Crush on Kayleigh Forbes\|Crush on Kayleigh Forbes]]                               | July 05, 2009      | January 28, 2013  | Crush on Kayleigh Forbes                | \-               | year       | 30         | \-   |
-| [[Goals/Timelines/Ethan asks Jesus to come into his heart\|Ethan asks Jesus to come into his heart]] | October 18, 1999   | \-                | Ethan asks Jesus to come into his heart | \-               | year       | 30         | \-   |
 | [[Goals/Timelines/Crush on Savannah Calvert\|Crush on Savannah Calvert]]                             | July 05, 2004      | July 05, 2009     | Crush on Savannah Calvert               | \-               | year       | 30         | \-   |
 | [[Goals/Timelines/Feeling fresh at 14\|Feeling fresh at 14]]                                         | October 24, 2010   | \-                | Feeling fresh at 14                     | \-               | week       | 30         | \-   |
+| [[Goals/Timelines/Ethan asks Jesus to come into his heart\|Ethan asks Jesus to come into his heart]] | October 18, 1999   | \-                | Ethan asks Jesus to come into his heart | \-               | year       | 30         | \-   |
 | [[Goals/Timelines/Ethan is born\|Ethan is born]]                                                     | March 22, 1996     | \-                | Ethan is born!                          | \-               | year       | 30         | \-   |
+| [[Goals/Timelines/First impression of Steven Anderson\|First impression of Steven Anderson]]         | March 07, 2016     | \-                | First impression of Steven Anderson     | \-               | year       | 30         | \-   |
 | [[Goals/Timelines/FL Studio\|FL Studio]]                                                             | August 02, 2012    | May 03, 2013      | FL Studio                               | \-               | year       | 30         | \-   |
+| [[Goals/Timelines/Greatest passion is sleep\|Greatest passion is sleep]]                             | December 03, 2012  | \-                | Greatest passion is sleep               | \-               | year       | 30         | \-   |
+| [[Goals/Timelines/Photoshop\|Photoshop]]                                                             | September 30, 2011 | August 02, 2015   | Photoshop                               | \-               | week       | 30         | \-   |
 | [[Goals/Timelines/Left to my own devices (uTorrent)\|Left to my own devices (uTorrent)]]             | May 17, 2010       | October 25, 2015  | Left to my own devices (uTorrent)       | \-               | year       | 30         | \-   |
 | [[Goals/Timelines/My first time rebuking Pastor Anderson\|My first time rebuking Pastor Anderson]]   | April 21, 2016     | \-                | My first time rebuking Pastor Anderson  | \-               | year       | 30         | \-   |
 | [[Goals/Timelines/Spiritual deadness\|Spiritual deadness]]                                           | November 08, 2009  | August 23, 2017   | Spiritual deadness                      | \-               | year       | 30         | \-   |
-| [[Goals/Timelines/First impression of Steven Anderson\|First impression of Steven Anderson]]         | March 07, 2016     | \-                | First impression of Steven Anderson     | \-               | year       | 30         | \-   |
-| [[Goals/Timelines/Greatest passion is sleep\|Greatest passion is sleep]]                             | December 03, 2012  | \-                | Greatest passion is sleep               | \-               | year       | 30         | \-   |
-| [[Goals/Timelines/Photoshop\|Photoshop]]                                                             | September 30, 2011 | August 02, 2015   | Photoshop                               | \-               | week       | 30         | \-   |
 
 
 
