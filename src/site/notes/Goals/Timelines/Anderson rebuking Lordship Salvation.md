@@ -1,7 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timelines/anderson-rebuking-lordship-salvation/","title":"My first time rebuking Pastor Anderson","created":"","updated":""}
+{"dg-publish":true,"permalink":"/goals/timelines/anderson-rebuking-lordship-salvation/","title":"My first time rebuking Pastor Anderson","tags":["timeline","personal"],"created":"","updated":""}
 ---
 
+
+<span 
+	  class='ob-timelines' 
+	  data-date='2016-04-29' 
+	  data-title='My first time rebuking Pastor Anderson' 
+	  data-class='orange' 
+	  data-type='box' > 
+</span>
 
 YouTube
 Watched Paul Washer is an Unsaved False Prophet
