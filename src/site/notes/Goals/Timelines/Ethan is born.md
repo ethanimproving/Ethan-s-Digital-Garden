@@ -9,5 +9,4 @@
 	  data-title='Ethan is born!' 
 	  data-class='green' 
 	  data-type='box' > 
-	Ethan is born!
 </span>
