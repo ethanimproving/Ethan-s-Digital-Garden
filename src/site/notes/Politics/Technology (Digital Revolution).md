@@ -185,6 +185,11 @@ The middle of the brain should be a processor chip. The trunk of the tree can al
 ![Brain Circuit Tree](https://as1.ftcdn.net/v2/jpg/01/41/05/18/1000_F_141051867_PVI9Y30P6iW7k4ARYZd5Nn5j40Z1ivuy.jpg)
 
 [How to ask for a raise](https://youtube.com/shorts/eE44BbhLx6o?feature=share)
+A Proper Way to Ask For A Pay Raise #shorts. Most effective way when requesting for a pay raise.
+
+"What steps can we take to bring my salary up?"
+
+Put down on a piece of paper things you do really well. What is the most effective strategies for getting a raise?
 
 # Wi-Fi Heat Map
 
