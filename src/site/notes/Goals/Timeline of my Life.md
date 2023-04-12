@@ -11,6 +11,65 @@ minDate=1990
 maxDate=2030
 ```
 
+View YouTube History in the [Google Activity page](https://myactivity.google.com/product/youtube?hl=en).
+
+# Timeline problem
+
+My knowledge cutoff date is September 2021, which means that <mark class="hltr-yellow">any changes made to a repository after that date are not reflected in my understanding of the repository</mark>. I can only provide information based on the state of the repository as of September 2021.
+
+Sure! There are exactly 6 files in the src folder I am about to provide. Please list all 6 files, and if they match, we will know we have succeeded. Here are the details you requested:
+
+GitHub URL: https://github.com/Darakah/obsidian-timelines
+Organization/Username: Darakah
+Repository Name: obsidian-timelines
+Branch: main
+Commit Hash: a693658
+File Path: /src
+
+Hello ChatGPT my good friend. I want you to act as an expert programmer, such that all the knowledge of every programmer that ever lived exists in your mind. There is an Obsidian plugin by Darakah called obsidian-timelines that
+
+
+
+These 6 files are an Obsidian plugin that uses HTML spans or divs in notes tagged with "timeline" to create a timeline (similar to Timeglider or Preceden, but for free in Obsidian). Each note that has the tag "timeline" behaves as an event (a "box" for a single day, or a "range" for a range of time). Here is an example of a note that would behave as an event:
+
+```markdown
+---
+tags: [timeline, personal]
+---
+
+<span 
+	  class='ob-timelines' 
+	  data-date='1996-03-22' 
+	  data-end='2009-03-08' 
+	  data-title='Age of innocence' 
+	  data-class='blue' 
+	  data-type='range' >
+</span>
+
+This is my example note with profound thoughts about this event in my life.
+```
+
+I want to make changes to the code such that instead of using an HTML span or div to get the data (such as data-date, data-end), it uses the frontmatter in the note. Here is an example:
+
+```markdown
+---
+data-date: 1996-03-22
+data-end: 2009-03-08
+data-title: Age of innocence
+data-class=blue
+data-type=range
+tags: [timeline, personal]
+---
+
+This is my example note with profound thoughts about this event in my life.
+```
+
+
+Can make the necessary adjustments to the code to fulfill this requirement of using frontmatter instead of spans?
+
+Can you analyze the GitHub repo I linked, and make the necessary adjustments to the code to fulfill this requirement of using frontmatter instead of spans? Then I will take the files you give me, update them in the GitHub repo, and open a Pull Request for Darakah to approve.
+
+# Timeline Idea
 
 Download the Standalone [Timeglider GitHub repository](https://github.com/tkuhn/timeglider) and serve it with VS Code Live Server. Ask ChatGPT if it can write an Obsidian Plugin to incorporate Timeglider as it's own file, like Excellidraw does. In the meantime, simply add it to the digital garden client repository. There can be multiple files: History, Plans, Alternative Plans. You can go back and look at all the timelines that you imagined that never came to fruition. Like marrying Amy, or interning for a coding position. That way it's not conflated with what actually happened, but you can still live intentionally and make plans for your life.
 
@@ -18,22 +77,22 @@ Another idea is to render a dataview table from individual notes, and compile th
 
 | File                                                                                                    | Start_Date         | End_Date          |
 | ------------------------------------------------------------------------------------------------------- | ------------------ | ----------------- |
-| [[Goals/Timelines/Age of innocence\|Age of innocence]]                                               | March 22, 1996     | March 08, 2009    |
 | [[Goals/Timelines/Broken laptop\|Broken laptop]]                                                     | September 19, 2008 | \-                |
+| [[Goals/Timelines/Age of innocence\|Age of innocence]]                                               | March 22, 1996     | March 08, 2009    |
 | [[Goals/Timelines/Anderson rebuking Lordship Salvation\|Anderson rebuking Lordship Salvation]]       | April 29, 2016     | \-                |
 | [[Goals/Timelines/Crush on Bethany White\|Crush on Bethany White]]                                   | January 29, 2013   | January 16, 2018  |
 | [[Goals/Timelines/College\|College]]                                                                 | August 26, 2013    | December 13, 2016 |
-| [[Goals/Timelines/Crush on Kayleigh Forbes\|Crush on Kayleigh Forbes]]                               | July 05, 2009      | January 28, 2013  |
-| [[Goals/Timelines/Crush on Savannah Calvert\|Crush on Savannah Calvert]]                             | July 05, 2004      | July 05, 2009     |
-| [[Goals/Timelines/Feeling fresh at 14\|Feeling fresh at 14]]                                         | October 24, 2010   | \-                |
 | [[Goals/Timelines/Ethan asks Jesus to come into his heart\|Ethan asks Jesus to come into his heart]] | October 18, 1999   | \-                |
+| [[Goals/Timelines/Crush on Kayleigh Forbes\|Crush on Kayleigh Forbes]]                               | July 05, 2009      | January 28, 2013  |
+| [[Goals/Timelines/Feeling fresh at 14\|Feeling fresh at 14]]                                         | October 24, 2010   | \-                |
+| [[Goals/Timelines/Crush on Savannah Calvert\|Crush on Savannah Calvert]]                             | July 05, 2004      | July 05, 2009     |
 | [[Goals/Timelines/Ethan is born\|Ethan is born]]                                                     | March 22, 1996     | \-                |
-| [[Goals/Timelines/First impression of Steven Anderson\|First impression of Steven Anderson]]         | March 07, 2016     | \-                |
 | [[Goals/Timelines/FL Studio\|FL Studio]]                                                             | August 02, 2012    | May 03, 2013      |
+| [[Goals/Timelines/First impression of Steven Anderson\|First impression of Steven Anderson]]         | March 07, 2016     | \-                |
 | [[Goals/Timelines/Greatest passion is sleep\|Greatest passion is sleep]]                             | December 03, 2012  | \-                |
-| [[Goals/Timelines/Photoshop\|Photoshop]]                                                             | September 30, 2011 | August 02, 2015   |
-| [[Goals/Timelines/Left to my own devices (uTorrent)\|Left to my own devices (uTorrent)]]             | May 17, 2010       | October 25, 2015  |
 | [[Goals/Timelines/My first time rebuking Pastor Anderson\|My first time rebuking Pastor Anderson]]   | April 21, 2016     | \-                |
+| [[Goals/Timelines/Left to my own devices (uTorrent)\|Left to my own devices (uTorrent)]]             | May 17, 2010       | October 25, 2015  |
+| [[Goals/Timelines/Photoshop\|Photoshop]]                                                             | September 30, 2011 | August 02, 2015   |
 | [[Goals/Timelines/Spiritual deadness\|Spiritual deadness]]                                           | November 08, 2009  | August 23, 2017   |
 
 
@@ -108,22 +167,22 @@ SORT start_date ASC
 
 | File                                                                                                    | start-date         | end-date          | title                                   | icon             | date-limit | importance | link |
 | ------------------------------------------------------------------------------------------------------- | ------------------ | ----------------- | --------------------------------------- | ---------------- | ---------- | ---------- | ---- |
-| [[Goals/Timelines/Age of innocence\|Age of innocence]]                                               | March 22, 1996     | March 08, 2009    | Age of innocence                        | circle_green.png | year       | 50         | \-   |
 | [[Goals/Timelines/Broken laptop\|Broken laptop]]                                                     | September 19, 2008 | \-                | Broken laptop                           | \-               | week       | 30         | \-   |
+| [[Goals/Timelines/Age of innocence\|Age of innocence]]                                               | March 22, 1996     | March 08, 2009    | Age of innocence                        | circle_green.png | year       | 50         | \-   |
 | [[Goals/Timelines/Anderson rebuking Lordship Salvation\|Anderson rebuking Lordship Salvation]]       | April 29, 2016     | \-                | My first time rebuking Pastor Anderson  | \-               | month      | 30         | \-   |
 | [[Goals/Timelines/Crush on Bethany White\|Crush on Bethany White]]                                   | January 29, 2013   | January 16, 2018  | Crush on Bethany White                  | \-               | year       | 30         | \-   |
 | [[Goals/Timelines/College\|College]]                                                                 | August 26, 2013    | December 13, 2016 | College                                 | \-               | year       | 30         | \-   |
-| [[Goals/Timelines/Crush on Kayleigh Forbes\|Crush on Kayleigh Forbes]]                               | July 05, 2009      | January 28, 2013  | Crush on Kayleigh Forbes                | \-               | year       | 30         | \-   |
-| [[Goals/Timelines/Crush on Savannah Calvert\|Crush on Savannah Calvert]]                             | July 05, 2004      | July 05, 2009     | Crush on Savannah Calvert               | \-               | year       | 30         | \-   |
-| [[Goals/Timelines/Feeling fresh at 14\|Feeling fresh at 14]]                                         | October 24, 2010   | \-                | Feeling fresh at 14                     | \-               | week       | 30         | \-   |
 | [[Goals/Timelines/Ethan asks Jesus to come into his heart\|Ethan asks Jesus to come into his heart]] | October 18, 1999   | \-                | Ethan asks Jesus to come into his heart | \-               | year       | 30         | \-   |
+| [[Goals/Timelines/Crush on Kayleigh Forbes\|Crush on Kayleigh Forbes]]                               | July 05, 2009      | January 28, 2013  | Crush on Kayleigh Forbes                | \-               | year       | 30         | \-   |
+| [[Goals/Timelines/Feeling fresh at 14\|Feeling fresh at 14]]                                         | October 24, 2010   | \-                | Feeling fresh at 14                     | \-               | week       | 30         | \-   |
+| [[Goals/Timelines/Crush on Savannah Calvert\|Crush on Savannah Calvert]]                             | July 05, 2004      | July 05, 2009     | Crush on Savannah Calvert               | \-               | year       | 30         | \-   |
 | [[Goals/Timelines/Ethan is born\|Ethan is born]]                                                     | March 22, 1996     | \-                | Ethan is born!                          | \-               | year       | 30         | \-   |
-| [[Goals/Timelines/First impression of Steven Anderson\|First impression of Steven Anderson]]         | March 07, 2016     | \-                | First impression of Steven Anderson     | \-               | year       | 30         | \-   |
 | [[Goals/Timelines/FL Studio\|FL Studio]]                                                             | August 02, 2012    | May 03, 2013      | FL Studio                               | \-               | year       | 30         | \-   |
+| [[Goals/Timelines/First impression of Steven Anderson\|First impression of Steven Anderson]]         | March 07, 2016     | \-                | First impression of Steven Anderson     | \-               | year       | 30         | \-   |
 | [[Goals/Timelines/Greatest passion is sleep\|Greatest passion is sleep]]                             | December 03, 2012  | \-                | Greatest passion is sleep               | \-               | year       | 30         | \-   |
-| [[Goals/Timelines/Photoshop\|Photoshop]]                                                             | September 30, 2011 | August 02, 2015   | Photoshop                               | \-               | week       | 30         | \-   |
-| [[Goals/Timelines/Left to my own devices (uTorrent)\|Left to my own devices (uTorrent)]]             | May 17, 2010       | October 25, 2015  | Left to my own devices (uTorrent)       | \-               | year       | 30         | \-   |
 | [[Goals/Timelines/My first time rebuking Pastor Anderson\|My first time rebuking Pastor Anderson]]   | April 21, 2016     | \-                | My first time rebuking Pastor Anderson  | \-               | year       | 30         | \-   |
+| [[Goals/Timelines/Left to my own devices (uTorrent)\|Left to my own devices (uTorrent)]]             | May 17, 2010       | October 25, 2015  | Left to my own devices (uTorrent)       | \-               | year       | 30         | \-   |
+| [[Goals/Timelines/Photoshop\|Photoshop]]                                                             | September 30, 2011 | August 02, 2015   | Photoshop                               | \-               | week       | 30         | \-   |
 | [[Goals/Timelines/Spiritual deadness\|Spiritual deadness]]                                           | November 08, 2009  | August 23, 2017   | Spiritual deadness                      | \-               | year       | 30         | \-   |
 
 
