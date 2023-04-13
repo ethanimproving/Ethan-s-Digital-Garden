@@ -9,3 +9,7 @@
 
 [5 times to just be quiet.](https://www.facebook.com/reel/863543241424466?fs=e&s=TIeQ9V&mibextid=0NULKw)
 
+The number one deciding factor of a man's success is the woman he chooses to be his wife. [^Morris Chestnut]
+
+---
+[^Morris Chestnut] [Had to snag this from my brother](https://www.facebook.com/reel/1664538160667777?fs=e&s=TIeQ9V&mibextid=0NULKw)
