@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timelines/ethan-asks-jesus-to-come-into-his-heart/","title":"Ethan asks Jesus to come into his heart","created":"","updated":""}
+{"dg-publish":true,"permalink":"/goals/timelines/ethan-asks-jesus-to-come-into-his-heart/","tags":["timeline","personal"],"created":"","updated":""}
 ---
 
 
