@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timelines/first-impression-of-steven-anderson/","title":"First impression of Steven Anderson","created":"","updated":""}
+{"dg-publish":true,"permalink":"/goals/timelines/first-impression-of-steven-anderson/","title":"First impression of Steven Anderson","tags":["timeline","salvation"],"created":"","updated":""}
 ---
 
 
