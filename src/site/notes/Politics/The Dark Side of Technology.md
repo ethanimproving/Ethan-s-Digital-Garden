@@ -1,11 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/politics/the-dark-side-of-technology/","created":"","updated":""}
+dg-publish: true
 ---
-
 
 # Greed: Anti-progress
 
 Along with the problem of, "How can I get paid?" There is another evil and sadistic driving motivator of work, which is, "How can I make as much money as possible?"
+
+[This Is The Most Serious Problem On Earth | Elon Musk](https://youtube.com/shorts/d59qH1907J0?feature=share)
+“ the whole point of Tesla is to accelerate the advent of electric vehicles and sustainable transportation. We’ve open sourced our patents. If somebody comes and makes a better electric car than Tesla, and it’s so much better that Tesla goes bankrupt, I still think that’s a good thing for the world.” ~ Elon Musk
+
+This is how business should be.
 
 ## Lightbulb Conspiracy
 
