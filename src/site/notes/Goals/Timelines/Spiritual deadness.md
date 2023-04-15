@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timelines/spiritual-deadness/","title":"Spiritual deadness","created":"","updated":""}
+{"dg-publish":true,"permalink":"/goals/timelines/spiritual-deadness/","tags":["timeline","personal"],"created":"","updated":""}
 ---
 
 
