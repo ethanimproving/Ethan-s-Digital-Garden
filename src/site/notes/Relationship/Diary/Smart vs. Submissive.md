@@ -3,7 +3,7 @@
 ---
 
 
- You don't have to be smart to be successful. If you listen to someone else who is smart, your life will end up really well.
+You don't have to be smart to be successful. If you listen to someone else who is smart, your life will end up really well.
 
 And there's no one smarter than God. I would rather have a wife who is submissive than a wife who is smart.
 
