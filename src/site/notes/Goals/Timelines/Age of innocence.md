@@ -1,17 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timelines/age-of-innocence/","title":"Age of innocence","tags":["timeline","personal"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/goals/timelines/age-of-innocence/","tags":["timeline","personal"],"created":"","updated":""}
 ---
 
-
-<span 
-	  class='ob-timelines' 
-	  data-date='1996-03-22' 
-	  data-end='2009-03-08' 
-	  data-title='Age of innocence' 
-	  data-class='blue' 
-	  data-type='range' >
-	  Age of Innocence
-</span>
 
 > [!Bible] [Romans 7:9 - KJV](https://bible-api.com/Romans+7:9?translation=kjv)
 > 9. For I was alive without the law once: but when the commandment came, sin revived, and I died.
