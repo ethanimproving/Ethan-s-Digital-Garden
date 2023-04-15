@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timelines/photoshop/","title":"Photoshop","created":"","updated":""}
+{"dg-publish":true,"permalink":"/goals/timelines/photoshop/","tags":["timeline","personal"],"created":"","updated":""}
 ---
 
 
