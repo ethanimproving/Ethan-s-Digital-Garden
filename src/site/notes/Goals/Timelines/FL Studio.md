@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timelines/fl-studio/","title":"FL Studio","created":"","updated":""}
+{"dg-publish":true,"permalink":"/goals/timelines/fl-studio/","tags":["timeline","personal"],"created":"","updated":""}
 ---
 
 
