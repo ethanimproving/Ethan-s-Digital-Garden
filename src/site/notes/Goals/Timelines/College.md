@@ -1,3 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timelines/college/","title":"College","created":"","updated":""}
+{"dg-publish":true,"permalink":"/goals/timelines/college/","tags":["timeline","personal"],"created":"","updated":""}
 ---
+
+
