@@ -21,3 +21,8 @@
 | Lunch                   | 12:00 PM | 1:00     | Food           |
 | Work                    | 1:00 PM  | 4:00     | Work           |
 | Commute home            | 5:00 PM  | 1:00     | Driving |
+
+- [The Daily Calendar Plan.xlsx](https://cougarmailcollin-my.sharepoint.com/:x:/g/personal/emiller25_cougarmail_collin_edu/EWAX4gQsTcVKodMOiIZQX2oB4qGYTjfIwbQPfyxS8cSYFg?e=g1Qvd0)
+- [Daily Time Chart.xlsx](https://cougarmailcollin-my.sharepoint.com/:x:/g/personal/emiller25_cougarmail_collin_edu/EQb4cm22ci5CqKg3wyVnklUB4KAC5AM3IhjV42Ri3HoJRA?e=8cTS6o)
+- [Game Grading Rubric.xlsx](https://cougarmailcollin-my.sharepoint.com/:x:/g/personal/emiller25_cougarmail_collin_edu/EZqWsf12PnNCt9nst-b7HCkBUXU4pqtq0WBlYazbrhOLnQ?e=qSKbNc)
+- [Coding Time Chart v1.1.xlsx](https://mysite.aa.com/:x:/g/personal/242924_corpaa_aa_com/EReGwrcrDwVNuQC3p06YHgQBj2tWqkTisMjRr2jlYElXJg?e=DVp1CP)
