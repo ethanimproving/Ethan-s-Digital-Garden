@@ -67,6 +67,15 @@ Dashing Red Sofa Design In Living Room Models.
 
 ![](https://i.imgur.com/W5gpj6R.jpg)
 
+# Fireplace
+
+I like modern or contemporary style fireplaces with a minimalist design. We can use marble or other types of stone to create a border around the fireplace.
+
+![](https://i.imgur.com/ewDautA.jpg)
+
+![](https://i.pinimg.com/originals/b7/2d/68/b72d68a747729fadb84d9609cd812dc1.jpg)
+
+![](https://i.pinimg.com/originals/1e/1b/91/1e1b91bb04aed6ef6ed512058d611696.png)
 
 # Couch
 
