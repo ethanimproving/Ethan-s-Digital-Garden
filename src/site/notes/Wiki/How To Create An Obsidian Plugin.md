@@ -50,3 +50,18 @@ Here are the general steps to enable development mode for an Obsidian plugin:
 8.  Your plugin should now be loaded from the source code, and any changes you make to the TypeScript code will be automatically compiled and reflected in Obsidian.
 
 Note that some plugins may require additional configuration or setup to work in development mode, so you should refer to the plugin's documentation or ask for help in the plugin's GitHub repository or community forum if you encounter any issues.
+
+# Debug Mobile Errors
+
+> Failed to load plugin obsidian-timelines.
+
+
+```bash
+git submodule add https://github.com/KjellConnelly/obsidian-dev-tools.git .obsidian/plugins/obsidian-dev-tools
+```
+
+`app.js` is not the same as `main.js`. `app.js` is the main JavaScript file for the Capacitor framework, which is used by Obsidian to run the mobile app. It provides a bridge between the mobile platform and the web view that the Obsidian app runs in.
+
+Revert back to previous commits until you find one that works.
+
+_How to test plugins on Android_ I think you need to have ADB on your computer installed (I always had that installed; if the following directions don’t work without it, install it); on your android phone you have to enable ADB (it’s under developer settings [tap the build number three times to get these settings]); then connect the phone to your computer over USB; open chrome (or chromium based browser should also work) and type `chrome://inspect` in the browser. Open obsidian on your phone, then it should appear in the browser. You will have the console and the inspector like you have for desktop Obsidian
