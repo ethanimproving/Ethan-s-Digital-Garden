@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timelines/feeling-fresh-at-14/","title":"Feeling fresh at 14","created":"","updated":""}
+{"dg-publish":true,"permalink":"/goals/timelines/feeling-fresh-at-14/","title":"Feeling fresh at 14","tags":["timeline","personal"],"created":"","updated":""}
 ---
 
 
