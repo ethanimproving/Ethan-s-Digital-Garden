@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/crush-on-bethany-white/","title":"Crush on Bethany White","tags":["timeline","crush"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/goals/timeline-events/crush-on-bethany-white/","title":"Crush on Bethany White","tags":["timeline","crush"]}
 ---
 
 
