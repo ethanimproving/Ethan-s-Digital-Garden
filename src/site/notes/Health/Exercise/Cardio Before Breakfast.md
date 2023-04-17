@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/exercise/cardio-before-breakfast/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/health/exercise/cardio-before-breakfast/"}
 ---
 
 
