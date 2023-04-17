@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/met-mariana-at-company-party/","tags":["timeline","crush"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/goals/timeline-events/met-mariana-at-company-party/","tags":["timeline","crush"]}
 ---
 
 
