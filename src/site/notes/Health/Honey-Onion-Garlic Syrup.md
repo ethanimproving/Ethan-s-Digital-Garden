@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/honey-onion-garlic-syrup/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/health/honey-onion-garlic-syrup/"}
 ---
 
 
