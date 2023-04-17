@@ -28,7 +28,11 @@ The most common mode of public transportation on the Island of Nassau is the Jit
 
 The Jitney is the most inexpensive form of transportation on Nassau, it’s charged by distance so most routes are between $1-$3 per trip. 
 
-The Jitney buses don’t have set schedules or timetables, if you see one you just wave your hand to get it to stop. If the bus doesn’t stop for you, it’s likely just because there was no room left and then you have to wait for the next one. 
+The Jitney buses don’t have set schedules or timetables, if you see one you just wave your hand to get it to stop. If the bus doesn’t stop for you, it’s likely just because there was no room left and then you have to wait for the next one.
+
+# What to bring
+
+Refer to the default [[Travel/Packing List\|Packing List]].
 
 # Forecast
 
