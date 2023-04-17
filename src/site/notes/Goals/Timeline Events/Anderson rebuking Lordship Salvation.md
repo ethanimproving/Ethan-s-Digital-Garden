@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/anderson-rebuking-lordship-salvation/","tags":["timeline","salvation"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/goals/timeline-events/anderson-rebuking-lordship-salvation/","tags":["timeline","salvation"]}
 ---
 
 
