@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/first-soul-winning-event-at-northlake/","tags":["timeline","personal"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/goals/timeline-events/first-soul-winning-event-at-northlake/","tags":["timeline","personal"]}
 ---
 
 
