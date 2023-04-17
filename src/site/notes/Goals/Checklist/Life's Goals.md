@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/checklist/life-s-goals/","tags":["goals"],"created":"Apr 2, 2020, 8:01 PM","updated":""}
+{"dg-publish":true,"permalink":"/goals/checklist/life-s-goals/","tags":["goals"]}
 ---
 
 
