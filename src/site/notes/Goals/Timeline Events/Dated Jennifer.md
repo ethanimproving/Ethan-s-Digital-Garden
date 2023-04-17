@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/dated-jennifer/","tags":["timeline","crush","breakup"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/goals/timeline-events/dated-jennifer/","tags":["timeline","crush","breakup"]}
 ---
 
 
