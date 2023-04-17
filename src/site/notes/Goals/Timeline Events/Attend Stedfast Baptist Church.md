@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/attend-stedfast-baptist-church/","tags":["timeline","personal"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/goals/timeline-events/attend-stedfast-baptist-church/","tags":["timeline","personal"]}
 ---
 
 
