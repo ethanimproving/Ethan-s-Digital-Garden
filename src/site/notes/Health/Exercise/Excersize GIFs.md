@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/exercise/excersize-gi-fs/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/health/exercise/excersize-gi-fs/"}
 ---
 
 
