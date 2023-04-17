@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/money/houses/408-juniper-dr-arlington-tx-76018/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/money/houses/408-juniper-dr-arlington-tx-76018/"}
 ---
 
 
