@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/crush-on-amy-peavey/","tags":["timeline","crush"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/goals/timeline-events/crush-on-amy-peavey/","tags":["timeline","crush"]}
 ---
 
 
