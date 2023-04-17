@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/hair-loss/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/health/hair-loss/"}
 ---
 
 
