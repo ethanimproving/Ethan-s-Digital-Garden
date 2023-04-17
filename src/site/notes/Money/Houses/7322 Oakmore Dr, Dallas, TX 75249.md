@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/money/houses/7322-oakmore-dr-dallas-tx-75249/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/money/houses/7322-oakmore-dr-dallas-tx-75249/"}
 ---
 
 
