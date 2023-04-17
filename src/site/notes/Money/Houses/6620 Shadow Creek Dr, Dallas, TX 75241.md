@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/money/houses/6620-shadow-creek-dr-dallas-tx-75241/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/money/houses/6620-shadow-creek-dr-dallas-tx-75241/"}
 ---
 
 
