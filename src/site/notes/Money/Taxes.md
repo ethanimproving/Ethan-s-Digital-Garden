@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/money/taxes/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/money/taxes/"}
 ---
 
 
