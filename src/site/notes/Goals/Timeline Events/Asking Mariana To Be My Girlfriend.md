@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/asking-mariana-to-be-my-girlfriend/","tags":["timeline","crush"],"created":"Jul 23, 2022, 9:08 AM","updated":""}
+{"dg-publish":true,"permalink":"/goals/timeline-events/asking-mariana-to-be-my-girlfriend/","tags":["timeline","crush"]}
 ---
 
 
