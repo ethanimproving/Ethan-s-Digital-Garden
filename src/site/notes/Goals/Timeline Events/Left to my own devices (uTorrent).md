@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/left-to-my-own-devices-u-torrent/","title":"Left to my own devices (uTorrent)","tags":["timeline","personal"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/goals/timeline-events/left-to-my-own-devices-u-torrent/","title":"Left to my own devices (uTorrent)","tags":["timeline","personal"]}
 ---
 
 
