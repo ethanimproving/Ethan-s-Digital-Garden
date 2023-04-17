@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/money/houses/111-crestway-dr-24-cedar-hill-tx-75104/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/money/houses/111-crestway-dr-24-cedar-hill-tx-75104/"}
 ---
 
 
