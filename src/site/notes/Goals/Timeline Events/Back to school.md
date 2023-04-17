@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/back-to-school/","tags":["timeline","personal"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/goals/timeline-events/back-to-school/","tags":["timeline","personal"]}
 ---
 
 
