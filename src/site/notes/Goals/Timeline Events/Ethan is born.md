@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/ethan-is-born/","title":"Ethan is born!","tags":["timeline","personal"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/goals/timeline-events/ethan-is-born/","title":"Ethan is born!","tags":["timeline","personal"]}
 ---
 
 
