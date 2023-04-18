@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/cadd-training/","tags":["timeline","personal","laborhours"]}
+{"dg-publish":true,"permalink":"/goals/timeline-events/cadd-training/","tags":["timeline","personal","laborhours"],"created":"","updated":""}
 ---
 
 
