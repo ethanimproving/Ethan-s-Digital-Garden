@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/starting-to-like-ashlynn/","tags":["timeline","crush"]}
+{"dg-publish":true,"permalink":"/goals/timeline-events/starting-to-like-ashlynn/","tags":["timeline","crush"],"created":"","updated":""}
 ---
 
 
