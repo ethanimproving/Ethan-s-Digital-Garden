@@ -66,7 +66,7 @@ You should apply this attitude to your boss at work. Your attitude should be to 
 Titus 2:9-10
 
 [[Papers/Coming In Late\|Coming In Late]]
-[[Skills To Pay The Bills\|Skills To Pay The Bills]]
+[[Bible Notes/Skills To Pay The Bills\|Skills To Pay The Bills]]
 Scripture in frontmatter as a list in each sermon note.
 DataviewJs query to keep track of which sermons to listen to.
 
