@@ -212,6 +212,6 @@ I like how this app achieves a huge amount of navigation and data inputs in a re
 
 ### Community Submitted Art
 
-The TVDB allows the community to maintain its database. Art gets voted on, and the submission with the most votes is displayed.
+The TVDB allows the community to maintain its database. Art gets voted on, and the submission with the most votes is displayed. We have enough graphic designers in the New IFB that this should get plenty of submissions.
 
 ![](https://lh3.googleusercontent.com/pw/AJFCJaW54HBOZFXG0Ck5D_on9B5u5drVIaTot0XjL0t5ACdBk-iBNrIV-BpSg0DAkbxwRBV9Ne0DBfT4T2sWG4YVWFoownb-iVFNX-3PitJnlsQ4ykJBLNMV-24dwIfG9SanzllA3yloas_McusBqgFsRS13hA=w609-h1198-s-no?authuser=0)
