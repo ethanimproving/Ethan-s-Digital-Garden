@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/greatest-passion-is-sleep/","title":"Greatest passion is sleep","tags":["timeline","personal"]}
+{"dg-publish":true,"permalink":"/goals/timeline-events/greatest-passion-is-sleep/","title":"Greatest passion is sleep","tags":["timeline","personal"],"created":"","updated":""}
 ---
 
 
