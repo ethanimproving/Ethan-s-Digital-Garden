@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/papers/focus-and-mental-energy/","tags":["goals","research"]}
+{"dg-publish":true,"permalink":"/papers/focus-and-mental-energy/","tags":["goals","research"],"created":"","updated":""}
 ---
 
 
