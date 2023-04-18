@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/waking-up-with-thee/","tags":["diary","poetry","mariana"]}
+dg-publish: true
+dg-created: Apr 17, 2023 8:14 AM
+tags: [diary, poetry, mariana]
 ---
-
 
 Oh, woe betide, when I awake alone,
 Guilt creeps upon me, forlorn and lone,
