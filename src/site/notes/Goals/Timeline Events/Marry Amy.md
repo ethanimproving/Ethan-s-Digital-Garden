@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/marry-amy/","tags":["timeline","plans"]}
+{"dg-publish":true,"permalink":"/goals/timeline-events/marry-amy/","tags":["timeline","plans"],"created":"","updated":""}
 ---
 
 
