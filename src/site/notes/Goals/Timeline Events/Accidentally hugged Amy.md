@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/accidentally-hugged-amy/","tags":["timeline","crush"]}
+{"dg-publish":true,"permalink":"/goals/timeline-events/accidentally-hugged-amy/","tags":["timeline","crush"],"created":"","updated":""}
 ---
 
 
