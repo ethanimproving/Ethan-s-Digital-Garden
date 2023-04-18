@@ -73,7 +73,7 @@ Google Photos [Pricing](https://one.google.com/about/plans) :
 | Initial hourly payoff                                                         | <mark class="hltr-yellow">$130/hr</mark> | 
 | Lifetime hourly payoff                                                        | $7.83/hr |
 
-I work 2,,080 hours each year making a little over $50/hr. I could use those 46 initial hours allocated to R&D and manual work for learning algorithms to increase my hourly pay from $50/hr to $150/hr. 46 hours would be insufficient but useful. That amount of time is worth $2,300 at my current salary.
+I work 2,080 hours each year making a little over $50/hr. I could use those 46 initial hours allocated to R&D and manual work for learning algorithms to increase my hourly pay from $50/hr to $150/hr. 46 hours would be insufficient but useful. That amount of time is worth $2,300 at my current salary.
 
 # Google Photos Query Language
 
@@ -99,3 +99,7 @@ You can search for:
 Combine two of the values mentioned above to create a more specific search term (e.g. "2019 tree").
 
 [Google photos search hacks: The less known tips on searching and locating your photos](https://www.nousis.com/technology/google-photos-search-hacks/)
+
+# Where to Buy A Google Pixel 1
+
+[Mamatek](https://wamatek.com/product/google-pixel-xl/)
