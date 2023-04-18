@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/money/houses/2841-inniswood-cir-arlington-tx-76015/"}
+{"dg-publish":true,"permalink":"/money/houses/2841-inniswood-cir-arlington-tx-76015/","created":"","updated":""}
 ---
 
 
