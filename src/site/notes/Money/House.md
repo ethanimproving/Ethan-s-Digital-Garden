@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/"}
+{"dg-publish":true,"permalink":"/money/house/","created":"","updated":""}
 ---
 
 
