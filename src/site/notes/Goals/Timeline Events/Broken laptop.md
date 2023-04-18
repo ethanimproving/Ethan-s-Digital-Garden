@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/broken-laptop/","title":"Broken laptop","tags":["timeline","personal"]}
+{"dg-publish":true,"permalink":"/goals/timeline-events/broken-laptop/","title":"Broken laptop","tags":["timeline","personal"],"created":"","updated":""}
 ---
 
 
