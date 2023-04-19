@@ -1,7 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/let-the-dead-bury-their-dead-pastor-shelley/","tags":["discipleship","sacrifice","dontwasteyourlife","gobigorgohome"],"created":"Apr 16, 2023, 10:40 AM","updated":""}
+dg-publish: true
+dg-created: Apr 16, 2023, 10:40 AM
+note-id: 1
+verse-reference: Mat 8:22
+date-created: 4/16/2023
+date-updated: 4/16/2023
+icon: pulpit
+tags: [discipleship, sacrifice, dontwasteyourlife, gobigorgohome]
+category: The After
 ---
-
 
 [Whatever, Whenever - Pastor Jonathan Shelley](https://www.youtube.com/live/1QSIGvYxy9o?&t=1033)
 
@@ -46,14 +53,14 @@ Luke 6:46
 Delight in doing whatever God wants whenever God wants. Have pleasure in it. Have the right attitude. We may not always know what God wants us to do, so we ask him.
 Psalm 40:7, 143:10
 
-# 2. Don't Count The Cose
+# 2. Don't Count The Cost
 
 It shows how much that God loves us that he would be willing to sacrifice his son. How many people would rise up early to do it? He didn’t take his time. Whatever, whenever. 
 Genesis 22:1-4
 
 How many people are missing out on the blessing of God because of disobedience? How many great spiritual journeys has God laid out for you that you missed out on because of disobedience?
 
-I want to write a song about throwing off the shackles of unbelief in the Christian walk. Lack of Faith in God. There’s so much freedom when you don’t count the cost. Your life is free from stress, and God takes care of you always. And he has better things in store that you could achieve by yourself. It’s a win-win-win situation when we do whatever whenever.
+I want to write a song about throwing off the shackles of unbelief in the Christian walk. Lack of Faith in God. There’s so much freedom when  you [don’t count the cost](https://youtu.be/TYo1bWqdXTQ). Your life is free from stress, and God takes care of you always. And he has better things in store than you could achieve by yourself. It’s a win-win-win situation when we do whatever whenever.
 
 There is a cost sometimes. What will your attitude be like? It’s not like it’s not going to hurt. It is going to hurt.
 Judges 11:31, 35-36
