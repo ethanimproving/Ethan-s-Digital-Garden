@@ -148,15 +148,63 @@ Mostly what doctors do is listen to you explain your symptoms and compare that w
 [Will AI Replace Programmers?](https://youtube.com/shorts/CKy6CTEiY_U?feature=share)
 
 [Why Is OpenAI’s CharGPT So Terrifying?](https://youtu.be/1hHfoB4mSrQ)
-# Airplanes
 
-[Mind-blowing how loud planes used to be](https://youtube.com/shorts/VIsUKWLcUjs?feature=share)
+## AutoGPT As A Coding Assistant
+
+ChatGPT can [self prompt](https://www.facebook.com/reel/264409342607687/), thing, and reason with itself before presenting you with a finished product! While it's not fully autonomous and a bit glitchy, we can start to see what the future may look like when we ask A.I. to do a task and it actually thinks like a human.
+
+- [GitHub AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT)
+- [AgentGPT](https://agentgpt.reworkd.ai/)
+- [Godmode](https://godmode.space/)
+- [GitHub Copilot · Your AI pair programmer](https://github.com/features/copilot)
+
+#### AI Agents For Total Development Lifecycle
+
+This guy created a whole website giving voice commands to ChatGPT 4 in 5 minutes for under $1.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is just insane…<br><br>My GPT-4 coding assistant can now:<br>- build and design a frontend<br>- create a backend with working db<br>- correctly hook them up<br>- upload code to GitHub<br>- deploy it to Vercel<br><br>I can now build *complete* apps with nothing more than my voice.<br><br>The future is here! <a href="https://t.co/PrEnCsKY2L">pic.twitter.com/PrEnCsKY2L</a></p>&mdash; Mckay Wrigley (@mckaywrigley) <a href="https://twitter.com/mckaywrigley/status/1644034309253394433?ref_src=twsrc%5Etfw">April 6, 2023</a></blockquote>
+
+### Use ChatGPT to Write and Sell Books
+
+Digital products are profitable.
+
+ChatGPT, Canva, and Gumroad can help you [make $1,000/week](https://mobile.twitter.com/MakadiaHarsh/status/1645069268436828160) for free with minimal effort.
+
+Here's a complete guide+prompts:
+
+![](https://pbs.twimg.com/media/Fs3ajp1aAAAFmZs?format=jpg&name=4096x4096)
 
 # AI As A Tool For Content Creation
 
+#ideas
+
 [The best AI tools to help you make videos](https://www.facebook.com/reel/175308241934413?fs=e&s=TIeQ9V&mibextid=0NULKw)
 
+1. Hey ChatGPT! Can you make me a 5 minute video script about "Anik Singal"?
+2. Go to [speechify.com](https://speechify.com/) and upload the text ChatGPT generated. It will generate an audio file speaking out that script.
+3. Upload the audio file to [invideo.io](https://invideo.io/)  and click create video.
+4. Optionally, if you want to create a face video, go to [movio.la](https://www.heygen.com/?from=moviola) to output a video of the person.
+
+These 3 niches are popular:
+1. Health
+2. Wealth
+3. Relationships
+
+Take those videos, upload them to YouTube, and create a least one a day.
+
+Other topics:
+- Science of products/alternative medicines.
+- History videos.
+- Technology videos.
+- Clip sermons instead of generating a script.
+- Only 15% of the world speaks English. Use AI to translate videos into other languages to reach more people.
+- Run Headway books through Jarvis.
+- Run New IFB sermons through Jarvis.
+
+The world is productive enough. I don't need to be concerned about creating product. We live in an age where the greatest commodity is attention and information. In order not to be left behind, the most cutting edge people are making money easily online with AI tools and content creation rather than working hard at the mercy of an employer. ==There will always be enough slaves in the world to make the food and the cars. You don't have to be one of them==. And neither does anybody else. You can spend your whole life trying to liberate people from the slave mindset, and only a small substrata of people will ever get off of their butts long enough to realize they're in the matrix.
+
 [Use otter.ai to dictate what the speaker is saying](https://www.facebook.com/reel/606642210930322?fs=e&s=TIeQ9V&mibextid=0NULKw)
+
+Go to YouTube and see what's trending about what you want to talk about. Run it, hit the video, get [otter.ai](https://otter.ai/) because it dictates what the speaker is saying. Take that content and run it through [Jarvis](https://www.jasper.ai/?source=partner&fpr=denise1008&gclid=CjwKCAjw__ihBhADEiwAXEazJqMq3XK_A0GBwz5NgNqTlTcyVZ1VfP0ygHJHTGYIRA69DiZDu9x_VRoCF0AQAvD_BwE) and put it on your website as a blog. 
 
 # AI As A Job Search Assistant
 
@@ -190,6 +238,10 @@ A Proper Way to Ask For A Pay Raise #shorts. Most effective way when requesting 
 "What steps can we take to bring my salary up?"
 
 Put down on a piece of paper things you do really well. What is the most effective strategies for getting a raise?
+
+# Airplanes
+
+[Mind-blowing how loud planes used to be](https://youtube.com/shorts/VIsUKWLcUjs?feature=share)
 
 # Wi-Fi Heat Map
 
