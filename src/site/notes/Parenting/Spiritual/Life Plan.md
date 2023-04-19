@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-tags: [goals, headway, books]
+{"dg-publish":true,"permalink":"/parenting/spiritual/life-plan/","tags":["goals","headway","books"],"created":"","updated":""}
 ---
+
 
 [The Final Yearbook](https://youtu.be/W_Xs2qTM-yA)
 
