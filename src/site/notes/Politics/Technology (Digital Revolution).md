@@ -147,6 +147,7 @@ Mostly what doctors do is listen to you explain your symptoms and compare that w
 | [[Wiki/Technology/AI/AutoGPT As A Coding Assistant\|AutoGPT As A Coding Assistant]]             | Apr 18, 2023, 10:33 PM |
 | [[Wiki/Technology/AI/AI As A Job Search Assistant\|AI As A Job Search Assistant]]               | Apr 18, 2023, 10:35 PM |
 | [[Wiki/Technology/AI/AI to Generate Favicons\|AI to Generate Favicons]]                         | Apr 18, 2023, 10:36 PM |
+| [[Wiki/Technology/AI/AI As An Investment Advisor\|AI As An Investment Advisor]]                 | Apr 18, 2023, 11:27 PM |
 
 
 [Jordan Peterson’s Disturbing Warning About ChatGPT](https://youtu.be/mUkTz_1uzSs)
