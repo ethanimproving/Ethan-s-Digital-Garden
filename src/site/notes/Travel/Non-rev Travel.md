@@ -19,7 +19,7 @@ Please Refer to this PDF: [Teams](https://teams.microsoft.com/l/file/48A66000-C
 # Carry-on Bags
 Summary:
 
-You have have 2 carry-on bags and 2 checked luggage.
+You have 2 carry-on bags and 2 checked luggage.
 
 -   Overhead item: 45" (length + width + height)
 -   Personal item: 40"
