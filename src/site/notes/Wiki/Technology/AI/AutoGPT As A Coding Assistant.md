@@ -3,7 +3,7 @@
 ---
 
 
-ChatGPT can [self prompt](https://www.facebook.com/reel/264409342607687/), thing, and reason with itself before presenting you with a finished product! While it's not fully autonomous and a bit glitchy, we can start to see what the future may look like when we ask A.I. to do a task and it actually thinks like a human.
+ChatGPT can [self prompt](https://www.facebook.com/reel/264409342607687/), think, and reason with itself before presenting you with a finished product! While it's not fully autonomous and a bit glitchy, we can start to see what the future may look like when we ask A.I. to do a task and it actually thinks like a human.
 
 - [GitHub AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT)
 - [AgentGPT](https://agentgpt.reworkd.ai/)
