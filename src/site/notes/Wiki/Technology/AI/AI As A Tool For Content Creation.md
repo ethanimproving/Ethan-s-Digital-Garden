@@ -37,3 +37,7 @@ The world is productive enough. I don't need to be concerned about creating prod
 [Use otter.ai to dictate what the speaker is saying](https://www.facebook.com/reel/606642210930322?fs=e&s=TIeQ9V&mibextid=0NULKw)
 
 Go to YouTube and see what's trending about what you want to talk about. Run it, hit the video, get [otter.ai](https://otter.ai/) because it dictates what the speaker is saying. Take that content and run it through [Jarvis](https://www.jasper.ai/?source=partner&fpr=denise1008&gclid=CjwKCAjw__ihBhADEiwAXEazJqMq3XK_A0GBwz5NgNqTlTcyVZ1VfP0ygHJHTGYIRA69DiZDu9x_VRoCF0AQAvD_BwE) and put it on your website as a blog. 
+
+# Post To All Platforms
+
+[Post to all platforms to go viral! Don’t miss this opportunity](https://www.youtube.com/watch?v=M620GkpVwNU)
