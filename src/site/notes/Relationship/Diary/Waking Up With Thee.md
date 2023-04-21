@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-dg-created: Apr 17, 2023 8:14 AM
-tags: [diary, poetry, mariana]
+{"dg-publish":true,"permalink":"/relationship/diary/waking-up-with-thee/","tags":["diary","poetry","mariana"],"created":"Apr 17, 2023 8:14 AM","updated":""}
 ---
+
 
 Oh, woe betide, when I awake alone,
 Guilt creeps upon me, forlorn and lone,
@@ -22,6 +21,8 @@ Thou art forever in this heart of mine.
 So come, my love, and let us never part,
 For waking up with thee is music to my heart.
 A blissful state, a wondrous delight,
-That fills me with joy, and pure light.
+That fills me with joy, and love's pure light.
+
+...
 
 Also it would be nice to fuck you in lingerie.
