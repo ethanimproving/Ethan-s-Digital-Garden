@@ -23,6 +23,6 @@ For waking up with thee is music to my heart.
 A blissful state, a wondrous delight,
 That fills me with joy, and love's pure light.
 
-...
+. . .
 
 Also it would be nice to fuck you in lingerie.
