@@ -7,4 +7,4 @@
 
 
 ---
-[^1] Becker, Alex. “[3 20's Mistakes That Will Make You Poor in Your 30's](https://youtu.be/eVgFzmC2lAI?t=798).” _YouTube_, Alex Becker's Channel, 8 Apr. 2020.
+[^1]: Becker, Alex. “[3 20's Mistakes That Will Make You Poor in Your 30's](https://youtu.be/eVgFzmC2lAI?t=798).” _YouTube_, Alex Becker's Channel, 8 Apr. 2020.
