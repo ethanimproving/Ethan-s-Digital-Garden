@@ -20,3 +20,5 @@ This guy created a whole website giving voice commands to ChatGPT 4 in 5 minutes
 [Auto-GPT Tutorial - Create Your Personal AI Assistant](https://www.youtube.com/watch?v=jn8n212l3PQ)
 
 ChatGPT is old news. AutoGPT is the new thing. You can give it a set of goals and then it will start to use the GPT4 language model using the open AI API to iteratively prompt the API, get results back, and then use that again to evaluate it and and then come up with the next prompt to reach all the goals you set for it. This is the future of AI. We will all have a personal AI assistant that can basically do tasks for us.
+
+![](https://i.imgur.com/drt9otY.png)
