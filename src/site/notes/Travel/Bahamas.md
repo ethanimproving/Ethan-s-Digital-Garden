@@ -5,6 +5,7 @@
 
 # Itinerary
 [Trip Itineraries.xlsx](https://mysite.aa.com/:x:/g/personal/242924_corpaa_aa_com/ES44AlMAsIVLmsqZlKGqKjQBNsYHpULQ4Pml1pnilgLieg?e=gyzqJE)
+
 | Date            | Time     | Activity              |
 |-----------------|----------|-----------------------|
 | Monday Apr 24   | 7:51 AM  | Leave for the airport |
