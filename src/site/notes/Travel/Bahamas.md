@@ -23,6 +23,8 @@ Bahamas is 1 hour ahead of Dallas. I will work a an hour at the airport and 3 ho
 
 # How to get around
 
+Carlos Guzman will be at the Airport to pick up Faith and Ethan at 3:07 PM.
+
 There are a lot of Taxi's at the airport, about $50. Otherwise there are several busses that will honk at you on the side of the road. If you indicate you want to ride, they will stop for you.
 
 The most common mode of public transportation on the Island of Nassau is the Jitney Buses. 
@@ -34,6 +36,24 @@ The Jitney buses don’t have set schedules or timetables, if you see one you ju
 # What to bring
 
 Refer to the default [[Travel/Packing List\|Packing List]].
+
+- [ ] Passport
+- [ ] Swimming suits
+- [ ] Walking shoes
+- [ ] Sunscreen
+- [ ] Sunglasses
+- [ ] Rain jacket (there is rain in the forecast)
+- [ ] Personal soul winning materials such as Bibles, NIFB documentaries
+
+# Where to Stay
+
+| Place                                                                                   | Cost for 1 day                                                                                                       | Distance from NAS |
+| --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [3 BR Villa Close To Beach + Atlantis & Downtown](https://www.airbnb.com/rooms/15721361?source_impression_id=p3_1678119222_czi7UnT%2B7J421Cbu) | $300                                 | [24 minutes](https://www.google.com/maps/dir/25.0706832,-77.3109766/Lynden+Pindling+International+Airport,+Windsor+Field+Road,+Nassau,+The+Bahamas/@25.0601607,-77.4292081,13z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x892f63fc3dabbc03:0x350924fa73534238!2m2!1d-77.4655212!2d25.0439288!3e0)         |
+
+![](https://i.imgur.com/FD254m8.png)
+
+![](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81p-fMrDKQcLMuV92qiXIAlwL7ECg-wFDPqFCN4ZXiyFDk_3qmf68Bli2YrpygE6DL01kr9HuzCgtxczW7QXaXlwDciJTA=w2542-h1255)
 
 # Forecast
 
