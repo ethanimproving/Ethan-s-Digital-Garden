@@ -18,3 +18,7 @@ All of this has prompted white people to feel aggression, as illustrated by Tom 
 - [Black People Are More Likely To Die From Accidental Drowning Than Police Shootings](https://www.kjv1611only.com/video/02preaching/Sermon_Clips_Pastor_Shelley/Black_People_Are_More_Likely_To_Die_From_Accidental_Drowning_Than_Police_Shootings.mp4)
 - [American Black Culture Race Baiting](https://www.kjv1611only.com/video/02preaching/Sermons_Pastor_Shelley/American_Black_Culture_Race_Baiting.mp4)
 - [Black Churches](https://www.kjv1611only.com/video/02preaching/Sermons_Pastor_Shelley/Black_Churches.mp4)
+
+I was encouraged to read the comments of these videos full of black people expressing their embarrassment that these women were saying such things. These are brothers.
+
+![](https://i.imgur.com/5Phu7fJ.png)
