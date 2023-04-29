@@ -3,6 +3,6 @@
 ---
 
 
-They should have activities in malls. Gamerooms and a pool and courts.
+They should have activities in malls. Game rooms and a pool and courts.
 
 
