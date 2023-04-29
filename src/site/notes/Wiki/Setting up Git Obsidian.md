@@ -43,6 +43,10 @@ In recent years, there has been a growing interest in digital gardening and PKM 
 > 
   [John 1:1-3 - KJV](https://bible-api.com/John+1:1-3?translation=kjv)
 
+> [!failure]- Failure 
+>   Error: The model: `gpt-4` does not exist
+>  
+
 
 ## [Installation and clone a repo](https://github.com/Vinzent03/obsidian-git-mobile#installation-)
 1. Create new vault
