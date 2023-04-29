@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/enabling-word-definitions-on-hover/","tags":["website"],"created":"Jul 22, 2019, 17:07 PM","updated":"Jul 22, 2019, 17:07 PM"}
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/enabling-word-definitions-on-hover/","tags":["website"],"created":"Jul 22, 2019, 5:07 PM","updated":"Jul 22, 2019, 5:07 PM"}
 ---
 
 
