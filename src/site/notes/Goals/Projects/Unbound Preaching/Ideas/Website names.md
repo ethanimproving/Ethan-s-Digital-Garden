@@ -1,9 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jul 19, 2018, 8:07 AM
-dg-updated: Oct 30, 2018, 13:10 PM
-tags: [website]
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/website-names/","tags":["website"],"created":"Jul 19, 2018, 8:07 AM","updated":"Oct 30, 2018, 1:10 PM"}
 ---
+
 
 thouTube
 School of doctrine
