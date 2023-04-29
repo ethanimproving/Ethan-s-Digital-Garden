@@ -108,6 +108,10 @@ Refer to the default [[Travel/Packing List\|Packing List]].
 
 ![](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81p-fMrDKQcLMuV92qiXIAlwL7ECg-wFDPqFCN4ZXiyFDk_3qmf68Bli2YrpygE6DL01kr9HuzCgtxczW7QXaXlwDciJTA=w2542-h1255)
 
+# Travel Restrictions
+
+[Sherpa](https://apply.joinsherpa.com/travel-restrictions/BS-NP?departureDate=2023-04-22&returnDate=2023-04-29&tripType=roundTrip&transitType=noTransit&fullyVaccinated=false&language=en-US&affiliateId=americanairlines&originCountry=USA&nationality=USA&originRegion=US-TX&originAirport=DFW&destinationAirport=NAS)
+
 # Forecast
 
 | Date   | Low  | High | Percipitation |
