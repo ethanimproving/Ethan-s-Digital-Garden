@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/hymnary-api-app/","created":"Dec 15, 2018, 15:12 PM","updated":"Dec 16, 2018, 19:12 PM"}
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/hymnary-api-app/","created":"Dec 15, 2018, 3:12 PM","updated":"Dec 16, 2018, 7:12 PM"}
 ---
 
 
