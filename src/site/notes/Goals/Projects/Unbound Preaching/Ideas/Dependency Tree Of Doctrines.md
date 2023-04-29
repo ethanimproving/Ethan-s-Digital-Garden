@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/dependency-tree-of-doctrines/","tags":["website"],"created":"Oct 22, 2022, 9:10 AM","updated":"Apr 22, 2023, 23:04 PM"}
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/dependency-tree-of-doctrines/","tags":["website"],"created":"Oct 22, 2022, 9:10 AM","updated":"Apr 22, 2023, 11:04 PM"}
 ---
 
 
