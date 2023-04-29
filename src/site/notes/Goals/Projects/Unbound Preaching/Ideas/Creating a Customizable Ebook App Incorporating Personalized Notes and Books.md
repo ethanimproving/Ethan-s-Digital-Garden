@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/creating-a-customizable-ebook-app-incorporating-personalized-notes-and-books/","created":"Oct 22, 2018, 22:10 PM","updated":"Oct 22, 2018, 22:10 PM"}
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/creating-a-customizable-ebook-app-incorporating-personalized-notes-and-books/","created":"Oct 22, 2018, 10:10 PM","updated":"Oct 22, 2018, 10:10 PM"}
 ---
 
 
