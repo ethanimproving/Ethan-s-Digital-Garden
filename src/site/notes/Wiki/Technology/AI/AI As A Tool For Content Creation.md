@@ -41,3 +41,7 @@ Go to YouTube and see what's trending about what you want to talk about. Run it,
 # Post To All Platforms
 
 [Post to all platforms to go viral! Don’t miss this opportunity](https://www.youtube.com/watch?v=M620GkpVwNU)
+
+# Punctuate YouTube Transcript
+
+Can you add punctuation and grammar to this YouTube transcript and remove the line breaks and timestamps?
