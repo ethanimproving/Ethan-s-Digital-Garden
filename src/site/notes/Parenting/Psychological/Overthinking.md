@@ -41,4 +41,4 @@ If you find yourself constantly thinking about how to fit something into your sc
 ---
 [^1]: Bogel, Anne. [_Don't Overthik It: Make Easier Decisions, Stop Second-Guessing, and Bring More Joy Your Life_](https://web.get-headway.com/book/don-t-overthink-it?pid=app_referral&c=highlight&af_siteid=summary_text). Baker Books, a Division of Baker Publishing Group, 2020.
 [^2]: Jubbal, Kevin. “[How I Routinely Study with a Full Time Job When I'm Tired](https://www.youtube.com/watch?v=ifZWcPXDyFc).” _YouTube_, Cajun Koi Academy, 13 June 2022.
-[^3] Clear, James. [_Atomic Habits_](https://headway.onelink.me/9USK?pid=app_referral&af_web_dp=https%3A%2F%2Fweb.get-headway.com%2Fbook%2Fatomic-habits&c=highlight&af_siteid=summary_text). Penguin USA, 2019.
+[^3]: Clear, James. [_Atomic Habits_](https://headway.onelink.me/9USK?pid=app_referral&af_web_dp=https%3A%2F%2Fweb.get-headway.com%2Fbook%2Fatomic-habits&c=highlight&af_siteid=summary_text). Penguin USA, 2019.
