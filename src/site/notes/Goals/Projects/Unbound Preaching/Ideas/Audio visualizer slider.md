@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/audio-visualizer-slider/","tags":["website"],"created":"Aug 10, 2018, 19:08 PM","updated":"Aug 10, 2018, 19:08 PM"}
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/audio-visualizer-slider/","tags":["website"],"created":"Aug 10, 2018, 7:08 PM","updated":"Aug 10, 2018, 7:08 PM"}
 ---
 
 
