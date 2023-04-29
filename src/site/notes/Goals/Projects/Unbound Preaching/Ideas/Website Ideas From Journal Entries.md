@@ -1,9 +1,7 @@
 ---
-dg-publish: true
-dg-created: Aug 22, 2018, 17:08 PM
-dg-updated: Nov 12, 2018, 9:11 AM
-tags: [website]
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/website-ideas-from-journal-entries/","tags":["website"],"created":"Aug 22, 2018, 5:08 PM","updated":"Nov 12, 2018, 9:11 AM"}
 ---
+
 
 **Dictionary**
 
