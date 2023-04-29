@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/estimated-reading-time-x-minutes/","tags":["website"],"created":"Jul 28, 2018, 17:07 PM","updated":"Jul 28, 2018, 17:07 PM"}
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/estimated-reading-time-x-minutes/","tags":["website"],"created":"Jul 28, 2018, 5:07 PM","updated":"Jul 28, 2018, 5:07 PM"}
 ---
 
 
