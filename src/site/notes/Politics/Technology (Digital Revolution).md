@@ -18,6 +18,10 @@ Similar to copyrights, or the year of Jubilee, every 50 years the machines that 
 # Building Roads
 
 [Rob Bell - Everything is Spiritual Tour](https://www.youtube.com/watch?v=i2rklwkm_dQ)
+# Calculators to Computers
+
+[Neil deGrasse Tyson Is Not Afraid of Artificial Intelligence](https://youtu.be/ukhmq5on-IA?t=971)
+I'm old enough to remember when computers-- when you could buy a four-function calculator, the price of calculation went from like 500 and a thousand dollars down to like a couple hundred dollars, down to like fifty dollars, which is about the price of a textbook at the time. So, you can buy a calculator and no one had to ever again teach you long division. And I say, '==Wow, look what this can do! I don't have to do it!' So now[[Parenting/Psychological/Overthinking#Automate Tasks\| I can think of other problem]]s that I couldn't previously solve because I didn't have the ability or the power to do it. I now have a computer to do it.== When the computer came on the scene, solving science problems, did we go running for the hills? Did we say this is the end of the world? Did we say, 'Oh my gosh, no!'? We embraced it. We brought our own ingenuity to it to see what else it could do for us.
 
 # Vertical Farming
 
