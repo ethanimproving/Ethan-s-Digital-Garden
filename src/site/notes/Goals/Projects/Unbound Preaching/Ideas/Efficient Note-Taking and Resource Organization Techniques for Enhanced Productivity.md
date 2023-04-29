@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/efficient-note-taking-and-resource-organization-techniques-for-enhanced-productivity/","tags":["website"],"created":"Jul 06, 2019, 22:07 PM","updated":"Jul 06, 2019, 23:07 PM"}
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/efficient-note-taking-and-resource-organization-techniques-for-enhanced-productivity/","tags":["website"],"created":"Jul 06, 2019, 10:07 PM","updated":"Jul 06, 2019, 11:07 PM"}
 ---
 
 
