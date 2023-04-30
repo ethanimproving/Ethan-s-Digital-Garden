@@ -37,3 +37,7 @@ $ pip install -r requirements.txt
 # Run the program
 $ python -m autogpt
 ```
+
+# BabyAGI
+
+There is another repo called [BabyAGI](https://github.com/yoheinakajima/babyagi). Together these two repos are the top 2 most popular GitHub repositories of all time.
