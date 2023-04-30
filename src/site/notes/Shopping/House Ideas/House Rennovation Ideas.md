@@ -276,6 +276,16 @@ title:: Warm wooden floor for living room and hallways
 
 ![](https://i.pinimg.com/736x/80/4f/25/804f251598a506cfa35500b56aa375b1.jpg)
 
+# Videos
+
+## Utilizing Space
+
+[1m^3 volume area design](https://www.facebook.com/reel/564214165628043?fs=e&s=TIeQ9V&mibextid=0NULKw).
+
+## Rising Beds of the future
+
+[Is this the apartment of the future?](https://www.facebook.com/reel/180102274500412?fs=e&s=TIeQ9V&mibextid=0NULKw)
+
 | File                                                                                 | type |
 | ------------------------------------------------------------------------------------ | ---- |
 | [[Shopping/House Ideas/Examples of Bad House Ideas\|Examples of Bad House Ideas]] | \-   |
