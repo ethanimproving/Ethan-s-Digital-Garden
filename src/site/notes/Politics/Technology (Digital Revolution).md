@@ -146,12 +146,12 @@ Mostly what doctors do is listen to you explain your symptoms and compare that w
 
 | File                                                                                               | Date                   |
 | -------------------------------------------------------------------------------------------------- | ---------------------- |
-| [[Wiki/Technology/AI/AI As An Investment Advisor\|AI As An Investment Advisor]]                 | Apr 18, 2023, 11:27 PM |
+| [[Wiki/Technology/AI/AI As A Job Search Assistant\|AI As A Job Search Assistant]]               | Apr 18, 2023, 10:35 PM |
 | [[Wiki/Technology/AI/AI As A Tool For Content Creation\|AI As A Tool For Content Creation]]     | Apr 18, 2023, 10:30 PM |
 | [[Wiki/Technology/AI/AI As Text To Speech (TTS) Agent\|AI As Text To Speech (TTS) Agent]]       | Apr 19, 2023, 10:33 AM |
-| [[Wiki/Technology/AI/AI As A Job Search Assistant\|AI As A Job Search Assistant]]               | Apr 18, 2023, 10:35 PM |
-| [[Wiki/Technology/AI/AI to Generate Favicons\|AI to Generate Favicons]]                         | Apr 18, 2023, 10:36 PM |
 | [[Wiki/Technology/AI/AutoGPT As A Coding Assistant\|AutoGPT As A Coding Assistant]]             | Apr 18, 2023, 10:33 PM |
+| [[Wiki/Technology/AI/AI As An Investment Advisor\|AI As An Investment Advisor]]                 | Apr 18, 2023, 11:27 PM |
+| [[Wiki/Technology/AI/AI to Generate Favicons\|AI to Generate Favicons]]                         | Apr 18, 2023, 10:36 PM |
 | [[Wiki/Technology/AI/Use ChatGPT to Write and Sell Books\|Use ChatGPT to Write and Sell Books]] | Apr 18, 2023, 10:32 PM |
 | [[Wiki/Technology/AI/AI To Search For People\|AI To Search For People]]                         | \-                     |
 
