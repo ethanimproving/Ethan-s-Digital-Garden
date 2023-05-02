@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/waking-up-with-thee/","tags":["diary","poetry","mariana"],"created":"Apr 17, 2023 8:14 AM","updated":""}
+{"dg-publish":true,"permalink":"/relationship/diary/waking-up-with-thee/","tags":["diary","poetry","mariana"],"created":"Apr 17, 2023, 8:14 AM","updated":""}
 ---
 
 
