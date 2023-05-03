@@ -3,7 +3,6 @@
 ---
 
 
-
 | [YouTube Premium](https://pay.google.com/)                                                                          | $12/mo       |
 |---------------------------------------------------------------------------------------------------------------------|--------------|
 | [Google APIs](https://console.cloud.google.com/billing/01DABE-E15B7B-415451/manage?project=job-location-calculator) | <$1/mo       |
