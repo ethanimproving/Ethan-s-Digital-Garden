@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/politics/the-dark-side-of-technology/","created":"","updated":""}
 ---
+
 
 # Greed: Anti-progress
 
@@ -50,3 +51,9 @@ Evidence has come out that the Corona Virus was most likely engineered. Most vir
 #china
 
 [CRISPR to eliminate genes that cause disease](https://youtube.com/shorts/jXYH9xdrhGU?feature=share)
+# Unhealthy Food, Gyms, And Therapists
+
+[The importance of the Culture you embrace](https://www.facebook.com/reel/591647096332869?fs=e&s=TIeQ9V&mibextid=0NULKw)
+
+In our travels around the world I Love to visit local markets and grocery stores....
+And no matter where we're talking about... Barbados, Tanzania, Qatar, Curacao, Italy etc....what she mentioned was 100% true.
