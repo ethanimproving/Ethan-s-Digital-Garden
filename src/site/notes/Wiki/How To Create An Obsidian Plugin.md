@@ -65,3 +65,9 @@ git submodule add https://github.com/KjellConnelly/obsidian-dev-tools.git .obsid
 Revert back to previous commits until you find one that works.
 
 _How to test plugins on Android_ I think you need to have ADB on your computer installed (I always had that installed; if the following directions don’t work without it, install it); on your android phone you have to enable ADB (it’s under developer settings [tap the build number three times to get these settings]); then connect the phone to your computer over USB; open chrome (or chromium based browser should also work) and type `chrome://inspect` in the browser. Open obsidian on your phone, then it should appear in the browser. You will have the console and the inspector like you have for desktop Obsidian
+
+# Copy CSS
+
+Copy HTML Element, and The CSS Used into a CodePen. Then slowly whittle down the CSS if it doesn't interfere with anything.
+
+![](https://i.imgur.com/CKkRIPJ.png)
