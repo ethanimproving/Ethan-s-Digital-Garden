@@ -1,7 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/let-the-dead-bury-their-dead-pastor-shelley/","tags":["discipleship","sacrifice","dontwasteyourlife","gobigorgohome"],"created":"Apr 16, 2023, 10:40 AM","updated":""}
+dg-publish: true
+dg-created: Apr 16, 2023, 10:40 AM
+note-id: 1
+verse-reference: Mat 8:22
+date-created: 4/16/2023
+date-updated: 4/16/2023
+icon: pulpit
+tags: [discipleship, sacrifice, dontwasteyourlife, gobigorgohome]
+category: The After
 ---
-
 
 [Whatever, Whenever - Pastor Jonathan Shelley](https://www.youtube.com/live/1QSIGvYxy9o?&t=1033)
 
