@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/technology/ai/auto-gpt-as-a-coding-assistant/","tags":["technology","artificialintelligence"],"created":"Apr 18, 2023, 10:33 PM","updated":""}
+dg-publish: true
+dg-created: Apr 18, 2023, 10:33 PM
+tags: [technology, artificialintelligence]
 ---
-
 
 ChatGPT can [self prompt](https://www.facebook.com/reel/264409342607687/), think, and reason with itself before presenting you with a finished product! While it's not fully autonomous and a bit glitchy, we can start to see what the future may look like when we ask A.I. to do a task and it actually thinks like a human.
 
