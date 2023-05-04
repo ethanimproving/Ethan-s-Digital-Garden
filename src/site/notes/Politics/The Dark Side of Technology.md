@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/politics/the-dark-side-of-technology/","created":"","updated":""}
+dg-publish: true
 ---
-
 
 # Greed: Anti-progress
 
