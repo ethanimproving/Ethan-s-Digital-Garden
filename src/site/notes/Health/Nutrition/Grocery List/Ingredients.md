@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/health/nutrition/grocery-list/ingredients/","created":"","updated":""}
 ---
+
 
 # Spices and seasonings
 These include dried herbs, spices, and seasoning blends like Italian seasoning or Cajun seasoning.
