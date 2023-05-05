@@ -22,8 +22,8 @@
 
 ### Spiked Proteins
 
-1.  Studies have shown that the spike proteins in COVID-19 have five components, including two from snake venoms (King Cobra, Crate Snack Venom) and three sequences of Rabbi's Virus.
-2.  In June 2020, an Italy study found that people with COVID-19 had not only these five components but also 30 venoms from snakes (Coral, various cobra's, marine shellfish toxins, starfish (crown of thorns starfish)).
+1.  Studies have shown that the spike proteins in COVID-19 have five components, including two from snake venoms (King Cobra, Crate Snack Venom) and three sequences of Rabbi's Virus.[^1]
+2.  In June 2020, an Italy study found that people with COVID-19 had not only these five components but also 30 venoms from snakes (Coral, various cobra's, marine shellfish toxins, starfish (crown of thorns starfish)).[^2]
 3.  EDTA is an acid that can destroy venom and has been studied since 1948. Johnson and NOVA and other companies inject EDTA to destroy venom.
 4.  Take 1000 mg of EDTA in the morning and evening to denature these peptides.
 
@@ -63,3 +63,8 @@
 -   Dr. Brian Ardis' website: [The Dr. Ardis Show](https://www.thedrardisshow.com/)
 -   Dr. Stella's website: [DrStellaMD.com](https://drstellamd.com/)
 -   CBS
+- [HealThy Cooking Meal Sessions](https://www.youtube.com/watch?v=c-43DWQ3YJo)
+
+---
+[^1]: Dejnirattisai, Wanwisa, et al. “[The Antigenic Anatomy of SARS-CoV-2 Receptor Binding Domain](https://www.cell.com/cell/fulltext/S0092-8674(21)00221-X).” Cell, vol. 182, no. 4, 2020, pp. 1-12. 
+[^2]: Carpi, D., Marino-Merlo, F., Guercio, A., Di Luca, M., & Volpe, E. (2020). [Animal toxins and COVID-19: Molecular modeling of SARS-CoV-2 spike protein-ace2 binding and the new potential therapeutic role of snake toxins](https://doi.org/10.3390/toxins12090550). Toxins, 12(9), 550.
