@@ -6,14 +6,14 @@
 
 # Ingredients
 
--   1 pound pork shoulder, thinly sliced
+-   1 pound [[Health/Nutrition/Grocery List/Ingredients/Proteins/Pork Ribs\|pork shoulder]], thinly sliced
 -   Juice of 2 limes
--   2 tablespoons chili powder
--   1 tablespoon paprika
--   1 tablespoon cumin
--   1 teaspoon dried oregano
+-   2 tablespoons [[Health/Nutrition/Grocery List/Ingredients/Spices and seasonings/Chili Powder\|chili powder]]
+-   1 tablespoon [[Health/Nutrition/Grocery List/Ingredients/Spices and seasonings/Paprika\|paprika]]
+-   1 tablespoon [[Health/Nutrition/Grocery List/Ingredients/Spices and seasonings/Ground Cumin\|cumin]]
+-   1 teaspoon [[Health/Nutrition/Grocery List/Ingredients/Spices and seasonings/Oregano Leaves\|dried oregano]]
 -   Salt and pepper, to taste
--   1/2 cup pineapple juice
+-   1/2 cup [[Health/Nutrition/Grocery List/Ingredients/Fruits and Vegetables/Pineapple Juice\|pineapple juice]]
 -   Corn tortillas
 -   Chopped onions, cilantro, and pineapple, for serving
 
