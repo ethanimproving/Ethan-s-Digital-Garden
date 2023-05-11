@@ -3,7 +3,7 @@
 ---
 
 
-link:: [[Chuck Eye Steak.cook|Directions]]
+calories:: [[Chuck Eye Steak.cook|912]]
 
 # Ingredients
 
