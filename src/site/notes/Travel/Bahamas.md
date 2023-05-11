@@ -22,6 +22,7 @@ Bahamas is 1 hour ahead of Dallas. I will work an hour at the airport and 3 hour
 ## Soul-winning Itinerary
 
 Please be flexible, as the schedule may change. All scheduled events are optional. If you choose to deviate from the church's schedule to do your own activities, you can do so, however, all logistics will be 100% up to you. Please do not ask us to make special accommodations for you as all those requests will be ignored. We are all adults that are here to get a mission accomplished and we will not babysit anyone.
+
 | Monday 04/24/23 |                                                    |
 |-----------------|----------------------------------------------------|
 | 8:00am          | Doris Johnson High School (Contact Kenton Knowles) |
