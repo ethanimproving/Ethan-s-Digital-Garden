@@ -42,9 +42,9 @@ Finally, it is important to take breaks regularly to recharge and refocus. Resea
 
 There are a few ideas I have to help maximize Deep Learning Sessions:
 
-1. Block time on your calendar.
+1. **Block time on your calendar**.
 	
-2. Set Team's status to "Focusing"
+2. **Set Team's status to "Focusing"**.
 	
 3. **Working Agreements**: Create a working agreement with the team, PO, and manager to allow for 90 minute segments of uninterrupted work, so that there is not an expectation to reply to anyone within those 90 minutes.
 	
