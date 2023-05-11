@@ -34,7 +34,6 @@ In recent years, there has been a growing interest in digital gardening and PKM 
 ---
 [^1]:  Gaynor, Gregory J. “[How to Migrate Your Notes: Evernote to Obsidian](https://facedragons.com/foss/migrate-evernote-to-obsidian/).” _Face Dragons_, 15 Jan. 2023.
 
-
 [Readme guide](https://github.com/gitobsidiantutorial/obsidian-git-tut-windows/blob/main/README.md)
 > [!Bible] 
 > In the beginning was the Word, and the Word was with God, and the Word was God.
