@@ -24,6 +24,8 @@ Overall, the Deep Work theory emphasizes the importance of cultivating deep work
 
 I recall a YouTube short where Jordan Peterson talking about a rule in his house, that he would work for 3 hours without anyone allowed to come into his room, because each idea build on a myriad of other ideas, and when a distraction is introduced in the process of ideation, the edifice of idea which your highest idea depends on comes crashing down. It is like building a tower, and just as you are reaching the final block, somebody opens the door and knocks it down. Therefore it was imperative for him to have an extended amount of time for undistracted work.
 
+Your productivity accelerates with focus. The more uninterrupted focus you have, you get logarithmic returns. If your focus is destroyed after 30 minutes of work to help someone for 15 minutes, you don't just lose 15 minutes. You lose the momentum from the 30 minutes you were focusing.
+
 # Flow State Theory
 
 **Flow State Theory** suggests that individuals are most productive when they are in a state of complete immersion in their work and fully engaged in what they are doing. Interruptions and distractions can disrupt this state and make it difficult to maintain focus and productivity.
