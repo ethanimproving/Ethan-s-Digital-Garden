@@ -13,6 +13,10 @@
 
 # ZPack
 
+# Albuterol
+
+Albuterol is used to prevent and treat wheezing, difficulty breathing, chest tightness, and coughing caused by lung diseases such as asthma and chronic obstructive pulmonary disease (COPD; a group of diseases that affect the lungs and airways). Albuterol is in a class of medications called bronchodilators.
+
 | Name        | Pharmaceutical Name                             | Price          | What's it for?                                |
 | ----------- | ----------------------------------------------- | -------------- | --------------------------------------------- |
 | ZPack       | AZITHROMYCIN 500 MG TABLET                      | $6.80          | Antibiotic for kicking a cold away.           |
