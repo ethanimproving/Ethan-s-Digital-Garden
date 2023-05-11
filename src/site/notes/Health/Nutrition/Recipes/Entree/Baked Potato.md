@@ -1,21 +1,9 @@
 ---
-dg-publish: true
-dg-date: May 03, 2023, 9:25 PM
-author: 
-source: 
-image:
-description: 
-preparation-time:
-cook-time: 40
-yield: 
-category: ML Core Plan
-meal: entree
-rating: 5
-calories: 418
-tags: [cookmate]
+{"dg-publish":true,"permalink":"/health/nutrition/recipes/entree/baked-potato/","tags":["cookmate"],"created":"","updated":""}
 ---
 
-link:: [[Baked Potato.cook|Directions]]
+
+calories:: [[Baked Potato.cook|418]]
 
 # Ingredients
 
