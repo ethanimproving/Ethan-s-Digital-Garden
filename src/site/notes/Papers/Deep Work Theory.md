@@ -37,3 +37,17 @@ To maintain a state of flow, it is important to minimize interruptions and distr
 Another strategy is to break your work into smaller, manageable tasks and focus on completing one task at a time. This can help you stay on track and maintain your momentum, even if you do get interrupted.
 
 Finally, it is important to take breaks regularly to recharge and refocus. Research suggests that taking short breaks every 90 minutes can help maintain productivity and prevent burnout. During these breaks, you might consider doing something relaxing, such as taking a walk or doing some light stretching, to help clear your mind and recharge your energy.
+
+# Strategies
+
+There are a few ideas I have to help maximize Deep Learning Sessions:
+
+1. Block time on your calendar.
+	
+2. Set Team's status to "Focusing"
+	
+3. **Working Agreements**: Create a working agreement with the team, PO, and manager to allow for 90 minute segments of uninterrupted work, so that there is not an expectation to reply to anyone within those 90 minutes.
+	
+4. **Balance the work load**: Create a Ticketing Ticket Counter (TTC) slack bot to channel bugs, questions, and all external requests, which can be delegated to members on the team so that one person is not overwhelmed.
+	
+5. **Create transparency**: If we don't have the bandwidth to assist another team with something, tell them we will add it to our backlog. Ask them to submit a ticket. We need to get away from this constant multitasking that we do.
