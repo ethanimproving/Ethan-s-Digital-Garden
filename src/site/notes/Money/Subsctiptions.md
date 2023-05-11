@@ -16,3 +16,18 @@
 | [Tiege Hanley](https://www.tiege.com/account#/account-details)                                                      | $30/mo       |
 | Club4Fitness                                                                                                        | $15/mo       |
 | Total                                                                                                            | $284.17/mo      |
+
+# Tithing
+
+Good morning,  
+  
+This email is being sent to all those that have donated to SBC in the past according to our records. Over the past couple of months we have been having some issues with our online giving and I wanted to give you an update on our current giving situation. As of now, we are accepting online donations at [https://stedfastbaptistkjv.org/donate/](https://stedfastbaptistkjv.org/donate/) via GiveSendGo. If you choose to give online, I would recommend always clicking the "give anonymously" button. I can still see who donated, and will still be able to keep accurate records for year end giving statements, but if you don't click that button, your name will be public. Also, GiveSendGo has a setting that automatically makes you donate money to them on top of whatever you were going to donate to Stedfast Baptist Church. If you don't want to donate to GiveSendGo, you must manually choose the other setting and then put $0.00 in the gray box. Below is a picture of what that should look like. If you would like to donate by check you can always send a check to PO Box 420 Hurst, TX 76053. 
+
+The direct link is this:
+
+[https://givesendgo.com/SBCKJV](https://givesendgo.com/SBCKJV?sharemsg=display)
+
+God Bless,  
+Pastor Jonathan Shelley
+
+![](https://ci3.googleusercontent.com/mail-img-att/AEXG51n2TWJ8ko8n7KzudC-kfvZ0bDQpogeRq675okWNQ0erTduyIVh119DSP7rDx9ly6knHifJIiizfU-ex-9TBjVS0oIiOHxA8Qpy6ZXvf_G7R0t0sWvRmzY4PS7yCehrSLQS0Ht4VVkhe8WKHrX3Iy1V2UjjVamgqJmmhsZJbNDesX-3cFXh2uLsZLTZinntN4m-wJiEvrfXk4NxFFNZLqCuymsZD_BlQMUmpbb1xCl-lIa8WeFawpCaJAqyTSRtUqcsrzYhtLtmlSdEJmwpRtIRiGaXJkuOxRIzGrUz2kYBrLLzSIsei0DICJ8_0MxkKC7ktAVuZpA0-C4sgGuz7rkG9mspWJJm9hvLjAZbBlEHS6pFajmaXOEHaTlgKubFlsXy-wYGG_nM8S4VxjTNj_OXA_s-EMup_wSaiyEIWQg_g5Y1r4mAkKxDhZWiQw4ZT6fyu1DSaHI3B69W7k79T7IDkRZuJEDWWBBjpHFgvv7XN_7qJDAOzJReZKCaEYh3VD4_Css2Q-D7tiUT-r6VmCb_SOq5tkZOCPl94aHv8MTcDjXE4VAjKCp3rNkkwYN3Vncif1oq0vkb4peyaLP5FrTJ8yAig-GOq9K98CyLiNqm3Q25fjw5m_kEpwN_7RvYYcT_lMrVWCWD92bJz_NChptMjHvA_dtVaHhirciul0rhoYMup2Tu_ajjnsqzSpTzfia-OCoJ0CyHXsqGtbIJq7ug6ImAUR6ZCPNSu5KCOXlXQjenUjthFTZeSrFmO31E7V9kcrVZCAvbykTVrneokWeUxh1vKCQvsWe3dfws8fLwfs9gv_ubo7SOgvJFmoy3OF9CgeTLdGDKm9GYPBVHNogd6T0CXRGNWG3CoGNyjrNPuZ3rnSJgYaaKwT3SfTIIv8DrFIQUzzZvYkZCmtrCmrho-7UvZICbuELvUFPRon_nZ5hofOEeY1I0qx5YCN-9b6_L_IRrW8HzquAw0wYqQ0WzQOMpk5M-nx7lYKQGYY3cmsXOFBKFJHde5BuTVi3bZe1K3DGUdmeh81k7PeacDiLoyVrnsj1Pn6Q1LJ8dKY51h6baRufeJ8g=s0-l75-ft)
