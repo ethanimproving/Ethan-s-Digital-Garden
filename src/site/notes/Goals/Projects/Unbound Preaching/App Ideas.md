@@ -36,7 +36,6 @@ Every project that takes a vast amount of my time requires that I give careful a
 | [[Goals/Projects/Unbound Preaching/Ideas/Keyboard and mouse shortcuts\|Keyboard and mouse shortcuts]]                                                                                                                 | Aug 01, 2018, 10:08 AM |
 | [[Goals/Projects/Unbound Preaching/Ideas/Graduation Method for Adopting User-Created Doctrines into Church Practice\|Graduation Method for Adopting User-Created Doctrines into Church Practice]]                     | Sep 12, 2019, 9:09 AM  |
 | [[Goals/Projects/Unbound Preaching/Ideas/Fast and slow speakers\|Fast and slow speakers]]                                                                                                                             | Dec 23, 2018, 8:12 AM  |
-| [[Goals/Projects/Unbound Preaching/Ideas/Goal Tracking Template for Regular Check-Ins\|Goal Tracking Template for Regular Check-Ins]]                                                                                 | Jul 11, 2020, 7:07 AM  |
 | [[Goals/Projects/Unbound Preaching/Ideas/Example of doctrinal hierarchy\|Example of doctrinal hierarchy]]                                                                                                             | Aug 23, 2018, 8:08 AM  |
 | [[Goals/Projects/Unbound Preaching/Ideas/Enabling Word Definitions on Hover\|Enabling Word Definitions on Hover]]                                                                                                     | Jul 22, 2019, 5:07 PM  |
 | [[Goals/Projects/Unbound Preaching/Ideas/Estimated reading time_ X minutes\|Estimated reading time_ X minutes]]                                                                                                       | Jul 28, 2018, 5:07 PM  |
@@ -52,6 +51,7 @@ Every project that takes a vast amount of my time requires that I give careful a
 | [[Goals/Projects/Unbound Preaching/Ideas/Audio Bible text scroll\|Audio Bible text scroll]]                                                                                                                           | Aug 02, 2018, 7:08 AM  |
 | [[Goals/Projects/Unbound Preaching/Ideas/Amen button on website\|Amen button on website]]                                                                                                                             | Oct 15, 2018, 4:10 PM  |
 | [[Attachments/Templates/up-app-idea\|up-app-idea]]                                                                                                                                                                    | Jul 25, 2018, 9:20 AM  |
+| [[Goals/Projects/Unbound Preaching/Ideas/Goal Tracking Template for Regular Check-Ins\|Goal Tracking Template for Regular Check-Ins]]                                                                                 | Jul 11, 2020, 7:07 AM  |
 
 
 # App Inspiration
