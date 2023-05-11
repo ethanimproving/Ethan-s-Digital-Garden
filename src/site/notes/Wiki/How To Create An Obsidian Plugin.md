@@ -71,3 +71,7 @@ _How to test plugins on Android_ I think you need to have ADB on your computer 
 Copy HTML Element, and The CSS Used into a CodePen. Then slowly whittle down the CSS if it doesn't interfere with anything.
 
 ![](https://i.imgur.com/CKkRIPJ.png)
+
+# Minify File
+
+Replace the `npm run build` command with `rollup -c rollup.config.js && terser main.js -o main.min.js`. This changes a 20mb file to a 3mb file for [DB Folders](https://github.com/RafaelGB/obsidian-db-folder/pull/906).
