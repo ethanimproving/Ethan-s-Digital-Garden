@@ -58,6 +58,19 @@ Every project that takes a vast amount of my time requires that I give careful a
 - [App Features](https://photos.app.goo.gl/GX75xuhsEw1nDeZu6)
 - [Ideas / Inspiration](https://photos.google.com/album/AF1QipPyBqqzHsHpCDelh8bas45RWb4bcblqNNOExu35)
 
+## Existing Apps
+
+-   [GodResource.com](http://GodResource.com)
+-   [allthepreaching.com](http://allthepreaching.com)
+-   [thepreaching.com](http://thepreaching.com)
+-   [faithfulwordapp.com](http://faithfulwordapp.com)
+-   [Plex](https://app.plex.tv/desktop/#!/media/8a33427e87fd75a11a6aac0af422d1ce49f95456/com.plexapp.plugins.library?source=3)
+-   [pastorandersonsermons.all](https://pastorandersonsermons.allthepreaching.com/dev/index.php)
+-   [servischillzone.org](https://servischillzone.org/)
+-   [ifbtube.com](http://ifbtube.com)
+
+The main problem with all of these existing apps is the lack of organization. [thepreaching.com](http://thepreaching.com) is the best at this, but it doesn't provide any way for a user to track what he has watched, or where he left off in a sermon. It's also a bit clunky with multiple hamburger menus, and lacks simplicity in the UI. The Faithful Word App Team has [offered the source code of their app](https://www.faithfulwordapp.com/uncategorized/church/) (valued at $6,000) for free.
+
 ## Unbound Preaching
 
 ### Logo
