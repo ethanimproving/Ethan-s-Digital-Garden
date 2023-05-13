@@ -14,6 +14,14 @@
 - [[Health/Nutrition/Saladmaster Recipes\|Saladmaster Recipes]]
 - [[Health/Nutrition/Grocery List/Inventory\|Ingredient Inventory]]
 
+# Journal
+
+[[Relationship/Diary/Diary Datatable\|Diary Datatable]]
+
+# Worship
+
+[[Bible Notes/Hymns/Soul Stirring Songs and Hymns\|Soul Stirring Songs and Hymns]]
+
 # Schedule
 
 
