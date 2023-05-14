@@ -16,7 +16,7 @@ Am I going to choose Jesus right now, or am I going to choose something else?
 
 The dead are the spiritually dead (the unsaved). Your brothers and sisters will take care of the body. Let the spiritually dead worry about this world, and you worry about the spiritual world. Don’t get bogged down doing dead works. Let the dead build your Obsidian plug-ins. You do things only you can do.
 
-This is like me sharpening pencils as the senior on my team. I’m a skilled programmer. You’re wasting my skills my assigning me to a menial task.
+This is like me sharpening pencils as the senior on my team. I’m a skilled programmer. You’re wasting my skills by assigning me to a menial task.
 
 What is the payoff of my labor? How long will it be important? After I die, all the knowledge I stored in Obsidian [[Journal/Are plug-ins worth writing\|will be lost]]. Catastrophe. Look at Evernote note.
 
