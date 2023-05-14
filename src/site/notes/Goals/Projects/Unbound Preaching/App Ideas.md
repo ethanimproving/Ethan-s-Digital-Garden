@@ -15,6 +15,15 @@ Every project that takes a vast amount of my time requires that I give careful a
 	- https://unboundpreaching.netlify.app/
 	- https://unboundpreaching.herokuapp.com/
 
+# Mission
+
+The ultimate goal of Unbound Preaching is to equip the brethren with knowledge unto every good work, that we may know Jesus Christ and make him known.  
+  
+[[Goals/Checklist/Life's Goals\|The mission]] of Unbound Preaching is to help Christians enjoy fellowship with God through obedience in growing in the knowledge of his grace, fighting personal sin, fighting general sin, winning souls to Christ, preserving unity with and love for the brethren, providing evidence to support the marking of false prophets, and strengthening the love of the saints.  
+  
+Core strategy:  
+The strategy of Unbound Preaching is to provide uncensored access to the preaching of God's word, both true and false, sound doctrine and heresy, for the furthering of the understanding of the truth and maximal clarity of the arguments to support and defend it.evernote
+
 # App Features
 
 | File                                                                                                                                                                                                                     | Date                   |
@@ -77,6 +86,20 @@ The main problem with all of these existing apps is the lack of organization. [t
 
 ![](https://lh3.googleusercontent.com/3s-U8I0tZM5k3LIc6uiOP-sDGaEm8uGWgkQ2N69MBVHitgWpZ_aERx_ajylPLDi8flMPu8R-hZsC9fqW9CbnAwQubzdl_B8Klr0Vdj5V2m212mOH0EYKD3Bg03Z22f8Jx8UTWaCVsVeQsBxLehz1VDDCARkBYqA4YOyXW26_WuxJ3FZtSO5ZAZrxLoken-zV7tCY7Bu1MhwEWisjDlfyq58BZsYQ-TnoGSPG9eIZOxWtd53He7sJdjqQsHfuNTA996Pl7HObYrYYdtrH1OTH-k9p4XVN838nT2AQkuG2V3irDoonsgj5vrDK-wRJLsFvlONyrJsudrBT64EQUBhZKa_t7XWTPykx7-O7d_6NdW7K3toYw0ObChLh4Acu8stPxK1k6zdHCRdhkXRsbAUmW-bVIk3u53Eb6IIwDWhmWw5xOFbF9mM6MyCCnqRtMxXOAf7bJ95x4RzbrgdHT36LDqjkzarkxJ5pQjuqFWhUk9m85KEpQS52IaBL7q2-2BGdHxrr-NBdu50ZNMdvd_4L3IIeZY1HW0sIGuwAoviYVx6JtkmEbUyW5htCvSvCvogo-Gt-9vJYIhtlw4loGzhrXn2gIjorMYxOt7Bq548BTFLuUZ73ncuJdkUBbLG0-Ta2fLggZyVSx8hQINO4Jq28RA-__XQ52pCOIW4byR8UdHVXPAVN_f56YkBlRsHKoJEAf530plhfvJH-3Mf5rWS46Z2hZ2-DrCmwm5kW7KZTKZ36dgLvbN9kw-QenM1MNYm-_QKIINuxKunlQ2pYryDjZOZcY3DLQTBQCIGCP0Qw2D4HXF1QRXEF339bCe1gkC0hQfhE3tI3m-SAssWhLtEbCG6lZV4r9OKVE3I4JGnLeOnmzUdJYqQHyiIZuPy_gaNtDzuFzbI_UHxoPgwPBDpQpkOibkuTZcXyki6MlKXBJe_7=w1500-h1125-s-no?authuser=0)
 
+This logo was developed with many levels of expression. The first thing you notice is a broken chain link on an open Bible. This is meant to reflect "the word of God is not bound." **When your Bible is closed, it's like a chain binding it up**. This is what modern censorship has done with many preachers of the Word, just like the prophets of old. They've shut down Steven Anderson's YouTube accounts with over 150K subscribers because they accused him of hate speech. This is the preacher with the most love for the lost in America today, and they shut him down for hate speech. But they will find out that the Word of God is not bound. We're going to open up the Word they tried to close. The chain is the censorship of modern media platforms.
+
+Then the other half is harder to see. It's horizontal lines extruding from the first half of the Bible, and if you look closely you can see that it's the shape of a heart. This is meant to symbolize how ==when you open up God's word, the Bible reveals his love, and his heart for humanity, but it's not obvious to everyone. Many people will open up the Bible and all they see is a bunch of lines on a page==. Others open it up and see God's heart. The reason is because the Bible is a spiritual book, and it takes a spiritual mind to discern it, which the unsaved don't have. So to them, the Bible sounds like hate speech, the way a parent seems hateful to a child when he wants him to eat vegetables and things that will be good for the child.
+
+The shape of the Bible is from the exact logo of Faithful Word Baptist Church. This is because Steven Anderson was the first modern preacher that has been censored for preaching the Bible. This app has its roots in combating the efforts that have been made to silence him specifically, so its logo contains a hidden memorial to honor the church he pastors.
+
+The holes on the inside and the dots on the outside represent the lost people that God's word is reaching for. He has a place for them in the Lambs book of life, and his children are reaching out to them through the preaching of God's word, but they still have to accept it to be saved.
+
+There are five spots and 8 dots. This is to signify that Christ died for everyone, he offers salvation to everyone, but there are those who have rejected Christ and had their names already blotted out from the Lamb's book. There is no place for them in the Lamb's book, even though the offer still extends to them, because God has blinded their eyes making it impossible for them to believe.
+
+The chain is broken. That's because when we open God's word, they can never censor it. And because this site welcomes other perspectives, including false doctrines. We are open to publications. **We believe the way to silence lies is by answering them, not ignoring them**. We want to engage with the best version of the arguments, and encourage them to be published here. The truth fears no investigation.
+
+The largest dot is on the bottom. That's because in order to be great in the Kingdom of Heaven, you must be servant of all.
+
 ### Audio Player
 
 ![](https://lh3.googleusercontent.com/mznUflwbuMlA_-QMVQc_2lxVXiyv_ngMwUITaMlb1ycetrFPIzKGIyO59XxfYXmr_Yj2rTac6I7ZOp68fJJDdjpkAoLo9A6qkinrMqDlEuZlZNYA_fSVF_G5aKrF6gahD_UnQ98ev9R84Yqjcz11bOISBeJQnstz_rWPkoGtAoFee1fkbpT08leGoMrMBFyBYD21OCjKVzLlMBY62wjKjMBC_REhc4KDl-V6pwf_0YsnXiHUNLlzMzBmfrSNoKgUGFJoAbMjAeN1ghtlimItGHRYuDLjv8H7xOWVEHUYY9GnwjGqdwx59q5jH1wwYKB2iXwqinONTbpFWxJH9HN6WUqXwHOSQeljmS6mFOnrOeFiFw-LNkIyzUN9VEUkrGDR8gc0C3fqba7O9lDscAODcuCF_47YnV512ge8CKNQMpACearUZiatXnfBvEckKxrhWrkTdag7t9aRoZT3VD31B0Vd84KSsgr7h8R1SickSMX0uruKSUgMrbIA5P3xx-Ev9Xp0WVmf4dmixtdjqAoT2Yc-lWh8ekoQ6jqCQhFfeAxGY3_ATCnriXGgAKErHO1cWqDdflRHvs2ibcnTlHDEg_INjy3mgV5Fo-UgxttcnAy6t8IUczpUu5J0pV6JzBRDmfp-6v_ltInnY95ClRZHRsp7Zn-fG5YUHWCAnstcEK9BPgYgLea0m5WpmbTSTGkRnlZYtdS4k8izQ3MT_4KVeOsmvuvmZiWqEVDDfweK_Prr_0qMB0biLyZp_8hwGARKzwNHqvyatHp8j-OWtit54KLLpUa3_ANJo2mmFHOsncybm_6ahHZ1G1pnDd0gCnADgIF6a6hqgC8xw7Vxk8ONa2zBCV-_QltxIM8HKxGzd83nbskGo33xdvfjqogNRJVAlGxg56m5gzDYqg9FgjtjLC3XJL9k_GbX2ZNf2tL18QKL=w899-h1198-s-no?authuser=0)
@@ -86,6 +109,52 @@ The main problem with all of these existing apps is the lack of organization. [t
 ### Data Design
 
 ![](https://raw.githubusercontent.com/ethanmiller1/Node.js-and-Express-App/master/public/images/application/data-design.svg)
+
+## UI Table
+
+| Feature                                                              | App Inspiration                                   |
+|----------------------------------------------------------------------|---------------------------------------------------|
+| [[Goals/Projects/Unbound Preaching/App Ideas#Dwell\|#Dwell#Playback Controls]]                                          | Playback Controls                                 |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Dwell\|#Dwell#Dwell Coding Libraries]]                                     | Dwell Coding Libraries                            |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Google Play Music\|#Google Play Music#Notification Controls]]                          | Notification Controls                             |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Google Play Music\|#Google Play Music#Podcasts Page]]                                  | Podcasts Page                                     |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Google Play Music\|#Google Play Music#What's Next?]]                                   | What's Next?                                      |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Google Play Music\|#Google Play Music#Audio Player]]                                   | Audio Player                                      |
+| [[Goals/Projects/Unbound Preaching/App Ideas#YouTube Music\|#YouTube Music#Audio Player]]                                       | Audio Player                                      |
+| [[Goals/Projects/Unbound Preaching/App Ideas#YouTube Music\|#YouTube Music#Swipe Up Menu]]                                      | Swipe Up Menu                                     |
+| [[Goals/Projects/Unbound Preaching/App Ideas#YouTube Music\|#YouTube Music#Swipe Up Menu#Up Next]]                              | Up Next                                           |
+| [[Goals/Projects/Unbound Preaching/App Ideas#YouTube Music\|#YouTube Music#Swipe Up Menu#Lyrics/Transcript]]                    | Lyrics/Transcript                                 |
+| [[Goals/Projects/Unbound Preaching/App Ideas#YouTube Music\|#YouTube Music#Audio Page Menu]]                                    | Audio Page Menu                                   |
+| [[Goals/Projects/Unbound Preaching/App Ideas#YouTube\|#YouTube#Video Page]]                                               | Video Page                                        |
+| [[Goals/Projects/Unbound Preaching/App Ideas#YouTube\|#YouTube#Video Page#Double Tap Seek]]                               | Double Tap Seek                                   |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Faithful Word App (Subsplash)\|#Faithful Word App (Subsplash)]]                                    | Faithful Word App (Subsplash)                     |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Faithful Word App (Subsplash)\|#Faithful Word App (Subsplash)#Audio Player]]                       | Audio Player                                      |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Faithful Word App (Subsplash)\|#Faithful Word App (Subsplash)#Playback Speed]]                     | Playback Speed                                    |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Faithful Word App (Subsplash)\|#Faithful Word App (Subsplash)#Notes]]                              | Notes                                             |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Faithful Word App (Subsplash)\|#Faithful Word App (Subsplash)#Sermon Page]]                        | Sermon Page                                       |
+| [[Goals/Projects/Unbound Preaching/App Ideas#OliveTree\|#OliveTree#Highlight Text]]                                         | Highlight Text                                    |
+| [[Goals/Projects/Unbound Preaching/App Ideas#OliveTree\|#OliveTree#Playback Speed]]                                         | Playback Speed                                    |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Samsung Voice Recorder\|#Samsung Voice Recorder]]                                           | Samsung Voice Recorder                            |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Samsung Voice Recorder\|#Samsung Voice Recorder#Audio Waves / Seeker]]                      | Audio Waves / Seeker                              |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Samsung Voice Recorder\|#Samsung Voice Recorder#Bookmarks]]                                 | Bookmarks                                         |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Udemy\|#Udemy#Video Player]]                                               | Video Player                                      |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Udemy\|#Udemy#Lectures/Series]]                                            | Lectures/Series                                   |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Udemy\|#Udemy#Notes]]                                                      | Notes                                             |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Disney+\|#Disney+#Landing Page]]                                             | Landing Page                                      |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Amazon Prime Video\|#Amazon Prime Video]]                                               | Amazon Prime Video                                |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Amazon Prime Video\|#Amazon Prime Video#Video Details Page]]                            | Video Details Page                                |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Amazon Prime Video\|#Amazon Prime Video#My Stuff Page]]                                 | My Stuff Page                                     |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Amazon Prime Video\|#Amazon Prime Video#Landing Page (Home)]]                           | Landing Page (Home)                               |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Netflix\|#Netflix]]                                                          | Netflix                                           |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Realm\|#Realm#Giving]]                                                     | Giving                                            |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Read Scripture\|#Read Scripture#Your Journey]]                                      | Your Journey                                      |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Read Scripture\|#Read Scripture#Breathe Deeply (Interactive Prompts to Slow Down)]] | Breathe Deeply (Interactive Prompts to Slow Down) |
+| [[Goals/Projects/Unbound Preaching/App Ideas#ADO Mobile\|#ADO Mobile#Organization]]                                          | Organization                                      |
+| [[Goals/Projects/Unbound Preaching/App Ideas#ADO Mobile\|#ADO Mobile#Story Boards]]                                          | Story Boards                                      |
+| [[Goals/Projects/Unbound Preaching/App Ideas#ADO Mobile\|#ADO Mobile#Backlogs]]                                              | Backlogs                                          |
+| [[Goals/Projects/Unbound Preaching/App Ideas#ADO Mobile\|#ADO Mobile#Side Navigation Menu]]                                  | Side Navigation Menu                              |
+| [[Goals/Projects/Unbound Preaching/App Ideas#The TVDB\|#The TVDB#Community Submitted Art]]                                 | Community Submitted Art                           |
+
 
 ## Dwell
 
@@ -264,19 +333,17 @@ I like the idea of displaying 5 churches on the landing page. The church will ta
 
 ![](https://lh3.googleusercontent.com/AT9GXop95uO0w1UFT_te9rrEWOO4whw_xK4urGiHPVc73L1PziSQ1Auh3MZzajH7BZMQSquXidrM1EgS1K4jlE_jd9Daqble3ZMcvnRXE8tBzkpoKWabZjxZ7swYAP8nPQ5NUagNsCnpoKvHFHdHgW2MDbUGWuiBGaO8Tt1SFwq6saBh-MtcXwch7BRehPlLz49iPrl5y2fYfRJRMu0fqAR4yf609V4xi0n6ZB2IhoEROUOBCEKxOlyhTrReQrPj9GM-QskynPG91JnXe4Cc6LIT8AriQE7jgvF2T935TGb939MS5ReJpsFrtt07APXCgZMU1bfVDWWiLbKZGMsu5U9B3gXDuNSCtQv2ZeR1jHl3hRiChTvfYiugxPBMcnmgCt4VVy4wdl0yqQRiTYhslVbkCgUMVPRb0XgLpbZbY-mXO4elzVTAmu6XUGz407cfU_i5ufrBT7WdclBEU4nSsAHEHLIE9kcTZ22trzyyd9PP66R8hxQhF8--jvWSb_S1cooVfChXF9hb67KCJOS4iM6V1ek2sq2xQa9qyjX14JHLb3b9oPlhfBfcLBdK0ricwe32LZDPKRXr3QxhOJrWMnQR2k6ZprXeH2C5ObbL4HQHVhbJuatfG4vyPM08qeUPTWGzzvpQfPADSHYFX6V1xQC4IKN6jWZoPUD16WOmOq1gAT-Qoowzgw6Dy8d4fkoe7WebATnafMPYzTJgEzWivZrtpZCwyd8kJhkzinQtZnumN7qnMk_6bYSYZua_yajlTeemmn-O7aSAGuf0RC0SZls853s2xCeb3Wr7g3MgV-KtYVOFYWsKnkXZhJI2H8pZHSM574WnxClT9qyNnWBHzw031VV2P70KTy44vX0e2fZX26QNjUzHOJPvcFwt5HmDI6iyAS_bf1FFtbAB6B6E8_8zqFJTcRhsZjeTFhde4hKf=w567-h1198-s-no?authuser=0)
 
-![](https://lh3.googleusercontent.com/fife/APg5EObARNcSTC8G32bFO7j49pPOLtu733_eZwNGQdt6mWLAf1_2JRfkHfSK8offaAt47Dd_efWNr15UuoOl8e8KoTK4V06mqtD14jgrJwav-fmrsfCONQ12UeoHVIAzOMFgwGJiEFwsfNA_kEFg8YtwjdK7KGqgR6iRhKivri1vo0Koj1WiEQMRVGS_y8D-8BbjxaVt2b0dybEnXSCBWU7QqXv0EVPstsmbaOG8l0ET2VeJzPLnyVpC75bxQ5WnSpZ2DgiObGJxcZk_eyoDHqDsKHFnWsdLlo4pI_-bm42bQqs7HGKjo-CyduXY8PHQuFGSyVOFwAKi4bcau0hNVZfu3H6tuwPQs3FYHBQNnMvDFzDfFUw7gxoipUg8z9kUHUCn_tjRfuYXx75BuMtzJCVOvF39Bt3QKWMP99m3ZH7G3ze3EUOGPv_uPC_NOZ5x_VBQtaNEiMa1wsGYp1BTSxKS8x5Tmav3E1KPEalPdtbGf7_C74s5Fkr8i1-JYOmufC57MRISjK7yWuJkfr7O6rZhvjuT7ET9ClDgo2jjUs75aQ6XD9-LT_o6a--aiIceILNEUI-YK1EaRDYRNac1aOslN2i5IX0TNnPQQfCnxldBZBci7wF3VUCvXE8SJcKm1dxT_Zjne5BXeqe0lzjeVGiQSpYFv-zE0xB86RQDkmXHSsrtiPxqiRr3nxrlglpyBMw2N7V_04ht6-Od9-M2urUslGHbsUd9QYLsv5KvPmcMjRYjsyq3HtRuZ3-ACFcS1jIFth1wqVQr89Uez57rPeymsvpHRz8a2-pURPAqr2AxWIHTzuuND7wBdVL5DwF06Wgu6Fvc4_YiRnkaxGpO5VVn6GR_9nuPNsRzNRPSxUeTj_oTepUVCmvWn_xIIQqwS7gVLjrXMDT3X-6miFQMpjRCNPIGpPydLnSN-AMS5Gq0TV-a_0NGOab6ma6cduhyS13anwNveItWQ0FuRoIxZX0KOYOv8_LUUMuJfS7eGImrihLUVxmHjMLQxynVLdLb9urqR8kvUfspgZTz8knet6bKWAStgGL_P2RM6uCeUrSW_YOKKnla2FXSJkSx7fRnBu8t4UsI7Yjd8foixxBGiGXAfO529ED0tZHmjq221VJyYFbr27XBUqRbVwZsN_uT1Aqk7Az889Er_i2m5TjgY9BdovHlqZSUsVTerW1_Li5Ecg7ItTj0SxcPF5CcaVdTWUwdqI9w9QvV57JlQHXGBOJyiqMZaGYH1JIIZ02dnj6K6ElNUujz800GTyQsIt5WzRg9t2uLTqchVOH0ooFCPeiBnjTfZuyvAPQVT_38Uj7Uvz473o4x0AJyyx6skgzdtjiwsKSh8BFu9ERA2cgMjJdvI_w7aRCDH2B5QxjZaUVTytkk8urYAt179Es-Mpj3XnEWUU4BJwWKHHA5KshjAenDky_rfHeNFah6s6mFhQ65l4lcOXQLgWIl-D1fZRxLrwJBhAb-6GQqRndMTX3nkTEW7hMZMqhrbZo-ibkhc6vgMyH9ZYpOtpREGltIM6oRomLIdl5CiFcxZLE7yJkaqa1Ir3gwDhAj6BKu4MAMDSjnyIbEtvFL0aHcH5WJuNOZEI66Io3B_F9pJKOnAoGlCLM24TaWxJzRfNSHkb2ZiVCmp0YrEzr-T7Wi41EfsHRs1Zxpld--m0EYuCP6mPINtAtsCgYYWzMdNf8FgFhT4vTPNNcCvLreE2EoP11zfHsmpH2V062gjKG3sp4NjvY7R8Rn8Sx3zQDF1j5tN00zZx0x6Nivphg97klHSAhHdD49C7HqCCTPQGHn-JNnunQDohI96pcN1dPfxflARLUekiCm9VHQWnLJ3qab61iMYZM-BcmayMvWXH7LYMHAiI7W-sFM9HVVxNtdI05X-Z8NcdhpIF9qO-Gd_ZFa8-1Xq0lGp1u0QDk8UaoQ17wt6zM=s1198-w567-h1198-s-no?authuser=0)
-
 ## ADO Mobile
 
 ### Organization
 
 I like how this app achieves a huge amount of navigation and data inputs in a relatively straightforward and easy to follow manner.
 
-![](https://lh3.googleusercontent.com/fife/APg5EObmr5grPWAe_HWQsjxnxsTj6yfg2YMPvCbGHm0MmHullq6uXs4cUXXpBWi3Et5lIuYkD0U9sMskmpZSJWGLAaFoUwbvfYY7kxvHtmHFbcObq7dXamHzmRkSkPl0n3FdyYAwdrRoEUf0vRhD28SQymjtjD5UcfnF1UYOoriFbYsfcEhlBBPizMcJmWvFqfV_RSfQecZkYjqUGtwWDSbvGnQ50cc8OtLRvGZzuNqcK6I_AwGVUwJxsNvtW0zSV40EN3NB2nhwYPUzsORfau9Re7VIOH792w82vt6fR5KL671mMRHbZyp3CZptKh4ktLJR0kpwES3lwnptt9NpH3MQjh6QSbOUHJfNPk8vQgK0edkDO-fc0VsSdEIdRcvQVZU3Isy21RfR6wTkGkf9VKXTS4I5qm0MDmxnbdERiJSof2bQxx3aSr_9arIWyGQzrp23cXbVaWvCPrnnRRv07bHCilcB9SWWI4J_7Mkrc2hHGTeEyF5kef5EdULUN_QhiDNhrcpVnII0e_8h9Ey0QPC5Q-y3bJ6SHFu1U61f-dkBWx8SskrOdfjmksnFur8ZrDwWJve-2aWIJ8l-UGDTRyWdj-8sHbh8_rsNe4WaBkaKBqYqKMV2s1QYyctikCxnQ1wDB-etKTajoNTr_0Y_SyzU7jphTCFNvrIDwPXYPgn2ONqKkOA7d456W_jIcNDbcvbasHOXu-GtKd2oEljPvZYhk4QOz3b5wulihpAEYqq7A-2fmaRBAJwxNLFMxnXuoRT7foSEd8mlYWZjXlJBCBbmrxCSOnYHW3jfrU9uPvW5AbFLOIGXH2DOR8gYTCDvwcHnuvVRpWGzo-4-WlZcgfdMQyRQHtqnMc8fs0YC-wYH4SsO2ze9CVRjLe64CBzhUzgy8hbI5hNdlGKIDiVO91iRK5DIc-b9SivEKznPpdq5N4YOEqKs2j9LpZoDEMpToSUKViq7Y2VC0byhk1COfQQGLRWCKId5nkeSbo5OHRybKE4phGg9KGRmrDNq8WQMPCeuvyXK81vfNWKd2Z8x7fOYFnn0oxuVmRUCg34nZgXdAMolFdk_tVDlUiIhtOxEhCU7_dbMCacCtsBfm72ec9lmBm3Lh4Tmfmnf-kJM0YJ4EGbIAlSaack0iiVDg4PNt_7uLfQEHQ1kJqRDLtlrOAv-noT4HaF5TXna0ULVIfYGP5tqJ18c87sNu5v-3RyTdXo5r41S3bx0ROB_iQC7Lt1d3Q8bO84Uv_kt8S-M8wRf-sWeHppZTQsMrcnBfkJqLZmN5xZjYZzk_L6VIwVi4jDPbE5PCbvJi8Xl8C_CQQXxKVq2Rhl36Zlemgd12EvPUzWqnZlQXklBxtKpR0fVzrPKaLEogj9PCr__nNbaa5tbqR0pU3uTGbqeS4UAJ48xpzyTyS1z7hWkQztC0vNRprotjtDSYwTvOEFpgeSfYcKEW7kDZEhvbGgDvv7wQbrXJi_90rkymsncgt8oYzbdMQgTFs-VvQ98X4ij2WtXSgNPDbAvCWEXKvcrqLM5bhRaL4CJGFezWUoo1ysSpnd3Np0SO1Hft4uGUK2nkdAAsGn6ZYsA2rmG3MCVUyqnox09WEN4F-gv49RxCNPM0LlPl2lCc3XLZnd0XCcBICAIrEaSE5ZfjAjLMistCNeKZ7fCeY6WJnF2FmlBwkQc-OA8nlAWw-nk8EnfYG1z19BIPwO6dAmMoG1E0YDrwcpwjk1KfjOLFU2CNDrk0MgQx30jS8YWOOQ4-7X2Vf4COZnYFNJ4CCG_1c4ynnu3bJ7AJrP3TD-jO8Bowvr3MeWd1k57ARePApahJ6tWKLJT2ChOEhmtwAilE4kKIk7YZbyS8gaRxg00F4pck2lp3kdhEhtC6YbRLMiwobikifC664G_tBLeY9cXb1vjsiC2BYIc7B3pm6yHvKrnlvn0VdA8Omg=s1198-w567-h1198-s-no?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AJFCJaWqYR92LUeuaZMEOzAo1nw0Tf59L4Y5GvAQ25NEesNg1GEQ0L5lqr40POHaEWKrUw4F-lL6JtAxuDlNKUdRb3OOChQ7vMkK44oFkWsPk1niwJSkiPdKFxdLEI23zgSjbD-Z5ZbMpmPufTXKLKXyYluNTg=w567-h1198-s-no?authuser=0)
 
 ### Story Boards
 
-![](https://lh3.googleusercontent.com/fife/APg5EOa_gvXcvoS5KNUr0-3hGA8u1ckYHdnLMM-RfxICWGohKg7Jd0sMhPXdj4mi2_TG1-HVKer9nwjDkBC1imCccM4wbWoEvy7sDNGIRWAepVBwdsfMkysKf1JrDkow0r4ajR2ysP5MGxqC80aa8BjFFJkO7KKoO-bltWRARIWIBxqOUwu0duYk3xXewR5QLRefssB5zDTpxbteWDxOY9UMy_8ptK7Ga92m_qJgkOUTBscw0BUMExPQbjts2M8OUFLQChbut9I_ajjJUf5KUKr-8bgVPnEG3_u4ldeXIZJcjVvKw4sv3Dt2ky6M3vvMa1FCNvKykNWhHYPvlgFUofEeZiinaF61FBVAwx21dmER-wBzRJzW4dCa2e9QyjzxoE48DVs46MBoS-NM0S6vSQzHTkFyQTRu2XpoTzV3e51nE0P-xqVAogq27h_h6wCqe0FhhY8sqeJY8_7psVfNG5XSLls-Lys__vQuUNlUn7tMVnXejfgZo6rqwMpzi_GqJZpTY2xmgkUR-TurHe4Sdlqf4aLiDKxe0Ekh4DKqvZ5cqoH8QRFyDdwwhxRGCTzYD0zFX_cStDq2rQR6sstktSA3spgytSnVqEMp-oh0wR_W0OZCp7B_-U-aSZpgYvUTexpRUVkDWLJRbw6W9dQFSGuf8piWqX0LnbhOepV21k1cXcwNoXJfo8Gr1Hn6A-9ahoaR616RrJR17heWV_hEODUA04wlE32EzfVDcuRChI8RldPS2wsamF_Vh_1MULcKI_thbpV6RO_VnQXRx0Hn7jt1HuMQqXvrrHUaXukW_AulaW7Pp3n8h5x-FBjw1dgmAkXgT9tijGboUj5teR489ls3G69Pm97YWvQ4nC8HZp6tYBo2Hrl4gqmxVnJOY-v_qHKuK8v0NhtHBD3tIoB7bhKFzKW-UK06-cr1Pe2J8XapSAyFqBbeAmEh1PiVx77UCQ6TB3j3kL8CL4nM_JEx9dxEHrMFcNhmNGHIvMHx0nYgdACRUFxPEHfuhAitS-rnLstemQBxigxDxyaw0aMTPTFT10tKR0R7kXGJL5JGepVf460HboB_Hcbtmedv04BZLpDiDgDQwhhRglO_dOgKhbeIniRiA40ExyzTbW_fC5ORZ3axj_kvhWESrwwWIO2k4BPtz5Sic19aSG9EU1gkSY_c4U425hKJCLS3pkQXtZqAtyXeQLqTIEu1cxhmUH72jqigX3TRTOyXMQ9Q6TCpGqvhTpaSIDtEUCCW_G7ikz9ESmViTttVjFfUJWD-j9TT8TXvqiwfN1ewM7W6E5htX27fsaTIgz8Bq4I5cqr0hdN5Pbhslrq2HCkZThb73oTZljuPkqH9W6wluxCUGjupyIodnM_aIeUHIT9tPzaOJktDzsiY_M194WetK5bz13qwOsStDesk3MrJKKNIOIPI6eCpifZiDFPswhrK_OXvIaaG8STzzhYMqdqBrHih467a8qeJ54yIeHej2Opsg050x6OtBGPNcBOw0kFkzU9UJUoygGuee7CF53di4DjfFElgzNmut9DqM1qVhf2Bb-fciw5av1R2bZ6VQn7Vf3MvLVCOwprOFoExNGnCImyrv-O6oV3RcXCwKfmg0tsQdtKm9GHUbwuUgvmmMEAWRIwX7Zywkitr6cK9TOB5ORrb9hYrO_a-LLkd91_KSO2FPzyjW1JRPelmwK8hOaqJww5g5hJVWVv_k_DyycMa_g_POC6d730vunE6a_AclzDDR9PwETCQfNppj-gSHGqbJak-atjuH7eArd0CX8ATiiWnMN3895JIGcLg5UKRWlKwzTHrwX742Lk6EGizni1HfVvSJQ6gz8CWulxYNiaHstKnyNg2vEn3jvgG3C1-L6OTUcXqaQW-srCQ19oLNl6BFnTzxHx8bvp0IKpWlaFe_6QSFb7Z0Ph6TsNMi84QESoqz0Q=s1198-w567-h1198-s-no?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AJFCJaU9IVVFETD82rK2gaujpnQQQfz6MGXjb061r3H5I20jaU2zTFukvP6uK_7GgLKkwBruKH4hhuiZsG2Rem-JrUi5QLyyDlZ1o37lDeDCMyBYVcQEDIqdQ2HnHqiwbl2TIAMUTSc-iQZkfnXRmau1NcBIDg=w567-h1198-s-no?authuser=0)
 
 ### Backlogs
 
@@ -339,12 +406,3 @@ The TVDB allows the community to maintain its database. Art gets voted on, and t
 ### Filter (Instant Search)
 
 ![](https://lh3.googleusercontent.com/pw/AJFCJaXK7F_X0HKnNeS8I9ibXUiatZQgRj0TWWsypeCJyhuMaffjM1MXYb-B5UUrEoa3GQuEmBcQ24punC3q56q16-PODSw6lJtx8y9EmVfJD3lobyjAumngAw5YUR81rf7E9LRLMUjX9pi0zWtDH32ngMKKKQ=w594-h1255-s-no?authuser=0)
-
-
-> [!failure]- Failure 
->   Error: Incorrect API key provided: sk-SYe1w***********************************  ****7pbD. You can find your API key at https://platform.openai.com/account/api  -keys.
->  
-
-> [!failure]- Failure 
->   Error: This model's maximum context length is 4097 tokens. However, your messa  ges resulted in 15935 tokens. Please reduce the length of the messages.
->  
