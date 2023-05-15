@@ -3,6 +3,9 @@
 ---
 
 
+- [Rumble](https://rumble.com/v2nt62a-sincere-milk-pastor-jonathan-shelley-stedfast-baptist-church.html?start=840)
+- [God Resource](https://new.godresource.com/video/kJXlAwlWd4Z)
+
 Just as a baby loves breast milk because it can handle that, as a new Christian there are a lot of doctrines in the Bible that you can digest and understand. They need the sincere milk of the word.
 
 Sincere means true, honest, without deceit. A mother who chooses to breastfeed has healthier babies. They desire it more. It’s sincere milk vs formula. Formula is going to cause more gas and digestion issues. Formula will get them through but it’s not going to be ideal. You can use the NASB to get someone saved, but is it ideal?
