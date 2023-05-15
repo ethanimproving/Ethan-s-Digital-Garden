@@ -3,6 +3,12 @@
 ---
 
 
+What is it that causes people to be interested in the things of God? It's amazing to me how much your upbringing influences this. It's very hard to take someone from zero Christian influence in their life to passionate about God. But it does happen, and I'm curious how to reproduce that in the people we win the Christ. How to I incite growth in their life?
+
+One of the things I wanted to do with Mariana is learn how to foster a love for God in new believers. How to we take them from zero to desiring God more than anything else? If I can't figure that out with Mariana, than I probably won't figure it out at all. I want to crack the code and learn what motivates people to seek God and develop a hunger for him.
+
+This is [[Relationship/Relationship Tips#Your Wife Determines Your Success\|Captain Save A Hoe]] mentality, wanting to take a worldly girl and turn her into a traditional, God-fearing wife. But there are also benefits to it. You will learn things from Mariana that you would never have learned from a church girl, because her challenges will force you to think, and once you have a model for understanding the issue, that enables you to communicate to other people that are at her same level. You will learn patience, and it forces you to figure out how to minister to new believers.
+
 # Pray Together
 
 I was having a conversation with my sister about the challenges I was having in discipling Mariana. I expressed that my mission is for her to desire God more than she desires anything else. That she would develop a hunger for him, and take pleasure from being in his presence, drawing near in the Word and in prayer.
