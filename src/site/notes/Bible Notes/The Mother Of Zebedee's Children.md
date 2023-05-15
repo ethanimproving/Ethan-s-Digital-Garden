@@ -3,6 +3,9 @@
 ---
 
 
+- [Rumble](https://rumble.com/v2nqyw4-the-mother-of-zebedees-children-pastor-jonathan-shelley-stedfast-baptist-ch.html)
+- [God Resource](https://new.godresource.com/video/AKjOa7X3yCj)
+
 # 1. She’s selfless
 
 For Jesus to ask what she wants, and she asks for her children shows how selfless mothers are.
