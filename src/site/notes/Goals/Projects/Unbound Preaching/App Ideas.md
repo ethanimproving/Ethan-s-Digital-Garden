@@ -77,6 +77,8 @@ The strategy of Unbound Preaching is to provide uncensored access to the preachi
 -   [pastorandersonsermons.all](https://pastorandersonsermons.allthepreaching.com/dev/index.php)
 -   [servischillzone.org](https://servischillzone.org/)
 -   [ifbtube.com](http://ifbtube.com)
+-   [Google Podcast](https://podcasts.google.com/feed/aHR0cDovL3d3dy5mYWl0aGZ1bHdvcmRiYXB0aXN0Lm9yZy9mYWl0aGZ1bHdvcmRiYXB0aXN0LnJzcw/episode/aHR0cDovL3d3dy50cnVlYm9ybnNvbnMuY29tLzEyMjAwOXAubXAz?sa=X&ved=0CAgQuIEEahcKEwiYkdimt_b-AhUAAAAAHQAAAAAQNQ)
+-   [Google Podcast](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL3NhbmRlcnNvbjE2MTE?sa=X&ved=0CAkQlvsGahcKEwjI2KOut_b-AhUAAAAAHQAAAAAQAQ) 
 
 The main problem with all of these existing apps is the lack of organization. [thepreaching.com](http://thepreaching.com) is the best at this, but it doesn't provide any way for a user to track what he has watched, or where he left off in a sermon. It's also a bit clunky with multiple hamburger menus, and lacks simplicity in the UI. The Faithful Word App Team has [offered the source code of their app](https://www.faithfulwordapp.com/uncategorized/church/) (valued at $6,000) for free.
 
