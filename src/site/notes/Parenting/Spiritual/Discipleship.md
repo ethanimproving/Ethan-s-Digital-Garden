@@ -50,3 +50,10 @@ There were also men in my life that challenged me. And they had a proud look in 
 # Evangelism
 
 I had a really strong desire to get other people saved. I'm not sure where that came from. Maybe AJ, maybe George, maybe Ray Comfort.
+
+# Gently Led
+
+- [Gently Led Sisters](https://www.youtube.com/@GentlyLedSisters/videos) Interview with Suzanne Anderson
+- [[Bible Notes/Sincere Milk\|Sincere Milk]]
+- Pastor Anderson: You can't dump the whole train on them on the first date.
+- [[Papers/Sensitivity As A Persuasive Tactic\|Sensitivity As A Persuasive Tactic]]
