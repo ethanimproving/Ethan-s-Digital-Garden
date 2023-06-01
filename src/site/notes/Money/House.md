@@ -174,7 +174,7 @@ If I continue to live with my parents rent free, I can set aside the money I wou
 | Total Amount Saved   | 0      | ==36127==  | ==72254==  | ==276283== |
 
 
-It would take only ==7 and a half years== instead of 30 years to save for the house if I eliminated interest.
+It would take only ==7 and a half years== instead of 30 years to save for the house if I eliminated interest. However, my life would be on pause for those 7 and a half years, to save only $1290 each month for the remaining 22.5 years. ==I can think of it as buying 7 years of additional life for $1300 a month==. That is most certainly worth it. Time is limited. Money is not limited. Rather than waiting to buy, I will use a certain number of hours to gain social skills, negotiation skills, and algorithms to increase my pay by that amount, which will offset the $1,300. I am using a small number of hours to purchase 7 years. That also eliminates the uncertainty of increased markets. Markets always tend towards an upward trend. It might be feasible that the market will not increase in the next year, but in 2 years it will likely begin trending upwards again. Certainly by 7 years.
 
 # Wise Investments
 
