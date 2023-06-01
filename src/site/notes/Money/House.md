@@ -131,6 +131,7 @@ It's worth noting that interest rates can vary widely based on many factors, so 
 Paying $350,000 with a loan vs $200,000 with cash is just one way of thinking about the issue. You have to be more nuanced than that. If I don't have any money, and it's $5 for a sandwich, would I rather pay $5 for the sandwich tomorrow and just go without food today, or would I rather pay $10 for a sandwich 7 days from now, but I get to eat it today? The question about house loans becomes, "How does the debt negatively affect my quality of life, and how does the house positive effect my quality of life?" You weigh it in the balance. Maybe I have to save $5,000 a month for 5 years in order to pay cash for the house, and I have to wait 5 years to get married. Or what would monthly payment be across 30 years if there was zero interest? And how much more is it with interest? That number is how debt negatively impacts you. Maybe it's only a difference of $300. What can you do with $300? And if $300 extra a month improves your life to a far enough extent, it only takes a $3600 raise (after taxes) to offset the loan's negative effect on your life. So instead of stressing out about finding the perfect deal on a house, buy the one you want, get a loan, stop waiting for a bigger down payment, and focus on improving your specialized skillset to increase the value of your labor hour so that you eliminate the loan's negative effect on your quality of life.
 
 [House Budget.xlsx](https://mysite.aa.com/:x:/g/personal/242924_corpaa_aa_com/EWcS3mTkZ6ZOovQ5j_d9hQYBveOtDzl9hG3hgvKGBBajsg?e=J6ySOh)
+
 | Take Home Pay   | Bi-Weekly | Yearly      | Monthly   | 25%       |
 |-----------------|-----------|-------------|-----------|-----------|
 | Gross           | $3,870.72 | $100,638.72 | $8,386.56 | $2,096.64 |
@@ -157,6 +158,23 @@ $$$2005 - $1223 = $782$$
 The negative effect of a loan on my life is <mark class="hltr-yellow">$782</mark> every month. Assuming I only take 70% of my income home, I would need a <mark class="hltr-yellow">$13,402 raise</mark> to offset the negative effect of the interest on my life. This may change in my favor if I'm able to refinance lower. Also bear in mind homes go up in value, so by waiting you may lose out on potential gains, and that appreciation can also offset the interest.
 
 $$($782/month * 12 months) * 70\% = $13,402$$
+
+## What if I wait to buy?
+
+If I continue to live with my parents rent free, I can set aside the money I would have spent on the mortgage towards a down payment. This would ==reduce the amount of interest I have to pay== over the lifetime of the loan. Below are a few scenarios.
+
+| Months               | 0      | 12     | 24     | 92     |
+|----------------------|--------|--------|--------|--------|
+| Savings/month        | 2005   | 2005   | 2005   | 2005   |
+| Initial Down Payment | 46000  | 46000  | 46000  | 46000  |
+| Amount added         | 0      | 24060  | 48120  | 182455 |
+| Total down payment   | 46000  | 70060  | 94120  | 230460 |
+| Total Interest       | 276283 | 240156 | 204029 | 0      |
+| Monthly Payment      | 2005   | 1837   | 1669   | 715    |
+| Total Amount Saved   | 0      | ==36127==  | ==72254==  | ==276283== |
+
+
+It would take only ==7 and a half years== instead of 30 years to save for the house if I eliminated interest.
 
 # Wise Investments
 
