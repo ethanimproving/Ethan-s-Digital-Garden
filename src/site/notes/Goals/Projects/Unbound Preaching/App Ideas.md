@@ -9,6 +9,7 @@ Every project that takes a vast amount of my time requires that I give careful a
 
 # GitHub Projects
 - [Bible Academy](https://github.com/ethanmiller1/Node.js-and-Express-App)
+- [SermonTube](https://github.com/ethanmiller1/SermonTube.git)
 - [Electronic Preaching Service (ePS)](https://dev.azure.com/UPAIT/ePS/_backlogs/backlog/ePS%20Team/Stories?showParents=true)
 - [Unbound Preaching (UPCom)](https://dev.azure.com/UPAIT/UPCom/_backlogs/backlog/UPCom%20Team/Stories?showParents=true)
 - Unbound Preaching
@@ -26,15 +27,16 @@ The strategy of Unbound Preaching is to provide uncensored access to the preachi
 
 # App Features
 
+[ReactPlayer](https://github.com/cookpete/react-player)
 | File                                                                                                                                                                                                                     | Date                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------- |
 | [[Goals/Projects/Unbound Preaching/Ideas/Why make Bible Academy oriented towards fundamentalist doctrines_\|Why make Bible Academy oriented towards fundamentalist doctrines_]]                                       | Nov 07, 2018, 11:11 AM |
 | [[Goals/Projects/Unbound Preaching/Ideas/Website names\|Website names]]                                                                                                                                               | Jul 19, 2018, 8:07 AM  |
+| [[Goals/Projects/Unbound Preaching/Ideas/Visualization canvas to substitute video\|Visualization canvas to substitute video]]                                                                                         | Aug 20, 2018, 10:08 PM |
 | [[Goals/Projects/Unbound Preaching/Ideas/Website Ideas From Journal Entries\|Website Ideas From Journal Entries]]                                                                                                     | Aug 22, 2018, 5:08 PM  |
 | [[Goals/Projects/Unbound Preaching/Ideas/Toggle background music in sermon jams\|Toggle background music in sermon jams]]                                                                                             | Aug 01, 2018, 9:08 AM  |
-| [[Goals/Projects/Unbound Preaching/Ideas/Visualization canvas to substitute video\|Visualization canvas to substitute video]]                                                                                         | Aug 20, 2018, 10:08 PM |
-| [[Goals/Projects/Unbound Preaching/Ideas/Topic _ Doctrine _ proposition(s) _ argument(s) -- category tags\|Topic _ Doctrine _ proposition(s) _ argument(s) -- category tags]]                                         | Nov 12, 2018, 10:11 AM |
 | [[Goals/Projects/Unbound Preaching/Ideas/Timeline content box\|Timeline content box]]                                                                                                                                 | Jul 19, 2018, 3:07 PM  |
+| [[Goals/Projects/Unbound Preaching/Ideas/Topic _ Doctrine _ proposition(s) _ argument(s) -- category tags\|Topic _ Doctrine _ proposition(s) _ argument(s) -- category tags]]                                         | Nov 12, 2018, 10:11 AM |
 | [[Goals/Projects/Unbound Preaching/Ideas/Serving local files to website\|Serving local files to website]]                                                                                                             | Jan 09, 2019, 4:01 PM  |
 | [[Goals/Projects/Unbound Preaching/Ideas/Take a deep breath circle\|Take a deep breath circle]]                                                                                                                       | Jul 18, 2018, 1:07 PM  |
 | [[Goals/Projects/Unbound Preaching/Ideas/Structured arguments\|Structured arguments]]                                                                                                                                 | Jul 18, 2018, 6:07 AM  |
@@ -42,24 +44,24 @@ The strategy of Unbound Preaching is to provide uncensored access to the preachi
 | [[Goals/Projects/Unbound Preaching/Ideas/Resource Tags\|Resource Tags]]                                                                                                                                               | Nov 09, 2018, 9:11 AM  |
 | [[Goals/Projects/Unbound Preaching/Ideas/Resolving Course Conflicts by Setting as Official Course\|Resolving Course Conflicts by Setting as Official Course]]                                                         | Nov 27, 2018, 9:11 AM  |
 | [[Goals/Projects/Unbound Preaching/Ideas/Mirror YouTube uploads\|Mirror YouTube uploads]]                                                                                                                             | Jul 27, 2018, 10:07 AM |
-| [[Goals/Projects/Unbound Preaching/Ideas/Keyboard and mouse shortcuts\|Keyboard and mouse shortcuts]]                                                                                                                 | Aug 01, 2018, 10:08 AM |
 | [[Goals/Projects/Unbound Preaching/Ideas/Graduation Method for Adopting User-Created Doctrines into Church Practice\|Graduation Method for Adopting User-Created Doctrines into Church Practice]]                     | Sep 12, 2019, 9:09 AM  |
+| [[Goals/Projects/Unbound Preaching/Ideas/Keyboard and mouse shortcuts\|Keyboard and mouse shortcuts]]                                                                                                                 | Aug 01, 2018, 10:08 AM |
 | [[Goals/Projects/Unbound Preaching/Ideas/Goal Tracking Template for Regular Check-Ins\|Goal Tracking Template for Regular Check-Ins]]                                                                                 | Jul 11, 2020, 7:07 AM  |
-| [[Goals/Projects/Unbound Preaching/Ideas/Estimated reading time_ X minutes\|Estimated reading time_ X minutes]]                                                                                                       | Jul 28, 2018, 5:07 PM  |
 | [[Goals/Projects/Unbound Preaching/Ideas/Fast and slow speakers\|Fast and slow speakers]]                                                                                                                             | Dec 23, 2018, 8:12 AM  |
-| [[Goals/Projects/Unbound Preaching/Ideas/Example of doctrinal hierarchy\|Example of doctrinal hierarchy]]                                                                                                             | Aug 23, 2018, 8:08 AM  |
-| [[Goals/Projects/Unbound Preaching/Ideas/Enabling Word Definitions on Hover\|Enabling Word Definitions on Hover]]                                                                                                     | Jul 22, 2019, 5:07 PM  |
+| [[Goals/Projects/Unbound Preaching/Ideas/Estimated reading time_ X minutes\|Estimated reading time_ X minutes]]                                                                                                       | Jul 28, 2018, 5:07 PM  |
 | [[Goals/Projects/Unbound Preaching/Ideas/Embracing the Spirit A Guide to Engaging with Spirit-Filled Preaching\|Embracing the Spirit A Guide to Engaging with Spirit-Filled Preaching]]                               | Jul 25, 2020, 11:07 AM |
+| [[Goals/Projects/Unbound Preaching/Ideas/Enabling Word Definitions on Hover\|Enabling Word Definitions on Hover]]                                                                                                     | Jul 22, 2019, 5:07 PM  |
+| [[Goals/Projects/Unbound Preaching/Ideas/Example of doctrinal hierarchy\|Example of doctrinal hierarchy]]                                                                                                             | Aug 23, 2018, 8:08 AM  |
 | [[Goals/Projects/Unbound Preaching/Ideas/Efficient Note-Taking and Resource Organization Techniques for Enhanced Productivity\|Efficient Note-Taking and Resource Organization Techniques for Enhanced Productivity]] | Jul 06, 2019, 10:07 PM |
-| [[Goals/Projects/Unbound Preaching/Ideas/Daily Listening Plan\|Daily Listening Plan]]                                                                                                                                 | Jul 25, 2018, 9:07 AM  |
-| [[Goals/Projects/Unbound Preaching/Ideas/Doctrinal Libraries\|Doctrinal Libraries]]                                                                                                                                   | Aug 23, 2018, 1:08 PM  |
 | [[Goals/Projects/Unbound Preaching/Ideas/Dependency Tree Of Doctrines\|Dependency Tree Of Doctrines]]                                                                                                                 | Oct 22, 2022, 9:10 AM  |
+| [[Goals/Projects/Unbound Preaching/Ideas/Doctrinal Libraries\|Doctrinal Libraries]]                                                                                                                                   | Aug 23, 2018, 1:08 PM  |
+| [[Goals/Projects/Unbound Preaching/Ideas/Daily Listening Plan\|Daily Listening Plan]]                                                                                                                                 | Jul 25, 2018, 9:07 AM  |
 | [[Goals/Projects/Unbound Preaching/Ideas/Clipping audio files\|Clipping audio files]]                                                                                                                                 | Jul 23, 2018, 7:07 AM  |
-| [[Goals/Projects/Unbound Preaching/Ideas/Calendar of events inside timeline trains\|Calendar of events inside timeline trains]]                                                                                       | Oct 30, 2018, 12:10 PM |
-| [[Goals/Projects/Unbound Preaching/Ideas/Audio Bible text scroll\|Audio Bible text scroll]]                                                                                                                           | Aug 02, 2018, 7:08 AM  |
 | [[Goals/Projects/Unbound Preaching/Ideas/Audio waveform behind time rails\|Audio waveform behind time rails]]                                                                                                         | Aug 09, 2018, 7:08 PM  |
 | [[Goals/Projects/Unbound Preaching/Ideas/Audio visualizer slider\|Audio visualizer slider]]                                                                                                                           | Aug 10, 2018, 7:08 PM  |
 | [[Goals/Projects/Unbound Preaching/Ideas/Amen button on website\|Amen button on website]]                                                                                                                             | Oct 15, 2018, 4:10 PM  |
+| [[Goals/Projects/Unbound Preaching/Ideas/Calendar of events inside timeline trains\|Calendar of events inside timeline trains]]                                                                                       | Oct 30, 2018, 12:10 PM |
+| [[Goals/Projects/Unbound Preaching/Ideas/Audio Bible text scroll\|Audio Bible text scroll]]                                                                                                                           | Aug 02, 2018, 7:08 AM  |
 | [[Attachments/Templates/up-app-idea\|up-app-idea]]                                                                                                                                                                    | Jul 25, 2018, 9:20 AM  |
 
 
@@ -301,7 +303,7 @@ See also: [[Goals/Projects/Unbound Preaching/App Ideas#Faithful Word App (Subspl
 
 I like the idea of displaying 5 churches on the landing page. The church will take you to seasons for that church (years, courses, topics). Each season should have some awesome artwork that's community submitted, like the TVDB. There are users, verified church members, verified admins, etc to keep bad actors out of the picture. There's a hierarchy of privileges assigned to each user role.
 
-![](https://lh3.googleusercontent.com/vtPHLQT0811uQlO0Iv96taBSQ0BxzfwolncCPz05_gSYEgLVRmxhJ79OYX4hW9CvjuBJM154OAjgfSxVAlIfIBT0sB9M76LyQJ3AFKoGANE-pV4rhB8NqDOxyVnDVcIjMcyl1q91BGf5lqMCF4zjhXOPdbf63E3FnH2QZbJvL2ZQJS6p-kAt_L4dRf31FMoVgV7ZtOZErk6hScosGS-XMsF1TyNdGINCLyX2cRcgAYeKZKio0puMFDncUflDsbQtGaZAkR7Ut3l_4QS501PLn4HT-FPzRGVrRaJ-pqfhEF_goRpHX4Yh4bdqDBfpIMPxdqHUKtHO8ujy_4ydOtkkg5RNqlziEBSvH9nQtnIIsTa4EyKskDVUTA2JlxVnJoj5YkaS6SmniL8yWMGgZxGMxDQU_mJypTmm_BfQDoRENZPzkefS7yA0Bmslottf2hLjGb-f-ecFqZFo6wx2eeg8lUvakyJZvtSYoG2MI4xzxNV43WV7a-S1VUtR_DgM8nFB3i2u_HZ1YtXCF1E3gxzBrnPiP_TIELjNTLSpFm7EUaaEwR_JKwBd7QlqCjqS0ajcopk3YBgqbE2u165jzw2H8cZmLl7bE8YUHcReT20wm9nSRzMyag-0nFe7In7fh_X1FG4LdCbf8gCcgzpv65cB-btutPsR7tgP7dudc5Mdi3lAdvz9zkQ7m6M59xLc_yC_69I0uWRqLRF6bzlZ_b-kzagRJBrKX4-t3LtOxaZSIQi4P5J6OjV0RabrDHgqrTFOs5tpeD8k4CSq1PqVvzz5Ny8prPdMjhP32fYRXTmjZz4qGHYpHYhnyaKCLZSTaABl4t7PRtxTiDTqX8ZRwAxuYH0a3cR3oZoYnhRaB5Bi6mcYbwHFLdmkoUG91bmcbMRtOGux3GVlyHxzemJ9AOjKgOL8rweY27EQGErfGBqbCl9x=w567-h1198-s-no?authuser=0)
+home:::![](https://lh3.googleusercontent.com/vtPHLQT0811uQlO0Iv96taBSQ0BxzfwolncCPz05_gSYEgLVRmxhJ79OYX4hW9CvjuBJM154OAjgfSxVAlIfIBT0sB9M76LyQJ3AFKoGANE-pV4rhB8NqDOxyVnDVcIjMcyl1q91BGf5lqMCF4zjhXOPdbf63E3FnH2QZbJvL2ZQJS6p-kAt_L4dRf31FMoVgV7ZtOZErk6hScosGS-XMsF1TyNdGINCLyX2cRcgAYeKZKio0puMFDncUflDsbQtGaZAkR7Ut3l_4QS501PLn4HT-FPzRGVrRaJ-pqfhEF_goRpHX4Yh4bdqDBfpIMPxdqHUKtHO8ujy_4ydOtkkg5RNqlziEBSvH9nQtnIIsTa4EyKskDVUTA2JlxVnJoj5YkaS6SmniL8yWMGgZxGMxDQU_mJypTmm_BfQDoRENZPzkefS7yA0Bmslottf2hLjGb-f-ecFqZFo6wx2eeg8lUvakyJZvtSYoG2MI4xzxNV43WV7a-S1VUtR_DgM8nFB3i2u_HZ1YtXCF1E3gxzBrnPiP_TIELjNTLSpFm7EUaaEwR_JKwBd7QlqCjqS0ajcopk3YBgqbE2u165jzw2H8cZmLl7bE8YUHcReT20wm9nSRzMyag-0nFe7In7fh_X1FG4LdCbf8gCcgzpv65cB-btutPsR7tgP7dudc5Mdi3lAdvz9zkQ7m6M59xLc_yC_69I0uWRqLRF6bzlZ_b-kzagRJBrKX4-t3LtOxaZSIQi4P5J6OjV0RabrDHgqrTFOs5tpeD8k4CSq1PqVvzz5Ny8prPdMjhP32fYRXTmjZz4qGHYpHYhnyaKCLZSTaABl4t7PRtxTiDTqX8ZRwAxuYH0a3cR3oZoYnhRaB5Bi6mcYbwHFLdmkoUG91bmcbMRtOGux3GVlyHxzemJ9AOjKgOL8rweY27EQGErfGBqbCl9x=w567-h1198-s-no?authuser=0)
 
 ## Amazon Prime Video
 
@@ -315,7 +317,7 @@ I like the idea of displaying 5 churches on the landing page. The church will ta
 
 ### Landing Page (Home)
 
-![](https://lh3.googleusercontent.com/pw/AJFCJaXhV9a44o_oAxyJyL3vLjbxmDz9TFW8kra_nCKg0XLTZjMZnfpl6yEFywWikmu2-JeCs4QcWVSS0pEdp-_dDlbTQbZdS0BG4Pb5zL6z-Hjv04YOpQVz3vYtsySXnKIxvylLSPyY5jpkEwCdjn158LI92Q=w594-h1255-s-no?authuser=0)
+home:::![](https://lh3.googleusercontent.com/pw/AJFCJaXhV9a44o_oAxyJyL3vLjbxmDz9TFW8kra_nCKg0XLTZjMZnfpl6yEFywWikmu2-JeCs4QcWVSS0pEdp-_dDlbTQbZdS0BG4Pb5zL6z-Hjv04YOpQVz3vYtsySXnKIxvylLSPyY5jpkEwCdjn158LI92Q=w594-h1255-s-no?authuser=0)
 
 ## Netflix
 
@@ -377,7 +379,7 @@ The TVDB allows the community to maintain its database. Art gets voted on, and t
 
 ### Home
 
-![](https://lh3.googleusercontent.com/pw/AJFCJaXZTd1l4vIPr28EgQ3EqOYB7f4EBiRQE4cg7p3YoSqX3BSmnJ0mWPoYxSzmljBabv0qFdQL2zLYbVEXRnaU2bZ_ukd7UuJe8fFnNStlStr-eAIR-3yLeKLrPalUk1oPXXnXxdVrlsms2rZjs5Gpuo_3hw=w594-h1255-s-no?authuser=0)
+home:::![](https://lh3.googleusercontent.com/pw/AJFCJaXZTd1l4vIPr28EgQ3EqOYB7f4EBiRQE4cg7p3YoSqX3BSmnJ0mWPoYxSzmljBabv0qFdQL2zLYbVEXRnaU2bZ_ukd7UuJe8fFnNStlStr-eAIR-3yLeKLrPalUk1oPXXnXxdVrlsms2rZjs5Gpuo_3hw=w594-h1255-s-no?authuser=0)
 
 ## All Trails
 
