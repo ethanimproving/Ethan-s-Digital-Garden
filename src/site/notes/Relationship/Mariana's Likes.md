@@ -40,3 +40,11 @@ I make good money and we are looking at buying a house. We won't live together u
 She gave me a hint recently that she wants the Starbucks 2023 Recycled Core Mint Glass. I looked at the Starbucks in Target and Kroger, but they didn't have it.
 
 We're both 27, and she's about 7 months older than me. She's the most beautiful and humble girl I've ever met. She always puts other people before herself, and she does everything without complaining. We looked around at the cost of health problems, (financial, stress, time), and agreed that we would not let each other get fat, and make it a priority to go to the gym or play sports to get exercise, and eat a generally healthy (but enjoyable) diet. I don't drink any alcohol, and she's been drinking less since she met me. She has never drank any alcohol around me because I asked her not too, and she was okay with it. 
+
+# Measurements
+
+Chest: 36" - 89cm
+Waist: 31" - 80cm
+Low hip: 38" - 96cm
+
+![](https://lh3.googleusercontent.com/pw/AJFCJaUiAOM_6ulPOAIqdnq_Cp2-gsgbLUtdeU9lA14gu1IaVsUMdOkXHKRydvqZE3Ia_RxKmR7EvZp6OA-tf42eSi2cxHaCMYL_zFEcLuER0aJ2e37rjVt769_F5sRM-82soUSfg1KcSdFKeuskj27j2U2piA=w1179-h410-s-no?authuser=0)
