@@ -30,6 +30,7 @@ Homebot uses an automated valuation model (AVM) to provide an estimated home val
 
 ![](https://i.imgur.com/yEKIlWp.png)
 
+
 # Gyms Close By
 
 | Name | Drive | Price |
@@ -81,7 +82,31 @@ Refer to [[Money/House#Requirements\|House Requirements]]. This table is generat
 | Lowes                  | 15 mins | 8520 S Hampton Rd, Dallas                        |
 
 
-### Renovation
+# Renovation
+
+## Post Visit Ideas
+
+| LvL Beam                                | 800   | 2000          |
+|-----------------------------------------|-------|---------------|
+| Kitchen                                 | 10000 |               |
+| Bathrooms x2                            | 15000 |               |
+| Raising the floor                       | 2500  | $7 / cu ft    |
+| Outside siding / fasha boards           | 15000 |               |
+| Windows                                 | 6400  | $800 / window |
+| Fence                                   | 7000  |               |
+| Retexture                               | 250   |               |
+| Doors                                   | 200   | $100 / door   |
+| Front doors with new sills              | 300   |               |
+| Patch rotting beam in the outside front | 200   |               |
+| New AC                                  | 5000  |               |
+| New carpet/tile                         | 4000  |               |
+| Painting doors                          | 80    |               |
+| Drywall in front fireplace              | 100   |               |
+| Raise fireplace with fireplace          |       |               |
+| Total                                   | 66830 |
+
+
+## Initial Ideas
 
 Will the cost of renovating the house increase the sale price by the same amount or a higher amount?
 
