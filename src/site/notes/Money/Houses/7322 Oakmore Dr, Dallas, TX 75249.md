@@ -28,7 +28,14 @@ Homebot uses an automated valuation model (AVM) to provide an estimated home val
 
 ![](https://lh3.googleusercontent.com/pw/AJFCJaUoFTc9bDRGPamBk8qvHPfYLU_0EgxIgkaWorQh3r_A_-dGbFfSo5LQ1gW8WbTCFJXBNyea6SStqQ_vXDBmLdZ_hJyqRubTL2gn2jQvz78pTwrPVFuuuoIRYF78-5cpmXyxDd1dp9jdRJ1C6sJxM8xyMw=w647-h863-s-no?authuser=0)
 
-![](https://i.imgur.com/yEKIlWp.png)
+## Original
+
+![](https://i.imgur.com/0mTHXcX.png)
+
+## Plan 1
+
+![](https://i.imgur.com/bzoM7kA.png)
+
 
 
 # Gyms Close By
@@ -88,16 +95,16 @@ Refer to [[Money/House#Requirements\|House Requirements]]. This table is generat
 
 | LvL Beam                                | 800   | 2000          |
 |-----------------------------------------|-------|---------------|
-| Kitchen                                 | 10000 |               |
+| Kitchen                                 | ==10000== |               |
 | Bathrooms x2                            | 15000 |               |
-| Raising the floor                       | 2500  | $7 / cu ft    |
-| Outside siding / fasha boards           | 15000 |               |
+| Raising the floor                       | ==2500==  | $7 / cu ft    |
+| Outside siding / fasha boards           | ==15000== |               |
 | Windows                                 | 6400  | $800 / window |
-| Fence                                   | 7000  |               |
+| Fence                                   | ==7000==  |               |
 | Retexture                               | 250   |               |
 | Doors                                   | 200   | $100 / door   |
 | Front doors with new sills              | 300   |               |
-| Patch rotting beam in the outside front | 200   |               |
+| Patch rotting beam in the outside front | ==200==   |               |
 | New AC                                  | 5000  |               |
 | New carpet/tile                         | 4000  |               |
 | Painting doors                          | 80    |               |
