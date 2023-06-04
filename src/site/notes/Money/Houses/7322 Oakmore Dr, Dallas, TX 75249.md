@@ -88,6 +88,40 @@ Refer to [[Money/House#Requirements\|House Requirements]]. This table is generat
 | Home Depot             | 11 mins | 373 E, FM1382, Cedar Hill                        |
 | Lowes                  | 15 mins | 8520 S Hampton Rd, Dallas                        |
 
+## Pros
+
+Reference [[Money/House#Requirements\|House Requirements]].
+
+- 25 minutes from work.
+- 9 minutes from church.
+- 25 minutes from downtown Dallas.
+- Right next to a national park / DORBA trail.
+- Neighborhood of black people, usually receptive to the gospel.
+- 5 minutes from Walmart.
+- 2 minutes from highway.
+- Giant living room.
+- Stable foundation.
+- No buckled sidewalks.
+- Can rent for $2,000/mo.
+
+## Cons
+
+- No volleyball close by.
+- Mostly older poor black people. Not a hip young neighborhood.
+- Short ceiling at the end of slant.
+- Next to a water treatment plant.
+- Barking dogs in neighborhood.
+- Small bathrooms.
+- Possible termite infestation.
+- General uncertainty of potential problems.
+- Lots of cars parked on the street.
+- Kitchen doesn't face outside.
+- Tight hallway to master bedroom.
+- Small backyard.
+- Awkward porch.
+- Doors enter from the side.
+- An hour from North Dallas.
+- Dirtier than North Dallas.
 
 # Renovation
 
@@ -95,46 +129,31 @@ Refer to [[Money/House#Requirements\|House Requirements]]. This table is generat
 
 I only have 48,000 for a down payment. I don't want to take a high interest-rate construction loan out for renovations. However, I do have money budgeted for certain uses that are not urgent. I can loan myself the money and pay it back into those budgeted allocations at zero percent interest.
 
-| Offer            | 200,000 |
-|------------------|---------|
-| Down Payment     | 40,000  |
-| Loan             | 160,000 |
-| Ring             | 11,100  |
-| Car Replacement  | 2,489   |
-| Tithe            | 4,977   |
-| Alex             | 3,610   |
-| Medical          | 533     |
-| Grooming         | 157     |
-| Christmas        | 321     |
-| House Fund       | 8,555   |
-| Renovation Total | ==31,742==   |
-
-
 ## Post Visit Ideas
 
 | File                                                                                               | Cost    | Priority |
 | -------------------------------------------------------------------------------------------------- | ------- | -------- |
-| [[Money/Houses/Renovation Skills/Raising A Sunken Floor\|Raising A Sunken Floor]]               | $2,500  | 3        |
+| [[Money/Houses/Renovation Skills/Buckled Sidewalks\|Buckled Sidewalks]]                         | $0      | 3        |
 | [[Money/Houses/Renovation Skills/Kitchen\|Kitchen]]                                             | $10,000 | 3        |
-| [[Money/Houses/Renovation Skills/Replace Outside Siding\|Replace Outside Siding]]               | $5,000  | 3        |
-| [[Money/Houses/Renovation Skills/Replace Outside Fascia Boards\|Replace Outside Fascia Boards]] | \-      | 3        |
+| [[Money/Houses/Renovation Skills/Raising A Sunken Floor\|Raising A Sunken Floor]]               | $2,500  | 3        |
+| [[Money/Houses/Renovation Skills/Replace Outside Fascia Boards\|Replace Outside Fascia Boards]] | $10,000 | 3        |
+| [[Money/Houses/Renovation Skills/Replace LVL Beam\|Replace LVL Beam]]                           | $1,400  | 3        |
+| [[Money/Houses/Renovation Skills/Replace Fence\|Replace Fence]]                                 | $7,000  | 3        |
+| [[Money/Houses/Renovation Skills/Patch Rotting Beam\|Patch Rotting Beam]]                       | $80     | 2        |
+| [[Money/Houses/Renovation Skills/Replace Outside Siding\|Replace Outside Siding]]               | $5,000  | 2        |
 | [[Money/Houses/Renovation Skills/Replace Windows\|Replace Windows]]                             | $8,000  | 2        |
 | [[Money/Houses/Renovation Skills/Washer Dryer\|Washer Dryer]]                                   | $1,300  | 2        |
 | [[Money/Houses/Renovation Skills/Bathroom\|Bathroom]]                                           | $15,000 | 1        |
-| [[Money/Houses/Renovation Skills/Retexturing An Existing Wall\|Retexturing An Existing Wall]]   | \-      | 1        |
+| [[Money/Houses/Renovation Skills/Paint Doors\|Paint Doors]]                                     | $80     | 1        |
+| [[Money/Houses/Renovation Skills/Retile The Floor\|Retile The Floor]]                           | $4,000  | 1        |
+| [[Money/Houses/Renovation Skills/Retexturing An Existing Wall\|Retexturing An Existing Wall]]   | $200    | 1        |
 | [[Money/Houses/Renovation Skills/Smart Locks\|Smart Locks]]                                     | $200    | 1        |
-| [[Money/Houses/Renovation Skills/Buckled Sidewalks\|Buckled Sidewalks]]                         | \-      | \-       |
-| [[Money/Houses/Renovation Skills/Replace LVL Beam\|Replace LVL Beam]]                           | \-      | \-       |
-| [[Money/Houses/Renovation Skills/Tearing A Wall Down\|Tearing A Wall Down]]                     | \-      | \-       |
-| [[Money/Houses/Renovation Skills/Putting Drywall Up\|Putting Drywall Up]]                       | \-      | \-       |
-| [[Money/Houses/Renovation Skills/Stain Brick\|Stain Brick]]                                     | \-      | \-       |
-| [[Money/Houses/Renovation Skills/Replace Fence\|Replace Fence]]                                 | \-      | \-       |
 | [[Money/Houses/Renovation Skills/Add New Doors\|Add New Doors]]                                 | \-      | \-       |
-| [[Money/Houses/Renovation Skills/Patch Rotting Beam\|Patch Rotting Beam]]                       | $80     | \-       |
 | [[Money/Houses/Renovation Skills/New AC\|New AC]]                                               | \-      | \-       |
-| [[Money/Houses/Renovation Skills/Retile The Floor\|Retile The Floor]]                           | \-      | \-       |
-| [[Money/Houses/Renovation Skills/Paint Doors\|Paint Doors]]                                     | $80     | \-       |
+| [[Money/Houses/Renovation Skills/Putting Drywall Up\|Putting Drywall Up]]                       | \-      | \-       |
 | [[Money/Houses/Renovation Skills/Remove Brick From Fireplace\|Remove Brick From Fireplace]]     | \-      | \-       |
+| [[Money/Houses/Renovation Skills/Stain Brick\|Stain Brick]]                                     | \-      | \-       |
+| [[Money/Houses/Renovation Skills/Tearing A Wall Down\|Tearing A Wall Down]]                     | \-      | \-       |
 
 
 | LvL Beam                                | 800   | 2000          |
