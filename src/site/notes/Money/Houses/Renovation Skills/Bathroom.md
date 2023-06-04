@@ -19,3 +19,7 @@ Contractors:
 4. Customization and Upgrades: Features such as custom cabinetry, special lighting fixtures, luxury shower systems, or unique design elements will add to the overall cost.
     
 5. Permits and Professional Fees: Depending on your location, you may need to obtain permits for the renovation. Additionally, if you work with a designer or architect, their fees will also be a consideration.
+
+# Tile
+
+![](https://www.architectureartdesigns.com/wp-content/uploads/2020/04/1-69-630x1057.jpg)
