@@ -15,6 +15,8 @@
 | [Huel](https://huel.com/account#/billing)                                                                           | $126.50/6 mo |
 | [Tiege Hanley](https://www.tiege.com/account#/account-details)                                                      | $30/mo       |
 | Club4Fitness                                                                                                        | $15/mo       |
+| [Link](https://app.link.com/)                                                                                                        | $0           |
+| [Midjourney](https://www.midjourney.com/account/)                                                                                                        | $10/mo           |
 | Total                                                                                                            | $284.17/mo      |
 
 # Tithing
@@ -31,3 +33,6 @@ God Bless,
 Pastor Jonathan Shelley
 
 ![](https://ci3.googleusercontent.com/mail-img-att/AEXG51n2TWJ8ko8n7KzudC-kfvZ0bDQpogeRq675okWNQ0erTduyIVh119DSP7rDx9ly6knHifJIiizfU-ex-9TBjVS0oIiOHxA8Qpy6ZXvf_G7R0t0sWvRmzY4PS7yCehrSLQS0Ht4VVkhe8WKHrX3Iy1V2UjjVamgqJmmhsZJbNDesX-3cFXh2uLsZLTZinntN4m-wJiEvrfXk4NxFFNZLqCuymsZD_BlQMUmpbb1xCl-lIa8WeFawpCaJAqyTSRtUqcsrzYhtLtmlSdEJmwpRtIRiGaXJkuOxRIzGrUz2kYBrLLzSIsei0DICJ8_0MxkKC7ktAVuZpA0-C4sgGuz7rkG9mspWJJm9hvLjAZbBlEHS6pFajmaXOEHaTlgKubFlsXy-wYGG_nM8S4VxjTNj_OXA_s-EMup_wSaiyEIWQg_g5Y1r4mAkKxDhZWiQw4ZT6fyu1DSaHI3B69W7k79T7IDkRZuJEDWWBBjpHFgvv7XN_7qJDAOzJReZKCaEYh3VD4_Css2Q-D7tiUT-r6VmCb_SOq5tkZOCPl94aHv8MTcDjXE4VAjKCp3rNkkwYN3Vncif1oq0vkb4peyaLP5FrTJ8yAig-GOq9K98CyLiNqm3Q25fjw5m_kEpwN_7RvYYcT_lMrVWCWD92bJz_NChptMjHvA_dtVaHhirciul0rhoYMup2Tu_ajjnsqzSpTzfia-OCoJ0CyHXsqGtbIJq7ug6ImAUR6ZCPNSu5KCOXlXQjenUjthFTZeSrFmO31E7V9kcrVZCAvbykTVrneokWeUxh1vKCQvsWe3dfws8fLwfs9gv_ubo7SOgvJFmoy3OF9CgeTLdGDKm9GYPBVHNogd6T0CXRGNWG3CoGNyjrNPuZ3rnSJgYaaKwT3SfTIIv8DrFIQUzzZvYkZCmtrCmrho-7UvZICbuELvUFPRon_nZ5hofOEeY1I0qx5YCN-9b6_L_IRrW8HzquAw0wYqQ0WzQOMpk5M-nx7lYKQGYY3cmsXOFBKFJHde5BuTVi3bZe1K3DGUdmeh81k7PeacDiLoyVrnsj1Pn6Q1LJ8dKY51h6baRufeJ8g=s0-l75-ft)
+
+
+Design a modern and sleek T-Shirt for our Ticketing and Receipts team, also known as T&R or TNR. The design should be simple and not too crowded. Consider incorporating elements related to our tech stack, which includes Spring Boot, IBM Cloud, Cucumber, and others. We're open to trendy colors such as gray, black, or navy, but feel free to explore other options. We're looking for a design that is cool and makes sense for our team's responsibilities. Pay attention to kerning and avoid basic typography. There are no specific restrictions regarding logo usage or brand identity. Get creative and surprise us with your design! Do not display the actual T-Shirt. I want just the design to put on the T-Shirt myself.
