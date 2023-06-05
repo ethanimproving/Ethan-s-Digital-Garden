@@ -155,7 +155,7 @@ Reference [[Money/House#Requirements\|House Requirements]].
 ## Cons
 
 - No volleyball close by.
-- Mostly older poor black people. Not a hip young neighborhood.
+- Mostly older poor people. Not a hip young neighborhood.
 - Short ceiling at the end of slant.
 - Next to a water treatment plant.
 - Barking dogs in neighborhood.
