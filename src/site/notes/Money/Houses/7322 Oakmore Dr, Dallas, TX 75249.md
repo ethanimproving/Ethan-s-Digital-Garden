@@ -17,16 +17,11 @@ See videos of the house at the end of [this album](https://photos.google.com/u/1
 | Lot Size                                                                                                                   | 6,573 Sq. Ft.                               |
 | Beds                                                                                                                       | 3                                           |
 | Baths                                                                                                                      | 2                                           |
-| Baths                                                                                                                      | 2                                           |
 | price/sqft                                                                                                                 | $146                                            |
 
-# How is your home value estimate calculated?
-
-Homebot uses an automated valuation model (AVM) to provide an estimated home value. The main market data that helps calculate this value are your home details and similar home sale trends in your area.
-31'-6 3/4
 # Floor Plan
 
-![](https://lh3.googleusercontent.com/pw/AJFCJaUoFTc9bDRGPamBk8qvHPfYLU_0EgxIgkaWorQh3r_A_-dGbFfSo5LQ1gW8WbTCFJXBNyea6SStqQ_vXDBmLdZ_hJyqRubTL2gn2jQvz78pTwrPVFuuuoIRYF78-5cpmXyxDd1dp9jdRJ1C6sJxM8xyMw=w647-h863-s-no?authuser=0)
+Brian drew up an [initial floorplan](https://lh3.googleusercontent.com/pw/AJFCJaUoFTc9bDRGPamBk8qvHPfYLU_0EgxIgkaWorQh3r_A_-dGbFfSo5LQ1gW8WbTCFJXBNyea6SStqQ_vXDBmLdZ_hJyqRubTL2gn2jQvz78pTwrPVFuuuoIRYF78-5cpmXyxDd1dp9jdRJ1C6sJxM8xyMw=w647-h863-s-no?authuser=0) in the car and then input the measurements into 3D Home Architect to create the below floorplans.
 
 ## Original
 
@@ -35,6 +30,59 @@ Homebot uses an automated valuation model (AVM) to provide an estimated home val
 ## Plan 1
 
 ![](https://i.imgur.com/bzoM7kA.png)
+
+# Renovation
+
+## Budget
+
+I only have 48,000 for a down payment. I don't want to take a high interest-rate construction loan out for renovations. However, I do have money budgeted for certain uses that are not urgent. I can loan myself the money and pay it back into those budgeted allocations at zero percent interest.
+
+| Down Payment     | 40,000  |
+|------------------|---------|
+| Ring             | 11,100  |
+| Car Replacement  | 2,489   |
+| Tithe            | 4,977   |
+| Alex             | ~~3,610~~   |
+| Medical          | 533     |
+| Grooming         | 157     |
+| Christmas        | 321     |
+| House Fund       | 8,555   |
+| Renovation Total | ==28,132== |
+
+Will the cost of renovating the house increase the sale price by the same amount or a higher amount?
+| File                                                                                             | Cost    | Priority |
+| ------------------------------------------------------------------------------------------------ | ------- | -------- |
+| [[Money/Houses/Renovation Skills/Lighting\|Lighting]]                                         | $1,000  | 3        |
+| [[Money/Houses/Renovation Skills/Buckled Sidewalks\|Buckled Sidewalks]]                       | $0      | 3        |
+| [[Money/Houses/Renovation Skills/Kitchen\|Kitchen]]                                           | $10,000 | 3        |
+| [[Money/Houses/Renovation Skills/Raise Fireplace\|Raise Fireplace]]                           | $0      | 3        |
+| [[Money/Houses/Renovation Skills/Raising A Sunken Floor\|Raising A Sunken Floor]]             | $2,500  | 3        |
+| [[Money/Houses/Renovation Skills/Fence\|Fence]]                                               | $7,000  | 3        |
+| [[Money/Houses/Renovation Skills/LVL Beam\|LVL Beam]]                                         | $1,400  | 3        |
+| [[Money/Houses/Renovation Skills/Outside Fascia Boards\|Outside Fascia Boards]]               | $10,000 | 3        |
+| [[Money/Houses/Renovation Skills/Open Up The Kitchen\|Open Up The Kitchen]]                   | \-      | 3        |
+| [[Money/Houses/Renovation Skills/Patch Rotting Beam\|Patch Rotting Beam]]                     | $150    | 2        |
+| [[Money/Houses/Renovation Skills/Remove Brick From Fireplace\|Remove Brick From Fireplace]]   | $200    | 2        |
+| [[Money/Houses/Renovation Skills/Washer Dryer\|Washer Dryer]]                                 | $1,300  | 2        |
+| [[Money/Houses/Renovation Skills/Door Sills\|Door Sills]]                                     | \-      | 2        |
+| [[Money/Houses/Renovation Skills/Outside Siding\|Outside Siding]]                             | $5,000  | 2        |
+| [[Money/Houses/Renovation Skills/Windows\|Windows]]                                           | $8,000  | 2        |
+| [[Money/Houses/Renovation Skills/Bathroom\|Bathroom]]                                         | $15,000 | 1        |
+| [[Money/Houses/Renovation Skills/Paint Doors\|Paint Doors]]                                   | $80     | 1        |
+| [[Money/Houses/Renovation Skills/Retexturing An Existing Wall\|Retexturing An Existing Wall]] | $200    | 1        |
+| [[Money/Houses/Renovation Skills/Smart Locks\|Smart Locks]]                                   | $200    | 1        |
+| [[Money/Houses/Renovation Skills/Retile The Floor\|Retile The Floor]]                         | $4,000  | 1        |
+| [[Money/Houses/Renovation Skills/New Doors\|New Doors]]                                       | $300    | 1        |
+| [[Money/Houses/Renovation Skills/New AC\|New AC]]                                             | $5000   | 0        |
+| [[Money/Houses/Renovation Skills/Add New Doors\|Add New Doors]]                               | \-      | \-       |
+| [[Money/Houses/Renovation Skills/Putting Drywall Up\|Putting Drywall Up]]                     | \-      | \-       |
+| [[Money/Houses/Renovation Skills/Vault Kitchen Ceiling\|Vault Kitchen Ceiling]]               | \-      | \-       |
+| [[Money/Houses/Renovation Skills/Tearing A Wall Down\|Tearing A Wall Down]]                   | \-      | \-       |
+| [[Money/Houses/Renovation Skills/Stain Brick\|Stain Brick]]                                   | \-      | \-       |
+| [[Money/Houses/Renovation Skills/Kitchen Cabinets\|Kitchen Cabinets]]                         | \-      | \-       |
+| [[Money/Houses/Renovation Skills/Kitchen Counters\|Kitchen Counters]]                         | \-      | \-       |
+| [[Money/Houses/Renovation Skills/Office By Master Bedroom\|Office By Master Bedroom]]         | \-      | \-       |
+
 
 
 
@@ -107,7 +155,7 @@ Reference [[Money/House#Requirements\|House Requirements]].
 ## Cons
 
 - No volleyball close by.
-- Mostly older poor people. Not a hip young neighborhood.
+- Mostly older poor black people. Not a hip young neighborhood.
 - Short ceiling at the end of slant.
 - Next to a water treatment plant.
 - Barking dogs in neighborhood.
@@ -122,139 +170,3 @@ Reference [[Money/House#Requirements\|House Requirements]].
 - Doors enter from the side.
 - An hour from North Dallas.
 - Dirtier than North Dallas.
-
-# Renovation
-
-## Budget
-
-I only have 48,000 for a down payment. I don't want to take a high interest-rate construction loan out for renovations. However, I do have money budgeted for certain uses that are not urgent. I can loan myself the money and pay it back into those budgeted allocations at zero percent interest.
-
-## Post Visit Ideas
-
-| File                                                                                               | Cost    | Priority |
-| -------------------------------------------------------------------------------------------------- | ------- | -------- |
-| [[Money/Houses/Renovation Skills/Buckled Sidewalks\|Buckled Sidewalks]]                         | $0      | 3        |
-| [[Money/Houses/Renovation Skills/Kitchen\|Kitchen]]                                             | $10,000 | 3        |
-| [[Money/Houses/Renovation Skills/Raising A Sunken Floor\|Raising A Sunken Floor]]               | $2,500  | 3        |
-| [[Money/Houses/Renovation Skills/Replace Outside Fascia Boards\|Replace Outside Fascia Boards]] | $10,000 | 3        |
-| [[Money/Houses/Renovation Skills/Replace LVL Beam\|Replace LVL Beam]]                           | $1,400  | 3        |
-| [[Money/Houses/Renovation Skills/Replace Fence\|Replace Fence]]                                 | $7,000  | 3        |
-| [[Money/Houses/Renovation Skills/Patch Rotting Beam\|Patch Rotting Beam]]                       | $80     | 2        |
-| [[Money/Houses/Renovation Skills/Replace Outside Siding\|Replace Outside Siding]]               | $5,000  | 2        |
-| [[Money/Houses/Renovation Skills/Replace Windows\|Replace Windows]]                             | $8,000  | 2        |
-| [[Money/Houses/Renovation Skills/Washer Dryer\|Washer Dryer]]                                   | $1,300  | 2        |
-| [[Money/Houses/Renovation Skills/Bathroom\|Bathroom]]                                           | $15,000 | 1        |
-| [[Money/Houses/Renovation Skills/Paint Doors\|Paint Doors]]                                     | $80     | 1        |
-| [[Money/Houses/Renovation Skills/Retile The Floor\|Retile The Floor]]                           | $4,000  | 1        |
-| [[Money/Houses/Renovation Skills/Retexturing An Existing Wall\|Retexturing An Existing Wall]]   | $200    | 1        |
-| [[Money/Houses/Renovation Skills/Smart Locks\|Smart Locks]]                                     | $200    | 1        |
-| [[Money/Houses/Renovation Skills/Add New Doors\|Add New Doors]]                                 | \-      | \-       |
-| [[Money/Houses/Renovation Skills/New AC\|New AC]]                                               | \-      | \-       |
-| [[Money/Houses/Renovation Skills/Putting Drywall Up\|Putting Drywall Up]]                       | \-      | \-       |
-| [[Money/Houses/Renovation Skills/Remove Brick From Fireplace\|Remove Brick From Fireplace]]     | \-      | \-       |
-| [[Money/Houses/Renovation Skills/Stain Brick\|Stain Brick]]                                     | \-      | \-       |
-| [[Money/Houses/Renovation Skills/Tearing A Wall Down\|Tearing A Wall Down]]                     | \-      | \-       |
-
-
-| LvL Beam                                | 800   | 2000          |
-|-----------------------------------------|-------|---------------|
-| Kitchen                                 | ==10000== |               |
-| Bathrooms x2                            | 15000 |               |
-| Raising the floor                       | ==2500==  | $7 / cu ft    |
-| Outside siding / fasha boards           | ==15000== |               |
-| Windows                                 | 6400  | $800 / window |
-| Fence                                   | ==7000==  |               |
-| Retexture                               | 250   |               |
-| Doors                                   | 200   | $100 / door   |
-| Front doors with new sills              | 300   |               |
-| Patch rotting beam in the outside front | ==200==   |               |
-| New AC                                  | 5000  |               |
-| New carpet/tile                         | 4000  |               |
-| Painting doors                          | 80    |               |
-| Drywall in front fireplace              | 100   |               |
-| Raise fireplace with fireplace          |       |               |
-| Total                                   | 66830 |
-
-
-## Initial Ideas
-
-Will the cost of renovating the house increase the sale price by the same amount or a higher amount?
-
-| Renovation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Estimate   |            |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -----------|------------|
-| [[Shopping/House Ideas/House Renovation Ideas#Paint the Brick White\|Paint brick]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | $350       | $1,000     |
-| Rebrick the house                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | $10,200    | $20,400    |
-| Raise [4" sunken floor](https://photos.google.com/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw/photo/AF1QipOr5e6WfhDam9bAfzzQAqnQFxGjXYU7Rj_8K3yQ?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | $500       | $1,500     |
-| New white cabinets that auto-shut themselves and don't bang (like John Ball's home) to replace [old hanging cabinets](https://photos.google.com/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw/photo/AF1QipMLIoWX0nbgBYTOnxQkqcq6MaqNQpdwf_gPYIFj?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB)  ([1](https://photos.google.com/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw/photo/AF1QipOdB7CAf2FyQcfoXD7TIM4d2VAxgjdVjvBhvkBP?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB))                                                                                                                                                                                                                                                                                                                                                    | $1,000     | $6,000     |
-| Replace [old counters](https://photos.google.com/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw/photo/AF1QipOfXabOsDsRMo9BFFfWVjhF8D69af-51zISQ1Ck?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | $1,000     | $2,500  |
-| Retile with light synthetic wooden floor                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | $3,400     | $8,500     |
-| Remove brick from living room                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | $30        | $350       |
-| Demolish [brick fireplace](https://photos.google.com/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw/photo/AF1QipMe4deD2L3rHh9Imn1PBFX6UqcM_CIiArW1rhei?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB) ([1](https://photos.google.com/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw/photo/AF1QipOlZ7zznys8_FVz16A4CxiBKq62A8gojIX_pFkT?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB), [2](https://photos.google.com/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw/photo/AF1QipOWi5v0LRcVhQyhx_fmYA0-vJEyX9U9BsoQGc5f?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB) [3](https://photos.google.com/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw/photo/AF1QipM-7d4Rhf1GpTMCzhHCBDEzOEUOIS7pgXf6PBw1?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB)), re-plaster with tile | $1,500     | $5,000     |
-| Open space between [dinning room and living room](https://photos.google.com/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw/photo/AF1QipPTcX9zlvLEMeG_fvZQt1s91BAUM37bqaRsU_Jj?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB) ([1](https://photos.google.com/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw/photo/AF1QipMB21rHc_amEcxFzaVOpnZtF7zY0C_LvPqWYO8F?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB)  [2](https://photos.google.com/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw/photo/AF1QipMtQ5Ae3tLHDso_eE_koW-MtH6z3T1bAx0trxsD?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB))                                                                                                                                                                                                            | $700       | $4,500     |
-| Remove wall between [dinning room and office](https://photos.google.com/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw/photo/AF1QipMmdViN_0jm8cjG3ahGgS0kJWv_90ydNE2sQvZ8?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | $700       | $4,500     |
-| Remove wall between [kitchen and other room](https://photos.google.com/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw/photo/AF1QipPf2mB_tIDGxWlw0iV_hNhBw1wQtSmb3D4AujRa?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | $700       | $4,500     |
-| Create a [tile fireplace](https://www.wayfair.com/LiteDeer-Homes--Electric-Fireplace-Insert-VL-L74-K~W008007237.html?refid=GX490221059900-W008007237_870763040&device=c&ptid=1644067871519&network=g&targetid=aud-1614881129180:pla-1644067871519&channel=GooglePLA&ireid=196768249&fdid=1817&PiID%5B%5D=870763040&gclid=Cj0KCQjw2v-gBhC1ARIsAOQdKY2hZWkQRrkyWYkpDTUQz6hKagMAl2O10A2pQJmEJrYAUe0ZrVyw6wwaAnQGEALw_wcB)                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | $2,600  |            |
-| Replace with [electric fireplace](https://www.wayfair.com/Orren-Ellis--Orren-Ellis-60W-Electric-Fireplace-X115237806-L74-K~W004126795.html?refid=GX490221059900-W004126795_1911828921&device=c&ptid=1431915977753&network=g&targetid=aud-1614881129180:pla-1431915977753&channel=GooglePLA&ireid=161776453&fdid=1817&PiID%5B%5D=1911828921&gclid=Cj0KCQjw2v-gBhC1ARIsAOQdKY1I1qx7Z-lGSV5QXRYVopzA6PaHFmnV4HhTiltYYpueQ4l6vL2RTtkaAnRwEALw_wcB)                                                                                                                                                                                                                                                                                                                                                                                                                                                  | $255       |            |
-| Paint [Green Doors](https://photos.google.com/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw/photo/AF1QipPmgyEFBUlpIj3ktyrWus6nmQjc1dIAq9z4pVw0?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | $25        | $50        |
-| Replace [6 old wooden doors](https://photos.google.com/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw/photo/AF1QipNtxkjqj2gDzPnpwShLA6ENUDe_u7hqWrFwUXJ5?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | $180       | $480       |
-| Replace [3 parallel windows](https://photos.google.com/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw/photo/AF1QipPhxxjHksiLuRNa-5CugP8M9ISjEMs2ztL0lOXc?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB) with one big window or two bigger windows                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | $1,200     | $3,300     |
-| What is this [glass door](https://photos.google.com/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw/photo/AF1QipPezaflNLA0Z_dQTDzIhIa7Mcbd68HCAIALf301?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB)?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | $0         |            |
-| [[Shopping/House Ideas/House Renovation Ideas#Zarascape\|Zarascape]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |            |            |
-| Picket Fence like Dad's                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | $1,500     | $3,000     |
-| Total Estimated Costs:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | $25,840    | $65,580    |
-
-#### Sunken Floor
-
-![](https://lh3.googleusercontent.com/pw/AMWts8BbGDh6iUYrB18EYlZIjPQz0j4d9Lc5dQ-yAw_cXsNiSBd-Mz0wp8_9gD1tk5o5cDOrXp2scWYN4YP78edUTlRXU2RxW4j9qMLBfVJ0eJspbxKHIOMMG0kPU4qo1G1Df-_ucIZVuBaF2mPQ_X_9b4I_uQ=w1254-h941-s-no?authuser=0)
-
-#### Old Hanging Cabinets
-
-![](https://lh3.googleusercontent.com/pw/AMWts8DXW_CkkObx7klTWrcZh9TBBCDFhLFrKzQjFucoy0jk04usJ0_h0br8zDgrAkihmS4C3NK8EUEtcfwXw2kEpuJbiw3Swcr6ZSlE5x7DaV7ZFK7qpQEOKep4xHGGBcOD5-pngUBqLsTl8m78kcXsMxxpag=w1254-h941-s-no?authuser=0)
-
-![](https://lh3.googleusercontent.com/pw/AMWts8DoSAxwDUDum3tjkQh1pr30flBU_SvVEQRorrx8_gGEp9K2kdkfSgucsoK8OONdUn_CfaYBV2dg2BoEEBuuWX5XzwDM3giHVu3DRdfCfXlPJmv7vHro5FWEe8YQJSLe2TRW3uan6cp5UzkY6Ijg8DVFmw=w1254-h941-s-no?authuser=0)
-
-#### Old Counters
-
-![](https://lh3.googleusercontent.com/pw/AMWts8CuO0Fr6jNlGaq2jaBE-XC78TM1EZAFk-W0_9rB0xQX-papD7MlaNkBb0rhjzTDotB5-M0owVh_RtQEdBLvEfLjdXX7WWRQroPA4mp__4vXFbvJ1C0O-5lkoTCNwCAxs0LNBw43zr7OuYjhAPunP_81Xg=w1254-h941-s-no?authuser=0)
-
-#### Old Brick Fireplace
-
-![](https://lh3.googleusercontent.com/pw/AMWts8CLiF3IPWRX1oxok_SsJcRjGWfsdRGQU1f31gsAqafvolklJZfDo-7-hjj2F5t0goQpmmOUcR68oVy9K8AKh2cO8oDnNCfxIqavgGo9lvqUxvtamAMGGe1HGHS_C_W3VujXMYb5GB69auS5TArD5SlGaQ=w1254-h941-s-no?authuser=0)
-
-![](https://lh3.googleusercontent.com/pw/AMWts8DTZgYwiyOBXwJalS-1_wAFT9SulL8KNdYn8Aphc_B_ZTFIkUnWC-9ptMps28wk0hypnN_zieojb3shRdlwotqh0-Z-qYinWA5Qx2QNc0cdTrdC-1Fxx2Nqx18VbaSP0JaFAcSvG50n7JiIgxLHgH82kQ=w1254-h941-s-no?authuser=0)
-
-![](https://lh3.googleusercontent.com/pw/AMWts8DNGL2OlpzL7raDDm8o6tUz--6GtVrDBzeoMqe_amvU5XSXc1Iox4hUIU6VI1C4j9DiHPmCE3e6fLQxJ5VqCWlvS1az9E8oBDJSLUN9JlpUB4xWdTzCUV1PhN3-emBqARtYdj_B_Ao3iog_CawHQ615sg=w1254-h941-s-no?authuser=0)
-
-![](https://lh3.googleusercontent.com/pw/AMWts8AhmxaEyhc2phhqNfa6dqhjDUkPTFkTxZQKwD8teOG3629EWOOeNBx96NEbuKEOvfRrZaSxYco8hY0JADCvmFMDrdTlLpm8650hs8cWig0sMiB9CeNABj1tQPGwKyyfRbNFzmAB5mGC5hIhJXde9srGEA=w1254-h941-s-no?authuser=0)
-
-#### Walls to come down
-
-![](https://lh3.googleusercontent.com/pw/AMWts8A1bXPYujQLreWJTV8koTEKCuaNBENoZf-x1-MVgiToqRaOwXLQkEiG2BV8pxR2BieJlR0czja3gvmI-ht_P7JriMKkFx2LIvRFqFXRnbK1rXCFt4RuOkLOyOejDqGmY0vDOmUwYAyF2ayVt12tjWtHsw=w1254-h941-s-no?authuser=0)
-
-![](https://lh3.googleusercontent.com/pw/AMWts8Dm96Uvh3byRmw7MyR5B3jhIFX0sJ1Luh7OrLwEqoqe24H4Yrk8GMq0eqA6jx1XnzJE3NPXIPNMKTpylJUtvEPg7nLT4-xalVJmMpZkT7abGsUW3JZWTf175bV1f6s1RuGbXWM66B3ViKcVepi2A9Lndg=w1254-h941-s-no?authuser=0)
-
-![](https://lh3.googleusercontent.com/pw/AMWts8AeqfnwoeK0todRqEqkFL5fOKrXW6NXXNPn4zHKqjiJgldG6kohkCoIpwR4nfdhHDvV-_sDA_2f_rzeoMYQ8OU9eVEW-0hiDSud-zs82P7S74k4M7wHrH7FUrQ0DlKW2tO-e_2TeARjFM-BVSEf9iB7vw=w1254-h941-s-no?authuser=0)
-
-![](https://lh3.googleusercontent.com/pw/AMWts8C-dU9ia8bjvCXpuJVpxMKdgZEgQV9TlMW3xJu6L8F47MCq9YXF2UTzMRSFnn6DFTqg6xtbyGPJS02OXKjwg_JX42vUeDRXdMjMjd8TxqaLk8UzGBzwa8I_ti43lq6hZCKG4gVcjOiD_Dv6z-vBiUuONQ=w1254-h941-s-no?authuser=0)
-
-![](https://lh3.googleusercontent.com/pw/AMWts8BLsETVyupGdssR6SmGhWM2U4rhGDIue68IxIYr0OYg8hnJq5zNfFYwfhgp054O7MUCLNuc_ZlmdNx7K51zCv0Jx9IiAlEaOYko2cGl9bfOCAIfTqtcfvVyfAWK2-MYbLQ-oeaYcalW0ZAV6ulrzNDrhQ=w1254-h941-s-no?authuser=0)
-
-#### Paint Brick
-
-1.  Paint: Depending on the type of paint you choose and the number of coats needed, you can expect to spend between $100 and $300 for paint.
-    
-2.  Equipment: You will need to rent or purchase a sprayer, which can cost anywhere from $50 to $200 per day. You will also need brushes, rollers, tarps, and other supplies, which can add up to around $100 to $200.
-    
-3.  Preparation: You will need to pressure wash the brick to remove dirt and grime, and possibly repair any cracks or damage. This will require equipment rental and materials, which can cost around $100 to $300.
-    
-4.  Total cost: Taking all of these factors into account, the total cost to paint the outside brick of a 1700 square foot house can range from $350 to $1000.
-
-However, it's important to note that painting brick can be tricky, and if it's not done properly, it can cause problems such as peeling, chipping, and water damage. It may be worth considering hiring a professional painter to ensure that the job is done correctly and the results are long-lasting.
-
-#### Rebrick the house
-
-The cost to rebrick a 1700 square foot house will depend on various factors such as the type of bricks used, labor costs, and any additional work that needs to be done.
-
-Assuming a cost of around $6 to $12 per square foot for brick materials and an average labor cost of around $30 to $60 per hour, the cost to rebrick a 1700 square foot house could range from $10,200 to $20,400 for materials and labor alone.
-
-However, it's important to note that this is just an estimate, and the actual cost could be higher or lower depending on the specifics of the project. Other factors that could impact the cost include the complexity of the project, the need for any additional work like demolition or structural repairs, and the availability and cost of materials and labor in your area. It's best to get a few quotes from professional bricklayers to get a more accurate estimate for your specific project.
