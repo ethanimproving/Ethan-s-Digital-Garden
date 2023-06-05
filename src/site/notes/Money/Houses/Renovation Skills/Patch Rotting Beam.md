@@ -46,7 +46,7 @@ There is a small amount of water damage visible in [this video](https://photos.a
 6. [System Three QuickCure - $22.95](https://www.systemthree.com/products/quick-cure-5-minute-epoxy)
 7. [DEWALT Electric Sander - $63.91](https://www.amazon.com/DEWALT-Electric-Sander-Orbital-DWE6411/dp/B01ALMMJH8)
 	- Brian has one I could borrow
-8. [System Three SculpWood Paste - 18:45](https://www.systemthree.com/products/sculpwood-spreadable-epoxy-paste)
+8. [System Three SculpWood Paste - $18.45](https://www.systemthree.com/products/sculpwood-spreadable-epoxy-paste)
 
 ![](https://www.systemthree.com/cdn/shop/products/sculpwood-putty-885297_600x.jpg?v=1677711659)
 
