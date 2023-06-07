@@ -3,6 +3,7 @@
 ---
 
 
+Luckily insurance is covering the roof, which includes the fascia boards. You always replace the fascia boards before the roo
 
 # Oakmore
 
