@@ -92,8 +92,6 @@ Weight 1-5, tally Ethan and Mariana
 | [[Money/Houses/Lennar Trinity West, Dallas\|Lennar Trinity West, Dallas]]                             | 320,000 | \-    |
 
 
-Dallas, TX 75212
-
 ### Land Value
 
 - Texas A&M Real Estate Center
