@@ -78,13 +78,18 @@ Weight 1-5, tally Ethan and Mariana
 
 - [New Home Source](https://www.newhomesource.com/community/tx/euless/harston-woods-by-harston-woods/125500?refer=gppc402&gclid=CjwKCAjwvpCkBhB4EiwAujULMjsgk6LqL_SSzt1NdX_IgBimJbY-mptJTtvKZjnltbise0v9wOHQIBoCOsYQAvD_BwE)
 
-| File                                                                                       | Cost    | Sq Ft |
-| ------------------------------------------------------------------------------------------ | ------- | ----- |
-| [[Money/Houses/Enchanted Bay\|Enchanted Bay]]                                           | \-      | \-    |
-| [[Money/Houses/3707 Spence St Dallas, TX 75215\|3707 Spence St Dallas, TX 75215]]       | 239,900 | 1,933 |
-| [[Money/Houses/4601 Owenwood Ave Dallas, TX 75223\|4601 Owenwood Ave Dallas, TX 75223]] | 242,900 | 1,220 |
-| [[Money/Houses/2719 Hector St Dallas, TX 75210\|2719 Hector St Dallas, TX 75210]]       | 292,000 | 1,578 |
-| [[Money/Houses/Lennar Trinity West, Dallas\|Lennar Trinity West, Dallas]]               | 320,000 | \-    |
+| File                                                                                                     | Cost    | Sq Ft |
+| -------------------------------------------------------------------------------------------------------- | ------- | ----- |
+| [[Money/Houses/Enchanted Bay\|Enchanted Bay]]                                                         | \-      | \-    |
+| [[Money/Houses/3707 Spence St Dallas, TX 75215\|3707 Spence St Dallas, TX 75215]]                     | 239,900 | 1,933 |
+| [[Money/Houses/4601 Owenwood Ave Dallas, TX 75223\|4601 Owenwood Ave Dallas, TX 75223]]               | 242,900 | 1,220 |
+| [[Money/Houses/3926 Metropolitan Avenue Dallas, TX 75210\|3926 Metropolitan Avenue Dallas, TX 75210]] | 249,900 | 2,075 |
+| [[Money/Houses/7322 Oakmore Dr, Dallas, TX 75249\|7322 Oakmore Dr, Dallas, TX 75249]]                 | 260,000 | 1,780 |
+| [[Money/Houses/2719 Hector St Dallas, TX 75210\|2719 Hector St Dallas, TX 75210]]                     | 292,000 | 1,578 |
+| [[Money/Houses/2704 Lucky St Dallas, TX 75241\|2704 Lucky St Dallas, TX 75241]]                       | 295,000 | 1,600 |
+| [[Money/Houses/2208 E Kiest Blvd Dallas, TX 75216\|2208 E Kiest Blvd Dallas, TX 75216]]               | 304,900 | 1,641 |
+| [[Money/Houses/620 Elwayne Ave Dallas, TX 75217\|620 Elwayne Ave Dallas, TX 75217]]                   | 310,000 | 1,600 |
+| [[Money/Houses/Lennar Trinity West, Dallas\|Lennar Trinity West, Dallas]]                             | 320,000 | \-    |
 
 
 Dallas, TX 75212
