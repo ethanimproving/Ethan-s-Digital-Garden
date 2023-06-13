@@ -60,6 +60,9 @@ Weight 1-5, tally Ethan and Mariana
 
 ## House Searches
 
+- [Homes.com](https://www.homes.com/homes-for-sale/?sk=o5smmHd_QvEsGpjOLMwrWP3h8KE2oHWGTD3GDR2pHSE&bb=hjl0s33n2Jh8ymj7-B) - 77 homes
+- [Zillow](https://www.zillow.com/homes/for_sale/?searchQueryState=%7B%22mapBounds%22%3A%7B%22north%22%3A33.07575422481558%2C%22south%22%3A32.428982559326734%2C%22east%22%3A-96.60893936279295%2C%22west%22%3A-97.21250076416014%7D%2C%22isMapVisible%22%3Atrue%2C%22filterState%22%3A%7B%22beds%22%3A%7B%22min%22%3A3%7D%2C%22baths%22%3A%7B%22min%22%3A2%7D%2C%22apa%22%3A%7B%22value%22%3Afalse%7D%2C%22mf%22%3A%7B%22value%22%3Afalse%7D%2C%22sort%22%3A%7B%22value%22%3A%22globalrelevanceex%22%7D%2C%22tow%22%3A%7B%22value%22%3Afalse%7D%2C%22manu%22%3A%7B%22value%22%3Afalse%7D%2C%22land%22%3A%7B%22value%22%3Afalse%7D%2C%22con%22%3A%7B%22value%22%3Afalse%7D%2C%22apco%22%3A%7B%22value%22%3Afalse%7D%2C%22price%22%3A%7B%22max%22%3A300000%7D%2C%22mp%22%3A%7B%22max%22%3A1489%7D%7D%2C%22isListVisible%22%3Atrue%2C%22customRegionId%22%3A%22ffc44641f7X1-CR1nvfk4x69kkp1_1a8jdl%22%2C%22mapZoom%22%3A11%2C%22pagination%22%3A%7B%7D%7D) - 211 homes
+
 [Zillow House Listings](https://www.zillow.com/homes/for_sale/?searchQueryState=%7B%22mapBounds%22%3A%7B%22north%22%3A33.07575422481558%2C%22south%22%3A32.428982559326734%2C%22east%22%3A-96.60893936279295%2C%22west%22%3A-97.21250076416014%7D%2C%22isMapVisible%22%3Atrue%2C%22filterState%22%3A%7B%22beds%22%3A%7B%22min%22%3A3%7D%2C%22baths%22%3A%7B%22min%22%3A2%7D%2C%22apa%22%3A%7B%22value%22%3Afalse%7D%2C%22mf%22%3A%7B%22value%22%3Afalse%7D%2C%22sort%22%3A%7B%22value%22%3A%22globalrelevanceex%22%7D%2C%22tow%22%3A%7B%22value%22%3Afalse%7D%2C%22manu%22%3A%7B%22value%22%3Afalse%7D%2C%22land%22%3A%7B%22value%22%3Afalse%7D%2C%22con%22%3A%7B%22value%22%3Afalse%7D%2C%22apco%22%3A%7B%22value%22%3Afalse%7D%2C%22price%22%3A%7B%22max%22%3A300000%7D%2C%22mp%22%3A%7B%22max%22%3A1489%7D%7D%2C%22isListVisible%22%3Atrue%2C%22customRegionId%22%3A%22ffc44641f7X1-CR1nvfk4x69kkp1_1a8jdl%22%2C%22mapZoom%22%3A11%2C%22pagination%22%3A%7B%7D%7D) near Dallas based on [[Money/House#Ideal Living Location\|#Ideal Living Location]] boundaries:
 ![](https://i.imgur.com/R1cbu08.png)
 
@@ -79,18 +82,19 @@ Weight 1-5, tally Ethan and Mariana
 - [New Home Source](https://www.newhomesource.com/community/tx/euless/harston-woods-by-harston-woods/125500?refer=gppc402&gclid=CjwKCAjwvpCkBhB4EiwAujULMjsgk6LqL_SSzt1NdX_IgBimJbY-mptJTtvKZjnltbise0v9wOHQIBoCOsYQAvD_BwE)
 
 My two best options are probably [[Money/Houses/7322 Oakmore Dr, Dallas, TX 75249\|Oakmore]] and [[Money/Houses/2719 Hector St Dallas, TX 75210\|Hector]]. Possibly [[Money/Houses/Lennar Trinity West, Dallas\|Lennar]] depending on amenities, but it would raise my monthly payment to $2,700.
-| File                                                                                                     | Cost    | Sq Ft |
-| -------------------------------------------------------------------------------------------------------- | ------- | ----- |
-| [[Money/Houses/Enchanted Bay\|Enchanted Bay]]                                                         | \-      | \-    |
-| [[Money/Houses/3707 Spence St Dallas, TX 75215\|3707 Spence St Dallas, TX 75215]]                     | 239,900 | 1,933 |
-| [[Money/Houses/4601 Owenwood Ave Dallas, TX 75223\|4601 Owenwood Ave Dallas, TX 75223]]               | 242,900 | 1,220 |
-| [[Money/Houses/3926 Metropolitan Avenue Dallas, TX 75210\|3926 Metropolitan Avenue Dallas, TX 75210]] | 249,900 | 2,075 |
-| [[Money/Houses/7322 Oakmore Dr, Dallas, TX 75249\|7322 Oakmore Dr, Dallas, TX 75249]]                 | 260,000 | 1,780 |
-| [[Money/Houses/2719 Hector St Dallas, TX 75210\|2719 Hector St Dallas, TX 75210]]                     | 292,000 | 1,578 |
-| [[Money/Houses/2704 Lucky St Dallas, TX 75241\|2704 Lucky St Dallas, TX 75241]]                       | 295,000 | 1,600 |
-| [[Money/Houses/2208 E Kiest Blvd Dallas, TX 75216\|2208 E Kiest Blvd Dallas, TX 75216]]               | 304,900 | 1,641 |
-| [[Money/Houses/620 Elwayne Ave Dallas, TX 75217\|620 Elwayne Ave Dallas, TX 75217]]                   | 310,000 | 1,600 |
-| [[Money/Houses/Lennar Trinity West, Dallas\|Lennar Trinity West, Dallas]]                             | 320,000 | \-    |
+| File                                                                                                                                 | Cost    | Sq Ft |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ------- | ----- |
+| [[Money/Houses/Enchanted Bay\|Enchanted Bay]]                                                                                     | \-      | \-    |
+| [[Money/Houses/109 W Mountain Creek Dr Unit 13 Grand Prairie, TX 75052\|109 W Mountain Creek Dr Unit 13 Grand Prairie, TX 75052]] | 210,000 | 1,540 |
+| [[Money/Houses/3707 Spence St Dallas, TX 75215\|3707 Spence St Dallas, TX 75215]]                                                 | 239,900 | 1,933 |
+| [[Money/Houses/4601 Owenwood Ave Dallas, TX 75223\|4601 Owenwood Ave Dallas, TX 75223]]                                           | 242,900 | 1,220 |
+| [[Money/Houses/3926 Metropolitan Avenue Dallas, TX 75210\|3926 Metropolitan Avenue Dallas, TX 75210]]                             | 249,900 | 2,075 |
+| [[Money/Houses/7322 Oakmore Dr, Dallas, TX 75249\|7322 Oakmore Dr, Dallas, TX 75249]]                                             | 260,000 | 1,780 |
+| [[Money/Houses/2719 Hector St Dallas, TX 75210\|2719 Hector St Dallas, TX 75210]]                                                 | 292,000 | 1,578 |
+| [[Money/Houses/2704 Lucky St Dallas, TX 75241\|2704 Lucky St Dallas, TX 75241]]                                                   | 295,000 | 1,600 |
+| [[Money/Houses/2208 E Kiest Blvd Dallas, TX 75216\|2208 E Kiest Blvd Dallas, TX 75216]]                                           | 304,900 | 1,641 |
+| [[Money/Houses/620 Elwayne Ave Dallas, TX 75217\|620 Elwayne Ave Dallas, TX 75217]]                                               | 310,000 | 1,600 |
+| [[Money/Houses/Lennar Trinity West, Dallas\|Lennar Trinity West, Dallas]]                                                         | 320,000 | \-    |
 
 
 ### Land Value
