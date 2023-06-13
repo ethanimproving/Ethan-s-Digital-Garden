@@ -74,6 +74,21 @@ Weight 1-5, tally Ethan and Mariana
 - 503 Katherine Ct, Duncanville, TX 75137 - [$210,000](https://www.zillow.com/homedetails/503-Katherine-Ct-Duncanville-TX-75137/26988880_zpid/)
 - 4236 Wilshire Blvd, Dallas, TX 75241 - [$245,000](https://www.zillow.com/homedetails/4236-Wilshire-Blvd-Dallas-TX-75241/26877814_zpid/)
 
+## New Build / Communities
+
+- [New Home Source](https://www.newhomesource.com/community/tx/euless/harston-woods-by-harston-woods/125500?refer=gppc402&gclid=CjwKCAjwvpCkBhB4EiwAujULMjsgk6LqL_SSzt1NdX_IgBimJbY-mptJTtvKZjnltbise0v9wOHQIBoCOsYQAvD_BwE)
+
+| File                                                                                       | Cost    | Sq Ft |
+| ------------------------------------------------------------------------------------------ | ------- | ----- |
+| [[Money/Houses/Enchanted Bay\|Enchanted Bay]]                                           | \-      | \-    |
+| [[Money/Houses/3707 Spence St Dallas, TX 75215\|3707 Spence St Dallas, TX 75215]]       | 239,900 | 1,933 |
+| [[Money/Houses/4601 Owenwood Ave Dallas, TX 75223\|4601 Owenwood Ave Dallas, TX 75223]] | 242,900 | 1,220 |
+| [[Money/Houses/2719 Hector St Dallas, TX 75210\|2719 Hector St Dallas, TX 75210]]       | 292,000 | 1,578 |
+| [[Money/Houses/Lennar Trinity West, Dallas\|Lennar Trinity West, Dallas]]               | 320,000 | \-    |
+
+
+Dallas, TX 75212
+
 ### Land Value
 
 - Texas A&M Real Estate Center
