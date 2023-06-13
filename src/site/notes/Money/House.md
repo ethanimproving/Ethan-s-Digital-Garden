@@ -78,6 +78,7 @@ Weight 1-5, tally Ethan and Mariana
 
 - [New Home Source](https://www.newhomesource.com/community/tx/euless/harston-woods-by-harston-woods/125500?refer=gppc402&gclid=CjwKCAjwvpCkBhB4EiwAujULMjsgk6LqL_SSzt1NdX_IgBimJbY-mptJTtvKZjnltbise0v9wOHQIBoCOsYQAvD_BwE)
 
+My two best options are probably [[Money/Houses/7322 Oakmore Dr, Dallas, TX 75249\|Oakmore]] and [[Money/Houses/2719 Hector St Dallas, TX 75210\|Hector]]. Possibly [[Money/Houses/Lennar Trinity West, Dallas\|Lennar]] depending on amenities, but it would raise my monthly payment to $2,700.
 | File                                                                                                     | Cost    | Sq Ft |
 | -------------------------------------------------------------------------------------------------------- | ------- | ----- |
 | [[Money/Houses/Enchanted Bay\|Enchanted Bay]]                                                         | \-      | \-    |
