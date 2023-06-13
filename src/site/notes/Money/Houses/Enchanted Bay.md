@@ -8,6 +8,8 @@
 [Enchanted Bay](https://legendhomeshouston.com/communities/enchanted-bay) - [5600 Shore Point Trail
 Fort Worth, 76119](https://goo.gl/maps/SBtgWb2QddRXCfzMA)
 
+[5725 Willamette Dr, Fort Worth, TX 76119](https://www.homes.com/property/5725-willamette-dr-fort-worth-tx/wcdqcj3bygwrd/)
+
 # Places Close By
 
 | Place                  | Drive   | Location                                         |
