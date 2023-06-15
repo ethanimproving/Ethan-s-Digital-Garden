@@ -5,6 +5,8 @@
 
 # Balloon Payment
 
+AKA: Owner Financing
+
 Carol's mom is the bank, getting the interest. She got $975 a month on the interest. For 5 years. They might give you a point or 2 below the going interest rate. They stand to make a lot more money on the house.
 
 A $200,000, for 5 years I'm paying it down at the rate we agree on, so that at the end of 5 years, I will take out a smaller loan to pay them. If they give me a great deal on the house or a great interest rate they stand to make more money on the house. Ask them what they're looking at.
@@ -85,16 +87,22 @@ My two best options are probably [[Money/Houses/7322 Oakmore Dr, Dallas, TX 7524
 | File                                                                                                                                 | Cost    | Sq Ft |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------- | ----- |
 | [[Money/Houses/Enchanted Bay\|Enchanted Bay]]                                                                                     | \-      | \-    |
+| [[Money/Houses/Stone Creek Community by Starlight Homes\|Stone Creek Community by Starlight Homes]]                               | \-      | \-    |
 | [[Money/Houses/109 W Mountain Creek Dr Unit 13 Grand Prairie, TX 75052\|109 W Mountain Creek Dr Unit 13 Grand Prairie, TX 75052]] | 210,000 | 1,540 |
 | [[Money/Houses/3707 Spence St Dallas, TX 75215\|3707 Spence St Dallas, TX 75215]]                                                 | 239,900 | 1,933 |
 | [[Money/Houses/4601 Owenwood Ave Dallas, TX 75223\|4601 Owenwood Ave Dallas, TX 75223]]                                           | 242,900 | 1,220 |
 | [[Money/Houses/3926 Metropolitan Avenue Dallas, TX 75210\|3926 Metropolitan Avenue Dallas, TX 75210]]                             | 249,900 | 2,075 |
 | [[Money/Houses/7322 Oakmore Dr, Dallas, TX 75249\|7322 Oakmore Dr, Dallas, TX 75249]]                                             | 260,000 | 1,780 |
+| [[Money/Houses/Lennar Skyline Estates Watermill\|Lennar Skyline Estates Watermill]]                                               | 271,999 | \-    |
 | [[Money/Houses/2719 Hector St Dallas, TX 75210\|2719 Hector St Dallas, TX 75210]]                                                 | 292,000 | 1,578 |
 | [[Money/Houses/2704 Lucky St Dallas, TX 75241\|2704 Lucky St Dallas, TX 75241]]                                                   | 295,000 | 1,600 |
 | [[Money/Houses/2208 E Kiest Blvd Dallas, TX 75216\|2208 E Kiest Blvd Dallas, TX 75216]]                                           | 304,900 | 1,641 |
 | [[Money/Houses/620 Elwayne Ave Dallas, TX 75217\|620 Elwayne Ave Dallas, TX 75217]]                                               | 310,000 | 1,600 |
-| [[Money/Houses/Lennar Trinity West, Dallas\|Lennar Trinity West, Dallas]]                                                         | 320,000 | \-    |
+| [[Money/Houses/Lennar Trinity West, Dallas\|Lennar Trinity West, Dallas]]                                                         | 320,000 | 1,685 |
+| [[Money/Houses/Heritage Park by Brightland Homes\|Heritage Park by Brightland Homes]]                                             | 329,990 | \-    |
+| [[Money/Houses/Lake Ridge Commons by CB JENI Homes\|Lake Ridge Commons by CB JENI Homes]]                                         | 355,000 | \-    |
+| [[Money/Houses/Tenison Village by Ashton Woods\|Tenison Village by Ashton Woods]]                                                 | 366,000 | \-    |
+| [[Money/Houses/Rolling Meadows by Bloomfield Homes\|Rolling Meadows by Bloomfield Homes]]                                         | 366,990 | 1840  |
 
 
 ### Land Value
