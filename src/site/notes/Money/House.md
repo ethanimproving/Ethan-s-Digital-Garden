@@ -86,14 +86,18 @@ Weight 1-5, tally Ethan and Mariana
 My two best options are probably [[Money/Houses/7322 Oakmore Dr, Dallas, TX 75249\|Oakmore]] and [[Money/Houses/2719 Hector St Dallas, TX 75210\|Hector]]. Possibly [[Money/Houses/Lennar Trinity West, Dallas\|Lennar]] depending on amenities, but it would raise my monthly payment to $2,700.
 | File                                                                                                                                 | Cost    | Sq Ft |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------- | ----- |
-| [[Money/Houses/Enchanted Bay\|Enchanted Bay]]                                                                                     | \-      | \-    |
 | [[Money/Houses/Stone Creek Community by Starlight Homes\|Stone Creek Community by Starlight Homes]]                               | \-      | \-    |
+| [[Money/Houses/Enchanted Bay\|Enchanted Bay]]                                                                                     | \-      | \-    |
 | [[Money/Houses/109 W Mountain Creek Dr Unit 13 Grand Prairie, TX 75052\|109 W Mountain Creek Dr Unit 13 Grand Prairie, TX 75052]] | 210,000 | 1,540 |
 | [[Money/Houses/3707 Spence St Dallas, TX 75215\|3707 Spence St Dallas, TX 75215]]                                                 | 239,900 | 1,933 |
 | [[Money/Houses/4601 Owenwood Ave Dallas, TX 75223\|4601 Owenwood Ave Dallas, TX 75223]]                                           | 242,900 | 1,220 |
+| [[Money/Houses/Renovation Skills/1523 Garza Ave, Dallas, TX 75216\|1523 Garza Ave, Dallas, TX 75216]]                             | 246,000 | 1,694 |
 | [[Money/Houses/3926 Metropolitan Avenue Dallas, TX 75210\|3926 Metropolitan Avenue Dallas, TX 75210]]                             | 249,900 | 2,075 |
 | [[Money/Houses/7322 Oakmore Dr, Dallas, TX 75249\|7322 Oakmore Dr, Dallas, TX 75249]]                                             | 260,000 | 1,780 |
 | [[Money/Houses/Lennar Skyline Estates Watermill\|Lennar Skyline Estates Watermill]]                                               | 271,999 | \-    |
+| [[Money/Houses/2927 Gospel Dr, Dallas, TX, 75237\|2927 Gospel Dr, Dallas, TX, 75237]]                                             | 274,990 | 1,616 |
+| [[Money/Houses/7724 Arkan Pkwy, Dallas, TX, 75241\|7724 Arkan Pkwy, Dallas, TX, 75241]]                                           | 279,900 | 1,672 |
+| [[Money/Houses/2325 N Carrier Pkwy, Grand Prairie, TX, 75050\|2325 N Carrier Pkwy, Grand Prairie, TX, 75050]]                     | 289,000 | 1,835 |
 | [[Money/Houses/2719 Hector St Dallas, TX 75210\|2719 Hector St Dallas, TX 75210]]                                                 | 292,000 | 1,578 |
 | [[Money/Houses/2704 Lucky St Dallas, TX 75241\|2704 Lucky St Dallas, TX 75241]]                                                   | 295,000 | 1,600 |
 | [[Money/Houses/2208 E Kiest Blvd Dallas, TX 75216\|2208 E Kiest Blvd Dallas, TX 75216]]                                           | 304,900 | 1,641 |
