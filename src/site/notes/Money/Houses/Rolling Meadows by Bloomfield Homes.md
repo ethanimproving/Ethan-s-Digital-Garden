@@ -5,6 +5,8 @@
 
 [Rolling Meadows](https://www.bloomfieldhomes.com/community-detail/Rolling-Meadows-155103) 
 
+What I like about it is that the Willow is the cheapest house in the neighborhood. You'd rather have a bad house in a good neighborhood than a good house in a bad neighborhood. So the other houses will increase the value of my house. It doesn't appear to have any amenities however.
+
 # Map View
 
 ![](https://i.imgur.com/Uw7uWMx.png)
