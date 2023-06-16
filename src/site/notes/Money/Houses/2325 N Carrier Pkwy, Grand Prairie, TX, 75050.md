@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/money/houses/2325-n-carrier-pkwy-grand-prairie-tx-75050/","tags":["homes2023"],"created":"Jun 15, 2023, 1:53 PM","updated":""}
+{"dg-publish":true,"permalink":"/money/houses/2325-n-carrier-pkwy-grand-prairie-tx-75050/","tags":["homes2023","nixed"],"created":"Jun 15, 2023, 1:53 PM","updated":""}
 ---
 
 
@@ -12,6 +12,10 @@ The place has a lot of trees. It will be a chore to rake the leaves. It is also 
 ![](https://ap.rdcpix.com/50685e4a5c14984b7cad4bc18f83d099l-m2012096360od-w640_h480_x2.webp?w=640&q=75)
 
 ![](https://ap.rdcpix.com/50685e4a5c14984b7cad4bc18f83d099l-m4067529340od-w640_h480_x2.webp?w=640&q=75)
+
+# Negations
+
+It's too old and would require too many renovations.
 
 # Map View
 
