@@ -13,6 +13,8 @@ Nothing looks blatantly awful like some of the other locations. There's definite
 
 It's have a nice view. We see the Town Home's back. They are much smaller than mine. Probably poor people will live there. But it's okay to be poor when you're starting out. They could still be hard working and ambitious and have a good mentality. It's important not to judge a book before reading it.
 
+There are no sidewalks but Stacey didn't have them growing up either, and she turned out fine. They just walked on the roads in her small farm town.
+
 ![](https://i.imgur.com/8xfoqgg.png)
 
 ![](https://i.imgur.com/gPG45kx.png)
