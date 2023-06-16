@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/money/houses/tenison-village-by-ashton-woods/","tags":["homes2023"],"created":"Jun 14, 2023, 11:57 PM","updated":""}
+{"dg-publish":true,"permalink":"/money/houses/tenison-village-by-ashton-woods/","tags":["homes2023","expensive"],"created":"Jun 14, 2023, 11:57 PM","updated":""}
 ---
 
 
@@ -9,7 +9,7 @@ Price range: $366,000 - $477,000
 
 # Negations
 
-- Expensive
+- Expensive ($3000 monthly payment + $70,000 Down Payment)
 - Close to the highway
 
 # Map View
@@ -52,3 +52,9 @@ Seems to be in a good location. A little close to the highway, but would have to
 | CVS                    | 3 mins  | 6004 Samuell Blvd, Dallas                        |
 | Home Depot             | 15 mins | 11255 Garland Rd, Dallas                         |
 | Lowes                  | 17 mins | 11333 E NW Hwy, Dallas                           |
+
+# Plans
+
+## Republic
+
+![](https://marvel-b1-cdn.bc0a.com/f00000000167941/aw-web-production.s3.amazonaws.com/9z8j2x5snyu50t4nrgwhfmf2nm7z)
