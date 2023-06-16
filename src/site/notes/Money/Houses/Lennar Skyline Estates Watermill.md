@@ -51,3 +51,19 @@ It's right next to an auto parts company which I don't like.
 | CVS                    | 17 mins | 1225 N Bluegrove Rd, Lancaster                              |
 | Home Depot             | 14 mins | 12005 Elam Rd, Balch Springs                                |
 | Lowes                  | 15 mins | 8520 S Hampton Rd, Dallas                                   |
+
+# Plans
+
+## Fullerton II
+
+[Fullerton II](https://www.lennar.com/new-homes/texas/dallas-ft-worth/princeton/cypress-creek/watermill-collection/fullerton-ii)
+
+![](https://cdn.lennar.net/api/images/images/elevations_v10/7554/63701/63701_eleA_lg.png?d=20230608T151454Z&w=1050)
+
+![](https://cdn.lennar.net/api/images/images/floorplans_v10/7554/63701/63701_flpDFW_3011_FP_FullertonII_Watermill_SierraVista_Overlay_lg.svg?d=20230608T151454Z&w=2100)
+
+## Fullerton
+
+![](https://cdn.lennar.net/api/images/images/elevations_v10/5253/57700/57700_eleAD8_lg.png?d=20230518T174701Z&w=1050)
+
+![](https://cdn.lennar.net/api/images/images/floorplans_v10/5253/57700/57700_flpDFW_BluebonnetEstates_FP_Fullerton_3411_1302_Overlay_lg.svg?d=20230518T174701Z&w=2100)
