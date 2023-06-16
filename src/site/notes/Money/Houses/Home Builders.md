@@ -28,3 +28,22 @@ While popularity can vary over time, here are 15 well-known home builders that h
 A list of home builders currently building new construction homes in the DFW area is available on [NewHomeSource](https://www.newhomesource.com/builders/tx/dallas-area). The list includes 281 homebuilders currently building new construction homes in 933 communities.
 
 ![](https://i.imgur.com/hEbMUIk.png)
+
+
+
+
+# Real Estate Agent
+
+you do not necessarily need a realtor to see a house. In many cases, you can schedule a viewing or attend an open house without the assistance of a real estate agent. However, there are certain benefits to having a realtor represent you during the home buying process.
+
+Here are some points to consider:
+
+1. **Access to listings**: A realtor can provide you with access to the [Multiple Listing Service (MLS)](https://www.mls.com/Search/Texas.mvc), which is a comprehensive database of available properties. They can help you find suitable listings that meet your criteria.
+    
+2. **Market knowledge**: Realtors have a deep understanding of the local real estate market. They can provide insights into neighborhood trends, property values, and comparable sales, which can be valuable when evaluating a house.
+    
+3. **Negotiation expertise**: Realtors are skilled negotiators who can represent your interests during price negotiations and other aspects of the home buying process. They can help you get the best possible deal and navigate potential challenges.
+    
+4. **Paperwork and legalities**: Buying a house involves a significant amount of paperwork and legal documentation. A realtor can guide you through the process, ensure all necessary forms are completed correctly, and help you understand the terms and conditions.
+    
+5. **Professional network**: Realtors often have connections with other professionals involved in real estate transactions, such as lenders, inspectors, and attorneys. They can provide recommendations and coordinate these services on your behalf.
