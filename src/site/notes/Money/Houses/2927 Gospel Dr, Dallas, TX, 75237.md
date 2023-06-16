@@ -21,7 +21,7 @@ This is in a really good location, close to civilization. There's a mall, plenty
 |------------------------|---------|--------------------------------------------------|
 | Home                   | 50 mins | 1310 Leeward Ln, Wylie, TX 75098                 |
 | Church                 | 13 mins | 332 Texas St, Cedar Hill, TX 75104               |
-| Work                   | 29 mins | 1 Transformation Way, Fort Worth, TX 76155       |
+| Work                   | 27 mins | 1 Transformation Way, Fort Worth, TX 76155       |
 | Airport                | 27 mins | 2400 Aviation Dr, Dallas, TX 75261               |
 | Six Flags              | 29 mins | 2201 E Road to Six Flags St, Arlington, TX 76011 |
 | Kroger                 | 11 mins | 200 W Camp Wisdom Rd, Duncanville                |
