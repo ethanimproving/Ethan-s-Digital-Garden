@@ -21,3 +21,32 @@ It's a much nicer neighborhood than any of the others so far. There are no sidew
 
 # Distances
 
+| Place                  | Drive   | Location                                                |
+|------------------------|---------|---------------------------------------------------------|
+| Home                   | 54 mins | 1310 Leeward Ln, Wylie, TX 75098                        |
+| Church                 | 12 mins | 332 Texas St, Cedar Hill, TX 75104                      |
+| Work                   | 25 mins | 1 Transformation Way, Fort Worth, TX 76155              |
+| Airport                | 24 mins | 2400 Aviation Dr, Dallas, TX 75261                      |
+| Six Flags              | 25 mins | 2201 E Road to Six Flags St, Arlington, TX 76011        |
+| Kroger                 | 5 mins  | 200 W Camp Wisdom Rd, Duncanville                       |
+| Walmart                | 3 mins  | 7075 W Wheatland Rd, Dallas                             |
+| Sprouts                | 12 mins | 362 E Farm to Market Rd 1382, Cedar Hill                |
+| Costco                 | 12 mins | 250 W Hwy 67, Duncanville                               |
+| ALDI                   | 3 mins  | 333 S Cedar Ridge Dr, Duncanville                       |
+| Chick-fil-A            | 10 mins | Mahler Student Center, 3000 Mountain Creek Pkwy, Dallas |
+| Chipotle Mexican Grill | 4 mins  | 300 S Clark Rd, Duncanville                             |
+| Taco Bueno             | 11 mins | 445 N Clark Rd, Cedar Hill                              |
+| Texas Road House       | 13 mins | 2490 I-20 Frontage Rd, Grand Prairie                    |
+| Starbucks              | 5 mins  | 633 W Wheatland Rd, Duncanville                         |
+| Trail                  | 5 mins  | 8991-8999 Isom Ln, Dallas                               |
+| Pool                   | 3 mins  | 703 N Cedar Ridge Dr, Duncanville                       |
+| Planet Fitness         | 11 mins | 3200 W Camp Wisdom Rd, Dallas                           |
+| Park                   | 0 mins  | Quail Run Park, Duncanville                             |
+| Ross                   | 14 mins | 330 N Hwy 67, Cedar Hill                                |
+| TJ Max                 | 17 mins | 4225 S Cooper St, Arlington                             |
+| Volleyball Court       | 4 mins  | 515 Hill City Dr, Duncanville                           |
+| Basketball Court       | 4 mins  | 515 Hill City Dr, Duncanville                           |
+| Tennis Court           | 8 mins  | 1313 High Pointe Ln, Cedar Hill                         |
+| CVS                    | 4 mins  | 603 S Cedar Ridge Dr, Duncanville                       |
+| Home Depot             | 10 mins | 2901 W Wheatland Rd, Dallas                             |
+| Lowes                  | 11 mins | 8520 S Hampton Rd, Dallas                               |
