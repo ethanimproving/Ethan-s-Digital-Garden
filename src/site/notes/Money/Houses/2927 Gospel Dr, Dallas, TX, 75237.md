@@ -1,11 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/money/houses/2927-gospel-dr-dallas-tx-75237/","tags":["homes2023"],"created":"Jun 15, 2023, 1:13 PM","updated":""}
+{"dg-publish":true,"permalink":"/money/houses/2927-gospel-dr-dallas-tx-75237/","tags":["homes2023","pending"],"created":"Jun 15, 2023, 1:13 PM","updated":""}
 ---
 
 
 [2927 Gospel Dr, Dallas, TX, 75237](https://www.realtor.com/realestateandhomes-detail/2927-Gospel-Dr_Dallas_TX_75237_M77512-76148?cid=eml_saf_property_photo)
 
 ![](https://ap.rdcpix.com/472a1633fc902e6063dad76d5cebd714l-m3130246877od-w480_h360_x2.webp?w=640&q=75)
+
+# Negations
+
+The house is pending.
 
 # Map View
 
