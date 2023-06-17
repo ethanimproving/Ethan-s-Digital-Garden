@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/money/houses/3926-metropolitan-avenue-dallas-tx-75210/","tags":["homes2023"],"created":"Jun 12, 2023, 8:33 PM","updated":""}
+{"dg-publish":true,"permalink":"/money/houses/3926-metropolitan-avenue-dallas-tx-75210/","tags":["homes2023","pending"],"created":"Jun 12, 2023, 8:33 PM","updated":""}
 ---
 
 
@@ -9,4 +9,4 @@
 
 # Negations
 
-It is pending. That means a buyer is already in the process of purchasing the home, which means it's unavailable for me to purchase. Because homes are like women. If someone else owns it, you shouldn't get involved.
+**It is pending**. That means a buyer is already in the process of purchasing the home, which means it's unavailable for me to purchase. Because homes are like women. If someone else owns it, you shouldn't get involved.
