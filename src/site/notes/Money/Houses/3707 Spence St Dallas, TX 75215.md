@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/money/houses/3707-spence-st-dallas-tx-75215/","tags":["homes2023"],"created":"Jun 12, 2023, 8:11 PM","updated":""}
+{"dg-publish":true,"permalink":"/money/houses/3707-spence-st-dallas-tx-75215/","tags":["homes2023","nixed"],"created":"Jun 12, 2023, 8:11 PM","updated":""}
 ---
 
 
