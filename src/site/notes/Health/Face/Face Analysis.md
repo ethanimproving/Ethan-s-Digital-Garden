@@ -20,3 +20,23 @@ Face ratings
 - Short 
 
 ## Tight Hyoid Skin
+
+![](https://i.imgur.com/unAlHwe.png)
+
+## Chin Philtrum Ratio
+
+![](https://i.imgur.com/dzPJwBW.png)
+
+![](https://i.imgur.com/jeJbcbS.png)
+
+## Equal Thirds of Jaw
+
+![](https://i.imgur.com/G7dVkSt.png)
+
+![](https://i.imgur.com/U1de3An.png)
+
+## Chin Projection
+
+![](https://i.imgur.com/e4paQTj.png)
+
+![](https://i.imgur.com/jsyf4DH.png)
