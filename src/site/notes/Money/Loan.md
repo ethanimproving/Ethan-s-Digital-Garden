@@ -51,6 +51,12 @@ Dave Ramsey recommends that homeowners save and budget for property taxes and in
 Ramsey's perspective is that ==escrow accounts can sometimes lead to complacency in budgeting and financial planning==. He encourages homeowners to proactively manage their finances and take an active role in saving for future expenses.
 
 
+# Rocket Mortgage
+
+![](https://i.imgur.com/66SbJud.png)
+
+![](https://i.imgur.com/pGeUPIq.png)
 
 
-
+## Pages
+- [Approval Amount](https://apply.rocketmortgage.com/purchase/streamline/approval/approved-amount)
