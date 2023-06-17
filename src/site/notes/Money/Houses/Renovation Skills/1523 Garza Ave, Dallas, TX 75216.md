@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/money/houses/renovation-skills/1523-garza-ave-dallas-tx-75216/","tags":["homes2023"],"created":"Jun 15, 2023, 12:57 PM","updated":""}
+{"dg-publish":true,"permalink":"/money/houses/renovation-skills/1523-garza-ave-dallas-tx-75216/","tags":["homes2023","pending"],"created":"Jun 15, 2023, 12:57 PM","updated":""}
 ---
 
 
@@ -8,6 +8,8 @@
 ![](https://ap.rdcpix.com/74a545c11613586aff2777fae35cef03l-m1668634648od-w480_h360_x2.webp?w=640&q=75)
 
 # Negations
+
+**This house is already pending**.
 
 That one has restricted income requirements. Don't know what they are but something with affordable housing unit so guessing Ethan may not qualify, and must live there for 5 years.
 
