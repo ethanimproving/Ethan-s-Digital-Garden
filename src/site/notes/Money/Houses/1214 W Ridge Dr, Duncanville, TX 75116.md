@@ -15,6 +15,8 @@ It's a much nicer neighborhood than any of the others so far. There are no sidew
 
 ![](https://i.imgur.com/Nx7J0Db.png)
 
+![](https://photos.zillowstatic.com/fp/f42f6f9925056272e1b74953a451c0c0-uncropped_scaled_within_1536_1152.webp)
+
 ![](https://i.imgur.com/GTjdWft.jpg)
 
 # Distances
