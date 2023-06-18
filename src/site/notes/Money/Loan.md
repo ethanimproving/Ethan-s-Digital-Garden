@@ -8,6 +8,7 @@
 ## Used By Caleb
 - [Churchill Mortgage](https://www.churchillmortgage.com/)
 - [Service First Mortgage](https://sfmc.com/)
+- [Lennar Mortgage](https://www.lennarmortgage.com/chezgarza)
 
 ## Recommended by ChatGPT
 1. [Wells Fargo Home Mortgage](https://www.wellsfargo.com/mortgage/): Wells Fargo is one of the largest mortgage lenders in the United States, offering a range of mortgage options and services.
@@ -60,3 +61,46 @@ Ramsey's perspective is that ==escrow accounts can sometimes lead to complacency
 
 ## Pages
 - [Approval Amount](https://apply.rocketmortgage.com/purchase/streamline/approval/approved-amount)
+
+# Lennar Mortgage
+
+Congratulations! Your information has been submitted, and a loan officer will reach out to you for your next steps.
+
+**In the meantime, please upload the below documentation through your Lennar Mortgage Customer Portal:**
+
+**ID Verification:**
+
+- You will receive a text message shortly to complete your ID verification for your loan application.
+- You will need a copy of a valid official State Photo ID or Passport. Check to make sure your ID is not expired, and your picture is visible.
+
+**Current Paystubs:**
+
+Depending on how frequently you are paid, we need the following paystubs:
+
+- Monthly - Provide 1 most recent paystub
+- Bi-Monthly - Provide 2 most recent paystubs
+- Every 2 weeks - Provide 3 most recent paystubs
+- Weekly - Provide 5 most recent paystubs
+
+**W-2 Forms:**
+
+- Provide two most recent years W-2 forms from all employers. 
+- If Self Employed: Provide 1 year most recent tax returns with all schedules.
+
+**Asset Statements:**
+
+- If you did not digitally import your bank accounts during the application process, please upload 2 months full bank statements (most recent & all pages). 
+
+ **Please upload requested documents within 24 hours to avoid any delays.**
+
+**Tips for providing documents:**
+
+**Acceptable Format:**
+
+- Do not upload screenshots or photos of documents.
+- Please provide scanned / PDF documents only. If you do not have a scanner, you can download a free app such as Cam Scanner or Turbo Scan
+- These apps will allow you to take photos of documents and convert them to a PDF format.
+
+**Complete Documents:**
+
+- Provide all pages for any multiple page documents even if the pages are blank.
