@@ -25,3 +25,7 @@
 ## Crows Foot
 
 ![](https://www.all-wall.com/SSP%20Applications/NetSuite%20Inc.%20-%20SCA%202019.1/Development/Item%20Images/6732_media_2.jpg)
+
+# Contractor or DIY
+
+Carlos quoted me $11,500, which is reasonable given the amount of time it would take him, but retexturing a wall is not highly skilled work, it just takes a lot of time. **I would be paying him for his time, not his skills**. It makes more sense to pay him to do the higher skilled jobs, and take care of the low-skill jobs myself.
