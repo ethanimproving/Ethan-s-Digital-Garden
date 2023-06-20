@@ -104,3 +104,21 @@ Depending on how frequently you are paid, we need the following paystubs:
 **Complete Documents:**
 
 - Provide all pages for any multiple page documents even if the pages are blank.
+
+# Rocket Mortgage
+
+## Underwriting
+
+An **underwriting** refers to the evaluation and ==assessment of a borrower's financial information== and the associated risks by a lender or financial institution. It is a crucial step to determine whether the borrower qualifies for a loan and to establish the terms and conditions of that loan.
+
+During the underwriting process, the lender examines various factors such as the borrower's ==credit history, income, employment stability, debt-to-income ratio, and the value of the collateral (if applicable)==. The lender analyzes this information to assess the borrower's ability to repay the loan and to determine the level of risk involved in lending money to them.
+
+Based on the underwriting analysis, the lender decides whether to approve the loan application, how much money to lend, the interest rate to charge, and any other conditions or requirements for the loan. This process helps the lender make informed decisions and reduces the chances of granting loans to borrowers who may have difficulty repaying them.
+
+## Bank Statements
+
+2 Wealthfront [Documents](https://www.wealthfront.com/documents)
+2 Charles Schwab [Documents](https://client.schwab.com/app/accounts/statements/#/Document/AllDocuments)
+2 Texans Credit Union [Statements](https://my.texanscu.org/StandardSso/LanveraSSO)
+
+![](https://i.imgur.com/hrjulK8.png)
