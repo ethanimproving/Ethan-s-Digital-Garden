@@ -76,15 +76,15 @@ Will the cost of renovating the house increase the sale price by the same amount
 | [[Money/Houses/Renovation Skills/New AC\|New AC]]                                                     | $5000   | 0        |
 | [[Money/Houses/Renovation Skills/Outside Fascia Boards\|Outside Fascia Boards]]                       | $2,500  | 0        |
 | [[Money/Houses/Renovation Skills/Patch Rotting Beam\|Patch Rotting Beam]]                             | $150    | 0        |
-| [[Money/Houses/Renovation Skills/Raising A Sunken Floor\|Raising A Sunken Floor]]                     | $2,500  | 0        |
 | [[Money/Houses/Renovation Skills/Raise Fireplace\|Raise Fireplace]]                                   | $0      | 0        |
-| [[Money/Houses/Renovation Skills/Buckled Sidewalks\|Buckled Sidewalks]]                               | $0      | \-       |
+| [[Money/Houses/Renovation Skills/Raising A Sunken Floor\|Raising A Sunken Floor]]                     | $2,500  | 0        |
 | [[Money/Houses/Renovation Skills/1523 Garza Ave, Dallas, TX 75216\|1523 Garza Ave, Dallas, TX 75216]] | 246,000 | \-       |
+| [[Money/Houses/Renovation Skills/Buckled Sidewalks\|Buckled Sidewalks]]                               | $0      | \-       |
 | [[Money/Houses/Renovation Skills/Office By Master Bedroom\|Office By Master Bedroom]]                 | \-      | \-       |
 | [[Money/Houses/Renovation Skills/Putting Drywall Up\|Putting Drywall Up]]                             | \-      | \-       |
-| [[Money/Houses/Renovation Skills/Vault Kitchen Ceiling\|Vault Kitchen Ceiling]]                       | \-      | \-       |
-| [[Money/Houses/Renovation Skills/Tearing A Wall Down\|Tearing A Wall Down]]                           | \-      | \-       |
 | [[Money/Houses/Renovation Skills/Stain Brick\|Stain Brick]]                                           | \-      | \-       |
+| [[Money/Houses/Renovation Skills/Tearing A Wall Down\|Tearing A Wall Down]]                           | \-      | \-       |
+| [[Money/Houses/Renovation Skills/Vault Kitchen Ceiling\|Vault Kitchen Ceiling]]                       | \-      | \-       |
 
 
 
