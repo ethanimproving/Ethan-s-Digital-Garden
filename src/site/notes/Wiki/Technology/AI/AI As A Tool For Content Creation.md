@@ -45,3 +45,7 @@ Go to YouTube and see what's trending about what you want to talk about. Run it,
 # Punctuate YouTube Transcript
 
 Can you add punctuation and grammar to this YouTube transcript and remove the line breaks and timestamps?
+
+# Auto-generate Shorts for TikTok
+
+- [Klap](https://klap.app/)
