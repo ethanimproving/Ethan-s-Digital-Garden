@@ -33,11 +33,11 @@
 
 # Advice
 
-1. The only type of loan you are interested in is a conventional fixed rate mortgage.
-2. Get them to quote you different time periods (30, 20, 15 year). I regret not getting them to quote me 20 year.
-3. Have an idea of sale price, how much you are putting down.
-4. Make sure there is no prepayment penalty.
-5. If you can avoid having an escrow, do it even if there is a small fee.
+1. The only type of loan you are interested in is a **conventional fixed rate** mortgage.
+2. Get them to quote you different time periods (30, 20, 15 year). I regret not getting them to quote me **20 year**.
+3. Have an idea of **sale price**, how much you are putting **down**.
+4. Make sure there is **no prepayment penalty**.
+5. If you can **avoid having an escrow**, do it even if there is a small fee.
 
 Sometimes you may be asked for verification on employment. You can give them someone from your HR department for that.
 
@@ -105,6 +105,11 @@ Depending on how frequently you are paid, we need the following paystubs:
 
 - Provide all pages for any multiple page documents even if the pages are blank.
 
+# American Airlines Credit Union
+
+[Mortgage Loan Rate](https://www.aacreditunion.org/49dabd/globalassets/documents/mortgagerates.pdf)
+
+
 # Rocket Mortgage
 
 ## Underwriting
@@ -122,3 +127,13 @@ Based on the underwriting analysis, the lender decides whether to approve the lo
 2 Texans Credit Union [Statements](https://my.texanscu.org/StandardSso/LanveraSSO)
 
 ![](https://i.imgur.com/hrjulK8.png)
+
+# Probate
+
+Probate is a legal process that occurs after a person passes away. It involves ==proving the validity of their will, settling their debts, and distributing their assets== according to the terms of the will or the applicable laws of inheritance. However, probate typically does not apply to trusts.
+
+A trust, on the other hand, is a legal entity created by an individual (the grantor) to hold and manage assets for the benefit of designated beneficiaries. When a person creates a trust, they usually specify how the assets in the trust should be distributed upon their death. Unlike a will, a properly funded trust can avoid probate.
+
+The process of resolving a trust involves administering the trust according to its terms. This typically includes gathering the trust assets, managing and investing them, and distributing them to the beneficiaries as specified in the trust document. Since the assets are already held within the trust, they do not go through the probate process, which can often be time-consuming and expensive.
+
+It's important to note that the specific laws and procedures surrounding trusts and probate can vary depending on the jurisdiction. If you have questions or concerns about a particular trust or estate situation, it is advisable to consult with an attorney who specializes in estate planning and probate law in your jurisdiction.
