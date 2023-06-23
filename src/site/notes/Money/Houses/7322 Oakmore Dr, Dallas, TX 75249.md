@@ -53,13 +53,13 @@ Will the cost of renovating the house increase the sale price by the same amount
 | File                                                                                                     | Cost    | Priority |
 | -------------------------------------------------------------------------------------------------------- | ------- | -------- |
 | [[Money/Houses/Renovation Skills/Fence\|Fence]]                                                       | $4,000  | 5        |
-| [[Money/Houses/Renovation Skills/Level The Patio\|Level The Patio]]                                   | $4,200  | 5        |
 | [[Money/Houses/Renovation Skills/Lighting\|Lighting]]                                                 | $200    | 5        |
+| [[Money/Houses/Renovation Skills/Level The Patio\|Level The Patio]]                                   | $4,200  | 5        |
 | [[Money/Houses/Renovation Skills/Mud Room\|Mud Room]]                                                 | $900    | 5        |
 | [[Money/Houses/Renovation Skills/Windows\|Windows]]                                                   | $5,400  | 5        |
 | [[Money/Houses/Renovation Skills/Open Up The Kitchen\|Open Up The Kitchen]]                           | $3,500  | 4        |
-| [[Money/Houses/Renovation Skills/Island or Peninsula\|Island or Peninsula]]                           | $5,000  | 3        |
 | [[Money/Houses/Renovation Skills/Kitchen Cabinets\|Kitchen Cabinets]]                                 | $8,000  | 3        |
+| [[Money/Houses/Renovation Skills/Island or Peninsula\|Island or Peninsula]]                           | $5,000  | 3        |
 | [[Money/Houses/Renovation Skills/Kitchen Counters\|Kitchen Counters]]                                 | $3,500  | 3        |
 | [[Money/Houses/Renovation Skills/Door Sills\|Door Sills]]                                             | $50     | 2        |
 | [[Money/Houses/Renovation Skills/Outside Siding\|Outside Siding]]                                     | $5,000  | 2        |
@@ -83,8 +83,8 @@ Will the cost of renovating the house increase the sale price by the same amount
 | [[Money/Houses/Renovation Skills/Office By Master Bedroom\|Office By Master Bedroom]]                 | \-      | \-       |
 | [[Money/Houses/Renovation Skills/Putting Drywall Up\|Putting Drywall Up]]                             | \-      | \-       |
 | [[Money/Houses/Renovation Skills/Stain Brick\|Stain Brick]]                                           | \-      | \-       |
-| [[Money/Houses/Renovation Skills/Tearing A Wall Down\|Tearing A Wall Down]]                           | \-      | \-       |
 | [[Money/Houses/Renovation Skills/Vault Kitchen Ceiling\|Vault Kitchen Ceiling]]                       | \-      | \-       |
+| [[Money/Houses/Renovation Skills/Tearing A Wall Down\|Tearing A Wall Down]]                           | \-      | \-       |
 
 
 
