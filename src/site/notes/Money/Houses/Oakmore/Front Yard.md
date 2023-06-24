@@ -1,0 +1,31 @@
+---
+{"dg-publish":true,"permalink":"/money/houses/oakmore/front-yard/","created":"Jun 23, 2023, 9:10 PM","updated":""}
+---
+
+
+# Modern full-height Windows
+
+![](https://www.thehousedesigners.com/images/plans/DTE/bulk/7556/FRONT-PHOTO-3_1.jpg)
+
+![](https://i0.wp.com/yr-architecture.com/wp-content/uploads/Modern-Exterior-Window-no-trim.jpg?resize=569%2C852&ssl=1)
+
+
+![](https://cdn.shopify.com/s/files/1/0725/9570/2050/files/V7.0-006.png?v=1683203825&width=3000)
+
+![](https://www.re-thinkingthefuture.com/wp-content/uploads/2021/02/A3438-25-Examples-of-Clerestory-Windows-in-Modern-Houses..jpg)
+
+![](https://i.pinimg.com/736x/10/55/00/1055001f2e1242c38c55609bbdc14d62.jpg)
+
+![](https://images.contentstack.io/v3/assets/bltf589e66bcaecd79c/blt98300e0e26c9326c/61a501e81c5e9d77962cea25/social-floor-to-ceiling-windows-modern.jpg?width=857&height=601&format=jpg&quality=90)
+
+![](https://images.contentstack.io/v3/assets/bltf589e66bcaecd79c/blt8541354a79642e55/62743ab0c5052c2f90c413a9/minnesota-home-custom-wood-windows.jpg?width=1144&height=638&format=jpg&quality=90)
+# Wooden Exterior
+
+![](https://www.thehousedesigners.com/images/plans/DTE/bulk/7556/FRONT-PHOTO-5.jpg)
+
+# Double Doors
+
+![](https://cdn.houseplansservices.com/product/dd8ul24a7dogeoi8co8iagv341/w800x533.png?v=16)
+
+# Doors
+
