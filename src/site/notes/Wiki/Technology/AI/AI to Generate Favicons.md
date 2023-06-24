@@ -38,7 +38,7 @@ The middle of the brain should be a processor chip. The trunk of the tree can al
 # Upscale Images
 
 - [waify2x](https://waifu2x.udp.jp/index.html)
-- [upscayl](https://github.com/upscayl/upscayl)
+- [upscayl](https://github.com/upscayl/upscayl) (Desktop)
 - [imageresizer](https://imageresizer.com/)
 
 ![](https://i.imgur.com/lgHtvSr.png)
