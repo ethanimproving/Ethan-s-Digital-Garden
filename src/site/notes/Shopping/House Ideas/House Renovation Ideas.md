@@ -252,6 +252,36 @@ I especially love the wavy ceiling with recess lights, and extra lights protrudi
 ![](https://i.imgur.com/l4AVFdW.jpg)
 
 
+# Roof
+
+[Visualize Your Home](https://colorview.certainteed.com/pages/project/new)
+
+## What Is This Pattern?
+
+![](https://photos.zillowstatic.com/fp/b74d22920d461feee80d1ba551b76364-cc_ft_1536.webp)
+
+## Harbor Blue
+
+[Atrium Roofing](https://atriumroofing.com/portfolio/?mgi_87=5968/project-3)
+
+![](https://atriumroofing.com/wp-content/uploads/2022/04/Atrium-Roofing-PROJECT-3a.jpg)
+
+![](https://atriumroofing.com/wp-content/uploads/2022/04/Atrium-Roofing-PROJECT-3b.jpg)
+
+[Owens Corning](https://www.owenscorning.com/en-us/roofing/shingles/trudefinition-duration?color=harbor-blue)
+
+![](https://res.cloudinary.com/ocimages/image/upload/c_scale,w_1229/f_auto,q_auto/v1/pagebuilder/uploads/prod/12296388/TDD_HarborBlue_RGB_house_full_sky)
+
+![](https://res.cloudinary.com/ocimages/image/upload/c_crop,h_3699,w_3699,x_2003,y_2480/c_scale,w_768/f_auto,q_auto/v1/pagebuilder/uploads/prod/11439833/TDD_HarborBlue_RGB_swatch_lg)
+
+## CertainTeed Highland Slate Black Granite
+
+[1Roof](https://www.my1roof.com/portfolios/certainteed-highland-slate-black-granite/)
+
+![](https://www.my1roof.com/wp-content/uploads/2019/06/20181112_210828000_iOS.jpg)
+
+![](https://www.my1roof.com/wp-content/uploads/2019/06/20181112_210901000_iOS.jpg)
+
 # Paint the Brick White
 
 [7 Reasons Why You Will Love And Hate Painting Your Brick Exterior](https://tribblepainting.com/pros-cons-painting-brick-exterior/)
