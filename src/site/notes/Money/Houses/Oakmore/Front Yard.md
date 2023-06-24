@@ -19,6 +19,11 @@
 ![](https://images.contentstack.io/v3/assets/bltf589e66bcaecd79c/blt98300e0e26c9326c/61a501e81c5e9d77962cea25/social-floor-to-ceiling-windows-modern.jpg?width=857&height=601&format=jpg&quality=90)
 
 ![](https://images.contentstack.io/v3/assets/bltf589e66bcaecd79c/blt8541354a79642e55/62743ab0c5052c2f90c413a9/minnesota-home-custom-wood-windows.jpg?width=1144&height=638&format=jpg&quality=90)
+
+![](https://images.dwell.com/photos-6549872856172085248/6843794524462239744-medium/extension-with-full-height-steel-frames-glazing.jpg)
+
+![](https://i.pinimg.com/originals/d4/31/d1/d431d181b4f3b154ed31b4f46ca7c918.png)
+
 # Wooden Exterior
 
 ![](https://www.thehousedesigners.com/images/plans/DTE/bulk/7556/FRONT-PHOTO-5.jpg)
@@ -27,5 +32,6 @@
 
 ![](https://cdn.houseplansservices.com/product/dd8ul24a7dogeoi8co8iagv341/w800x533.png?v=16)
 
-# Doors
+# Zarascape
 
+![](https://images.finegardening.com/app/uploads/2022/08/18124719/RGSC-AUG-stone-gravel-and-plants-1-thumb-16x9.jpg)
