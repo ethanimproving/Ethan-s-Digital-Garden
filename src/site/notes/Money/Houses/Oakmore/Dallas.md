@@ -7,7 +7,7 @@ To find the official neighborhood divisions for Dallas, Texas, you can follow th
 
 1. **Visit the official website of the City of Dallas**: Start by visiting the [official website of the City of Dallas](https://dallascityhall.com/Pages/default.aspx). The website often provides information about [various departments](https://dallascityhall.com/departments/Pages/default.aspx), including planning and [zoning](https://dallascityhall.com/departments/sustainabledevelopment/Pages/default.aspx).
     
-2. **Navigate to the Planning or Zoning Department**: Look for a section or department related to [planning, zoning](https://www.duncanvilletx.gov/cms/one.aspx?pageId=74050), or community development on the city's website. This department is typically responsible for managing and regulating neighborhood divisions and zoning designations.
+2. **Navigate to the Planning or Zoning Department**: Look for a section or department related to planning, zoning, or community development on the city's website. This department is typically responsible for managing and regulating neighborhood divisions and zoning designations.
     
 3. **Check for Neighborhood Plans or Zoning Maps**: Look for neighborhood plans or [zoning maps](https://dallascityhall.com/departments/sustainabledevelopment/Pages/zoning_maps.aspx) on the city's website. These documents often provide information about official neighborhood divisions and zoning designations within Duncanville.
     
@@ -25,3 +25,12 @@ To find the official neighborhood divisions for Dallas, Texas, you can follow th
 There are a lot of [sex offenders](https://www.propertyiq.com/tx/dallas/oakmore-drive/75249-piq4240195) in the area. They are almost all black people with a charge of "Sexual Assault of a Child." Each dot marks a person that the government should have put to death. You shouldn't be able to molest a child and still live. This is not justice.
 
 ![](https://i.imgur.com/HaSCmok.png)
+
+- [City Zoning Maps](https://duncanville.maps.arcgis.com/apps/webappviewer/index.html?id=725f4a12da6541a88f10c9849dc3f023)
+	An interactive map viewer for the City of Dallas, Texas. The specific page is a map of the city’s zoning and land use information.
+
+![](https://i.imgur.com/tsCicI8.png)
+
+
+It takes awhile to navigate to the right place. You will want to land right about here. In the layer list, check `Dallas Tax Parcels`, `Zoning Grid`, `BI Office Boundries`, `BI Districts`, `Base Zoning`, `Council Districts`, `Census Tracts`, and `City limits`. I like the Topographic and the OpenStreetMap Basemap the best.
+![](https://i.imgur.com/4WcU0EC.png)
