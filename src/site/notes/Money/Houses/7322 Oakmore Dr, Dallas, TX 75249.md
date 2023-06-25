@@ -7,7 +7,17 @@
 
 See videos of the house at the end of [this album](https://photos.google.com/u/1/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB).
 
-7322 Oakmore Dr, Dallas, TX 75249 | [Zillow](https://www.zillow.com/homes/7322-Oakmore-Dr-Dallas,-TX-75249_rb/26892483_zpid/) | [Google Photos](https://photos.app.goo.gl/jdnMXBsykBx8wXVN6) | [Redfin](https://www.redfin.com/TX/Dallas/7322-Oakmore-Dr-75249/home/31116051)
+7322 Oakmore Dr, Dallas, TX 75249
+- [Zillow](https://www.zillow.com/homes/7322-Oakmore-Dr-Dallas,-TX-75249_rb/26892483_zpid/) 
+- [Tax Appraisal](https://www.dallascad.org/AcctDetailRes.aspx?ID=00000820834100000)
+- [Google Photos](https://photos.app.goo.gl/jdnMXBsykBx8wXVN6) 
+- [Redfin](https://www.redfin.com/TX/Dallas/7322-Oakmore-Dr-75249/home/31116051)
+- [Trulia](https://www.trulia.com/p/tx/dallas/7322-oakmore-dr-dallas-tx-75249--2066617564)
+- [PropertyIQ](https://www.propertyiq.com/tx/dallas/oakmore-drive/75249-piq4240195)
+- [ClimateCheck](https://climatecheck.com/report?address=7322%20Oakmore%20Drive%2C%20Dallas%2C%20Texas%2075249%2C%20United%20States)
+- [RiskFactor](https://riskfactor.com/property/7322-oakmore-dr-dallas-tx-75249/4806838997_fsid/overview)
+- [HowLoud](https://howloud.com/)
+- [ClearlyEnergy](https://clearlyenergy.com/)
 
 | [Homebot](https://find.searchtexashomes.com/seller?gclid=EAIaIQobChMIxJq5jJ33_QIV1MmUCR1mzAsBEAAYASAAEgITBvD_BwE) Estimate | [$265,000](https://i.imgur.com/1HuB9ZE.png) |
 | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
@@ -17,7 +27,11 @@ See videos of the house at the end of [this album](https://photos.google.com/u/1
 | Lot Size                                                                                                                   | 6,573 Sq. Ft.                               |
 | Beds                                                                                                                       | 3                                           |
 | Baths                                                                                                                      | 2                                           |
-| price/sqft                                                                                                                 | $146                                            |
+| price/sqft                                                                                                                 | $146                                        |
+| Builder                                                                                                                    | FOX & Jacobs INC                            |
+| Subdivision                                                                                                                | The Woods Sec 11                            |
+| [Sound Score](https://www.estately.com/listings/info/7315-emory-oak-lane-dallas-tx-75249)                                                                                                                | 83 - Quiet                                  |
+| Air Pollution Index                                                                                                         | 49 - Moderate                                            |
 
 # Floor Plan
 
