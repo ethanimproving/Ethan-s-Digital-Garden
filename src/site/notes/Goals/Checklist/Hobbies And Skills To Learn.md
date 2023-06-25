@@ -15,3 +15,5 @@
 - [ ] Real Estate
 - [x] Soul-winning
 - [ ] Nutrition - Robert Von
+- [ ] Billiards
+- [ ] Interior Design / Architecture
