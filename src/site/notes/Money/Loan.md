@@ -9,6 +9,7 @@
 - [Churchill Mortgage](https://www.churchillmortgage.com/)
 - [Service First Mortgage](https://sfmc.com/)
 - [Lennar Mortgage](https://www.lennarmortgage.com/chezgarza)
+- [United Faith Mortgage](https://www.unitedfaithmortgage.com/)
 
 ## Recommended by ChatGPT
 1. [Wells Fargo Home Mortgage](https://www.wellsfargo.com/mortgage/): Wells Fargo is one of the largest mortgage lenders in the United States, offering a range of mortgage options and services.
