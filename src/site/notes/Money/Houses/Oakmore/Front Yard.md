@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/money/houses/oakmore/front-yard/","created":"Jun 23, 2023, 9:10 PM","updated":""}
+dg-publish: true
+dg-created: Jun 23, 2023, 9:10 PM
 ---
-
 
 # Modern full-height Windows
 
