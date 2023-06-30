@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/money/houses/oakmore/dallas/","created":"Jun 24, 2023, 11:36 PM","updated":""}
+dg-publish: true
+dg-created: Jun 24, 2023, 11:36 PM
 ---
-
 
 To find the official neighborhood divisions for Dallas, Texas, you can follow these steps:
 
