@@ -35,9 +35,16 @@ There are [513 sex offenders](https://www.propertyiq.com/tx/dallas/bartlett-aven
 
 # Subdivision
 
-[Glendale Acres](https://www.realtor.com/realestateandhomes-search/Glendale-Acres_Dallas_TX/overview)  the median listing home price in **Glendale Acres** was **$209.9K** in April 2023, trending down **-37.3%** year-over-year.
+[Glendale Acres](https://www.realtor.com/realestateandhomes-search/Glendale-Acres_Dallas_TX/overview)  the median listing home price in **Glendale Acres** was **$209.9K** in April 2023, trending down **-37.3%** year-over-year. The contractor was Green River Properties.
 
 ![](https://i.imgur.com/VLAciPm.png)
+
+# Sound Score
+
+It has a [sound score](https://howloud.com/) of 67, which is in the red, not good.
+
+![](https://i.imgur.com/7D4bfor.png)
+
 
 # What's Nearby
 
