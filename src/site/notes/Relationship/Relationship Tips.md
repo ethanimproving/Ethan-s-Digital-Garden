@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/relationship-tips/","created":"","updated":""}
+dg-publish: true
 ---
-
 
 # Learn New Things Together
 
