@@ -9,11 +9,10 @@ This home is being sold as-is and is not available to tour.
 
 ![](https://i.imgur.com/P8nSd3W.png)
 
-![](https://photos.zillowstatic.com/fp/52b53cc44fe45545a58c46997cec2754-cc_ft_1536.webp)
 
 # Map View
 
-It seems to be in a [residential area](https://www.google.com/maps/place/5014+Bartlett+Ave,+Dallas,+TX+75216/@32.6868333,-96.7933622,16z/data=!4m6!3m5!1s0x864e97a750d0ad8b:0x25446c5dfbfd8026!8m2!3d32.6862657!4d-96.7918751!16s%2Fg%2F11lqd7_lbw?entry=ttu) pretty close to shopping. It might be slightly **close to the road**, would have to visit to tell if the noise would be noticeable.
+It seems to be in a [residential area](https://www.google.com/maps/place/5014+Bartlett+Ave,+Dallas,+TX+75216/@32.6868333,-96.7933622,16z/data=!4m6!3m5!1s0x864e97a750d0ad8b:0x25446c5dfbfd8026!8m2!3d32.6862657!4d-96.7918751!16s%2Fg%2F11lqd7_lbw?entry=ttu) pretty close to shopping. It might be slightly **close to the road**, would have to visit to tell if the noise would be noticeable. It's also very close to [the Ledbetter DART Station](https://www.dart.org/guide/transit-and-use/rail/rail-station-detail/ledbetter-station).
 
 ![](https://i.imgur.com/QUM36h9.png)
 
