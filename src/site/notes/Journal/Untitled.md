@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/journal/untitled/","tags":["journal","breakup"],"created":"Jun 26, 2023, 4:55 PM","updated":""}
+dg-publish: true
+dg-created: Jun 26, 2023, 4:55 PM
+tags: [journal, breakup]
 ---
-
 
 Mariana consistently says she doesn’t think I will achieve [[Goals/Checklist/Hobbies And Skills To Learn\|the hobbies]] I want. If she has to be one of the people on the other side that didn’t believe in me, fine, let it be. I’ll prove her wrong just like everybody else. I’ve always climbed higher than anybody expected. I’ve always triumphed when people didn’t believe in me. And it’s God who sets my feet upon high places. Let them all doubt. I don’t need anyone. I’ll succeed alone. And when I bask in my achievements, I’ll have no glory to share with anyone who supported me.
 
