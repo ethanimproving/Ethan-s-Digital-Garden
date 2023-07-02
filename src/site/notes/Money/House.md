@@ -89,8 +89,9 @@ My two best options are probably [[Money/Houses/7322 Oakmore Dr, Dallas, TX 7524
 | [[Money/Houses/Stone Creek Community by Starlight Homes\|Stone Creek Community by Starlight Homes]]                               | \-      | \-    |
 | [[Money/Houses/Enchanted Bay\|Enchanted Bay]]                                                                                     | \-      | \-    |
 | [[Money/Houses/109 W Mountain Creek Dr Unit 13 Grand Prairie, TX 75052\|109 W Mountain Creek Dr Unit 13 Grand Prairie, TX 75052]] | 210,000 | 1,540 |
-| [[Money/Houses/1420 Caravan Trl, Dallas, TX 75241\|1420 Caravan Trl, Dallas, TX 75241]]                                           | 230,000 | 1,650 |
+| [[Money/Houses/2923 Renaissance Cir, Dallas, TX 75287\|2923 Renaissance Cir, Dallas, TX 75287]]                                   | 225,000 | 1,951 |
 | [[Money/Houses/5014 Bartlett Ave, Dallas, TX 75216\|5014 Bartlett Ave, Dallas, TX 75216]]                                         | 230,000 | 1,793 |
+| [[Money/Houses/1420 Caravan Trl, Dallas, TX 75241\|1420 Caravan Trl, Dallas, TX 75241]]                                           | 230,000 | 1,650 |
 | [[Money/Houses/Easterview\|Easterview]]                                                                                           | 238,900 | 1,176 |
 | [[Money/Houses/3707 Spence St Dallas, TX 75215\|3707 Spence St Dallas, TX 75215]]                                                 | 239,900 | 1,933 |
 | [[Money/Houses/4601 Owenwood Ave Dallas, TX 75223\|4601 Owenwood Ave Dallas, TX 75223]]                                           | 242,900 | 1,220 |
