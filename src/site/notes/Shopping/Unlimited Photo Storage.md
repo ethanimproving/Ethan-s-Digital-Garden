@@ -16,6 +16,18 @@ You can either [buy the phone](https://www.ebay.com/sch/i.html?_dcat=9355&_fsrp=
 
 * [Wamatek](https://wamatek.com/product/google-pixel-xl/?attribute_pa_carrier=unlocked&attribute_pa_color=gray&attribute_pa_condition=good&attribute_pa_storage=32gb&gclid=EAIaIQobChMI6cih9fiK_AIVXBOtBh2nDwVWEAQYAyABEgJlEfD_BwE) | [BBB](https://www.bbb.org/us/mn/eden-prairie/profile/electronics-and-technology/wamatek-0704-1000026030)  
 
+# Settings
+
+## Delete backed-up photos automatically
+
+[Files by Google Help](https://support.google.com/files/answer/10862356?hl=en#:~:text=On%20Files%20by%20Google%2C%20you,storage%20is%20less%20than%2025%25)
+1. Install [Files by Google](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files)
+2. At the top left, tap **Menu > Settings > [Smart Storage](https://9to5google.com/wp-content/uploads/sites/4/2021/09/Screenshot_20210910-101048.png?w=473)**.
+
+## Disable Battery Optimization
+
+## Disable Selective Photos
+
 # Emulator
 
 > Note: Google is smart enough to know that your device is an emulator. It will show you the unlimited storage notification, but any photos uploaded through an emulator will count towards your storage.
