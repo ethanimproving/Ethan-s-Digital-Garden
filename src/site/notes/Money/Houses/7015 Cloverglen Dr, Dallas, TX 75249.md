@@ -26,8 +26,6 @@ It has a [sound score](https://howloud.com/) of 77, which is considered active.
 
 ![](https://photos.zillowstatic.com/fp/0140de7ef31abd05cda6f4a7d744ada0-uncropped_scaled_within_1536_1152.webp)
 
-![](https://photos.zillowstatic.com/fp/12644a68579ac426f64ca94c70571f0a-uncropped_scaled_within_1536_1152.webp)
-
 ![](https://photos.zillowstatic.com/fp/a3ebb96ea280b3a29f1c4d5bb2d2252d-uncropped_scaled_within_1536_1152.webp)
 
 ![](https://photos.zillowstatic.com/fp/4379f29158b41b669f370c0d01ae100a-uncropped_scaled_within_1536_1152.webp)
@@ -35,6 +33,8 @@ It has a [sound score](https://howloud.com/) of 77, which is considered active.
 ![](https://photos.zillowstatic.com/fp/a2c9e9c170298064b892f72118095376-uncropped_scaled_within_1536_1152.webp)
 
 ![](https://photos.zillowstatic.com/fp/e8e6d4e318a75aff33e8190e22caab43-uncropped_scaled_within_1536_1152.webp)
+
+![](https://photos.zillowstatic.com/fp/12644a68579ac426f64ca94c70571f0a-uncropped_scaled_within_1536_1152.webp)
 
 ![](https://photos.zillowstatic.com/fp/c429f7d145fe4c1fc39a9771d521354f-uncropped_scaled_within_1536_1152.webp)
 
