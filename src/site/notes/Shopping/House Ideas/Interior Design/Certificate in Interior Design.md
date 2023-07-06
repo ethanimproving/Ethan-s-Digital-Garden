@@ -3,7 +3,7 @@
 ---
 
 
-[Oxford Home Study Centre](http://www.oxfordhomestudy.com/) is not affiliated with or operated by the University of Oxford. The Oxford Home Study Centre, which operates this website, is an independent online learning platform that offers various courses and certifications. While the name might suggest a connection to the University of Oxford, it is important to note that the Oxford Home Study Centre is a separate entity and not associated with the prestigious University of Oxford.
+[Oxford Home Study Centre](http://www.oxfordhomestudy.com/) is not affiliated with or operated by the University of Oxford. The Oxford Home Study Centre, which operates this website, is an independent online learning platform that offers vIt arious courses and certifications. While the name might suggest a connection to the University of Oxford, it is important to note that the Oxford Home Study Centre is a separate entity and not associated with the prestigious University of Oxford.
 
 AI: Remove the timestamps from this transcript and organize it into a markdown file with headings, highlights. interior design.
 
