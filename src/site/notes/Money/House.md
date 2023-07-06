@@ -96,7 +96,7 @@ My two best options are probably [[Money/Houses/7322 Oakmore Dr, Dallas, TX 7524
 | [[Money/Houses/3707 Spence St Dallas, TX 75215\|3707 Spence St Dallas, TX 75215]]                                                 | 239,900 | 1,933 |
 | [[Money/Houses/4601 Owenwood Ave Dallas, TX 75223\|4601 Owenwood Ave Dallas, TX 75223]]                                           | 242,900 | 1,220 |
 | [[Money/Houses/7326 La Flor Ln, Dallas, TX 75241\|7326 La Flor Ln, Dallas, TX 75241]]                                             | 245,000 | 3,244 |
-| [[Money/Houses/Renovation Skills/1523 Garza Ave, Dallas, TX 75216\|1523 Garza Ave, Dallas, TX 75216]]                             | 246,000 | 1,694 |
+| [[Money/Houses/1523 Garza Ave, Dallas, TX 75216\|1523 Garza Ave, Dallas, TX 75216]]                                               | 246,000 | 1,694 |
 | [[Money/Houses/3926 Metropolitan Avenue Dallas, TX 75210\|3926 Metropolitan Avenue Dallas, TX 75210]]                             | 249,900 | 2,075 |
 | [[Money/Houses/4550 Solar Ln, Dallas, TX 75216\|4550 Solar Ln, Dallas, TX 75216]]                                                 | 249,990 | 1,440 |
 | [[Money/Houses/7322 Oakmore Dr, Dallas, TX 75249\|7322 Oakmore Dr, Dallas, TX 75249]]                                             | 260,000 | 1,780 |
