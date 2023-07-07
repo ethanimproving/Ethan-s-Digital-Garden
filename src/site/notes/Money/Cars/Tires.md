@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jun 24, 2023, 9:35 AM
+{"dg-publish":true,"permalink":"/money/cars/tires/","created":"Jun 24, 2023, 9:35 AM","updated":""}
 ---
+
 
 # Where to buy?
 
