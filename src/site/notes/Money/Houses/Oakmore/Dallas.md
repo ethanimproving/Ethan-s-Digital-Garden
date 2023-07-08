@@ -26,7 +26,7 @@ There are a lot of [sex offenders](https://www.propertyiq.com/tx/dallas/oakmore-
 
 ![](https://i.imgur.com/HaSCmok.png)
 
-- [City Zoning Maps](https://duncanville.maps.arcgis.com/apps/webappviewer/index.html?id=725f4a12da6541a88f10c9849dc3f023)
+- [City Zoning Maps](https://developmentweb.dallascityhall.com/publiczoningweb/)
 	An interactive map viewer for the City of Dallas, Texas. The specific page is a map of the city’s zoning and land use information.
 
 ![](https://i.imgur.com/tsCicI8.png)
