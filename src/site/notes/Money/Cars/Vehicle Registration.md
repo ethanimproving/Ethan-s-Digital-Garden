@@ -21,6 +21,8 @@ After your inspection, renew:
 For help, call Texas Department of Motor Vehicles (TxDMV): [1-888-368-4689](tel: 18003684089)
 ## Where To Get Inspected
 
+**Be sure to bring your updated Insurance Card.** Download it from the State Farm [Document Center](https://edocuments.statefarm.com/DocumentCenterUI/?year=0). You can also show them from your mobile phone via the app.
+
 At Kwik Kar on [901 S Westgate Way STE B, Wylie, TX 75098](https://goo.gl/maps/qAR9mGFHmNyEEjex8).
 
 # Renewal
