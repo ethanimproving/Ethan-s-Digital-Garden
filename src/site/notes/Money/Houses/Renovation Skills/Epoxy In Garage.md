@@ -3,6 +3,16 @@
 ---
 
 
+# Current Condition
+
+![](https://lh3.googleusercontent.com/pw/AIL4fc9V9XhfvhikQzw7Js6QxI725Ni0x5hExtHHanFyDQvl5vBdj_PBlBHCXoe091L7JtL_VEgWbDlkdWijsAEqtZ2FjCu27ecoSHecbfLBX3oF7sdzcAVMDITdtzM1aRzd8TVJx7wok6VodoMOP2Tw61K9OA=w1673-h1255-s-no?authuser=1)
+
+![](https://lh3.googleusercontent.com/pw/AIL4fc8x8kNHo8AxfbEH24vPbAciq8NIB5SEV7__wDMj2iQZY07DMa0I3D5yEyywU5VU2C1IGmWBeRYoyjUYjtHOnJHkftu3PS1T5-NxVEOHba4HXzgWhpbe6mKJiaF2jWBDzM-W8L1C2Gdja5RxV-12zCMz6Q=w1673-h1255-s-no?authuser=1)
+
+![](https://lh3.googleusercontent.com/pw/AIL4fc-CGVpYTGcefzU8WVBEnc31--NkGh6UFkGi3pdZpugVSOGMlJa8IaIoXZsI4inor6Fv1ZQE8a0N_ji6FGIteImM2bFMz7Rsx-7YO-xmi3JT3HsmTN-2J54wEeKCArUE67-SzcQuYwsVxzqH4nvxErXFkA=w1673-h1255-s-no?authuser=1)
+
+![](https://lh3.googleusercontent.com/pw/AIL4fc9KR8CyULVXgkgzulPI5GjVoigco2MHXqE9UR8SbF5LH_Xbf8m2tRqFcp7DJIPUl1CnPLpp4OE8JOUzxom8zHiMrDs6oUFambk8iweYxmHtqUkzT6CmtDnNR98nwJj8P9v2GQ-lWZqs0qTD-_s_fw19lQ=w1673-h1255-s-no?authuser=1)
+
 # Garage Remodel Ideas
 
 - https://gaylerdesignbuild.com/project/pleasanton-garage-remodel/
