@@ -72,7 +72,6 @@ Will the cost of renovating the house increase the sale price by the same amount
 | [[Money/Houses/Renovation Skills/Lighting\|Lighting]]                                         | $200          | 5        |
 | [[Money/Houses/Renovation Skills/Level The Patio\|Level The Patio]]                           | $4,200        | 5        |
 | [[Money/Houses/Renovation Skills/Mud Room\|Mud Room]]                                         | $900          | 5        |
-| [[Money/Houses/Renovation Skills/Smart Blinds\|Smart Blinds]]                                 | $650 / Window | 5        |
 | [[Money/Houses/Renovation Skills/Smart Fridge\|Smart Fridge]]                                 | $2,000        | 5        |
 | [[Money/Houses/Renovation Skills/Windows\|Windows]]                                           | $5,400        | 5        |
 | [[Money/Houses/Renovation Skills/Open Up The Kitchen\|Open Up The Kitchen]]                   | $3,500        | 4        |
@@ -92,6 +91,7 @@ Will the cost of renovating the house increase the sale price by the same amount
 | [[Money/Houses/Renovation Skills/Paint Doors\|Paint Doors]]                                   | $80           | 1        |
 | [[Money/Houses/Renovation Skills/Retile The Floor\|Retile The Floor]]                         | $4,000        | 1        |
 | [[Money/Houses/Renovation Skills/Retexturing An Existing Wall\|Retexturing An Existing Wall]] | $200          | 1        |
+| [[Money/Houses/Renovation Skills/Smart Blinds\|Smart Blinds]]                                 | $650 / Window | 1        |
 | [[Money/Houses/Renovation Skills/Smart Locks\|Smart Locks]]                                   | $200          | 1        |
 | [[Money/Houses/Renovation Skills/Kitchen\|Kitchen]]                                           | $10,000       | 0        |
 | [[Money/Houses/Renovation Skills/LVL Beam\|LVL Beam]]                                         | $1,400        | 0        |
