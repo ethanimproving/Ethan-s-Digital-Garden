@@ -14,6 +14,12 @@
 
 ![](https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61ec4xkE0cL._AC_SL1500_.jpg)
 
+# Paper Towel Holder
+
+[VAEHOLD Adhesive Paper Towel Holder Under Cabinet Mount](https://www.amazon.com/dp/B08HS98CL8)
+
+![](https://m.media-amazon.com/images/I/71FRg-QoVLL._AC_SL1213_.jpg)
+
 # Corner Drawers
 
 [Austin Jenkins - Video Demonstration](https://www.facebook.com/inspector.aj/videos/773173867075785/)
