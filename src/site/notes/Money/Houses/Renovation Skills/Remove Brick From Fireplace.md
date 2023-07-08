@@ -9,6 +9,19 @@ Create a [tile fireplace](https://www.wayfair.com/LiteDeer-Homes--Electric-Firep
 
 ![](https://lh3.googleusercontent.com/pw/AJFCJaUqKmaKald8jaqsKseNjav573Hl2YHJO-LhsjLgZM6hjAYuHzC5SNyvf6g3eGDRXSvhrqlqyZIz3PHcZUFlhcbO6bTepJoJRAzuiWsHnvw-S3VAY3GPSTt6nQnYillTPOaoB9PX6HsyCyDGKTJGeNXVvQ=w1024-h768-s-no?authuser=0)
 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/shopping/house-ideas/house-renovation-ideas/#angular-living-room" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+## Angular Living Room
+
+![](https://i.imgur.com/FYOabA3.jpg)
+
+
+</div></div>
+
+
 # How it is now
 
 ![](https://lh3.googleusercontent.com/vIe5bd8onCQy0G7bt7fVTG2YzjPrcx3ijiFfbEpWj5M9jvk-0HbiXedkkPoYYNUgIiVLRgE3ZUV0KF1yB0hbsZQdEDY1ERRU7-c9rPrL23X6QHXNA3zcoJnX2EnYfxMfphVq1Rn-4l9SGvLQrwbC_Mw5oLD1irFXEWOzDHfJV6EKX4j96ix30ucJenkjHAtAmVJ4fUL2arE-QkaD9QbUXQwljC1um0SL42Hw9RF6OAlA7pHfefyu4HzQcdSalWkN4l3BbSzNgX0HcasJ-zUep8si9aiVCyJPDXp6vFngqdwiOxTDBV9xrg59wML4jYGSWSs6D5wRQnVrHUb1Qh8OMtJcQ3a1rOZ6hqFFUCJl7sQS3oe3U8yFd4UF1kkbYQDzhmfJmYj7mOxn6nMyXw4FnDzm65npliv6LkCE_LWUACLmZXhhElmlsfWZqlfdvUhZY6s3z993-XZFxUtNHg2qKlu7S6fIKMUUmaud4wT2C6QAGilIWy1gdTNEbrAH6p7Czy_CJqBlG0n2pqKVEBWBM1VSjtHtr37Z9pJtejz2wdXi8xKDMJvfUzbuGmgfntEvU2FzoBUM1XlbjETWmjCKq7mFf6_TxuIjxr7j_wkf3NJ4fyR_FUQaQtRzJgpSL6GunE1GjETno2RvNbGVUaWVrUbKXtylj6TXsG26vCFADFFvvNv18mjCPHorUcBrq1d-0CVhbklyKAduQ62U2gYihUQwiISski1T5L-nDmx0qJS3jqhiNJc727GLZuIn9A-fVJ3PWppSOufBMVTFGjH-q7JAlJy7Ncx49lUHwqKEHJ8tXuNpZLjnnwU1JIvXn2pwFHJJPEJPJZnSeavELOD38fQiqcbqX6Shev9-tS-eaUyTZX8rZRWB241GhucB8EwKySeJz5KTaLaWb6m9EfJDfTt1x12_Jprn4Ctl9ZZwbBXtu_jb7_zZgopYEIs80EhL0stXktw703HYIP62Oj7U=w1179-h1109-s-no?authuser=1)
