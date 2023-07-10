@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/authority-shiny-happy-people-part-ii/","tags":["authority"],"created":"July 2, 2023, 10:40 AM","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/authority-shiny-happy-people-part-ii/","tags":["authority"],"created":"Jul 02, 2023, 10:40 AM","updated":""}
 ---
 
 
