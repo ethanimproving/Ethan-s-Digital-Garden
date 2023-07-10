@@ -3,6 +3,8 @@
 ---
 
 
+[Authority - Shiny Happy People (Part II) - Pastor Jonathan Shelley](https://rumble.com/v2xm8vq-authority-shiny-happy-people-part-ii-pastor-jonathan-shelley-stedfast-bapti.html)
+
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -97,7 +99,7 @@ men.
 
 The doctrine of preeminence is from the Bible. **Just as the Pastor can’t tell you not to eat at McDonald’s, the government can’t tell you to inject your kids with vaccines**.
 > [!Bible] [Romans 13:1-2 - KJV](https://bible-api.com/Romans+13:1-2?translation=kjv)
-> 1. Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God.
+> 1. Let every soul ==be subject unto the higher powers==. For there is no power but of God: the powers that be are ordained of God.
 > 2. Whosoever therefore resisteth the power, resisteth the ordinance of God: and they that resist shall receive to themselves damnation.
 
 Proverbs 29:
@@ -123,8 +125,7 @@ that wasteth at noonday.
 
 The people who hate authority the most are reprobates. They hate God and disobey their parents.
 > [!Bible] [Romans 1:30 - KJV](https://bible-api.com/Romans+1:30?translation=kjv)
-> 30. Backbiters, haters of God, despiteful, proud, boasters, inventors of evil things, disobedient to parents,
-
+> 30. Backbiters, haters of God, despiteful, proud, boasters, inventors of evil things, **disobedient to parents**,
 
 **Children who curse their mother and father should be put to death. That would have solved 100% of our protestors**. Ted Cruz is a devil 10x worse than Joe Biden. I hate that God mocking reprobate wolf in sheep’s clothing.
 > [!Bible] [Leviticus 20:9 - KJV](https://bible-api.com/Leviticus+20:9?translation=kjv)
@@ -163,7 +164,6 @@ The Bible also emphasizes the role of government in promoting justice, protectin
 > [!Bible] [Proverbs 14:34 - KJV](https://bible-api.com/Proverbs+14:34?translation=kjv)
 > 34. Righteousness exalteth a nation: but sin is a reproach to any people.
 
-
 ### Submission to God's laws
 
 While governments have authority, there is also a recognition that they must operate within the framework of God's laws.
@@ -184,7 +184,7 @@ A lot of people say governments are responsible for protecting their territories
 > 26. Peter saith unto him, Of strangers. Jesus saith unto him, **Then are the children free**.
 > 27. **Notwithstanding, lest we should offend them**, go thou to the sea, and cast an hook, and take up the fish that first cometh up; and when thou hast opened his mouth, thou shalt find a piece of money: that take, and give unto them for me and thee.
 
-Jesus did not legitimize the government's ability to tax citizens. In fact, **Jesus said that is an illegitimate function of government**. ==He did not tell Peter to pay the tax because it was the proper and moral thing to do. He told Peter to pay the tax because he didn't want to get in trouble with them==. "Lest we offend them." If it is not a moral principle, but a practical principle, I can only conclude that at a stop sign where there are no police men to offend, and no cars nearby, if it is safe, there is no moral obligation to stop. I don't see any scripture that gives the government authority to regulate driving standards. How a citizen drives is only punishable if it causes harm to another person. Otherwise it is not evil. **Evil means harm**. The only government role in Romans 13 is to punish evil, not to punish arbitrary rules that don't affect anybody.
+Jesus did not legitimize the government's ability to tax citizens. In fact, **Jesus said that is an illegitimate function of government**. ==He did not tell Peter to pay the tax because it was the proper and moral thing to do. He told Peter to pay the tax because he didn't want to get in trouble with them==. "Lest we should offend them." If it is not a moral principle, but a practical principle, I conclude that at a stop sign where there are no police men to offend, and no cars nearby, if it is safe, there is no moral obligation to stop. I don't see any scripture that gives the government authority to regulate driving standards. How a citizen drives is only punishable if it causes harm to another person. Otherwise it is not evil. **Evil means harm**. The only government role in Romans 13 is to punish evil, not to punish arbitrary rules that don't affect anybody.
 
 ### Privately Operated Toll Roads
 
