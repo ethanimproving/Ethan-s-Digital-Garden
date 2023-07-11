@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jun 09, 2023, 10:35 AM
+{"dg-publish":true,"permalink":"/money/loan/","created":"Jun 09, 2023, 10:35 AM","updated":""}
 ---
+
 
 # Mortgage Companies
 
@@ -108,7 +108,16 @@ Depending on how frequently you are paid, we need the following paystubs:
 
 # American Airlines Credit Union
 
-[Mortgage Loan Rate](https://www.aacreditunion.org/49dabd/globalassets/documents/mortgagerates.pdf)
+Login to [American Airlines Credit Union](https://www.homeloaans.org/apply.asp) to view the [Mortgage Loan Rate](https://www.aacreditunion.org/49dabd/globalassets/documents/mortgagerates.pdf).
+
+## Paying for Discount Points
+
+It's not a good idea to pay $1,680 for a 0.25 improvement in your rate if you're planning to sell the property or refinance within 5 years. **The difference is $28/month towards interest, which means it would take 60 months to pay for itself.**
+
+![](https://i.imgur.com/itCsM2k.png)
+
+
+![](https://i.imgur.com/i9hgORc.png)
 
 
 # Rocket Mortgage
