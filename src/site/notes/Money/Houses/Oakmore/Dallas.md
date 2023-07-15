@@ -34,3 +34,9 @@ There are a lot of [sex offenders](https://www.propertyiq.com/tx/dallas/oakmore-
 
 It takes awhile to navigate to the right place. You will want to land right about here. In the layer list, check `Dallas Tax Parcels`, `Zoning Grid`, `BI Office Boundries`, `BI Districts`, `Base Zoning`, `Council Districts`, `Census Tracts`, and `City limits`. I like the Topographic and the OpenStreetMap Basemap the best.
 ![](https://i.imgur.com/4WcU0EC.png)
+
+# Trash Day
+
+Visit the [Residential Garbage Collection](https://dallascityhall.com/departments/sanitation/pages/residential_garbage_collection.aspx) page. Your roll cart must be placed in the alley or at the curb by **7am on Wednesday morning**.
+
+![](https://i.imgur.com/hmYEwJ8.png)
