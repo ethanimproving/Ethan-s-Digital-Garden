@@ -54,3 +54,7 @@ The middle of the brain should be a processor chip. The trunk of the tree can al
 - [Gimp](https://www.gimp.org/) (Free Photoshop)
 - [Photopea](https://www.photopea.com/) (Photoshop Online)
 - [Inscape](https://inkscape.org/release/inkscape-1.2.2/windows/64-bit/msi/?redirected=1) (Free Illustrator)
+
+# Sign PDF Electronically
+
+[Fill & Sign by Adobe Acrobat Online](https://www.adobe.com/acrobat/online/sign-pdf.html)
