@@ -20,6 +20,12 @@
 
 ![](https://m.media-amazon.com/images/I/71FRg-QoVLL._AC_SL1213_.jpg)
 
+# Magnetic Scrub Brush
+
+[Grip Clean | Heavy Duty Nail Brush for Cleaning Fingernails](https://www.amazon.com/Grip-Clean-Heavy-Fingernail-Mechanics/dp/B07RDMQJQ9/ref=asc_df_B07RDMQJQ9)
+
+![](https://m.media-amazon.com/images/I/61Q-hlKjTfL._SL1500_.jpg)
+
 # Corner Drawers
 
 [Austin Jenkins - Video Demonstration](https://www.facebook.com/inspector.aj/videos/773173867075785/)
@@ -214,5 +220,7 @@ Admin. "[Do Doors Need 2 Hinges or 3 Hinges?](https://monroeengineering.com/blog
 # Life Hacks
 
 [Life hacks and tips](https://fb.watch/jtyPg8VL0i/?mibextid=YCRy0i).
+
+If a wooden surface has water rings, simply put a damp cloth over it and itron them away.
 
 [Ultra-Thin Outlet](https://www.facebook.com/reel/1304457837169646?fs=e&s=TIeQ9V&mibextid=0NULKw)
