@@ -112,8 +112,8 @@ My two best options are probably [[Money/Houses/7322 Oakmore Dr, Dallas, TX 7524
 | [[Money/Houses/620 Elwayne Ave Dallas, TX 75217\|620 Elwayne Ave Dallas, TX 75217]]                                               | 310,000 | 1,600 |
 | [[Money/Houses/Lennar Trinity West, Dallas\|Lennar Trinity West, Dallas]]                                                         | 320,000 | 1,685 |
 | [[Money/Houses/7015 Cloverglen Dr, Dallas, TX 75249\|7015 Cloverglen Dr, Dallas, TX 75249]]                                       | 325,000 | 1,855 |
-| [[Money/Houses/Lake Ridge Commons by CB JENI Homes\|Lake Ridge Commons by CB JENI Homes]]                                         | 329,990 | 1,567 |
 | [[Money/Houses/Heritage Park by Brightland Homes\|Heritage Park by Brightland Homes]]                                             | 329,990 | 1,520 |
+| [[Money/Houses/Lake Ridge Commons by CB JENI Homes\|Lake Ridge Commons by CB JENI Homes]]                                         | 329,990 | 1,567 |
 | [[Money/Houses/Tenison Village by Ashton Woods\|Tenison Village by Ashton Woods]]                                                 | 366,000 | 2,168 |
 | [[Money/Houses/Rolling Meadows by Bloomfield Homes\|Rolling Meadows by Bloomfield Homes]]                                         | 366,990 | 1840  |
 
