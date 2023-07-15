@@ -22,3 +22,9 @@ All of this has prompted white people to feel aggression, as illustrated by Tom 
 I was encouraged to read the comments of these videos full of black people expressing their embarrassment that these women were saying such things. These are brothers.
 
 ![](https://i.imgur.com/5Phu7fJ.png)
+
+# Jun 21, 2023, 8:06 AM
+
+I’m reaching a point in my life where I’m realizing the narrative that previous generations were brute and uncivilized may be false. Racism, slavery, Hitler. ==The Jews are responsible for all the corruption in Hollywood and the government. They destroy our economy with their lending practices and make the rich richer and the poor poorer. They are responsible for all the wealth inequality we have today==. Maybe Hitler understood this and wanted to save the world, and he was our last best chance. It’s still wrong, but maybe there’s more to the story than we’ve been told.
+
+Maybe black culture has this bad tendency to act like animals. I keep seeing videos of a guy shooting a squirt gun at them and they look around for witnesses and go try to beat him up. No patience, all impulse. They act without thinking. They’re lazy, they smoke pot, they’re selfish. But when the white guy started throwing punches he ran away. That felt good to watch. Maybe all the impressions was self inflicted. Maybe it was provoked. Maybe the white men weren’t evil, but heroes for standing up for themselves. I don’t know, I’m just questioning.
