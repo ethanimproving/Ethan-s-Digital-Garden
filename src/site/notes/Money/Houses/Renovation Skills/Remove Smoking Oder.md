@@ -45,3 +45,13 @@ Also see [Ozone Safety and Smoke Odors](https://chat.openai.com/share/b40cebb3-a
 6. [Microfiber Towels](https://www.letscleanthatup.com/shop/)
 
 ![](https://www.youtube.com/watch?v=hQXsvYhpW3Y)
+
+Vinegar is known for its acidic nature and is often **used for odor elimination**. It can help break down and neutralize odors, including smoke smells. Vinegar is particularly useful for absorbing and eliminating odors on porous surfaces like walls.
+
+Dawn dish soap, on the other hand, is a powerful grease and stain remover. It is effective in **cutting through grease, oils, and residues** that may be present on surfaces. While it may not have the same odor-neutralizing properties as vinegar, it can help in removing smoke residue and general dirt or grime from surfaces.
+
+When it comes to removing smoke smells, the best approach may involve using both vinegar and Dawn dish soap, depending on the specific situation. Here's a suggested method:
+
+1. Vinegar: Use a vinegar solution (equal parts vinegar and water) to spray and wipe down the walls. This will help neutralize the smoke odor and penetrate porous surfaces.
+    
+2. Dawn dish soap: Create a solution of warm water and a few drops of Dawn dish soap. Use a sponge or cloth dampened with this solution to gently scrub the walls, focusing on areas with visible residue or stubborn stains. Rinse with clean water afterward.
