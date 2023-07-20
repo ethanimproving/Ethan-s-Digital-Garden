@@ -19,6 +19,8 @@ There are several places where you can find new toilets. Here are some popular o
 
 When choosing a new toilet, consider factors such as **water efficiency** (look for WaterSense-certified toilets), **comfort**, **durability**, and **design**. It's also a good idea to check **customer reviews** and ratings to get an idea of the quality and performance of different models.
 
+**Note from Carol**: Get one that has jets but won't rust.
+
 ## Best Toilet Manufactures
 
 There are several reputable toilet manufacturers known for producing high-quality toilets. Here are some of the top manufacturers in the industry:
