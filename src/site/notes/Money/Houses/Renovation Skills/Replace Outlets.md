@@ -43,3 +43,21 @@ Also, make sure you get tamper-resistant outlets. They're code in many areas and
 Screwless Light Switch Wall Plate Installation
 
 ![How To Install A Screwless Outlet Cover Plate](https://www.youtube.com/watch?v=uF6JaFrtLoE)
+
+# How To Fix A Loose Outlet
+
+The reason it’s loose it because there’s not enough drywall to tighten the screw enough. Put a metal plate over the drywall to give it something to rest on.
+
+[A Guide on How to Fix Loose Electrical Outlets](https://youtu.be/7ppBrL7aaYc)
+
+## Use spacers!
+
+- [Caterpilar Spacers Shims (5-Pack)](https://www.homedepot.com/p/IDEAL-Caterpilar-Spacers-Shims-5-Pack-772453/202937113)
+- [1/4 in. 1-Gang Outlet Box Spacer Extender](https://www.homedepot.com/p/Smart-Fill-Spacers-1-4-in-1-Gang-Outlet-Box-Spacer-Extender-5-Pack-SG14-5/307424539)
+- [Nylon Outer Diameter Spacers](https://www.homedepot.com/p/1-2-in-x-0-257-in-x-1-2-in-Nylon-Outer-Diameter-Spacers-2-Piece-815008/204276571)
+
+![](https://images.thdstatic.com/productImages/4e6379c1-452a-4362-b960-8813c77bdeb2/svn/ideal-tool-accessories-772453-e1_1000.jpg)
+
+![](https://images.thdstatic.com/productImages/ab74fe0f-4065-482b-9dab-505a752e6e96/svn/smart-fill-spacers-boxes-brackets-sg14-5-64_1000.jpg)
+
+![](https://images.thdstatic.com/productImages/917e5b09-c582-4116-b391-5004e686fd65/svn/spacers-815008-64_1000.jpg)
