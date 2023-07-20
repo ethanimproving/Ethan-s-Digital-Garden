@@ -55,3 +55,24 @@ When it comes to removing smoke smells, the best approach may involve using both
 1. Vinegar: Use a vinegar solution (equal parts vinegar and water) to spray and wipe down the walls. This will help neutralize the smoke odor and penetrate porous surfaces.
     
 2. Dawn dish soap: Create a solution of warm water and a few drops of Dawn dish soap. Use a sponge or cloth dampened with this solution to gently scrub the walls, focusing on areas with visible residue or stubborn stains. Rinse with clean water afterward.
+
+# Trisodium phosphate (TSP)
+
+Trisodium phosphate (TSP) can be an effective cleaner for removing smoke smells from surfaces in a house. Here are the steps you can follow to use TSP to remove smoke smell:
+
+1. **Safety precautions**: Put on protective gloves, safety goggles, and a face mask to protect yourself from the chemicals.
+    
+2. **Dilute TSP**: Follow the instructions on the TSP packaging to mix the appropriate amount of TSP with water in a bucket. Usually, a ratio of ==1/2 cup of TSP per gallon of water== is recommended, but it may vary, so check the packaging.
+    
+3. **Preparing the affected areas**: Remove any loose debris or dirt from the surfaces you want to clean. Open windows or provide proper ventilation in the area to ensure good airflow.
+    
+4. **Cleaning process**: Dip a sponge or scrub brush into the TSP solution and scrub the affected surfaces thoroughly. Pay special attention to walls, ceilings, and other surfaces where smoke odor is present. Work in small sections and rinse the sponge or brush regularly in the TSP solution.
+    
+5. **Rinse with clean water**: After cleaning, rinse the surfaces with clean water to remove any remaining TSP residue. You can use a separate sponge or cloth soaked in clean water for this purpose.
+    
+6. **Drying**: Allow the surfaces to air dry naturally. Opening windows or using fans can help expedite the drying process.
+    
+7. **Repeat if necessary**: For strong smoke odors, you may need to repeat the process in areas that still retain the smell. It may take several attempts to completely eliminate the odor.
+    
+
+Remember to always follow the instructions and safety guidelines provided by the TSP manufacturer. Additionally, it's a good idea to test the TSP solution on a small, inconspicuous area first to ensure it doesn't cause any damage or discoloration to the surfaces you're cleaning.
