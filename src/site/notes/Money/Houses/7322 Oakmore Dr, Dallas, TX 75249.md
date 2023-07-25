@@ -77,6 +77,7 @@ Will the cost of renovating the house increase the sale price by the same amount
 | [[Money/Houses/Renovation Skills/Remove Smoking Oder\|Remove Smoking Oder]]                               | $50                  | 5        |
 | [[Money/Houses/Renovation Skills/Smart Fridge\|Smart Fridge]]                                             | $2,000               | 5        |
 | [[Money/Houses/Renovation Skills/Windows\|Windows]]                                                       | $5,400               | 5        |
+| [[Money/Houses/Renovation Skills/Clean Air Ducts\|Clean Air Ducts]]                                       | $650                 | 5        |
 | [[Money/Houses/Renovation Skills/Open Up The Kitchen\|Open Up The Kitchen]]                               | $3,500               | 4        |
 | [[Money/Houses/Renovation Skills/Patio\|Patio]]                                                           | $0                   | 4        |
 | [[Money/Houses/Renovation Skills/Pressure Wash The Sidewalk\|Pressure Wash The Sidewalk]]                 | 0                    | 4        |
