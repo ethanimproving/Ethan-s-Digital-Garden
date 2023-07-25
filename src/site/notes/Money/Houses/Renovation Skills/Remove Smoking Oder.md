@@ -76,3 +76,7 @@ Trisodium phosphate (TSP) can be an effective cleaner for removing smoke smells 
     
 
 Remember to always follow the instructions and safety guidelines provided by the TSP manufacturer. Additionally, it's a good idea to test the TSP solution on a small, inconspicuous area first to ensure it doesn't cause any damage or discoloration to the surfaces you're cleaning.
+
+# Clean Air Ducts
+
+See [[Money/Houses/Renovation Skills/Clean Air Ducts\|Clean Air Ducts]]
