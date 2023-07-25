@@ -61,3 +61,11 @@ The reason it’s loose it because there’s not enough drywall to tighten the s
 ![](https://images.thdstatic.com/productImages/ab74fe0f-4065-482b-9dab-505a752e6e96/svn/smart-fill-spacers-boxes-brackets-sg14-5-64_1000.jpg)
 
 ![](https://images.thdstatic.com/productImages/917e5b09-c582-4116-b391-5004e686fd65/svn/spacers-815008-64_1000.jpg)
+
+# How To Fix Loose Receptacle Box
+
+[Maddison strap-ons](https://www.facebook.com/reel/768768798359964?fs=e&s=TIeQ9V&mibextid=nLCFi2)
+
+[Maddison Straps](https://www.homedepot.com/p/Box-Conduit-Fitting-Accessory-1-Gang-Rectangle-Metal-Electrical-Box-Cover-820D1U-25R/202590854)
+
+![](https://images.thdstatic.com/productImages/ca4500df-2fe7-42f4-a3d7-bb809f6f60c9/svn/accessories-820d1u-25r-64_600.jpg)
