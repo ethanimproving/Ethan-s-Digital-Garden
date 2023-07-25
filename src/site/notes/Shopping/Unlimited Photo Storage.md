@@ -18,6 +18,8 @@ You can either [buy the phone](https://www.ebay.com/sch/i.html?_dcat=9355&_fsrp=
 
 # Settings
 
+[How to use OG Pixel as an unlimited Google Photos uploader](https://www.reddit.com/r/GooglePixel/comments/l9m6nk/how_to_use_og_pixel_as_an_unlimited_google_photos/)
+
 ## Delete backed-up photos automatically
 
 [Files by Google Help](https://support.google.com/files/answer/10862356?hl=en#:~:text=On%20Files%20by%20Google%2C%20you,storage%20is%20less%20than%2025%25)
