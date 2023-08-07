@@ -61,3 +61,10 @@ Remember that the Theragun has multiple tips.
 
 - [Kieba Massage Lacrosse Balls](https://www.amazon.com/Kieba-Massage-Lacrosse-Myofascial-Therapy/dp/B017V7UKW2/ref=zg_bs_16303081_sccl_1/136-1982132-1586320?psc=1)
 - [Spiky Hard Massage Balls](https://www.amazon.com/Pack-Spiky-Massage-Balls-Fasciitis/dp/B07GDH15KH/ref=zg_bs_16303081_sccl_8/136-1982132-1586320?psc=1)
+
+# Give A Good Massage
+
+[How to ACTUALLY Give a GOOD Shoulder Massage -MoveU](https://www.youtube.com/watch?v=nPOs67lEmQc)
+
+![](https://www.youtube.com/watch?v=5tSvtAo7s6c)
+
