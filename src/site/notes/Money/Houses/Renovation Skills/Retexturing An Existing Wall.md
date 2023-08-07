@@ -10,6 +10,10 @@
 5. Prime
 6. Paint
 
+# Check For Asbestos 
+
+Before 1979, a lot of acoustic ceilings [had asbestos in them](https://www.youtube.com/watch?v=6BwoJVNIY6s). So, if your house was built in 1979 or before, you should definitely get your acoustic ceilings checked for asbestos now.
+
 # Types of Wall Texture
 
 ![](https://i0.wp.com/patch-pro.com/wp-content/uploads/2018/08/Types-Of-Wall-Textures.jpg?ssl=1)
@@ -74,6 +78,7 @@ Remember, every wall and texture can be different, so adjust your approach based
 
 ![](https://youtu.be/xvz0CRSfojk)
 
+[How to Smooth a Textured Ceiling](https://www.youtube.com/watch?v=RvJbdJytcTU)
 
 ## Skim Entire Wall With Water First
 
