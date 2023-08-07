@@ -21,6 +21,8 @@ Also see [Ozone Safety and Smoke Odors](https://chat.openai.com/share/b40cebb3-a
 - [Amazon Search](https://www.amazon.com/s?k=ozone+machine+for+house&hvadid=557326354766&hvdev=c&hvlocphy=9026850&hvnetw=g&hvqmt=e&hvrand=3435081908803220206&hvtargid=kwd-392011699561&hydadcr=8350_13469687&tag=googhydr-20&ref=pd_sl_21sfittkpq_e)
 - [Portable Ozone Generator](https://a.co/d/eJM1Yw3)
 
+Ozone Output: 500mg/h
+
 ![](https://m.media-amazon.com/images/I/618r+aBxztL._AC_SL1001_.jpg)
 
 ### Reviews
