@@ -76,3 +76,32 @@ Ozone Output: [300 mg/hr](https://ozoneexperts.com/products/queenaire-qt-thunder
 
 - [KOHLER HIGHLINE COMPLETE SOLUTION 2-PIECE 1.1 OR 1.6 GPF DUAL FLUSH ELONGATED TOILET](https://www.auctionhubtexas.com/auctions/91/lot/32816-msrp-3270-kohler-highline-complete-solution-2-piece-11-or-16-gpf-dual-flush-elongated-toilet-in-white-seat-included)
 HOME DECORATORS COLLECTION HAMPTON HARBOR 72 IN. W X 22 IN. D DOUBLE BATH VANITY IN
+
+# Jewelry
+
+
+## Gorgeous Womens 18K Yellow Gold Over Sterling Silver 7.69 CTW Amethyst and 0.12 CTW Diamonds 18 Inch Designer Necklace
+
+![](https://i.imgur.com/zcdH51y.png)
+
+I bought [this necklace](https://www.policeauctions.com/auctions/4150479/gorgeous-womens-18k-yellow-gold-over-sterling-silver-7.69-ctw-amethyst-and-0.12-ctw-diamonds-18-inch-designer-necklace-4150479) for $50. Found a similar one for [$131](https://www.etsy.com/listing/1095252092/gorgeous-womens-18k-yellow-gold-over). The "[Buy Direct](https://www.policeauctions.com/buydirect/4150479)" link was listed at $1,900.
+I bought [these earrings](https://www.policeauctions.com/auctions/4150480/gorgeous-womens-14k-white-gold-over-solid-sterling-silver-1%2F3-ctw-diamond-designer-earrings-4150480) for $50.. Found then for [$160](https://www.avianneandco.com/products/10k-white-solid-gold-womens-small-heart-earrings-with-white-diamonds-0-10-ctw)
+
+![](https://i.imgur.com/Bhl8krN.png)
+
+
+THIS SITE IS A SCAM. AVOID!!!
+
+| Clarity Grade | Description |
+|---------------|-------------|
+| FL (Flawless) | No internal or external flaws or inclusions visible under 10x magnification. |
+| IF (Internally Flawless) | No internal flaws, only minor external blemishes visible under 10x magnification. |
+| VVS1 (Very, Very Slightly Included 1) | Minute inclusions that are extremely difficult to detect under 10x magnification. |
+| VVS2 (Very, Very Slightly Included 2) | Slightly more noticeable inclusions than VVS1, but still very hard to detect under 10x magnification. |
+| VS1 (Very Slightly Included 1) | Minor inclusions visible under 10x magnification, but usually not visible to the naked eye. |
+| VS2 (Very Slightly Included 2) | Slightly larger or more numerous inclusions than VS1, still generally not visible to the naked eye. |
+| SI1 (Slightly Included 1) | Inclusions that are noticeable under 10x magnification and may be visible to the naked eye. |
+| SI2 (Slightly Included 2) | More visible inclusions than SI1, some may be visible without magnification. |
+| I1 (Included 1) | Inclusions that are often visible to the naked eye, potentially impacting the diamond's brilliance. |
+| I2 (Included 2) | More significant inclusions, affecting the diamond's appearance and overall quality. |
+| I3 (Included 3) | Diamonds with very obvious inclusions that can significantly impact their beauty and structural integrity. |
