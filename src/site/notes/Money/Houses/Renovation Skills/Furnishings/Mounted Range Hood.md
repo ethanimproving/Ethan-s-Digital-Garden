@@ -14,3 +14,4 @@
 ![](https://futurofuturo.com/wp-content/uploads/Glass-White-Kitchen-Hood-48-inch-Luxor-Island-Range-Hoods-Futuro-Futuro-Range-Hoods-sku-IS48LUXOR-image-15.jpg)
 
 ![](https://futurofuturo.com/wp-content/uploads/Designer-Stainless-Steel-Range-Hood-72-inch-Europe-Island-model-Futuro-Futuro-brand-08.jpg)
+
