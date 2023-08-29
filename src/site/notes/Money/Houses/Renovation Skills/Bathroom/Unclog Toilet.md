@@ -69,6 +69,8 @@
 **Videos:**
 
 [Unclog Drain with Drain Cleaning Bladder](https://www.youtube.com/watch?v=orudtV12OY4)
+[Clog blaster or something else?](https://www.youtube.com/shorts/j0k6JkvDdHY?feature=share)
+
 #### Dangers
 
 [Watch This Video Before Using Bladder Type Tools To Clear Difficult Drain Pipe Clogs](https://www.youtube.com/watch?v=43ZchEMW9-g)
