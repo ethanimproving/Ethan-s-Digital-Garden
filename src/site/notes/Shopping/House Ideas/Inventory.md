@@ -32,3 +32,59 @@
 | [Gardena 50 Foot Wall Mounted Retractable Hose Reel](https://www.amazon.com/Gardena-18600-Mounted-Retractable-Standard/dp/B08M9QW3LB) (Pay attention to hose diameter)                                      | Bay 4      | ![](https://m.media-amazon.com/images/I/61uFSLbKdOS._AC_SL1500_.jpg)                                                                                                                                     | Car Wash       |
 | [Invisible Glass Cleaner](https://www.amazon.com/Invisible-Glass-Premium-Cleaner-91164/dp/B0007OWD2M) (Or 50% Rubbing Alcohol 50% Distilled Water)                                                          | Bay 4      | ![](https://m.media-amazon.com/images/I/51MoLBRSa3L._AC_SL1000_.jpg)                                                                                                                                     | Car Wash       |
 | [Power Foam Bug & Tar Remover](https://www.amazon.com/Turtle-Wax-50595-Power-Remover/dp/B01CAD5S6A)                                                                                                         | Bay 4      | ![](https://m.media-amazon.com/images/I/71wP2Bl3KWL._AC_SL1500_.jpg)                                                                                                                                     | Car Wash       |
+
+
+[NewAir 470 CFM, 3 speed Portable Evaporative Cooler and Fan for 250 sq. ft. Cooling Area](https://www.homedepot.com/p/NewAir-470-CFM-3-speed-Portable-Evaporative-Cooler-and-Fan-for-250-sq-ft-Cooling-Area-NEC500WH00/316771971)
+![](https://images.thdstatic.com/productImages/89bab74e-5790-48bb-96b5-90da6486f28a/svn/white-newair-portable-evaporative-coolers-nec500wh00-64_1000.jpg)
+
+[RYOBI 25 cc 2-Stroke Attachment Capable Full Crank Straight Gas Shaft String Trimmer](https://www.homedepot.com/p/RYOBI-25-cc-2-Stroke-Attachment-Capable-Full-Crank-Straight-Gas-Shaft-String-Trimmer-RY253SS/205565911)
+![](https://images.thdstatic.com/productImages/a8239a19-7a17-42df-b87a-1ac29614696b/svn/ryobi-gas-string-trimmers-ry253ss-64_1000.jpg)
+
+
+[Dyson V7 Animal Cordless Stick Vacuum Cleaner, Iron](https://www.amazon.com/Dyson-Animal-Cordless-Vacuum-Cleaner/dp/B079K9B4XV/ref=asc_df_B079K9B4XV)
+![](https://m.media-amazon.com/images/I/51D6QC85fpL._AC_SL1500_.jpg)
+
+
+
+[RYOBI 40-Volt Lithium-Ion Cordless Attachment Capable String Trimmer, 4.0 Ah Battery and Charger Inc](https://www.amazon.com/RYOBI-Lithium-Ion-Cordless-Attachment-Included/dp/B07PHZZJFS/ref=asc_df_B07PHZZJFS)
+![](https://m.media-amazon.com/images/I/51iXx4VaSdL._AC_SL1000_.jpg)
+
+[Hyper Tough HT041701B 1700psi Electric Pressure Washer](https://uedata.amazon.com/Hyper-Tough-HT041701B-Electric-Pressure/dp/B071FJJFK8)
+
+![](https://m.media-amazon.com/images/I/31Z-5e1acNL._AC_.jpg)
+
+[Connecting The Garden Hose](https://www.pressurewashersdirect.com/manuals/powerworks1700manual_2.pdf#page=44)
+![](https://i.imgur.com/jU5RwDC.png)
+
+
+
+[Lasko 48 in. 4 Speeds Xtra Air Tower Fan in Black with Carry Handle, Oscillating, Remote Control, Nighttime Setting, Timer](https://www.homedepot.com/pep/Lasko-48-in-4-Speeds-Xtra-Air-Tower-Fan-in-Black-with-Carry-Handle-Oscillating-Remote-Control-Nighttime-Setting-Timer-T48335/314618652)
+![](https://images.thdstatic.com/productImages/011f2416-5426-4e26-be42-fc76a3817d31/svn/black-lasko-tower-fans-t48335-c3_1000.jpg)
+
+[Frigidaire High Humidity 60-Pint Capacity Dehumidifier](https://www.homedepot.com/pep/Frigidaire-High-Humidity-60-Pint-Capacity-Dehumidifier-FFAD6022W1/312547389)
+![](https://images.thdstatic.com/productImages/8c881828-731e-427f-94c1-764202cb40a8/svn/whites-frigidaire-dehumidifiers-ffad6022w1-64_1000.jpg)
+
+
+[Frigidaire High Humidity 50-Pint Capacity Dehumidifier](https://www.homedepot.com/pep/Frigidaire-High-Humidity-50-Pint-Capacity-Dehumidifier-FFAD5033W1/312546305)
+![](https://images.thdstatic.com/productImages/a8731be2-5d7c-465b-a009-00cf47d1a131/svn/whites-frigidaire-dehumidifiers-ffad5033w1-64_600.jpg)
+
+[Scott® Essential High-Capacity Hard Roll Towels](https://www.amazon.com/Scott-Essential-02001-Dispenser-Unperforated/dp/B01FVR9LWO/ref=asc_df_B01FVR9LWO)
+![](https://m.media-amazon.com/images/I/71CbCQXqA8L._SL1500_.jpg)
+
+[Lasko Bladeless 1500-Watt Electric Ceramic Oscillating Space Heater with Digital Display and Remote Control](https://www.homedepot.com/p/Lasko-Bladeless-1500-Watt-Electric-Ceramic-Oscillating-Space-Heater-with-Digital-Display-and-Remote-Control-AW315/301083326)
+![](https://m.media-amazon.com/images/I/61ugISpzvSL._AC_SL1500_.jpg)
+
+
+[Gourmia 6Qt Digital Air Fryer with FryForce 360 Degree Technology](https://www.walmart.com/ip/Gourmia-6Qt-Digital-Air-Fryer-with-FryForce-360-Degree-Technology/852606478)
+![](https://i5.walmartimages.com/seo/Gourmia-6Qt-Digital-Air-Fryer-with-FryForce-360-Degree-Technology_4e398c8a-2c84-431c-8fd4-03e891a7b112.77a52bc44e6dbb2c08b662b16f311e9c.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF)
+
+[2 x NEATFREAK Wall Mount Hook Tracks 71cm x 6 Hooks](https://www.walmart.com/ip/2-x-NEATFREAK-Wall-Mount-Hook-Tracks-71cm-x-6-Hooks-SN-CC66705-278257-72/885856546)![](https://m.media-amazon.com/images/I/51YCc9z5u+L._AC_SL1200_.jpg)
+
+[HomeZone LED Motion Sensor Security Light 2,500 Lumen Output](https://www.walmart.com/ip/HomeZone-LED-Motion-Sensor-Security-Light-2-500-Lumen-Output/528154244)
+![](https://i5.walmartimages.com/asr/bd151684-ccb4-4766-b380-4ce1d9e2c064_1.00ab7a6458965cef690ff36935caf4d8.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF)
+
+[Broan-NuTone QT Series 130 CFM Ceiling Bathroom Exhaust Fan with LED Light and Night Light, ENERGY STAR](https://www.homedepot.com/p/Broan-NuTone-QT-Series-130-CFM-Ceiling-Bathroom-Exhaust-Fan-with-LED-Light-and-Night-Light-ENERGY-STAR-QTN130LE1/205369502)
+![](https://images.thdstatic.com/productImages/8c0dbacb-26d6-4fc3-9117-f15ed6d8d1ad/svn/white-broan-nutone-bath-fans-qtn130le1-64_1000.jpg)
+
+[ONE+ 18V Cordless Telescoping Power Scrubber (Tool Only)](https://www.homedepot.com/p/RYOBI-ONE-18V-Cordless-Telescoping-Power-Scrubber-Tool-Only-P4500/311738437)
+![](https://images.thdstatic.com/productImages/9b72bbe2-d0b2-4330-b8a0-b7c298f7905d/svn/ryobi-floor-pads-p4500-64_600.jpg)
