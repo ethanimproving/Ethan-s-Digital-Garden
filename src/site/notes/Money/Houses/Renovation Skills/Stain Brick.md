@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jun 03, 2023, 11:21 AM
-tags: [oakmore]
+{"dg-publish":true,"permalink":"/money/houses/renovation-skills/stain-brick/","tags":["oakmore"],"created":"Jun 03, 2023, 11:21 AM","updated":""}
 ---
+
 
 # Don't Paint
 
