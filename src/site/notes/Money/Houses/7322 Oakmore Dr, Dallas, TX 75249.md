@@ -67,33 +67,33 @@ Will the cost of renovating the house increase the sale price by the same amount
 | File                                                                                                               | Cost                 | Priority |
 | ------------------------------------------------------------------------------------------------------------------ | -------------------- | -------- |
 | [[Money/Houses/Renovation Skills/Appliences/Smart Fridge\|Smart Fridge]]                                        | $2,000               | 5        |
-| [[Money/Houses/Renovation Skills/Bathroom/Installing Shower Doors\|Installing Shower Doors]]                    | $130                 | 5        |
-| [[Money/Houses/Renovation Skills/Bathroom/Replacing A Toilet\|Replacing A Toilet]]                              | $0                   | 5        |
-| [[Money/Houses/Renovation Skills/Bathroom/Unclog Toilet\|Unclog Toilet]]                                        | $0                   | 5        |
-| [[Money/Houses/Renovation Skills/Bathroom/Raise Shower Ceiling\|Raise Shower Ceiling]]                          | $50                  | 5        |
-| [[Money/Houses/Renovation Skills/Attic/Clean Air Ducts\|Clean Air Ducts]]                                       | $650                 | 5        |
 | [[Money/Houses/Renovation Skills/Attic/Attic Work (Electrical)\|Attic Work (Electrical)]]                       | $0$                  | 5        |
 | [[Money/Houses/Renovation Skills/Attic/In-ceiling Speakers\|In-ceiling Speakers]]                               | $1,000               | 5        |
+| [[Money/Houses/Renovation Skills/Attic/Clean Air Ducts\|Clean Air Ducts]]                                       | $650                 | 5        |
 | [[Money/Houses/Renovation Skills/Attic/Remove Smoking Oder\|Remove Smoking Oder]]                               | $50                  | 5        |
+| [[Money/Houses/Renovation Skills/Bathroom/Installing Shower Doors\|Installing Shower Doors]]                    | $130                 | 5        |
+| [[Money/Houses/Renovation Skills/Bathroom/Remove Shower Soffit\|Remove Shower Soffit]]                          | $50                  | 5        |
+| [[Money/Houses/Renovation Skills/Bathroom/Replacing A Toilet\|Replacing A Toilet]]                              | $0                   | 5        |
+| [[Money/Houses/Renovation Skills/Bathroom/Unclog Toilet\|Unclog Toilet]]                                        | $0                   | 5        |
 | [[Money/Houses/Renovation Skills/Garage/Epoxy In Garage\|Epoxy In Garage]]                                      | $0                   | 5        |
 | [[Money/Houses/Renovation Skills/Kitchen/Fix Sink Pipes\|Fix Sink Pipes]]                                       | $0                   | 5        |
 | [[Money/Houses/Renovation Skills/Kitchen/Replace Garbage Disposal\|Replace Garbage Disposal]]                   | $50                  | 5        |
+| [[Money/Houses/Renovation Skills/Level The Floor\|Level The Floor]]                                             | $0                   | 5        |
 | [[Money/Houses/Renovation Skills/Level The Patio\|Level The Patio]]                                             | $4,200               | 5        |
 | [[Money/Houses/Renovation Skills/Living Room/Remove Concrete Patch From Slab\|Remove Concrete Patch From Slab]] | $30                  | 5        |
 | [[Money/Houses/Renovation Skills/Lighting\|Lighting]]                                                           | $200                 | 5        |
 | [[Money/Houses/Renovation Skills/Mud Room\|Mud Room]]                                                           | $900                 | 5        |
-| [[Money/Houses/Renovation Skills/Level The Floor\|Level The Floor]]                                             | $0                   | 5        |
+| [[Money/Houses/Renovation Skills/Windows\|Windows]]                                                             | $5,400               | 5        |
+| [[Money/Houses/Renovation Skills/Yard & Outside/Fix Cracks In Sidewalk\|Fix Cracks In Sidewalk]]                | $50                  | 5        |
 | [[Money/Houses/Renovation Skills/Yard & Outside/Fence\|Fence]]                                                  | $4,000               | 5        |
 | [[Money/Houses/Renovation Skills/Yard & Outside/How To Kill A Tree\|How To Kill A Tree]]                        | $0                   | 5        |
-| [[Money/Houses/Renovation Skills/Yard & Outside/Fix Cracks In Sidewalk\|Fix Cracks In Sidewalk]]                | $50                  | 5        |
-| [[Money/Houses/Renovation Skills/Windows\|Windows]]                                                             | $5,400               | 5        |
 | [[Money/Houses/Renovation Skills/Kitchen/Open Up The Kitchen\|Open Up The Kitchen]]                             | $3,500               | 4        |
 | [[Money/Houses/Renovation Skills/Yard & Outside/Patio\|Patio]]                                                  | $0                   | 4        |
 | [[Money/Houses/Renovation Skills/Yard & Outside/Pressure Wash The Sidewalk\|Pressure Wash The Sidewalk]]        | 0                    | 4        |
-| [[Money/Houses/Renovation Skills/Kitchen/Kitchen Cabinets\|Kitchen Cabinets]]                                   | $8,000               | 3        |
 | [[Money/Houses/Renovation Skills/Kitchen/Island or Peninsula\|Island or Peninsula]]                             | $5,000               | 3        |
-| [[Money/Houses/Renovation Skills/Kitchen Counters\|Kitchen Counters]]                                           | $3,500               | 3        |
+| [[Money/Houses/Renovation Skills/Kitchen/Kitchen Cabinets\|Kitchen Cabinets]]                                   | $8,000               | 3        |
 | [[Money/Houses/Renovation Skills/Lay Carpet\|Lay Carpet]]                                                       | $1 / sq ft           | 3        |
+| [[Money/Houses/Renovation Skills/Kitchen Counters\|Kitchen Counters]]                                           | $3,500               | 3        |
 | [[Money/Houses/Renovation Skills/Remove Old Carpet And Clean Ground\|Remove Old Carpet And Clean Ground]]       | $0                   | 3        |
 | [[Money/Houses/Renovation Skills/Replace Outlets\|Replace Outlets]]                                             | $12                  | 3        |
 | [[Money/Houses/Renovation Skills/Security System\|Security System]]                                             | $1000                | 3        |
@@ -115,8 +115,8 @@ Will the cost of renovating the house increase the sale price by the same amount
 | [[Money/Houses/Renovation Skills/Living Room/Smart Locks\|Smart Locks]]                                         | $200                 | 1        |
 | [[Money/Houses/Renovation Skills/New Doors\|New Doors]]                                                         | $300                 | 1        |
 | [[Money/Houses/Renovation Skills/Paint Doors\|Paint Doors]]                                                     | $80                  | 1        |
-| [[Money/Houses/Renovation Skills/Retile The Floor\|Retile The Floor]]                                           | $4,000               | 1        |
 | [[Money/Houses/Renovation Skills/Retexturing An Existing Wall\|Retexturing An Existing Wall]]                   | $200                 | 1        |
+| [[Money/Houses/Renovation Skills/Retile The Floor\|Retile The Floor]]                                           | $4,000               | 1        |
 | [[Money/Houses/Renovation Skills/Smart Blinds\|Smart Blinds]]                                                   | $650 / Window        | 1        |
 | [[Money/Houses/Renovation Skills/Sprinkler System\|Sprinkler System]]                                           | <ul><li>\-</li></ul> | 1        |
 | [[Money/Houses/Renovation Skills/Kitchen/Kitchen\|Kitchen]]                                                     | $10,000              | 0        |
@@ -130,22 +130,26 @@ Will the cost of renovating the house increase the sale price by the same amount
 | [[Money/Houses/Renovation Skills/Bathroom/Clean Dirty Shower\|Clean Dirty Shower]]                              | \-                   | \-       |
 | [[Money/Houses/Renovation Skills/Bathroom/Vanity\|Vanity]]                                                      | \-                   | \-       |
 | [[Money/Houses/Renovation Skills/Bathroom/Shower Plumbing\|Shower Plumbing]]                                    | \-                   | \-       |
-| [[Money/Houses/Renovation Skills/Buckled Sidewalks\|Buckled Sidewalks]]                                         | $0                   | \-       |
 | [[Money/Houses/Renovation Skills/Bedroom/Ceiling Fans\|Ceiling Fans]]                                           | \-                   | \-       |
-| [[Money/Houses/Renovation Skills/Garage/Remove Oil Stain In Garage\|Remove Oil Stain In Garage]]                | \-                   | \-       |
-| [[Money/Houses/Renovation Skills/Furnishings/Fans\|Fans]]                                                       | \-                   | \-       |
-| [[Money/Houses/Renovation Skills/Furnishings/Mounted Range Hood\|Mounted Range Hood]]                           | $400                 | \-       |
+| [[Money/Houses/Renovation Skills/Buckled Sidewalks\|Buckled Sidewalks]]                                         | $0                   | \-       |
 | [[Money/Houses/Renovation Skills/Crown Molding\|Crown Molding]]                                                 | \-                   | \-       |
+| [[Money/Houses/Renovation Skills/Furnishings/Mounted Range Hood\|Mounted Range Hood]]                           | $400                 | \-       |
+| [[Money/Houses/Renovation Skills/Furnishings/Fans\|Fans]]                                                       | \-                   | \-       |
+| [[Money/Houses/Renovation Skills/Garage/Remove Oil Stain In Garage\|Remove Oil Stain In Garage]]                | \-                   | \-       |
+| [[Money/Houses/Renovation Skills/Garage/Install Radiant Barrier\|Install Radiant Barrier]]                      | \-                   | \-       |
+| [[Money/Houses/Renovation Skills/Garage/Replace Opener\|Replace Opener]]                                        | \-                   | \-       |
+| [[Money/Houses/Renovation Skills/Kitchen/Remove Kitchen Soffits\|Remove Kitchen Soffits]]                       | \-                   | \-       |
 | [[Money/Houses/Renovation Skills/Office By Master Bedroom\|Office By Master Bedroom]]                           | \-                   | \-       |
 | [[Money/Houses/Renovation Skills/Putting Drywall Up\|Putting Drywall Up]]                                       | \-                   | \-       |
 | [[Money/Houses/Renovation Skills/Sound Proofing Drywall\|Sound Proofing Drywall]]                               | \-                   | \-       |
 | [[Money/Houses/Renovation Skills/Stain Brick\|Stain Brick]]                                                     | \-                   | \-       |
-| [[Money/Houses/Renovation Skills/Termite Infestation\|Termite Infestation]]                                     | \-                   | \-       |
 | [[Money/Houses/Renovation Skills/Tearing A Wall Down\|Tearing A Wall Down]]                                     | \-                   | \-       |
+| [[Money/Houses/Renovation Skills/Termite Infestation\|Termite Infestation]]                                     | \-                   | \-       |
 | [[Money/Houses/Renovation Skills/Tools/Safety Goggles\|Safety Goggles]]                                         | \-                   | \-       |
 | [[Money/Houses/Renovation Skills/Tools/Masks\|Masks]]                                                           | \-                   | \-       |
 | [[Money/Houses/Renovation Skills/Tools/Vacuum Sander\|Vacuum Sander]]                                           | $135                 | \-       |
 | [[Money/Houses/Renovation Skills/Vault Kitchen Ceiling\|Vault Kitchen Ceiling]]                                 | \-                   | \-       |
+| [[Money/Houses/Renovation Skills/Yard & Outside/Dig Termite Trench\|Dig Termite Trench]]                        | \-                   | \-       |
 
 
 
