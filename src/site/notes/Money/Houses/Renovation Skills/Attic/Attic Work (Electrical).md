@@ -47,5 +47,37 @@ My house doesn't have a service mast because it's serviced underground. Instead 
 
 ![](https://firstresponder.domsafety.com/wp-content/uploads/2018/02/weatherhead_labels.png)
 
-# Equipment
+# Tips From John Ball
 
+Be sure to run 14 3.  This is a black, red, white, and ground.
+
+You will need 2 people, cordless drill with at least 3/4 that is at least 10 inches long,  pulling tape,  pan cake box.  Get the larger one. Rome nails. If you're going to add a switch, you'll need a two gang pop-in box, wire stripper, wire nuts, sheet rock saw.
+
+My breaker box has 2 service slots available.
+
+## Transformer
+
+![](https://www.dfliq.net/wp-content/uploads/2015/09/electrical-transformer.gif)
+
+A transformer is an electrical device that transfers electrical energy between two or more circuits through electromagnetic induction. Its main function is to change the voltage level of an alternating current (AC) electrical supply, either increasing it (step-up transformer) or decreasing it (step-down transformer).
+
+In the context you mentioned, where your electrician friend said you have a transformer across the street that services electricity underground, it's likely that they're referring to a distribution transformer. These transformers are commonly used in electrical distribution systems to provide power to homes, buildings, and various facilities.
+
+Here's how a distribution transformer works:
+
+1. **Voltage Conversion:** The primary winding of the transformer receives the higher voltage from the power lines. This higher voltage is typically used for long-distance transmission.
+    
+2. **Step-Down:** The secondary winding of the transformer provides a lower voltage suitable for local distribution to homes and businesses.
+    
+3. **Safety and Isolation:** Distribution transformers also provide isolation between the primary high-voltage side and the secondary low-voltage side, improving safety and preventing voltage fluctuations.
+    
+4. **Underground Service:** In some cases, transformers are located in substations or utility vaults across the street from residential areas. These transformers convert the high-voltage power from the utility lines to a lower voltage for safe distribution to homes and buildings.
+    
+
+Transformers play a critical role in electrical power systems, ensuring that the electricity supplied to homes and businesses is at the appropriate voltage levels for safe and efficient use.
+
+## Service pipe
+## Meter - belongs to Oncor
+## Electrical panel 
+## Solid receptacle. 
+## Doodle switch
