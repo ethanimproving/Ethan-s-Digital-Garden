@@ -32,7 +32,7 @@ HDR3 Compatible - Yes.
 
 ## Dell HP Support Question
 
-I have a [[Shopping/Laptops#Dell Latitude 7430\|Dell Latitude 7430]] and a Dell Thunderbolt Dock WD22TB4, and according to the specs it can support up to 3x 4k @ 60 Hz + 1x 4k @ 30 Hz. But when I plug in my Super Ultrawide [[Shopping/2022 Black Friday List#Super Ultrawide Monitor\|Samsung 49" Odyssey G9]], I only get 2560x1440 @60 Hz (6.64 Gbps). I'm supposed to get 5120 x 1440 @ 60 Hz via HDMI 2.0 or 5120 x 1440 @ 240 Hz via DisplayPort 2. According to [[Shopping/Cable Standards\|Cable Standards]] 1 x 5K (5120 x 1440) display @60 Hz requires 13.27 Gbps of bandwidth, which is significantly less than 3 x 4K (3840 x 2160) displays @60 Hz + 1 x 4K (3840 x 2160) display @30 Hz, which requires [43.7 Gbps](https://www.kramerav.com/bandwidth-calculator/). Can you help me get the full resolution through this docking station?
+I have a [[Shopping/Laptops#Dell Latitude 7430\|Dell Latitude 7430]] and a Dell Thunderbolt Dock WD22TB4, and according to the specs it can support up to 3x 4k @ 60 Hz + 1x 4k @ 30 Hz. But when I plug in my Super Ultrawide [[Shopping/2022 Black Friday List#Super Ultrawide Monitor\|Samsung 49" Odyssey G9]], I only get 2560x1440 @60 Hz (6.64 Gbps). I'm supposed to get 5120 x 1440 @ 60 Hz via HDMI 2.0 or 5120 x 1440 @ 240 Hz via DisplayPort 2. According to [[Shopping/Cable Standards\|Shopping/Cable Standards]] 1 x 5K (5120 x 1440) display @60 Hz requires 13.27 Gbps of bandwidth, which is significantly less than 3 x 4K (3840 x 2160) displays @60 Hz + 1 x 4K (3840 x 2160) display @30 Hz, which requires [43.7 Gbps](https://www.kramerav.com/bandwidth-calculator/). Can you help me get the full resolution through this docking station?
 
 ![](https://i.imgur.com/EfEGGoO.png)
 
@@ -96,7 +96,7 @@ Serial #: 2TK948X4SS
 
 ## HP Support Question
 
-I have an  HP EliteBook x360 1040 G6 and an HP USB-C Dock G5, and according to the specs it can support up to 3x 4k @ 60 Hz if the host has DisplayPort 1.4. Both USB-C ports have Thunderbolt support which allows for DisplayPort 1.4. But when I plug in my [[Shopping/2022 Black Friday List#Super Ultrawide Monitor\|Samsung 49" Odyssey G9]], I only get 2560x1440 @60 Hz (6.64 Gbps). I'm supposed to get 5120 x 1440 @ 60 Hz via HDMI or @ 240 Hz via DisplayPort. According to [[Shopping/Cable Standards\|Cable Standards]] 1 x 5K (5120 x 1440) display @60 Hz requires 13.27 Gbps of bandwidth, which is significantly less than 3 x 4K (3840 x 2160) displays @60 Hz, which requires 37.5 Gbps.
+I have an  HP EliteBook x360 1040 G6 and an HP USB-C Dock G5, and according to the specs it can support up to 3x 4k @ 60 Hz if the host has DisplayPort 1.4. Both USB-C ports have Thunderbolt support which allows for DisplayPort 1.4. But when I plug in my [[Shopping/2022 Black Friday List#Super Ultrawide Monitor\|Samsung 49" Odyssey G9]], I only get 2560x1440 @60 Hz (6.64 Gbps). I'm supposed to get 5120 x 1440 @ 60 Hz via HDMI or @ 240 Hz via DisplayPort. According to [[Shopping/Cable Standards\|Shopping/Cable Standards]] 1 x 5K (5120 x 1440) display @60 Hz requires 13.27 Gbps of bandwidth, which is significantly less than 3 x 4K (3840 x 2160) displays @60 Hz, which requires 37.5 Gbps.
 
 Case #[5098177523](https://support.hp.com/us-en/dashboard/cases) CRM:0076494002847
 Can I get an update on my case? My docking station isn't utilizing full 5120 x 1440 resolution on my Samsung Odyssey G9.
