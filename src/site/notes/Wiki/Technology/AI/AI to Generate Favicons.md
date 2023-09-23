@@ -12,11 +12,13 @@ You can generate favicons using [text-to-image AI tools](https://madebynathan.co
 
 # Utilities
 
+- [PNG to SVG](https://www.adobe.com/express/feature/image/convert/png-to-svg) (Free Adobe)
 - [PNG to SVG](https://www.pngtosvg.com/)
 - [Vecta](https://vecta.io/nano) (Compress SVG)
 - [SVG Formatter](https://codebeautify.org/svg-formatter-beautifier)
 - [Vectr](https://vectr.com/) (Illustrator Online)
-
+- [Fix The Photo](https://fixthephoto.com/illustrator-online-editor.html) (Illustrator Online)
+- [SVG Crop](https://svgcrop.com/)
 
 # Digital Garden Art
 
