@@ -72,3 +72,17 @@ You may be able to access these studies through your local library or university
 - RFG "[REME HALO® Inactivates SARS-CoV-2 by 99.9%](https://rgf.com/wp-content/uploads/2022/08/EA-Testing-2021.pdf)." *RGF Environmental Group* (2020).
 - Wilson, Mark. "[Reme Halo Air Purifier & COVID-19: Proven Effective Against Coronavirus](https://indoortemp.com/resources/reme-halo-covid-19)." *Fire & Ice Heating and Air Conditioning, Inc* (2020).
 - "[Does The REME HALO Really Work?](https://sunset-air.com/does-the-reme-halo-really-work/)" *Sunset Air and Home Services* 
+
+
+# Stanley Steamer
+
+| Feature                  | Reme HALO-LED                                                                      | Stanley Steemer In-Duct Air Purifier                            |
+|--------------------------|------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| Technology               | UV-C light and electromagnetic energy                                              | Various technologies (UV-C, HEPA, etc.)                         |
+| Applications             | Whole-home or whole-building air purification                                      | Whole-home or whole-building air purification                   |
+| Effectiveness            | Effective at reducing airborne contaminants when properly installed and maintained | Effectiveness depends on specific model and technology          |
+| Cost and Installation    | Cost includes purchase and installation                                            | Cost includes purchase and installation                         |
+| Maintenance              | Periodic bulb replacement and cleaning                                             | Maintenance requirements vary by model                          |
+| Primary Focus            | Air purification                                                                   | Air purification within HVAC systems                            |
+| Specific Technology Used | UV-C light and reflective electromagnetic energy                                   | Varies (UV-C, HEPA, etc.)                                       |
+| Company Offering         | Reme HALO-LED is a standalone product                                              | Stanley Steemer offers air purification as part of its services |
