@@ -3,6 +3,57 @@
 ---
 
 
+# Electricity
+
+[Volts, Amps, & Watts Explained!](https://www.youtube.com/watch?app=desktop&v=PyLjnVJVM1s)
+
+![](https://www.packetpower.com/hs-fs/hubfs/Blog/PipeAnalogy.jpg?width=552&height=200&name=PipeAnalogy.jpg)
+## Watts
+
+The wattage is the amount of electricity being used. You can think of it as the number of electrons required to perform a task.
+
+Watts represent the rate at which electrical energy is consumed or produced in a circuit. It is the product of voltage (in volts) and current (in amperes) and is used to measure the power of an electrical device. In simple terms, watts tell you how much energy a device uses or produces per unit of time.
+
+$$P(Watts)=V(Volts)×I(Amperes)$$
+## Amps
+
+Amperes, often referred to as "amps," measure the **rate of flow of electric current** in a circuit. It quantifies **how many electrons pass through a given point in a conductor per unit of time**. Amperes are analogous to the flow rate of water in a pipe. 
+
+Amps is the force of the electricity. Typical boxes have 15 amps and 20 amps.
+
+Divide 60 + 60 + 60 + 60 watts (240 watts) by 120 volts, and you end up with 2 amps. However if you look closer each bulb only uses 8.5 watts. So 8.5 x 4 = 34 watts / 120 volts = 0.28 amps. Only 1.8% of the capacity of that breaker. 
+
+## Volts
+
+Volts represent the electrical potential difference or voltage between two points in an electrical circuit. In simpler terms, it's the **force that pushes electrons through a conductor** (like a wire). Voltage is analogous to the pressure in a water pipe. Common household electrical outlets provide voltage at 120 and 240 volts.
+
+Volts are Amps x Watts. You can think of it as the number of electrons in a particular space. Like water pressure. You could have 20,000 volts but if your amps are low enough you won't get electricuted.
+
+## Transformer
+
+City Transformers take huge amounts of volts and convert them to amps to make it usable to households.
+
+## Vocabulary
+
+- Joist
+- Knockout
+- Butterfly
+- R-Staples
+- 14/3 Southwire
+	- 14 is smaller than 12.
+	- 3 - black for hot, white for neutral, red for fan control, and copper for ground.
+- Wire nut
+- Wire strippers
+- Klein side cutting plyers
+- [Rapi-drive screwdriver](https://www.homedepot.com/p/Klein-Tools-3-16-in-Cabinet-Tip-Rapi-Drive-Flat-Head-Screwdriver-with-4-in-Shank-670-3/203310620)
+- Leg
+- Circuit
+- Breaker
+- Electrical Box
+- Phase 1, 2, and 3
+- AC and DC
+- [Lever Nuts](https://www.homedepot.com/p/IDEAL-33-Orange-In-Sure-3-Port-Connector-10-Pack-30-1333S/202911030)
+
 # What To Wear
 
 [What's a man to wear? Attic insulation removal question.](https://www.reddit.com/r/DIY/comments/1s6epv/whats_a_man_to_wear_attic_insulation_removal/)
@@ -76,8 +127,55 @@ Here's how a distribution transformer works:
 
 Transformers play a critical role in electrical power systems, ensuring that the electricity supplied to homes and businesses is at the appropriate voltage levels for safe and efficient use.
 
+
 ## Service pipe
 ## Meter - belongs to Oncor
 ## Electrical panel 
 ## Solid receptacle. 
 ## Doodle switch
+
+# Tips
+
+## Cutting Romex
+
+[Best Way to STRIP ROMEX FAST](https://www.youtube.com/shorts/sLCxyD7xMFE?feature=share)
+## Wire Staples
+
+For anyone curious, you would use an S1 staple for a 14/2 or 14/3 cable, and an S2 staple for two 14/2 cables.
+
+[How often should you staple wires?](https://www.youtube.com/shorts/RUBf0gX5xxs?feature=share)
+
+[Staple within 12 inches of every junction box](https://www.youtube.com/shorts/RyKN4EvzsbM)
+
+### Staple Gun
+
+Use a [Dewalt Staple Gun](https://www.homedepot.com/p/DEWALT-4-in-Heavy-Duty-Compact-Staple-Gun-DWHT74841D/206210812#overlay).
+![](https://m.media-amazon.com/images/I/81ZXuiBRQ1L._SL1500_.jpg)
+
+[Milwaukee Cable stapler](https://www.youtube.com/shorts/s1im2BUHe7k)
+# Mistakes
+
+[Avoid These 5 DIY Electrical Mistakes](https://www.youtube.com/watch?v=U4UMuQ7t0Vw)
+
+# Attic Wire Management
+
+[first time running cables in attic advice needed](https://arstechnica.com/civis/threads/first-time-running-cables-in-attic-advice-needed.1249741/)
+
+[if y'all are still running your cabling directly on the attic floor, maybe invest in these](https://www.reddit.com/r/homelab/comments/tda4y0/if_yall_are_still_running_your_cabling_directly/)
+
+[E3802.2 Cables in Accessible Attics](https://up.codes/s/cables-in-accessible-attics)
+
+
+# National Electrical Code (NEC)
+
+## Proper Cable Support
+
+Cables should be supported and secured to prevent sagging or damage. Here's how to do it:
+    
+### Along Joists
+
+Run cables along the top of attic joists, keeping them at least 1.25 inches below the top surface or protected by a running board. This helps prevent damage during future attic work or storage.
+        
+### Across Joists
+
+If you need to cross joists, drill holes through the center of the joists and pass the cable through. Do not staple cables to the sides of joists or run them across the top without protection.
