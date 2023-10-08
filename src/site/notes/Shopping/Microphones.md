@@ -3,7 +3,7 @@
 ---
 
 
-# Blue Yeti
+# Blue YetiA
 
 Price: $109
 
