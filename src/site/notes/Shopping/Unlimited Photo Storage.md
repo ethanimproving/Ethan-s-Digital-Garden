@@ -20,15 +20,23 @@ You can either [buy the phone](https://www.ebay.com/sch/i.html?_dcat=9355&_fsrp=
 
 [How to use OG Pixel as an unlimited Google Photos uploader](https://www.reddit.com/r/GooglePixel/comments/l9m6nk/how_to_use_og_pixel_as_an_unlimited_google_photos/)
 
-## Delete backed-up photos automatically
+## 1. Delete backed-up photos automatically
 
 [Files by Google Help](https://support.google.com/files/answer/10862356?hl=en#:~:text=On%20Files%20by%20Google%2C%20you,storage%20is%20less%20than%2025%25)
 1. Install [Files by Google](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files)
 2. At the top left, tap **Menu > Settings > [Smart Storage](https://9to5google.com/wp-content/uploads/sites/4/2021/09/Screenshot_20210910-101048.png?w=473)**.
 
-## Disable Battery Optimization
+## 2. Disable Battery Optimization
 
-## Disable Selective Photos
+Open up Android settings and search for `Battery Optimization`. Select `All Appa` and scroll to Sync.
+
+## 3. Gesture Buttons
+
+## 4. Disable Selective Photos
+
+Open Sync settings for the folder that is being synced and uncheck `Selective Photos`.
+
+## 5. Disable Auto Sleep
 
 # Emulator
 
