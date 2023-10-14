@@ -52,7 +52,7 @@ City Transformers take huge amounts of volts and convert them to amps to make it
 - Electrical Box
 - Phase 1, 2, and 3
 - AC and DC
-- [Lever Nuts](https://www.homedepot.com/p/IDEAL-33-Orange-In-Sure-3-Port-Connector-10-Pack-30-1333S/202911030)
+- [Wago Lever Nuts](https://www.amazon.com/gp/product/B0957T1S9C/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
 
 # What To Wear
 
@@ -149,8 +149,8 @@ For anyone curious, you would use an S1 staple for a 14/2 or 14/3 cable, and an 
 
 ### Staple Gun
 
-Use a [Dewalt Staple Gun](https://www.homedepot.com/p/DEWALT-4-in-Heavy-Duty-Compact-Staple-Gun-DWHT74841D/206210812#overlay).
-![](https://m.media-amazon.com/images/I/81ZXuiBRQ1L._SL1500_.jpg)
+Use a [Klein Staple Gun](https://www.amazon.com/gp/product/B085RLW9XL/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1).
+![](https://m.media-amazon.com/images/I/61ykeA9CI3L._AC_SL1000_.jpg)
 
 [Milwaukee Cable stapler](https://www.youtube.com/shorts/s1im2BUHe7k)
 # Mistakes
