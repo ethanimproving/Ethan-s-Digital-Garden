@@ -113,6 +113,11 @@ git reflog expire --expire=now --all && git gc --prune=now --aggressive
 git push
 ```
 
+[Show folder size in Windows 10](https://www.4winkey.com/windows-10/how-to-show-view-folder-size-in-windows-10.html)
+
+![](https://i.imgur.com/RH0b2SV.png)
+
+
 Feb 18
 ```
  Filename                                   Git id
@@ -139,6 +144,14 @@ Feb 18
 It will output something like this:
 ![](https://i.imgur.com/OJvkh2H.png)
 
+Oct 15
+```
+ Filename                 Git id
+------------------------------------------------------------------
+Jabber Chat History.md | 92748b4a (6.7 MB), 96f43bab (6.7 MB)
+main.js                | d0b759c3 (4.8 MB), 7dee2034 (4.8 MB), ...
+pdfannots2json.exe     | f7737017 (34.1 MB)
+```
 # Plugin
 
 * Advanced Tables
