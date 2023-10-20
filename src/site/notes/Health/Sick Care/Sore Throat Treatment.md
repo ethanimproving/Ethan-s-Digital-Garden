@@ -15,6 +15,8 @@
 10. [Horehound Candy](https://www.amazon.com/Claeys-Fashioned-Candy-Horehound-Ounce/dp/B00461NHD6/ref=asc_df_B00461NHD6/)
 11. Selenium (200 mcg) + Zinc (1 capsule) + Vitamin D3 (5 drops) + Vitamin C (500 mg)
 12. [Physica Throat Spray](https://physicaenergetics.com/throat-spray-milieu/) (3 sprays)
+13. ZPack
+14. Medrol
 
 # Allergies
 
