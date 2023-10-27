@@ -54,7 +54,7 @@ My pulmonologist has been prescribing Breo to me due to airway inflammation. Aft
 
 Doctors may recommend additional measures to manage the cough, such as adjusting medication dosages, using a short-acting bronchodilator for acute relief, or considering other therapies if necessary.
 
-### Treatment
+
 
 | Recommendation              | Description                                                                                                                                                                                                          | Image                       |
 |-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
@@ -66,7 +66,10 @@ Doctors may recommend additional measures to manage the cough, such as adjusting
 | **6. Honey**                       | Honey (especially local honey) has natural soothing properties and can be added to tea or consumed on its own. However, do not give honey to children under the age of 1.                                            | ![](https://cdn-prod.medicalnewstoday.com/content/images/articles/302/302572/a-spoonful-of-honey-from-a-jar.jpg)                      |
 | **7. Consider OTC Cough Medicine** | Over-the-counter [cough suppressants](https://www.cvs.com/shop/delsym-cough-suppressant-liquid-prodid-1011707) or expectorants may provide relief, but use them as directed and consult your healthcare provider if you have any underlying medical conditions or are taking other medications. | ![](https://m.media-amazon.com/images/I/81DYDlqlSdL.jpg) |
 
+## 5. Treatment
+10/22/2023
 
+On Oct 22 I finally took a ZPack that was prescribed by [Dr. J.J. Andrick, MD](https://patient.doctorondemand.com/patient/#/visits/visit-result/7010180) using [Doctor on Demand](https://doctorondemand.com/). The call took about 3 minutes after an hour and a half waiting time whille watching 27 Dresses with Anna and Mariana. It cost me $0 which I was happy about. I took the first two pills at Texas Road House with Mariana on our way home from the [[Relationship/Dates/2023-10-20 DFW\|TCU volleyball game]].
 # Motivation
 #quotes
 If you have the will to breath, the suffering becomes irrelevant.
