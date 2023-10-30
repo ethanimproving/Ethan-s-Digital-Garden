@@ -48,3 +48,4 @@ Yes, it is possible to remove patches of concrete from a slab to restore a smoot
 
 It's important to consider the size and extent of the concrete patches, as well as the condition of the underlying slab. If you're unsure about the best approach or if the patches are extensive, it may be beneficial to consult with a professional contractor or concrete specialist who can assess the situation and recommend the most appropriate method for your specific case.
 
+[Google Photos](https://photos.app.goo.gl/cLCx3UEGSobWRKRQ6)
