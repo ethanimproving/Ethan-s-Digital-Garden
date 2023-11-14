@@ -10,4 +10,9 @@ I had been prioritizing my [[Goals/Projects/Unbound Preaching/App Ideas\|Unbound
 
 Based on the counsel of those close to me, I started thinking seriously about it. Uncle Stu gave the renters a 1 month notice, which they did not open until the month was closed, so they were given 1 more month. I was happy with that outcome as it gave me more time to stack paychecks and save more towards the down payment, and renovations fund before I start paying monthly bills.
 
-After seeing the house and making a plan on the [[Money/Houses/7322 Oakmore Dr, Dallas, TX 75249#Renovation\|revocations]] I wanted to do, 
+After seeing the house and making a plan on the [[Money/Houses/7322 Oakmore Dr, Dallas, TX 75249#Renovation\|renovations]] I wanted to do, 
+
+
+```timeline
+house
+```
