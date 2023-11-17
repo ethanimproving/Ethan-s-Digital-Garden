@@ -5,6 +5,20 @@
 
 # Article 1: Movies
 
+> [!Bible] [Proverbs 4:24 - KJV](https://bible-api.com/proverbs+4:24?translation=kjv)
+> 24. Put away from thee a froward mouth, and perverse lips put far from thee.
+
+> [!Bible] [Ephesians 4:29 - KJV](https://bible-api.com/ephesians+4:29?translation=kjv)
+> 29. Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers.
+
+> [!Bible] [Ephesians 5:3-4 - KJV](https://bible-api.com/ephesians+5:3-4?translation=kjv)
+> 3. But fornication, and all uncleanness, or covetousness, let it not be once named among you, as becometh saints;
+> 4. Neither filthiness, nor foolish talking, nor jesting, which are not convenient: but rather giving of thanks.
+
+> [!Bible] [Psalms 101:3 - KJV](https://bible-api.com/psalm+101:3?translation=kjv)
+> 3. I will set no wicked thing before mine eyes: I hate the work of them that turn aside; it shall not cleave to me.
+
+Quick question: to spice the Code Wars up a bit, can we let folks who finish early finish the day at home? I think it would be a good motivation for those still working after the first 3 pairs are done
 # Article 2: Music
 
 # Article 3: Video Games
