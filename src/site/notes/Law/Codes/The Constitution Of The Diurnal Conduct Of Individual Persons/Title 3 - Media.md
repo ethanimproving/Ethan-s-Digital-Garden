@@ -25,7 +25,7 @@
 
 Also see: [Television: the Leaven of the Pharisees](https://faithfulwordbaptist.org/television.html)
 - [Should Christians Watch ‘Game of Thrones’?](https://www.desiringgod.org/interviews/should-christians-watch-game-of-thrones)
-- [[Goals/Projects/FL Studio/AI Raps/Leaven of the Pharisees (TV)\|Leaven of the Pharisees (TV)]]
+- [[Goals/Projects/FL Studio/AI Raps/TV Hypocrisy\|TV Hypocrisy]]
 
 **1.5** A movie that promotes worldly thinking may be watched if the worldly ideology is identified and rebuked openly at the time that it is seen, or else after the movie finishes by reason of etiquette.
 
