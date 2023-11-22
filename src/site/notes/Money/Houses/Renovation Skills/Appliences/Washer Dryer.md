@@ -79,3 +79,14 @@ It's important to note that proper maintenance and following these tips can help
 # LG
 
 [LG Washing Machine](https://youtu.be/NZDW7ZMu_60?si=F3CTXVCVhueIXc_W&t=249)
+## LG Signature
+
+[LG SIGNATURE Smart wi-fi Enabled Washer/Dryer Combo](https://www.lg.com/us/washers-dryers/lg-luwm101hwa-washer-dryer-combo-lgsignature)
+Price: $2,879.00
+$320.00 OFF | ~~was $3,199.00~~
+
+This is a nice Washer but it's too expensive to be considered.
+
+![](https://media.us.lg.com/transform/ecomm-PDPGalleryZoom-1600x1062/5af2b19d-365d-4bc2-8f2b-1b7234ccee15/md05776127-large02-jpg)
+
+[Best All-in-One Washer Dryer Combo 2023](https://youtu.be/WBjArIoiM6M?si=bFcQfm3nlNJ8mW8c&t=453)
