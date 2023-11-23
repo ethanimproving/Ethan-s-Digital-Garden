@@ -146,6 +146,13 @@ The best say to control Kasa devices with Siri is by creating Shortcuts.
 
 [Smart Wi-Fi Light Switch](https://www.kasasmart.com/us/products/smart-switches/kasa-smart-wifi-light-switch-motion-activated-ks200m)
 
+- [Pioneer Smart Wi-Fi Ceiling Fan Wall Switch](https://www.homedepot.com/pep/CARRO-Pioneer-Smart-Wi-Fi-Ceiling-Fan-Wall-Switch-1-Gang-Works-with-Alexa-Google-Home-and-Siri-PN-04F01A-WH1/315277027) (No light fade)
+- [Carro Light Adjustable & 3 Speed Ceiling Fan Control Switch](https://www.amazon.com/gp/product/B0BD6ZBVYS/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) (Caleb's)
+- [Universal Damp Rated Ceiling Fan Wall Remote Control White](https://www.homedepot.com/p/Hunter-Universal-Damp-Rated-Ceiling-Fan-Wall-Remote-Control-White-99393/313862621#overlay) (Too cluttered)
+- [Lutron Caseta Smart Lighting Switch](https://www.amazon.com/Lutron-Wireless-Lighting-PD-6ANS-WH-Assistant/dp/B017LRCG38/ref=asc_df_B017LRCG38) (No fade)
+- [TREATLIFE Smart Ceiling Fan Control and Dimmer Light Switch](https://www.amazon.com/Ceiling-Control-Treatlife-Assistant-Schedule/dp/B086PPRWL7/ref=asc_df_B086PPRWL7)  (PERFECT) ([2-pack](https://www.amazon.com/Ceiling-Control-Treatlife-Assistant-Schedule/dp/B086PSPP4X/ref=zg_bs_g_5486416011_sccl_10/145-8733802-5374503?psc=1))
+- [Amazon Best Sellers](https://www.amazon.com/gp/bestsellers/hi/5486416011/ref=zg_b_bs_5486416011_1)
+- [2 in 1 Smart Ceiling Fan Control and Light Dimmer Switch](https://www.amazon.com/Ceiling-Control-Dimmer-Neutral-Required/dp/B0B469TZB4/ref=zg_bs_g_5486416011_sccl_41/145-8733802-5374503?th=1)
 # Smart Light
 
 # Smart Remote Switch
