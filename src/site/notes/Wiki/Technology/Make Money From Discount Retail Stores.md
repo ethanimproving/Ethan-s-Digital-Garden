@@ -38,4 +38,5 @@ In summary, the first-sale doctrine is a legal concept that allows sellers to re
 - [How I Make $2K Profit Per Day Selling on Amazon FBA](https://youtube.com/shorts/ryczSdC_btQ?feature=share)
 - [How I Make $100,000+ Per Month With Amazon FBA](https://youtu.be/o1UsQhLkLc0)
 - [Is Selling On Amazon Worth it? Here’s What You Need To Know](https://mywifequitherjob.com/is-selling-on-amazon-worth-it/)
-- 
+- [Amazon Seller account is $40/mo](https://www.facebook.com/reel/676332367883684?fs=e&s=TIeQ9V&mibextid=EeqNb9)
+- [One big money making thing every year](https://www.facebook.com/reel/1737645950036853?fs=e&s=TIeQ9V&mibextid=0NULKw)
