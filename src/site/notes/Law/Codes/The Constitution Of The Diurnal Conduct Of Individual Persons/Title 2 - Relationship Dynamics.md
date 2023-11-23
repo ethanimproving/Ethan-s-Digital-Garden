@@ -23,7 +23,7 @@
 
 ## § 1. Respect
 
-**1.1** No individual shall address another with derogatory appellations; a commitment to decorum and mutual respect in discourse is mandated ([King Dre](<[https://www.facebook.com/reel/1840228819706528?fs=e&s=TIeQ9V&mibextid=3uyXbM](https://www.facebook.com/reel/1840228819706528?fs=e&s=TIeQ9V&mibextid=3uyXbM)>)).
+**1.1** No individual shall address another with derogatory appellations; a commitment to decorum and mutual respect in discourse is mandated ([King Dre](https://www.facebook.com/reel/1840228819706528?fs=e&s=TIeQ9V&mibextid=3uyXbM)).
 
 ## § 2. Etiquette in Transit
 
