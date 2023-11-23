@@ -37,7 +37,7 @@ See also: [Guardians Of The Galaxy Literary Analysis](https://youtu.be/ymJKHJSp4
 
 **2.1** It is permissible to watch shows with homosexual actors, given that they are playing the role of a normal heterosexual person.
 
-Such as in the case of [White Collar](https://www.imdb.com/title/tt1358522/), Neal Caffrey is played by [Matt Bomer](https://www.imdb.com/name/nm0093589/?ref_=tt_ov_st), who is gay in real life. His character, however, is an intelligent heterosexual man who is criminal consultant for the White Collar Crime Division of the FBI in New York City.
+Such as in the case of [White Collar](https://www.imdb.com/title/tt1358522/), Neal Caffrey is played by [Matt Bomer](https://www.imdb.com/name/nm0093589/?ref_=tt_ov_st), who is gay in real life. His character, however, is an intelligent heterosexual man who is a criminal consultant for the White Collar Crime Division of the FBI in New York City.
 
 [Gomer Pyle](https://www.imdb.com/title/tt0057752/) is another TV show I find value in. It is relaxing and entertaining. We can learn from his character not to react with emotion and anger, and to take criticism in an optimal manner. Sometimes watching a character act out principles in the Bible is all we need to have a role model. Gomer Pyle responds to Sargent Carter's yelling and screaming with a smile, and thanks him for his criticism. This is a tangible way to act out Psalm 141.
 
@@ -48,7 +48,7 @@ it shall be an excellent oil*,
 which shall not break my head: for yet my prayer also
 shall be in their calamities.
 
-Homosexuals often make the best actors because they spend their whole life acting, pretending to be normal, when inwardly they are being filled with the attributes enumerated in [Romans 1](https://www.biblegateway.com/passage/?search=Romans+1%3A18-32&version=KJV). This is why we call them gay to begin with. They pretend to be happy when in reality they are miserable and suicidal. They are filled with hate. The fact that they have to pretend to be happy is evidence that society will not accept who they really are. The term "gay" is a reminder that they are still in the closet, hiding their true intentions every moment of their life.
+Homosexuals often make the best actors because they spend their whole life acting, pretending to be normal, when inwardly they are being filled with the attributes enumerated in [Romans 1](https://www.biblegateway.com/passage/?search=Romans+1%3A18-32&version=KJV). This is why we call them gay to begin with. They pretend to be happy when [in reality they are miserable and suicidal](https://www.nimh.nih.gov/news/science-news/2021/researchers-find-disparities-in-suicide-risk-among-lesbian-gay-and-bisexual-adults). They are filled with hate. The fact that they have to pretend to be happy is evidence that society will not accept who they really are. The term "gay" is a reminder that they are still in the closet, hiding their true intentions every moment of their life.
 
 **2.2** It is not proper to watch TV shows that include homosexual characters.
 
@@ -72,7 +72,6 @@ Stedfast Baptist Church put out two documentaries exposing this agenda which are
 
 > [!Bible] [Psalms 101:3 - KJV](https://bible-api.com/psalm+101:3?translation=kjv)
 > 3. I will set no wicked thing before mine eyes: I hate the work of them that turn aside; it shall not cleave to me.
-
 
 # Article 2: Music
 
