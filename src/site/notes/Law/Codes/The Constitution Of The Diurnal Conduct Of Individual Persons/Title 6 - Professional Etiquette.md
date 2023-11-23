@@ -508,3 +508,5 @@ Derived from Google's ["10 things"](https://about.google/philosophy/).
 ## § 1. Punctuality
 
 **1.1** Be on time for meetings and appointments.
+
+**1.2** Don’t start the business day until you’re at the office. ~ [Jim Rohn](https://www.facebook.com/reel/791975512402827)
