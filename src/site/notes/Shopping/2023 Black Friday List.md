@@ -68,12 +68,12 @@ This is my favorite bundle because the RF27T5501SR has a handle on the bottom dr
 
 | Appliance       | Model        | Price | Sale Price | Discount |
 |-----------------|--------------|-------|------------|----------|
-| Induction Stove | [NE63B8611SS](https://www.lowes.com/pd/Samsung/5013068595?idProductFound=false&idExtracted=true)  | 2,249 | 1,498      | 33%      |
+| Induction Stove | [NE63B8611SS](https://www.lowes.com/pd/Samsung/5013352987?idProductFound=false&idExtracted=true)  | 2,249 | 1,498      | 33%      |
 | Dishwasher      | [DW80B7070US](https://www.lowes.com/pd/Samsung/5013352987?idProductFound=false&idExtracted=true)  | 1,099 | 648        | 41%      |
 | Refrigerator    | [RF27CG5900SR](https://www.lowes.com/pd/Samsung-30-cu-ft-Smart-French-Door-Refrigerator-with-Dual-Ice-Maker-Stainless-Steel-ENERGY-STAR/5014610033) | 3,499  | 2,498      | 29%      |
 | 2-in-1 Washer/Dryer | [PFQ97HSPVDS](https://www.lowes.com/pd/GE-Profile-4-8-cu-ft-Capacity-Carbon-Graphite-Ventless-All-in-One-Washer-Dryer-Steam-Cycle-ENERGY-STAR/5014255941) | 2,899 | 2,199 | 24% |
 | Total               |             | 9,746 | 6,843 |     |
-| ($800)              |             |       | 6043  | 38% |
+| ($800)              |             |       | ==6,043==  | 38% |
 No Interest If Paid in Full Within 24 Months**
 on purchases of $1,999 or more with your Lowe’s Advantage Card made now through 11/29/23.
 
@@ -82,6 +82,14 @@ on purchases of $1,999 or more with your Lowe’s Advantage Card made now throug
 
 - [RS22T5561SR](https://www.lowes.com/pd/Samsung-Family-Hub-21-5-cu-ft-Counter-Depth-Side-by-Side-Refrigerator-with-Ice-Maker-Fingerprint-Resistant-Stainless-Steel-ENERGY-STAR/1002238846) (1,599.00)
 - [RF30BB6900AC](https://www.lowes.com/pd/Samsung/5013381061) (2,299.00)
+
+### Accessories
+
+- [Compression Inlet](https://www.lowes.com/pd/EASTMAN-6-ft-L-3-8-in-Compression-Inlet-x-3-4-in-Outlet-Braided-Stainless-Steel-Dishwasher-Connector/1001315232)
+- [Appliance Power Cord](https://www.lowes.com/pd/Utilitech-6-ft-3-Prong-Gray-Range-Appliance-Power-Cord/1018183)
+
+
+
 ## Best Buy
 
 ### ~~$650 off LG Packages~~
