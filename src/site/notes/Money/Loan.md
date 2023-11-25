@@ -52,6 +52,9 @@ Dave Ramsey recommends that homeowners save and budget for property taxes and in
 
 Ramsey's perspective is that ==escrow accounts can sometimes lead to complacency in budgeting and financial planning==. He encourages homeowners to proactively manage their finances and take an active role in saving for future expenses.
 
+# What is an FHA Loan?
+
+Indhu got an FHA loan at 4.5% and will refinance after the elections.
 
 # Rocket Mortgage
 
@@ -147,3 +150,7 @@ A trust, on the other hand, is a legal entity created by an individual (the gran
 The process of resolving a trust involves administering the trust according to its terms. This typically includes gathering the trust assets, managing and investing them, and distributing them to the beneficiaries as specified in the trust document. Since the assets are already held within the trust, they do not go through the probate process, which can often be time-consuming and expensive.
 
 It's important to note that the specific laws and procedures surrounding trusts and probate can vary depending on the jurisdiction. If you have questions or concerns about a particular trust or estate situation, it is advisable to consult with an attorney who specializes in estate planning and probate law in your jurisdiction.
+
+# Current Mortgage Rates
+
+https://www.nerdwallet.com/mortgages/mortgage-rates
