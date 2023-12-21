@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/framework-discussions/religion-taught-me-to-be-angry/","created":"Dec 31, 2021, 5:47 PM","updated":""}
+{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/framework-discussions/religion-taught-me-to-be-angry/","created":"Dec 31, 2021, 5:47 PM"}
 ---
 
 
