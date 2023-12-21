@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/what-i-ll-give-up-for-mariana/","tags":["diary","letters","crush"],"created":"Aug 30, 2020, 10:50 PM","updated":""}
+{"dg-publish":true,"permalink":"/relationship/diary/what-i-ll-give-up-for-mariana/","tags":["diary","letters","crush"],"created":"Aug 30, 2020, 10:50 PM"}
 ---
 
 
