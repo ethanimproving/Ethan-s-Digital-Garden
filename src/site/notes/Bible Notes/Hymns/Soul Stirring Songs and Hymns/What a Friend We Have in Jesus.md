@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/what-a-friend-we-have-in-jesus/","title":"What a Friend We Have in Jesus","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/what-a-friend-we-have-in-jesus/","title":"What a Friend We Have in Jesus"}
 ---
 
 
