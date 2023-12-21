@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/i-m-doubting-john-piper-s-salvation/","created":"Oct 27, 2023, 2:10 PM","updated":""}
+{"dg-publish":true,"permalink":"/journal/i-m-doubting-john-piper-s-salvation/","created":"Oct 27, 2023, 2:10 PM"}
 ---
 
 
