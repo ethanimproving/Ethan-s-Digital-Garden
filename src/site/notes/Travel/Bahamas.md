@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/travel/bahamas/","tags":["timeline","missions"],"created":"Apr 16, 2023, 10:50 PM","updated":""}
+{"dg-publish":true,"permalink":"/travel/bahamas/","tags":["timeline","missions"],"created":"Apr 16, 2023, 10:50 PM"}
 ---
 
 
