@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/wonderful-wonderful-jesus/","title":"Wonderful, Wonderful Jesus","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/wonderful-wonderful-jesus/","title":"Wonderful, Wonderful Jesus"}
 ---
 
 
