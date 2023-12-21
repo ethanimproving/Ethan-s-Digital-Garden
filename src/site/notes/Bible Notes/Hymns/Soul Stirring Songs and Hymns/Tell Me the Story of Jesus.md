@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/tell-me-the-story-of-jesus/","title":"Tell Me the Story of Jesus","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/tell-me-the-story-of-jesus/","title":"Tell Me the Story of Jesus"}
 ---
 
 
