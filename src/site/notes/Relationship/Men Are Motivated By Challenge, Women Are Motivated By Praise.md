@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/men-are-motivated-by-challenge-women-are-motivated-by-praise/","tags":["relationshipinsights"],"created":"Apr 19, 2023, 8:46 PM","updated":""}
+{"dg-publish":true,"permalink":"/relationship/men-are-motivated-by-challenge-women-are-motivated-by-praise/","tags":["relationshipinsights"],"created":"Apr 19, 2023, 8:46 PM"}
 ---
 
 
