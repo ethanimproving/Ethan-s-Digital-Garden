@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/framework-discussions/nudity-in-movies/all-that-mariana-permits/","created":"Nov 7, 2021, 1:59 AM","updated":""}
+{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/framework-discussions/nudity-in-movies/all-that-mariana-permits/","created":"Nov 7, 2021, 1:59 AM"}
 ---
 
 
