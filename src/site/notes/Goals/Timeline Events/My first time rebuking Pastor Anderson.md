@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/my-first-time-rebuking-pastor-anderson/","title":"My first time rebuking Pastor Anderson","tags":["timeline","salvation"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/goals/timeline-events/my-first-time-rebuking-pastor-anderson/","title":"My first time rebuking Pastor Anderson","tags":["timeline","salvation"]}
 ---
 
 
