@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/take-the-name-of-jesus-with-you/","title":"Take the Name of Jesus with You","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/take-the-name-of-jesus-with-you/","title":"Take the Name of Jesus with You"}
 ---
 
 
