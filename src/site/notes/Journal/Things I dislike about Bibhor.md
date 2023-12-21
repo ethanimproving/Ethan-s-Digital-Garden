@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/things-i-dislike-about-bibhor/","tags":["journal"],"created":"Monday, May 15, 2023, 12:00 PM","updated":""}
+{"dg-publish":true,"permalink":"/journal/things-i-dislike-about-bibhor/","tags":["journal"],"created":"Monday, May 15, 2023, 12:00 PM"}
 ---
 
 
