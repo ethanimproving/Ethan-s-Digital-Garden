@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/exercise/creatine/","created":"Jun 22, 2023, 7:35 PM","updated":""}
+{"dg-publish":true,"permalink":"/health/exercise/creatine/","created":"Jun 22, 2023, 7:35 PM"}
 ---
 
 
