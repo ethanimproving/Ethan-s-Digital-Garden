@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/talking-to-mariana/","tags":["timeline"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/goals/timeline-events/talking-to-mariana/","tags":["timeline"]}
 ---
 
 
