@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/nutrition/recipes/snacks/papas-rellenas-fried-stuffed-potatoes/","tags":["cookmate"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/health/nutrition/recipes/snacks/papas-rellenas-fried-stuffed-potatoes/","tags":["cookmate"]}
 ---
 
 
