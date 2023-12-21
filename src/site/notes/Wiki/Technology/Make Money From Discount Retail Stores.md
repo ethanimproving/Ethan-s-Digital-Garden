@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/technology/make-money-from-discount-retail-stores/","tags":["technology","moneyideas","retailarbitrage"],"created":"Apr 19, 2023, 7:24 PM","updated":""}
+{"dg-publish":true,"permalink":"/wiki/technology/make-money-from-discount-retail-stores/","tags":["technology","moneyideas","retailarbitrage"],"created":"Apr 19, 2023, 7:24 PM"}
 ---
 
 
