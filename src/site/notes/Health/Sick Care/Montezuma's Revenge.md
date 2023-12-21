@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/sick-care/montezuma-s-revenge/","created":"Sep 08, 2023, 3:53 PM","updated":""}
+{"dg-publish":true,"permalink":"/health/sick-care/montezuma-s-revenge/","created":"Sep 08, 2023, 3:53 PM"}
 ---
 
 
