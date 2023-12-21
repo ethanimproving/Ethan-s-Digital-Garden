@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/no-room-in-the-inn/","title":"No Room in the Inn","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/no-room-in-the-inn/","title":"No Room in the Inn"}
 ---
 
 
