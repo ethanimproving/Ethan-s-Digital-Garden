@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/house-ideas/auctions/","created":"Jul 10, 2023, 11:10 PM","updated":""}
+{"dg-publish":true,"permalink":"/shopping/house-ideas/auctions/","created":"Jul 10, 2023, 11:10 PM"}
 ---
 
  
