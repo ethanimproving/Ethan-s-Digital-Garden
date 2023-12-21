@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/saved-e-bay-searches/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/shopping/saved-e-bay-searches/"}
 ---
 
 
