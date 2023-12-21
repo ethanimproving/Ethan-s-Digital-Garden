@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/2023-black-friday-list/","created":"Nov 20, 2023, 1:45 PM","updated":""}
+{"dg-publish":true,"permalink":"/shopping/2023-black-friday-list/","created":"Nov 20, 2023, 1:45 PM"}
 ---
 
 
@@ -9,32 +9,32 @@
 
 | Product                                                | Image                                                                                                                               | Price  |
 | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| 1. [[Money/Houses/Renovation Skills/Appliences/Smart Fridge\|Smart Fridge]]                                    | ![](https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6401/6401619_sd.jpg;maxHeight=2000;maxWidth=2000)                 | $2,199 |
-| 2. [[Money/Houses/Renovation Skills/Appliences/Dishwasher\|Dishwasher]]                                      | ![](https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/6491/6491913_sd.jpg;maxHeight=640;maxWidth=550) | $649   |
-| 3. [[Money/Houses/Renovation Skills/Appliences/Washer Dryer\|Washer Dryer]]                                    | ![](https://richmedia.ca-richimage.com/ImageDelivery/imageService?profileId=12026540&id=1585347&recipeId=729)                        | $1,499 |
-| 4. [[Money/Houses/Renovation Skills/Appliences/Oven and Stove\|Electric Oven / Induction Stove]] | ![](https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6491/6491829_sd.jpg;maxHeight=2000;maxWidth=2000)                 | $1,499 |
+| 1. [[Money/House/Renovation Skills/Appliences/Smart Fridge\|Smart Fridge]]                                    | ![](https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6401/6401619_sd.jpg;maxHeight=2000;maxWidth=2000)                 | $2,199 |
+| 2. [[Money/House/Renovation Skills/Appliences/Dishwasher\|Dishwasher]]                                      | ![](https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/6491/6491913_sd.jpg;maxHeight=640;maxWidth=550) | $649   |
+| 3. [[Money/House/Renovation Skills/Appliences/Washer Dryer\|Washer Dryer]]                                    | ![](https://richmedia.ca-richimage.com/ImageDelivery/imageService?profileId=12026540&id=1585347&recipeId=729)                        | $1,499 |
+| 4. [[Money/House/Renovation Skills/Appliences/Oven and Stove\|Electric Oven / Induction Stove]] | ![](https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6491/6491829_sd.jpg;maxHeight=2000;maxWidth=2000)                 | $1,499 |
 
 
 
 
 ## Things that would be nice
 
-1. ~~[[Money/Houses/Renovation Skills/Appliences/Soap Dispenser\|Soap Dispenser]] (70)~~
-2. ~~[[Money/Houses/Renovation Skills/Appliences/Paper Towel Pump\|Paper Towel Pump]] (49)~~
-3. [[Money/Houses/Renovation Skills/Appliences/Standing Desk\|Standing Desk]]
-4. [[Money/Houses/Renovation Skills/Appliences/Vacuum\|Vacuum]] (649.99) / [[Money/Houses/Renovation Skills/Appliences/Vacuum Robot\|Vacuum Robot]]
-5. [[Money/Houses/Renovation Skills/Appliences/Air Purifier\|Air Purifier]] (549.99)
+1. ~~[[Money/House/Renovation Skills/Appliences/Soap Dispenser\|Soap Dispenser]] (70)~~
+2. ~~[[Money/House/Renovation Skills/Appliences/Paper Towel Pump\|Paper Towel Pump]] (49)~~
+3. [[Money/House/Renovation Skills/Appliences/Standing Desk\|Standing Desk]]
+4. [[Money/House/Renovation Skills/Appliences/Vacuum\|Vacuum]] (649.99) / [[Money/House/Renovation Skills/Appliences/Vacuum Robot\|Vacuum Robot]]
+5. [[Money/House/Renovation Skills/Appliences/Air Purifier\|Air Purifier]] (549.99)
 6. Electric Fireplace
 7. New Doors
 8. Attic Stairs
-9. ~~[[Money/Houses/Renovation Skills/Appliences/Under Desk Treadmill\|Treadmill for Standing Desk]]~~
+9. ~~[[Money/House/Renovation Skills/Appliences/Under Desk Treadmill\|Treadmill for Standing Desk]]~~
 10. [Smart Switches](https://www.amazon.com/Ceiling-Control-Treatlife-Assistant-Schedule/dp/B086PSPP4X/ref=zg_bs_g_5486416011_sccl_10/145-8733802-5374503?psc=1) ($61 for 2)
-11. ~~[[Money/Houses/Renovation Skills/Appliences/Echo Show 5\|Echo Show]]~~
+11. ~~[[Money/House/Renovation Skills/Appliences/Echo Show 5\|Echo Show]]~~
 	- [ ] ~~[Echo Show 10 (3rd Gen)](https://www.amazon.com/echo-show-10/dp/B07VHZ41L8/ref=sr_1_2) (159.99)~~
 	- [ ] ~~[Echo Show 5 (3rd Gen, 2023 release)](https://www.amazon.com/All-new-Echo-Show-5/dp/B09B2SBHQK/ref=sr_1_1) (39.99, no SmartHub)~~
 	- [x] [Echo Show 8 (2nd Gen, 2021 release)](https://www.amazon.com/Echo-Show-8-2nd-Gen-2021-release/dp/B084DCJKSL/ref=sr_1_6) (54.99)
-12. ~~[[Money/Houses/Renovation Skills/Appliences/Security Cameras\|Security Cameras]]~~
-13. Air Compressor Gun
+12. ~~[[Money/House/Renovation Skills/Appliences/Security Cameras\|Security Cameras]]~~
+13. ~~[[Money/House/Renovation Skills/Appliences/Compressed Air Dusters\|Compressed Air Duster Gun]]~~
 14. Water Filter
 15. Sprinkler System
 
