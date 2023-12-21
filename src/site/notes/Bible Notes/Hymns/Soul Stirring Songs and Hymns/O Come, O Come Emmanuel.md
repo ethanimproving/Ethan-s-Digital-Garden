@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/o-come-o-come-emmanuel/","title":"O Come, O Come Emmanuel","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/o-come-o-come-emmanuel/","title":"O Come, O Come Emmanuel"}
 ---
 
 
