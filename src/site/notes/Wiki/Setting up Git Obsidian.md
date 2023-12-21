@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/setting-up-git-obsidian/","tags":["wiki tutorial matadata","gardenEntry"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/wiki/setting-up-git-obsidian/","tags":["wiki tutorial matadata","gardenEntry"]}
 ---
 
 
