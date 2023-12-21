@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/alas-and-did-my-saviour-bleed/","title":"Alas and Did My Saviour Bleed?","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/alas-and-did-my-saviour-bleed/","title":"Alas and Did My Saviour Bleed?"}
 ---
 
 
