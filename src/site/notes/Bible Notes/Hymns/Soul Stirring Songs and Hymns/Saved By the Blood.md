@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/saved-by-the-blood/","title":"Saved By the Blood","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/saved-by-the-blood/","title":"Saved By the Blood"}
 ---
 
 
