@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/striving-against-being-purely-rational-and-heartless/","tags":["sanctification","speech"],"created":"Dec 28, 2018, 9:40 AM","updated":""}
+{"dg-publish":true,"permalink":"/journal/striving-against-being-purely-rational-and-heartless/","tags":["sanctification","speech"],"created":"Dec 28, 2018, 9:40 AM"}
 ---
 
 
