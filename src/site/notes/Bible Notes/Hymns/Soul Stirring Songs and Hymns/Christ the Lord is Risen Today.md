@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/christ-the-lord-is-risen-today/","title":"Christ the Lord is Risen Today","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/christ-the-lord-is-risen-today/","title":"Christ the Lord is Risen Today"}
 ---
 
 
