@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/house-ideas/interior-design/an-introduction-to-the-interior-design-profession-short-course/","created":"Jul 04, 2023, 2:58 PM","updated":""}
+{"dg-publish":true,"permalink":"/shopping/house-ideas/interior-design/an-introduction-to-the-interior-design-profession-short-course/","created":"Jul 04, 2023, 2:58 PM"}
 ---
 
 
