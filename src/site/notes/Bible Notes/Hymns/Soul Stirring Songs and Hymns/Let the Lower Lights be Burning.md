@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/let-the-lower-lights-be-burning/","title":"Let the Lower Lights be Burning","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/let-the-lower-lights-be-burning/","title":"Let the Lower Lights be Burning"}
 ---
 
 
