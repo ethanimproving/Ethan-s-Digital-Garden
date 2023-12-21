@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/technology/ai/ai-as-a-musical-artist/","tags":["technology","artificialintelligence"],"created":"Jul 10, 2023, 4:51 PM","updated":""}
+{"dg-publish":true,"permalink":"/wiki/technology/ai/ai-as-a-musical-artist/","tags":["technology","artificialintelligence"],"created":"Jul 10, 2023, 4:51 PM"}
 ---
 
 
