@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/labor-hours-project/","tags":["timeline","personal","laborhours"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/goals/timeline-events/labor-hours-project/","tags":["timeline","personal","laborhours"]}
 ---
 
 
