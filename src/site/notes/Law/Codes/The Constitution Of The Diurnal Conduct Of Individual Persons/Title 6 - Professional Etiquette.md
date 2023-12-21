@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/title-6-professional-etiquette/","created":"Nov 22, 2023, 1:12 PM","updated":""}
+{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/title-6-professional-etiquette/","created":"Nov 22, 2023, 1:12 PM"}
 ---
 
 # Article 1: The Speed Of Trust
