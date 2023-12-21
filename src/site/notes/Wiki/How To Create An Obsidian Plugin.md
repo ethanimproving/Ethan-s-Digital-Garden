@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/how-to-create-an-obsidian-plugin/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/wiki/how-to-create-an-obsidian-plugin/"}
 ---
 
 
