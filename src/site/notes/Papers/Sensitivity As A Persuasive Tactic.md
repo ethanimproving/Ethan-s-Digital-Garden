@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/papers/sensitivity-as-a-persuasive-tactic/","created":"May 15, 2023, 7:27 PM","updated":""}
+{"dg-publish":true,"permalink":"/papers/sensitivity-as-a-persuasive-tactic/","created":"May 15, 2023, 7:27 PM"}
 ---
 
 
