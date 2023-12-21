@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/social-s-kills/etiquette/","created":"Jun 19, 2023, 7:21 PM","updated":""}
+{"dg-publish":true,"permalink":"/social-s-kills/etiquette/","created":"Jun 19, 2023, 7:21 PM"}
 ---
 
 
