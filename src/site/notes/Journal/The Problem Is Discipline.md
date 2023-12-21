@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/the-problem-is-discipline/","tags":["journal"],"created":"May 07, 2023, 11:01 AM","updated":""}
+{"dg-publish":true,"permalink":"/journal/the-problem-is-discipline/","tags":["journal"],"created":"May 07, 2023, 11:01 AM"}
 ---
 
 
