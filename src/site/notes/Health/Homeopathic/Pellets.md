@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/homeopathic/pellets/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/health/homeopathic/pellets/"}
 ---
 
 
