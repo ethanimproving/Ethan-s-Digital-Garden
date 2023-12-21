@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/are-plug-ins-worth-writing/","title":"Are plug-ins worth writing?","tags":["timemanagement"],"created":"Apr 15, 2023, 8:46 AM","updated":""}
+{"dg-publish":true,"permalink":"/journal/are-plug-ins-worth-writing/","title":"Are plug-ins worth writing?","tags":["timemanagement"],"created":"Apr 15, 2023, 8:46 AM"}
 ---
 
 
