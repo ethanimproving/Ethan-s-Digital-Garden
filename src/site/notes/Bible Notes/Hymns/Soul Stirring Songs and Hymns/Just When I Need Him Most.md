@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/just-when-i-need-him-most/","title":"Just When I Need Him Most","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/just-when-i-need-him-most/","title":"Just When I Need Him Most"}
 ---
 
 
