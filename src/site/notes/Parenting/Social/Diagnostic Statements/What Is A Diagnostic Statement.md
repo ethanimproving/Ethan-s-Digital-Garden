@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/parenting/social/diagnostic-statements/what-is-a-diagnostic-statement/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/parenting/social/diagnostic-statements/what-is-a-diagnostic-statement/"}
 ---
 
 
