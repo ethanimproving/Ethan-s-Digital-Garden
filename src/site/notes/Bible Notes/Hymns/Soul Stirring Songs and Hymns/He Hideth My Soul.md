@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/he-hideth-my-soul/","title":"He Hideth My Soul","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/he-hideth-my-soul/","title":"He Hideth My Soul"}
 ---
 
 
