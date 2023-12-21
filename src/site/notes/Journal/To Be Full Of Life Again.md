@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/to-be-full-of-life-again/","tags":["diary","breakup","prayer"],"created":"Apr 21, 2023, 4:39 PM","updated":""}
+{"dg-publish":true,"permalink":"/journal/to-be-full-of-life-again/","tags":["diary","breakup","prayer"],"created":"Apr 21, 2023, 4:39 PM"}
 ---
 
 
