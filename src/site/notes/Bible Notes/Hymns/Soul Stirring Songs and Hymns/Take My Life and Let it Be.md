@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/take-my-life-and-let-it-be/","title":"Take My Life and Let it Be","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/take-my-life-and-let-it-be/","title":"Take My Life and Let it Be"}
 ---
 
 
