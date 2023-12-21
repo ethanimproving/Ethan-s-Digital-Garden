@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/travel/2023-jul-19-smf-red-hot-preaching-conference/","tags":["timeline","missions"],"created":"Jul 19, 2023, 10:16 PM","updated":""}
+{"dg-publish":true,"permalink":"/travel/2023-jul-19-smf-red-hot-preaching-conference/","tags":["timeline","missions"],"created":"Jul 19, 2023, 10:16 PM"}
 ---
 
 
