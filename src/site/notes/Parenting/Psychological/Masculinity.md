@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/parenting/psychological/masculinity/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/parenting/psychological/masculinity/"}
 ---
 
 
