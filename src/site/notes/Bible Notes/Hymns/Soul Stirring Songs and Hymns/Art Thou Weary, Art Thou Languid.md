@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/art-thou-weary-art-thou-languid/","title":"Art Thou Weary, Art Thou Languid?","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/art-thou-weary-art-thou-languid/","title":"Art Thou Weary, Art Thou Languid?"}
 ---
 
 
