@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/thou-didst-leave-thy-throne/","title":"Thou Didst Leave Thy Throne","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/thou-didst-leave-thy-throne/","title":"Thou Didst Leave Thy Throne"}
 ---
 
 
