@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/jesus-loves-the-little-children/","title":"Jesus Loves the Little Children","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/jesus-loves-the-little-children/","title":"Jesus Loves the Little Children"}
 ---
 
 
