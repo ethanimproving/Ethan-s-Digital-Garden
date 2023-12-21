@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/crazy-unavailable-or-a-coward/","tags":["diary","crush"],"created":"Sep 17, 2021, 7:17 AM","updated":""}
+{"dg-publish":true,"permalink":"/relationship/diary/crazy-unavailable-or-a-coward/","tags":["diary","crush"],"created":"Sep 17, 2021, 7:17 AM"}
 ---
 
 
