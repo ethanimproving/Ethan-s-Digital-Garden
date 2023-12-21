@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/papers/region-beta-paradox/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/papers/region-beta-paradox/"}
 ---
 
 
