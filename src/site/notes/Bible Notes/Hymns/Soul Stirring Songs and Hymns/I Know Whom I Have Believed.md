@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-know-whom-i-have-believed/","title":"I Know Whom I Have Believed","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-know-whom-i-have-believed/","title":"I Know Whom I Have Believed"}
 ---
 
 
