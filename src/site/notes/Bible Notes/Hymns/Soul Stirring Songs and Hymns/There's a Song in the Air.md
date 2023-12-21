@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/there-s-a-song-in-the-air/","title":"There's a Song in the Air","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/there-s-a-song-in-the-air/","title":"There's a Song in the Air"}
 ---
 
 
