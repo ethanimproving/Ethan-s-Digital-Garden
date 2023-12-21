@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/when-i-survey-the-wondrous-cross/","title":"When I Survey the Wondrous Cross","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/when-i-survey-the-wondrous-cross/","title":"When I Survey the Wondrous Cross"}
 ---
 
 
