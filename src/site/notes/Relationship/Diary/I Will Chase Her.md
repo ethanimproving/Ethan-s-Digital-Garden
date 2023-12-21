@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/i-will-chase-her/","tags":["diary","prayer","crush"],"created":"Nov 16, 2020, 8:17 AM","updated":""}
+{"dg-publish":true,"permalink":"/relationship/diary/i-will-chase-her/","tags":["diary","prayer","crush"],"created":"Nov 16, 2020, 8:17 AM"}
 ---
 
 
