@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/framework-discussions/picking-a-wife/god-i-pray-for-my-future-wife/","created":"Jul 25, 2019, 5:12 PM","updated":""}
+{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/framework-discussions/picking-a-wife/god-i-pray-for-my-future-wife/","created":"Jul 25, 2019, 5:12 PM"}
 ---
 
 
