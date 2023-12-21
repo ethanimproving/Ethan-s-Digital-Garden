@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/deeper-than-skin/","tags":["diary","letters","crush"],"created":"Mar 14, 2020, 10:28 PM","updated":""}
+{"dg-publish":true,"permalink":"/relationship/diary/deeper-than-skin/","tags":["diary","letters","crush"],"created":"Mar 14, 2020, 10:28 PM"}
 ---
 
 
