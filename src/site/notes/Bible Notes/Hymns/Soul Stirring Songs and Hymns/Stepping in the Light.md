@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/stepping-in-the-light/","title":"Stepping in the Light","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/stepping-in-the-light/","title":"Stepping in the Light"}
 ---
 
 
