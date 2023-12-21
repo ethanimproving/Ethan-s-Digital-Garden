@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/money/money-tips/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/money/money-tips/"}
 ---
 
 
