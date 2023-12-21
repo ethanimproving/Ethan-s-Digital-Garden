@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/why-web-development/","tags":["work","favorites"],"created":"Nov 28, 2018, 4:15 PM","updated":""}
+{"dg-publish":true,"permalink":"/journal/why-web-development/","tags":["work","favorites"],"created":"Nov 28, 2018, 4:15 PM"}
 ---
 
 
