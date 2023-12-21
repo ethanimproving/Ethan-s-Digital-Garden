@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/hark-the-herald-angels-sing/","title":"Hark! The Herald Angels Sing","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/hark-the-herald-angels-sing/","title":"Hark! The Herald Angels Sing"}
 ---
 
 
