@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/the-banner-of-the-cross/","title":"The Banner of the Cross","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/the-banner-of-the-cross/","title":"The Banner of the Cross"}
 ---
 
 
