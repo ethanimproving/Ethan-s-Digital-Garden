@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/are-you-washed-in-the-blood/","title":"Are You Washed in the Blood?","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/are-you-washed-in-the-blood/","title":"Are You Washed in the Blood?"}
 ---
 
 
