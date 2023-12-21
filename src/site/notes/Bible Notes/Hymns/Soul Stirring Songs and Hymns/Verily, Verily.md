@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/verily-verily/","title":"Verily, Verily","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/verily-verily/","title":"Verily, Verily"}
 ---
 
 
