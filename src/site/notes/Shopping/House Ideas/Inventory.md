@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/house-ideas/inventory/","created":"Jul 15, 2023, 9:50 PM","updated":""}
+{"dg-publish":true,"permalink":"/shopping/house-ideas/inventory/","created":"Jul 15, 2023, 9:50 PM"}
 ---
 
 
 [Inventory.xlsx](https://mysite.aa.com/:x:/g/personal/242924_corpaa_aa_com/EcQH3FfAZxdPtio_YcyEqWMBdP3DOUS3nAMgSlP_c5S2oA?email=ethan.miller%40aa.com&e=pLOn8C)
+[Auction Hub Texas.xlsx](https://mysite.aa.com/:x:/g/personal/242924_corpaa_aa_com/EWYz5rHZb5hGtPdltBbIT3IBXVx8ou0Wy3apsV3Ih-7nYQ?e=2Rvdlh)
 
 | Item                                                                                                                                                                                                        | Location   | Image                                                                                                                                                                                                    | Category       |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|
