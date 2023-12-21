@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/he-keeps-me-singing/","title":"He Keeps Me Singing","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/he-keeps-me-singing/","title":"He Keeps Me Singing"}
 ---
 
 
