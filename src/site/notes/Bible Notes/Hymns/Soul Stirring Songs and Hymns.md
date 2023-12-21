@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/","created":"May 13, 2023, 6:03 PM","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/","created":"May 13, 2023, 6:03 PM"}
 ---
 
 
@@ -258,6 +258,7 @@
 | [[Bible Notes/Hymns/Soul Stirring Songs and Hymns/Holy, Holy, Holy\|Holy, Holy, Holy]]                                                       | holy_holy_holy  | \-    |
 | [[Bible Notes/Hymns/Soul Stirring Songs and Hymns/O Come, O Come Emmanuel\|O Come, O Come Emmanuel]]                                         | o_come_emmanuel | \-    |
 
+{ .block-language-dataview}
 
 
 No stanzas found for Behold, He Comes!
