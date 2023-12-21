@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/mariana-doubts-my-hobbies-and-skills/","tags":["journal","breakup"],"created":"Jun 26, 2023, 4:55 PM","updated":""}
+{"dg-publish":true,"permalink":"/journal/mariana-doubts-my-hobbies-and-skills/","tags":["journal","breakup"],"created":"Jun 26, 2023, 4:55 PM"}
 ---
 
 
