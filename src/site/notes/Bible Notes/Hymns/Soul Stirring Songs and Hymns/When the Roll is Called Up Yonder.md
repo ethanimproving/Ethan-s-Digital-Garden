@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/when-the-roll-is-called-up-yonder/","title":"When the Roll is Called Up Yonder","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/when-the-roll-is-called-up-yonder/","title":"When the Roll is Called Up Yonder"}
 ---
 
 
