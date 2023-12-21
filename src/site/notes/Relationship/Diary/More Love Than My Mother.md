@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/more-love-than-my-mother/","tags":["diary","poetry"],"created":"Apr 2, 2023, 6:04 PM","updated":""}
+{"dg-publish":true,"permalink":"/relationship/diary/more-love-than-my-mother/","tags":["diary","poetry"],"created":"Apr 2, 2023, 6:04 PM"}
 ---
 
 
