@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/does-jesus-care/","title":"Does Jesus Care?","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/does-jesus-care/","title":"Does Jesus Care?"}
 ---
 
 
