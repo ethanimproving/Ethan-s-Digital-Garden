@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/parenting/spiritual/life-plan/","tags":["goals","headway","books"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/parenting/spiritual/life-plan/","tags":["goals","headway","books"]}
 ---
 
 
