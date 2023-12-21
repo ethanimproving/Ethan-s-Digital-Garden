@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/he-is-able-to-deliver-thee/","title":"He is Able to Deliver Thee","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/he-is-able-to-deliver-thee/","title":"He is Able to Deliver Thee"}
 ---
 
 
