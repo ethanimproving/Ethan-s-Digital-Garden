@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/title-3-media/","created":"Nov 14, 2023, 8:41 PM","updated":""}
+{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/title-3-media/","created":"Nov 14, 2023, 8:41 PM"}
 ---
 
 
@@ -75,6 +75,44 @@ Stedfast Baptist Church put out two documentaries exposing this agenda which are
 
 # Article 2: Music
 
+## § 1.  Lyrical Content
+
+### §§ (a) Subliminal Influence
+
+**1.1** Lyrics that promote the following worldly ideologies are to be banned:
+
+1. Fornication
+2. Rebellion against authority
+3. Drinking
+4. Partying
+5. Substance abuse
+6. Mocking faith
+7. Greed, covetousness, or materialism
+8. Profanity or perverse language
+9. Pride and arrogance
+
+¶ The phrases we listen to on repeat affect how we think. Hearing Charlie Puth talk about past relationships normalize sin in our minds. Inevitably we won't think fornication is such a big deal when all the music we listen to openly writes about it as a normal part of relationships in the lyrics.
+
+- [i don't really like your boyfriend](https://music.youtube.com/watch?v=ZBbjcP57NEA&si=Pjhgh-kmbPF7Awie) by Avanue Beat encourages women to view boyfriends that don't want their girlfriends going to clubs as controlling and insecure.
+- [Ice Cream](https://music.youtube.com/watch?v=TUt3guu92Zg&si=hdI318VBjsehz2f9) by BLACKPINK & Selena Gomez subtly refers to herself as ice cream ready for a boy to double dip, giving boys the impression that girls want them to kiss them, lick their nipples, or have sex with them.
+ • [Single Soon](https://music.youtube.com/watch?v=cGIe4x1Xntg&si=JFwUrYNBQyfVHGyj) by Selina Gomez encourages girls that breaking up isn’t a big deal and you’ll be happy to be single. And don’t worry about how it will hurt your boyfriend.
+
+¶ I was listening to [89.7 PowerFM Christian Radio](https://www.radio.net/s/wayloud),  and a caller called in to share his testimony of a rough patch with his wife, as he was driving home one night after they were about to get a divorce, he heard the song [Ships In The Night](https://www.radio.net/s/wayloud) by Matt Kearney, and the song encouraged him to give it another try. Music has such a powerful affect on huge decisions that we make, and I wonder how many relationships have failed in large part because of the music that gave one party the wrong nudges.
+
+¶ Ending a relationship should be based on red flags in the person you are dating that violate the principles and standards you have decided for yourself that are non-negotiables in a partner. Or simply because you two have different goals and directions in life, and there's nothing wrong with that. It should not be because your boyfriend doesn't want you to go clubbing. You shouldn't go clubbing anyway, so your boyfriend is right, and you're listening to music encouraging you to dump him because of his upright principles. Any song that has such a message is written by deleterious agitators with a petty rebellion against authority in pursuit of a hedonistic lifestyle.
+
+¶ There's an anthem affect, where if something is said to a catchy tune, our minds give it more credit than we normally would. If they can trick us into singing the same lyrics, we ourselves are affirming to our subconscious mind that we believe them.
+
+### Subsection 1(b)
+
+
+
+## § 2.  Musical Content
+
+### §§ (a) Brainwave Entrainment
+
+### §§ (b) Subliminal Influence
+
 # Article 3: Video Games
 
 ## § 1.  Dopamine
@@ -84,6 +122,8 @@ Stedfast Baptist Church put out two documentaries exposing this agenda which are
 ## § 2. Waste Of Time
 
 ## § 3. Social Gaming
+
+## § 4. Relaxation
 
 # Article 4: Social Media
 
