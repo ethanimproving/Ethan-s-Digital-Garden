@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-will-sing-of-the-mercies/","title":"I Will Sing of the Mercies","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-will-sing-of-the-mercies/","title":"I Will Sing of the Mercies"}
 ---
 
 
