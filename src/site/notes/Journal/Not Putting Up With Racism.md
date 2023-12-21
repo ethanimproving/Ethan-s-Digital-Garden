@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/not-putting-up-with-racism/","created":"Apr 14, 2023, 8:32 AM","updated":""}
+{"dg-publish":true,"permalink":"/journal/not-putting-up-with-racism/","created":"Apr 14, 2023, 8:32 AM"}
 ---
 
 
