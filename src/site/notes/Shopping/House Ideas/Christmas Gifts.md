@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/house-ideas/christmas-gifts/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/shopping/house-ideas/christmas-gifts/"}
 ---
 
 
