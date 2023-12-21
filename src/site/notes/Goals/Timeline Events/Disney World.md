@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/disney-world/","tags":["timeline"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/goals/timeline-events/disney-world/","tags":["timeline"]}
 ---
 
 
