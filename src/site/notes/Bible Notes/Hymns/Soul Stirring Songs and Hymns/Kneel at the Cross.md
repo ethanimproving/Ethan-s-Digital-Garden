@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/kneel-at-the-cross/","title":"Kneel at the Cross","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/kneel-at-the-cross/","title":"Kneel at the Cross"}
 ---
 
 
