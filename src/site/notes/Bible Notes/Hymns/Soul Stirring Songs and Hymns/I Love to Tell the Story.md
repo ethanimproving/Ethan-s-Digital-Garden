@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-love-to-tell-the-story/","title":"I Love to Tell the Story","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-love-to-tell-the-story/","title":"I Love to Tell the Story"}
 ---
 
 
