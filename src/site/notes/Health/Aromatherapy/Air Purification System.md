@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/aromatherapy/air-purification-system/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/health/aromatherapy/air-purification-system/"}
 ---
 
 
