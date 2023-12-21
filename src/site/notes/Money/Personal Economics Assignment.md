@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/money/personal-economics-assignment/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/money/personal-economics-assignment/"}
 ---
 
 
