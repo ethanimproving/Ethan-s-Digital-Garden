@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/technology/ai/auto-gpt-as-a-coding-assistant/","tags":["technology","artificialintelligence"],"created":"Apr 18, 2023, 10:33 PM","updated":""}
+{"dg-publish":true,"permalink":"/wiki/technology/ai/auto-gpt-as-a-coding-assistant/","tags":["technology","artificialintelligence"],"created":"Apr 18, 2023, 10:33 PM"}
 ---
 
 
