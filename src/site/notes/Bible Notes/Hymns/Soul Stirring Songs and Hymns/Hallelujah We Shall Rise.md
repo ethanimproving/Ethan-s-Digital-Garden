@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/hallelujah-we-shall-rise/","title":"Hallelujah, We Shall Rise","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/hallelujah-we-shall-rise/","title":"Hallelujah, We Shall Rise"}
 ---
 
 
