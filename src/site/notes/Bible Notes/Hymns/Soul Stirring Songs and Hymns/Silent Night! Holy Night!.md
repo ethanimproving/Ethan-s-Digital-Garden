@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/silent-night-holy-night/","title":"Silent Night! Holy Night!","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/silent-night-holy-night/","title":"Silent Night! Holy Night!"}
 ---
 
 
