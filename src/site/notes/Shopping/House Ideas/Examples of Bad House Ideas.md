@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/house-ideas/examples-of-bad-house-ideas/","tags":["messy interiordesign"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/shopping/house-ideas/examples-of-bad-house-ideas/","tags":["messy interiordesign"]}
 ---
 
 # Glossy wooden floors
