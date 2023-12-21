@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/title-1-social-etiquette/","created":"Nov 22, 2023, 2:01 PM","updated":""}
+{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/title-1-social-etiquette/","created":"Nov 22, 2023, 2:01 PM"}
 ---
 
 Miller Creed: The Principles I Live By
