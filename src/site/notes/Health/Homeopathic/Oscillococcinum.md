@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/homeopathic/oscillococcinum/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/health/homeopathic/oscillococcinum/"}
 ---
 
 
