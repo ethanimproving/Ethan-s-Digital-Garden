@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/money/cars/optimal-time-to-buy-a-car/","created":"Aug 2, 2021, 9:46 AM","updated":""}
+{"dg-publish":true,"permalink":"/money/cars/optimal-time-to-buy-a-car/","created":"Aug 2, 2021, 9:46 AM"}
 ---
 
 
