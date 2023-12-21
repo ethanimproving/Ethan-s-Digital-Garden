@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/attachments/templates/ingredient-template/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/attachments/templates/ingredient-template/"}
 ---
 
 
