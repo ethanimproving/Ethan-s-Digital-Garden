@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/guns/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/shopping/guns/"}
 ---
 
 
