@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/standing-up-to-faith/","tags":["discipleship","television"],"created":"Jul 30, 2018, 12:27 PM","updated":""}
+{"dg-publish":true,"permalink":"/journal/standing-up-to-faith/","tags":["discipleship","television"],"created":"Jul 30, 2018, 12:27 PM"}
 ---
 
 
