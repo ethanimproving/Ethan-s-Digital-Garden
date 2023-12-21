@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/god-leads-us-along/","title":"God Leads Us Along","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/god-leads-us-along/","title":"God Leads Us Along"}
 ---
 
 
