@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/majestic-sweetness-sits-enthroned/","title":"Majestic Sweetness Sits Enthroned","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/majestic-sweetness-sits-enthroned/","title":"Majestic Sweetness Sits Enthroned"}
 ---
 
 
