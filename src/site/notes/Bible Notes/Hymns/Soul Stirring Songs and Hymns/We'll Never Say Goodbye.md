@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/we-ll-never-say-goodbye/","title":"We'll Never Say Goodbye","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/we-ll-never-say-goodbye/","title":"We'll Never Say Goodbye"}
 ---
 
 
