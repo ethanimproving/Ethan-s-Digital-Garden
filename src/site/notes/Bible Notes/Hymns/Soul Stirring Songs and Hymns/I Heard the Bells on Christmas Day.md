@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-heard-the-bells-on-christmas-day/","title":"I Heard the Bells on Christmas Day","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-heard-the-bells-on-christmas-day/","title":"I Heard the Bells on Christmas Day"}
 ---
 
 
