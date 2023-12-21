@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/travel/2022-dec-9-vacation/","title":"Switzerland","tags":["timeline","crush"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/travel/2022-dec-9-vacation/","title":"Switzerland","tags":["timeline","crush"]}
 ---
 
 
