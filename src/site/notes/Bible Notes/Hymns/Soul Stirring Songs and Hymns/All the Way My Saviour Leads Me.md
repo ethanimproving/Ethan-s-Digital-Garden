@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/all-the-way-my-saviour-leads-me/","title":"All the Way My Saviour Leads Me","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/all-the-way-my-saviour-leads-me/","title":"All the Way My Saviour Leads Me"}
 ---
 
 
