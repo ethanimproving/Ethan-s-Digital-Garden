@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/god-will-take-care-of-you/","title":"God Will Take Care of You","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/god-will-take-care-of-you/","title":"God Will Take Care of You"}
 ---
 
 
