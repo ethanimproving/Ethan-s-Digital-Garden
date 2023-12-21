@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/chair/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/shopping/chair/"}
 ---
 
 
