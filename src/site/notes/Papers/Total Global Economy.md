@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/papers/total-global-economy/","created":"Apr 19, 2023, 9:03 AM","updated":""}
+{"dg-publish":true,"permalink":"/papers/total-global-economy/","created":"Apr 19, 2023, 9:03 AM"}
 ---
 
 
