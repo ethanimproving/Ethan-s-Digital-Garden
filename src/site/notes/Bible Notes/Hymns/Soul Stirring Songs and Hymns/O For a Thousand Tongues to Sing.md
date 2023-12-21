@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/o-for-a-thousand-tongues-to-sing/","title":"O For a Thousand Tongues to Sing","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/o-for-a-thousand-tongues-to-sing/","title":"O For a Thousand Tongues to Sing"}
 ---
 
 
