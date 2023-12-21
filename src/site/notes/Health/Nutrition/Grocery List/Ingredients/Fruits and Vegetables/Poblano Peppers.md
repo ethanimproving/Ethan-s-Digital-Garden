@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/nutrition/grocery-list/ingredients/fruits-and-vegetables/poblano-peppers/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/health/nutrition/grocery-list/ingredients/fruits-and-vegetables/poblano-peppers/"}
 ---
 
 
