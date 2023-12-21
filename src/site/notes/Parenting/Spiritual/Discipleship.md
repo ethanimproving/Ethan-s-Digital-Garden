@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/parenting/spiritual/discipleship/","tags":["discipleship"],"created":"Apr 28, 2023, 9:35 PM","updated":""}
+{"dg-publish":true,"permalink":"/parenting/spiritual/discipleship/","tags":["discipleship"],"created":"Apr 28, 2023, 9:35 PM"}
 ---
 
 
@@ -27,7 +27,7 @@ In the course of the conversation, I asked Anna how she would go about praising 
 
 I believe that learning about [[Bible Notes/One World Government\|end times]] can springboard baby Christians into having a passion for Christ because it makes the Bible come to life. You're able to observe the world around you and say, "Wow! The world is going in the direction God said it would 2,000 years ago!"
 
-It also [[Papers/The Overview Effect#How To Get People To Join Your Cult?\|brings a state of urgency]] to us because we only have so much time before the end comes. When we live with the belief that Jesus will return before I reach retirement, that puts a huge shift in the way I prioritize God in my life. It makes it easier to sacrifice the things of the world for the things of God. Because after all, all the wealth I'm storing in a barn for retirement is going to perish before I have a chance to enjoy it. I may as well serve God.
+It also [[Papers/Psychological Concepts/The Overview Effect#How To Get People To Join Your Cult?\|brings a state of urgency]] to us because we only have so much time before the end comes. When we live with the belief that Jesus will return before I reach retirement, that puts a huge shift in the way I prioritize God in my life. It makes it easier to sacrifice the things of the world for the things of God. Because after all, all the wealth I'm storing in a barn for retirement is going to perish before I have a chance to enjoy it. I may as well serve God.
 
 ## ChatGPT Argument
 
