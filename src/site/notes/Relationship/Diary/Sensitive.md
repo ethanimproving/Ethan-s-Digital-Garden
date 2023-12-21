@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/sensitive/","tags":["diary","letters"],"created":"Dec 14, 2022, 7:19 AM","updated":""}
+{"dg-publish":true,"permalink":"/relationship/diary/sensitive/","tags":["diary","letters"],"created":"Dec 14, 2022, 7:19 AM"}
 ---
 
 
