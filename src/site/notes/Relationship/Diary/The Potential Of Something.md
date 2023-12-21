@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/the-potential-of-something/","tags":["diary","crush"],"created":"Sep 3, 2021, 6:31 PM","updated":""}
+{"dg-publish":true,"permalink":"/relationship/diary/the-potential-of-something/","tags":["diary","crush"],"created":"Sep 3, 2021, 6:31 PM"}
 ---
 
 
