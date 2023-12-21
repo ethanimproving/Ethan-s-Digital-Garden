@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/money/cars/vehicle-registration/","created":"Jul 07, 2023, 8:58 PM","updated":""}
+{"dg-publish":true,"permalink":"/money/cars/vehicle-registration/","created":"Jul 07, 2023, 8:58 PM"}
 ---
 
 
