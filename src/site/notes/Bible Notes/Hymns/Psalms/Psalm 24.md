@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/psalms/psalm-24/","title":"Psalm 24","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/psalms/psalm-24/","title":"Psalm 24"}
 ---
 
 
