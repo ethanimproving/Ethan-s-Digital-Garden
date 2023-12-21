@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/culture-shock/","created":"Dec 6, 2022, 6:11 PM","updated":""}
+{"dg-publish":true,"permalink":"/relationship/diary/culture-shock/","created":"Dec 6, 2022, 6:11 PM"}
 ---
 
 
