@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/burning-bridges-to-sin/","created":"Jul 18, 2022, 10:41 PM","updated":""}
+{"dg-publish":true,"permalink":"/relationship/diary/burning-bridges-to-sin/","created":"Jul 18, 2022, 10:41 PM"}
 ---
 
 
