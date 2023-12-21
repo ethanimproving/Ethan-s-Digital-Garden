@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/you-re-beautiful/","tags":["diary","crush"],"created":"Sep 14, 2021, 2:06 AM","updated":""}
+{"dg-publish":true,"permalink":"/relationship/diary/you-re-beautiful/","tags":["diary","crush"],"created":"Sep 14, 2021, 2:06 AM"}
 ---
 
 
