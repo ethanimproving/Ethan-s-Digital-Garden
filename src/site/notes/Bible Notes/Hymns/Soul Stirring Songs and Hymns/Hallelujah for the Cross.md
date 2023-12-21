@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/hallelujah-for-the-cross/","title":"Hallelujah for the Cross","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/hallelujah-for-the-cross/","title":"Hallelujah for the Cross"}
 ---
 
 
