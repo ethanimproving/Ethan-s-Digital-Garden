@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/freemasonry/every-president-in-us-history-is-related-to-one-king/","created":"Jul 09, 2023, 9:11 PM","updated":""}
+{"dg-publish":true,"permalink":"/politics/freemasonry/every-president-in-us-history-is-related-to-one-king/","created":"Jul 09, 2023, 9:11 PM"}
 ---
 
 
