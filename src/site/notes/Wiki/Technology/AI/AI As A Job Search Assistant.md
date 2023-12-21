@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/technology/ai/ai-as-a-job-search-assistant/","tags":["technology","artificialintelligence"],"created":"Apr 18, 2023, 10:35 PM","updated":""}
+{"dg-publish":true,"permalink":"/wiki/technology/ai/ai-as-a-job-search-assistant/","tags":["technology","artificialintelligence"],"created":"Apr 18, 2023, 10:35 PM"}
 ---
 
 
