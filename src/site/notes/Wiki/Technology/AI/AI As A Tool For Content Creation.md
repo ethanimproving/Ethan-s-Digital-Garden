@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/technology/ai/ai-as-a-tool-for-content-creation/","tags":["technology","artificialintelligence"],"created":"Apr 18, 2023, 10:30 PM","updated":""}
+{"dg-publish":true,"permalink":"/wiki/technology/ai/ai-as-a-tool-for-content-creation/","tags":["technology","artificialintelligence"],"created":"Apr 18, 2023, 10:30 PM"}
 ---
 
 
