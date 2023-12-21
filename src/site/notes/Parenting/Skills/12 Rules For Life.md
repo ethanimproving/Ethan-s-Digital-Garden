@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/parenting/skills/12-rules-for-life/","created":"Nov 22, 2023, 7:01 PM","updated":""}
+{"dg-publish":true,"permalink":"/parenting/skills/12-rules-for-life/","created":"Nov 22, 2023, 7:01 PM"}
 ---
 
 
