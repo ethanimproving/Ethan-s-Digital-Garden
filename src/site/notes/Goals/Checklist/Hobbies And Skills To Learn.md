@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/checklist/hobbies-and-skills-to-learn/","created":"Jun 23, 2023, 8:15 PM","updated":""}
+{"dg-publish":true,"permalink":"/goals/checklist/hobbies-and-skills-to-learn/","created":"Jun 23, 2023, 8:15 PM"}
 ---
 
 - [ ] Dance - Amy Peavey
