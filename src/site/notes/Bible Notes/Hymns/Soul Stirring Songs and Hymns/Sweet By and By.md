@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/sweet-by-and-by/","title":"Sweet By and By","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/sweet-by-and-by/","title":"Sweet By and By"}
 ---
 
 
