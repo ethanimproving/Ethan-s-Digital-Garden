@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/ring-the-bells-of-heaven/","title":"Ring the Bells of Heaven","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/ring-the-bells-of-heaven/","title":"Ring the Bells of Heaven"}
 ---
 
 
