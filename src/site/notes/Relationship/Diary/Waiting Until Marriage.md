@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/waiting-until-marriage/","tags":["diary"],"created":"Feb 24, 2022, 3:23 PM","updated":""}
+{"dg-publish":true,"permalink":"/relationship/diary/waiting-until-marriage/","tags":["diary"],"created":"Feb 24, 2022, 3:23 PM"}
 ---
 
 
