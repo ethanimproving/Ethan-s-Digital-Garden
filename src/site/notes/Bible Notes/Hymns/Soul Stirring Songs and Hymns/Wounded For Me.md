@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/wounded-for-me/","title":"Wounded For Me","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/wounded-for-me/","title":"Wounded For Me"}
 ---
 
 
