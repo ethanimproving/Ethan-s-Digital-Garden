@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/in-my-heart-there-rings-a-melody/","title":"In My Heart There Rings a Melody","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/in-my-heart-there-rings-a-melody/","title":"In My Heart There Rings a Melody"}
 ---
 
 
