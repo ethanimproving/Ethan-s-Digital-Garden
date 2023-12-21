@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/money/cars/toll-tag/","created":"Jun 07, 2023, 6:32 PM","updated":""}
+{"dg-publish":true,"permalink":"/money/cars/toll-tag/","created":"Jun 07, 2023, 6:32 PM"}
 ---
 
 
