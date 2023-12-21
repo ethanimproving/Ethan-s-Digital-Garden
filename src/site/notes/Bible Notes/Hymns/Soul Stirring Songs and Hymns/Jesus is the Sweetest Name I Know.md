@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/jesus-is-the-sweetest-name-i-know/","title":"Jesus is the Sweetest Name I Know","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/jesus-is-the-sweetest-name-i-know/","title":"Jesus is the Sweetest Name I Know"}
 ---
 
 
