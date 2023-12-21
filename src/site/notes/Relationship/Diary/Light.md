@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/light/","tags":["poetry","diary","whatsapp"],"created":"Oct 29, 2022, 4:20 PM","updated":""}
+{"dg-publish":true,"permalink":"/relationship/diary/light/","tags":["poetry","diary","whatsapp"],"created":"Oct 29, 2022, 4:20 PM"}
 ---
 
 
