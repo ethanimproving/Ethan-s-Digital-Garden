@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/3-months-waiting-for-mariana/","tags":["timeline","crush","breakup"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/goals/timeline-events/3-months-waiting-for-mariana/","tags":["timeline","crush","breakup"]}
 ---
 
 
