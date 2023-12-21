@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/the-constitution-of-the-diurnal-conduct-of-indevidual-persons/","created":"Oct 1, 2014, 12:18 PM","updated":""}
+{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/the-constitution-of-the-diurnal-conduct-of-indevidual-persons/","created":"Oct 1, 2014, 12:18 PM"}
 ---
 
 
