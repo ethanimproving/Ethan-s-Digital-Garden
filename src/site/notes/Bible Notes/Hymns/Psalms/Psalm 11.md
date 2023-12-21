@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/psalms/psalm-11/","title":"Psalm 11","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/psalms/psalm-11/","title":"Psalm 11"}
 ---
 
 
