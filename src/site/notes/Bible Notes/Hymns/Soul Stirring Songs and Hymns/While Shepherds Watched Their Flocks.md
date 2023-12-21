@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/while-shepherds-watched-their-flocks/","title":"While Shepherds Watched Their Flocks","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/while-shepherds-watched-their-flocks/","title":"While Shepherds Watched Their Flocks"}
 ---
 
 
