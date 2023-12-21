@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/o-say-but-i-m-glad/","title":"O Say, But I'm Glad","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/o-say-but-i-m-glad/","title":"O Say, But I'm Glad"}
 ---
 
 
