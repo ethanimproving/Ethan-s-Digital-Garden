@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/comparing-myself-to-felipe/","tags":["diary","breakup","suicide"],"created":"Dec 28, 2021, 3:26 PM","updated":""}
+{"dg-publish":true,"permalink":"/relationship/diary/comparing-myself-to-felipe/","tags":["diary","breakup","suicide"],"created":"Dec 28, 2021, 3:26 PM"}
 ---
 
 
