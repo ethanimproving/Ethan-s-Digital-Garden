@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/memories-of-home-and-dishwashing/","created":"Jun 14, 2023, 8:46 PM","updated":""}
+{"dg-publish":true,"permalink":"/journal/memories-of-home-and-dishwashing/","created":"Jun 14, 2023, 8:46 PM"}
 ---
 
 
