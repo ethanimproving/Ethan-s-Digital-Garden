@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/turning-romans-7-on-its-head/","tags":["timeline","salvation"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/goals/timeline-events/turning-romans-7-on-its-head/","tags":["timeline","salvation"]}
 ---
 
 
