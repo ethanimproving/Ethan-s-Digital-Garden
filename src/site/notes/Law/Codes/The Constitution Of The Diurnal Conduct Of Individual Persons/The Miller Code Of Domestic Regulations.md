@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/the-miller-code-of-domestic-regulations/","created":"Nov 16, 2014, 9:25 AM","updated":""}
+{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/the-miller-code-of-domestic-regulations/","created":"Nov 16, 2014, 9:25 AM"}
 ---
 
 
