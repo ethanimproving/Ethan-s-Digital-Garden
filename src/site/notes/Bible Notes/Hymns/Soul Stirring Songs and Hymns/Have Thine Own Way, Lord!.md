@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/have-thine-own-way-lord/","title":"Have Thine Own Way, Lord!","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/have-thine-own-way-lord/","title":"Have Thine Own Way, Lord!"}
 ---
 
 
