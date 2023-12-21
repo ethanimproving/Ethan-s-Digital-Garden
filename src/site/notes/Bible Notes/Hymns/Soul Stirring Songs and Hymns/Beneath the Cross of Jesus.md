@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/beneath-the-cross-of-jesus/","title":"Beneath the Cross of Jesus","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/beneath-the-cross-of-jesus/","title":"Beneath the Cross of Jesus"}
 ---
 
 
