@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/microphones/","created":"Oct 06, 2023, 10:15 PM","updated":""}
+{"dg-publish":true,"permalink":"/shopping/microphones/","created":"Oct 06, 2023, 10:15 PM"}
 ---
 
 
