@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/parenting/psychological/500-pushups/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/parenting/psychological/500-pushups/"}
 ---
 
 
