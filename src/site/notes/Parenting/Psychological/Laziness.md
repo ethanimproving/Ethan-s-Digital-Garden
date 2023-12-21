@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/parenting/psychological/laziness/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/parenting/psychological/laziness/","created":"May 15, 2023, 10:56 AM"}
 ---
 
 
