@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/great-is-thy-faithfulness/","title":"Great is Thy Faithfulness","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/great-is-thy-faithfulness/","title":"Great is Thy Faithfulness"}
 ---
 
 
