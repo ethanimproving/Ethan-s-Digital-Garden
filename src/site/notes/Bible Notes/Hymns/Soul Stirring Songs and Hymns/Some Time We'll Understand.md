@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/some-time-we-ll-understand/","title":"Some Time We'll Understand","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/some-time-we-ll-understand/","title":"Some Time We'll Understand"}
 ---
 
 
