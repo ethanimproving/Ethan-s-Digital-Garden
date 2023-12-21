@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/journal-of-sickness/ragweed-allergies-2023/","tags":["timeline","sick"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/health/journal-of-sickness/ragweed-allergies-2023/","tags":["timeline","sick"]}
 ---
 
 
