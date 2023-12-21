@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/a-mighty-fortress-is-our-god/","title":"A Mighty Fortress is Our God","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/a-mighty-fortress-is-our-god/","title":"A Mighty Fortress is Our God"}
 ---
 
 
