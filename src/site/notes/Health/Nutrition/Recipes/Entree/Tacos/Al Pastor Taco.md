@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/nutrition/recipes/entree/tacos/al-pastor-taco/","tags":["cookmate"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/health/nutrition/recipes/entree/tacos/al-pastor-taco/","tags":["cookmate"]}
 ---
 
 
