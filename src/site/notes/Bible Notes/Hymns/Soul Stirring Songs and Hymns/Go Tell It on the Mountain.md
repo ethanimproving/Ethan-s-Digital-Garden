@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/go-tell-it-on-the-mountain/","title":"Go Tell It on the Mountain","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/go-tell-it-on-the-mountain/","title":"Go Tell It on the Mountain"}
 ---
 
 
