@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/travel/london/","tags":["timeline","missions"],"created":"Jan 13, 2023, 10:50 PM","updated":""}
+{"dg-publish":true,"permalink":"/travel/london/","tags":["timeline","missions"],"created":"Jan 13, 2023, 10:50 PM"}
 ---
 
 
