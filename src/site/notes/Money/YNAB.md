@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/money/ynab/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/money/ynab/"}
 ---
 
 
