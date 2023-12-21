@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/choose-a-girl-who-will-support-you/","tags":["favorites"],"created":"Apr 10, 2023, 2:20 PM","updated":""}
+{"dg-publish":true,"permalink":"/relationship/diary/choose-a-girl-who-will-support-you/","tags":["favorites"],"created":"Apr 10, 2023, 2:20 PM"}
 ---
 
 
