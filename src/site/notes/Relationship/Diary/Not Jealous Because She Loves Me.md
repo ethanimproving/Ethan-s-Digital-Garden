@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/not-jealous-because-she-loves-me/","created":"Sep 1, 2022, 10:07 AM","updated":""}
+{"dg-publish":true,"permalink":"/relationship/diary/not-jealous-because-she-loves-me/","created":"Sep 1, 2022, 10:07 AM"}
 ---
 
 
