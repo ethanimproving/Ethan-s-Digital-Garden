@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/jesus-lover-of-my-soul/","title":"Jesus, Lover of My Soul","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/jesus-lover-of-my-soul/","title":"Jesus, Lover of My Soul"}
 ---
 
 
