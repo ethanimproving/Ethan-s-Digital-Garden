@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/jesus-jesus-jesus/","title":"Jesus! Jesus! Jesus!","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/jesus-jesus-jesus/","title":"Jesus! Jesus! Jesus!"}
 ---
 
 
