@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/nutrition/recipes/entree/grilled-summer-sasauge-sanswhich/","tags":["cookmate"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/health/nutrition/recipes/entree/grilled-summer-sasauge-sanswhich/","tags":["cookmate"]}
 ---
 
 
