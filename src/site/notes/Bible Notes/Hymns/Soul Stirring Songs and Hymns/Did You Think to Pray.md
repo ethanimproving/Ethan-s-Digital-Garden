@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/did-you-think-to-pray/","title":"Did You Think to Pray?","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/did-you-think-to-pray/","title":"Did You Think to Pray?"}
 ---
 
 
