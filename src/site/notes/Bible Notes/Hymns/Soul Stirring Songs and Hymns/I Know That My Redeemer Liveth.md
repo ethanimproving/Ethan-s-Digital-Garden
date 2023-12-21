@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-know-that-my-redeemer-liveth/","title":"I Know That My Redeemer Liveth","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-know-that-my-redeemer-liveth/","title":"I Know That My Redeemer Liveth"}
 ---
 
 
