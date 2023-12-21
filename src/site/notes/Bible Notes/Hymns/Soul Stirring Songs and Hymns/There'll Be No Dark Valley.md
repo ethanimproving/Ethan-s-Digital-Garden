@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/there-ll-be-no-dark-valley/","title":"There'll Be No Dark Valley","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/there-ll-be-no-dark-valley/","title":"There'll Be No Dark Valley"}
 ---
 
 
