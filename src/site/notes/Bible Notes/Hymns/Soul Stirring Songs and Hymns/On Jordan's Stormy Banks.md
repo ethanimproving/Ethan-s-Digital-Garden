@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/on-jordan-s-stormy-banks/","title":"On Jordan's Stormy Banks","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/on-jordan-s-stormy-banks/","title":"On Jordan's Stormy Banks"}
 ---
 
 
