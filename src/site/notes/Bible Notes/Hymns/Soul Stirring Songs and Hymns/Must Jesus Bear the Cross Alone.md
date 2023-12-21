@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/must-jesus-bear-the-cross-alone/","title":"Must Jesus Bear the Cross Alone","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/must-jesus-bear-the-cross-alone/","title":"Must Jesus Bear the Cross Alone"}
 ---
 
 
