@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/burned-tastebuds/","created":"May 12, 2023, 3:08 PM","updated":""}
+{"dg-publish":true,"permalink":"/journal/burned-tastebuds/","created":"May 12, 2023, 3:08 PM"}
 ---
 
 
