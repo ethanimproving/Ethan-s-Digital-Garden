@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/money/subsctiptions/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/money/subsctiptions/"}
 ---
 
 
@@ -14,12 +14,13 @@
 | [AA Inflight Wi-Fi](https://www.aa.com/aadvantage-program/profile/payment-methods)                                                                   | $60/mo       |
 | [Huel](https://huel.com/account#/billing)                                                                                                            | $126.50/6 mo |
 | [Tiege Hanley](https://www.tiege.com/account#/account-details)                                                                                       | $30/mo       |
-| Club4Fitness                                                                                                                                         | $15/mo       |
+| [Club4Fitness](https://club4fit.trainerize.com/app/Logon.aspx)                                                                                                                                         | $15/mo       |
 | [Link](https://app.link.com/)                                                                                                                        | $0           |
 | [Midjourney](https://www.midjourney.com/account/)                                                                                                    | $10/mo       |
 | [Brio Toothbrush Heads](https://admin.rechargeapps.com/portal/6ba51658a7ae01fcef4d7170c0c2a1/payment_methods?token=6f093101e28740bb9178dc080f6da210) | $11.03/6 mo   |
 | Total                                                                                                                                                | $284.17/mo   |
 
+Request AA refund at https://support.aainflight.com/app/chat/chat_landing/sid/bcOY*4pq
 # Tithing
 
 Good morning,  
