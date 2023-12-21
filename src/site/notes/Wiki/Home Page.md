@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/home-page/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/wiki/home-page/"}
 ---
 
 
