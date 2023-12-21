@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/am-i-a-gossip/","tags":["diary","crush","gossip","journal"],"created":"Nov 1, 2021, 9:24 AM","updated":""}
+{"dg-publish":true,"permalink":"/relationship/diary/am-i-a-gossip/","tags":["diary","crush","gossip","journal"],"created":"Nov 1, 2021, 9:24 AM"}
 ---
 
 
