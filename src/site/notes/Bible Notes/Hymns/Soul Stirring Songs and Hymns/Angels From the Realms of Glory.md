@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/angels-from-the-realms-of-glory/","title":"Angels From the Realms of Glory","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/angels-from-the-realms-of-glory/","title":"Angels From the Realms of Glory"}
 ---
 
 
