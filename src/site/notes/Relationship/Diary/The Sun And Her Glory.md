@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/the-sun-and-her-glory/","tags":["poetry","diary","teams"],"created":"Feb 17, 2022, 10:25 AM","updated":""}
+{"dg-publish":true,"permalink":"/relationship/diary/the-sun-and-her-glory/","tags":["poetry","diary","teams"],"created":"Feb 17, 2022, 10:25 AM"}
 ---
 
 
