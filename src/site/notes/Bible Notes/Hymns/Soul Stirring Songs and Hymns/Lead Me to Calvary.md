@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/lead-me-to-calvary/","title":"Lead Me to Calvary","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/lead-me-to-calvary/","title":"Lead Me to Calvary"}
 ---
 
 
