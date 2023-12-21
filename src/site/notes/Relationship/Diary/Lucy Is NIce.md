@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/lucy-is-n-ice/","tags":["diary","joural"],"created":"Apr 29, 2023, 4:35 PM","updated":""}
+{"dg-publish":true,"permalink":"/relationship/diary/lucy-is-n-ice/","tags":["diary","joural"],"created":"Apr 29, 2023, 4:35 PM"}
 ---
 
 
