@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/master-the-tempest-is-raging/","title":"Master, the Tempest is Raging","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/master-the-tempest-is-raging/","title":"Master, the Tempest is Raging"}
 ---
 
 
