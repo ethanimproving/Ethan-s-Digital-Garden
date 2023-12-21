@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/parenting/social/diagnostic-statements/option-contracts/","tags":["goals"],"created":"Dec 9, 2018, 8:31 PM","updated":""}
+{"dg-publish":true,"permalink":"/parenting/social/diagnostic-statements/option-contracts/","tags":["goals"],"created":"Dec 9, 2018, 8:31 PM"}
 ---
 
 
