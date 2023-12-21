@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/psalms/psalm-150/","title":"Psalm 150","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/psalms/psalm-150/","title":"Psalm 150"}
 ---
 
 
