@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/technology/ai/use-chat-gpt-to-write-and-sell-books/","tags":["technology","artificialintelligence"],"created":"Apr 18, 2023, 10:32 PM","updated":""}
+{"dg-publish":true,"permalink":"/wiki/technology/ai/use-chat-gpt-to-write-and-sell-books/","tags":["technology","artificialintelligence"],"created":"Apr 18, 2023, 10:32 PM"}
 ---
 
 
