@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/ship-ahoy/","title":"Ship Ahoy!","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/ship-ahoy/","title":"Ship Ahoy!"}
 ---
 
 
