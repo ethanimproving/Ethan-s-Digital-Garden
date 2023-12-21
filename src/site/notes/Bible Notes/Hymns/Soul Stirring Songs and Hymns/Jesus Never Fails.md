@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/jesus-never-fails/","title":"Jesus Never Fails","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/jesus-never-fails/","title":"Jesus Never Fails"}
 ---
 
 
