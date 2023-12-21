@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/nutrition/recipes/breakfast/banana-shake/","tags":["cookmate"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/health/nutrition/recipes/breakfast/banana-shake/","tags":["cookmate"]}
 ---
 
 ![]()
