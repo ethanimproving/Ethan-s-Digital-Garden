@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/skills-to-pay-the-bills/","tags":["marriage","job","workethic"],"created":"Jul 7, 2019, 10:40 AM","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/skills-to-pay-the-bills/","tags":["marriage","job","workethic"],"created":"Jul 7, 2019, 10:40 AM"}
 ---
 
 
