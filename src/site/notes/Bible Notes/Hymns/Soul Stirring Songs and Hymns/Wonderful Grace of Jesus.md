@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/wonderful-grace-of-jesus/","title":"Wonderful Grace of Jesus","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/wonderful-grace-of-jesus/","title":"Wonderful Grace of Jesus"}
 ---
 
 
