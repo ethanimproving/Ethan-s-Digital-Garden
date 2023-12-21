@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/parenting/psychological/video-games/","tags":["dopamine"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/parenting/psychological/video-games/","tags":["dopamine"]}
 ---
 
 
