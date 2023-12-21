@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/virtue/","created":"Feb 19, 2023, 9:53 AM","updated":""}
+{"dg-publish":true,"permalink":"/relationship/diary/virtue/","created":"Feb 19, 2023, 9:53 AM"}
 ---
 
 
