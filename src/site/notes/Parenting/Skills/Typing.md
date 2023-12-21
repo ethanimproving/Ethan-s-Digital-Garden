@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/parenting/skills/typing/","created":"Sep 4, 2022, 1:54 PM","updated":""}
+{"dg-publish":true,"permalink":"/parenting/skills/typing/","created":"Sep 4, 2022, 1:54 PM"}
 ---
 
 
