@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/open-relationship/","tags":["breakup"],"created":"Apr 10, 2023, 5:59 PM","updated":""}
+{"dg-publish":true,"permalink":"/relationship/diary/open-relationship/","tags":["breakup"],"created":"Apr 10, 2023, 5:59 PM"}
 ---
 
 
