@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/psalms/john-316-scripture-song/","title":"John 3:16 (Scripture Song)","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/psalms/john-316-scripture-song/","title":"John 3:16 (Scripture Song)"}
 ---
 
 
