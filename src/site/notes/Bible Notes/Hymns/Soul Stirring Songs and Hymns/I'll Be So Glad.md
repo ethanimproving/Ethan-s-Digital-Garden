@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-ll-be-so-glad/","title":"I'll Be So Glad","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-ll-be-so-glad/","title":"I'll Be So Glad"}
 ---
 
 
