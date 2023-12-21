@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/my-emotions-died-in-a-good-way/","tags":["crush","diary","amy","mariana","mounika","siri","jasleen"],"created":"Jul 28, 2020, 8:02 PM","updated":""}
+{"dg-publish":true,"permalink":"/relationship/diary/my-emotions-died-in-a-good-way/","tags":["crush","diary","amy","mariana","mounika","siri","jasleen"],"created":"Jul 28, 2020, 8:02 PM"}
 ---
 
 
