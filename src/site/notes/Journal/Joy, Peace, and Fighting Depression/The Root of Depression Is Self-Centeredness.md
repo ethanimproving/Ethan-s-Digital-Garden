@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/joy-peace-and-fighting-depression/the-root-of-depression-is-self-centeredness/","created":"Feb 2, 2021, 10:42 PM","updated":""}
+{"dg-publish":true,"permalink":"/journal/joy-peace-and-fighting-depression/the-root-of-depression-is-self-centeredness/","created":"Feb 2, 2021, 10:42 PM"}
 ---
 
 
