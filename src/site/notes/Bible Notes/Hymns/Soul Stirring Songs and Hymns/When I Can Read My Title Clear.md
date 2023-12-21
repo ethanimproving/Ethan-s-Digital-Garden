@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/when-i-can-read-my-title-clear/","title":"When I Can Read My Title Clear","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/when-i-can-read-my-title-clear/","title":"When I Can Read My Title Clear"}
 ---
 
 
