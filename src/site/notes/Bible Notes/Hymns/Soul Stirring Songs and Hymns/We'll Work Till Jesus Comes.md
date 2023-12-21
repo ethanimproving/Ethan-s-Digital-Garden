@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/we-ll-work-till-jesus-comes/","title":"We'll Work Till Jesus Comes","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/we-ll-work-till-jesus-comes/","title":"We'll Work Till Jesus Comes"}
 ---
 
 
