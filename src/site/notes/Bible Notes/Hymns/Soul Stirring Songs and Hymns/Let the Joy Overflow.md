@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/let-the-joy-overflow/","title":"Let the Joy Overflow","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/let-the-joy-overflow/","title":"Let the Joy Overflow"}
 ---
 
 
