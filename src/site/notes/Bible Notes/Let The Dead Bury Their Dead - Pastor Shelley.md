@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/let-the-dead-bury-their-dead-pastor-shelley/","tags":["discipleship","sacrifice","dontwasteyourlife","gobigorgohome"],"created":"Apr 16, 2023, 10:40 AM","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/let-the-dead-bury-their-dead-pastor-shelley/","tags":["discipleship","sacrifice","dontwasteyourlife","gobigorgohome"],"created":"Apr 16, 2023, 10:40 AM"}
 ---
 
 
