@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/doctrine-to-ponder/doctrine-to-ponder/","tags":["journal"],"created":"Apr 24, 2014, 1:30 PM","updated":""}
+{"dg-publish":true,"permalink":"/journal/doctrine-to-ponder/doctrine-to-ponder/","tags":["journal"],"created":"Apr 24, 2014, 1:30 PM"}
 ---
 
 
