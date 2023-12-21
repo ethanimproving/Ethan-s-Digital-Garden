@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/come-thou-almighty-king/","title":"Come, Thou Almighty King","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/come-thou-almighty-king/","title":"Come, Thou Almighty King"}
 ---
 
 
