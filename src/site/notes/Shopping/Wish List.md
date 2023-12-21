@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/wish-list/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/shopping/wish-list/"}
 ---
 
 
