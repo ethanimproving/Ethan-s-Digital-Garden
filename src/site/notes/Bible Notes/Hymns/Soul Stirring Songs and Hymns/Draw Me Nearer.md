@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/draw-me-nearer/","title":"Draw Me Nearer","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/draw-me-nearer/","title":"Draw Me Nearer"}
 ---
 
 
