@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/theonomic-principle-bases/","created":"Oct 1, 2014, 2:48 PM","updated":""}
+{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/theonomic-principle-bases/","created":"Oct 1, 2014, 2:48 PM"}
 ---
 
 
