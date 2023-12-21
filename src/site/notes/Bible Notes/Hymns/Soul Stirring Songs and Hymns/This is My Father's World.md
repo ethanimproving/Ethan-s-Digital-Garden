@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/this-is-my-father-s-world/","title":"This is My Father's World","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/this-is-my-father-s-world/","title":"This is My Father's World"}
 ---
 
 
