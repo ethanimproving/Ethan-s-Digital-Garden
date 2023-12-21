@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/peace-perfect-peace/","title":"Peace, Perfect Peace","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/peace-perfect-peace/","title":"Peace, Perfect Peace"}
 ---
 
 
