@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/tis-so-sweet-to-trust-in-jesus/","title":"Tis So Sweet to Trust in Jesus","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/tis-so-sweet-to-trust-in-jesus/","title":"Tis So Sweet to Trust in Jesus"}
 ---
 
 
