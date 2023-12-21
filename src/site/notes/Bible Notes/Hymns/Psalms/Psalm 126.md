@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/psalms/psalm-126/","title":"Psalm 126","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/psalms/psalm-126/","title":"Psalm 126"}
 ---
 
 
