@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/hiding-in-thee/","title":"Hiding in Thee","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/hiding-in-thee/","title":"Hiding in Thee"}
 ---
 
 
