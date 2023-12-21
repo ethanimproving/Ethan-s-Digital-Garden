@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/framework-discussions/nudity-in-movies/my-resolve-and-christian-hedonism/","tags":["checklistitem"],"created":"Nov 8, 2021, 8:19 AM","updated":""}
+{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/framework-discussions/nudity-in-movies/my-resolve-and-christian-hedonism/","tags":["checklistitem"],"created":"Nov 8, 2021, 8:19 AM"}
 ---
 
 
