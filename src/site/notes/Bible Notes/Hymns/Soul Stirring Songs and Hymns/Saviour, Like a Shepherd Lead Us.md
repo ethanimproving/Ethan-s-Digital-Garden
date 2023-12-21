@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/saviour-like-a-shepherd-lead-us/","title":"Saviour, Like a Shepherd Lead Us","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/saviour-like-a-shepherd-lead-us/","title":"Saviour, Like a Shepherd Lead Us"}
 ---
 
 
