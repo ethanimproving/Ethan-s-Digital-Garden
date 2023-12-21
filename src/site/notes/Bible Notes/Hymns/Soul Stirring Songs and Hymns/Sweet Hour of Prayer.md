@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/sweet-hour-of-prayer/","title":"Sweet Hour of Prayer","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/sweet-hour-of-prayer/","title":"Sweet Hour of Prayer"}
 ---
 
 
