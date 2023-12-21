@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/who-is-on-the-lord-s-side/","title":"Who is on the Lord's Side?","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/who-is-on-the-lord-s-side/","title":"Who is on the Lord's Side?"}
 ---
 
 
