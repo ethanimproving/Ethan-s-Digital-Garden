@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/parenting/skills/skills/","created":"Oct 11, 2023, 4:23 PM","updated":""}
+{"dg-publish":true,"permalink":"/parenting/skills/skills/","created":"Oct 11, 2023, 4:23 PM"}
 ---
 
 
@@ -31,8 +31,8 @@ In a similar way I would like to create a list of skills for myself to learn. Wi
 
 - [x] Programming
 - [ ] Plastic Welding
-- [x] [[Money/Houses/Renovation Skills/Attic/Attic Work (Electrical)\|Electrical]]
-- [x] [[Money/Houses/Renovation Skills/Furnishings/Door Knobs\|Locksmith]]
+- [x] [[Money/House/Renovation Skills/Attic/Attic Work (Electrical)\|Electrical]]
+- [x] [[Money/House/Renovation Skills/Furnishings/Door Knobs\|Locksmith]]
 - [x] Graphic Design
 - [>] Photography
 - [x] Video Editing
@@ -48,7 +48,7 @@ In a similar way I would like to create a list of skills for myself to learn. Wi
 	- [ ] Break Rotors
 	- [ ] Battery
 	- [ ] Transmission
-- [x] [[Money/Houses/Renovation Skills/Tools/Pressure Washer\|Pressure Washing]]
+- [x] [[Money/House/Renovation Skills/Tools/Pressure Washer\|Pressure Washing]]
 - [ ] Contractor
 	- [ ] Plumbing
 	- [ ] Construction
