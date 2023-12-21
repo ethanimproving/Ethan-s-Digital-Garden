@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/grace-greater-than-our-sin/","title":"Grace Greater Than Our Sin","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/grace-greater-than-our-sin/","title":"Grace Greater Than Our Sin"}
 ---
 
 
