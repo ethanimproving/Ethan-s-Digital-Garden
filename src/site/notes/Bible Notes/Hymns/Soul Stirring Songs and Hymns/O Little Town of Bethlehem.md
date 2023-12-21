@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/o-little-town-of-bethlehem/","title":"O Little Town of Bethlehem","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/o-little-town-of-bethlehem/","title":"O Little Town of Bethlehem"}
 ---
 
 
