@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/how-different-personalities-motivate-themselves/","tags":["phsychology"],"created":"Jul 26, 2020, 10:13 PM","updated":""}
+{"dg-publish":true,"permalink":"/journal/how-different-personalities-motivate-themselves/","tags":["phsychology"],"created":"Jul 26, 2020, 10:13 PM"}
 ---
 
 
