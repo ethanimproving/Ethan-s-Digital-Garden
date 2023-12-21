@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/miller-creed/miller-creed-of-wifely-agreements/","created":"Jun 18, 2023, 8:32 PM","updated":""}
+{"dg-publish":true,"permalink":"/relationship/miller-creed/miller-creed-of-wifely-agreements/","created":"Jun 18, 2023, 8:32 PM"}
 ---
 
 
