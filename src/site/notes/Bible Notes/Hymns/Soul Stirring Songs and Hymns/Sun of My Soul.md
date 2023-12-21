@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/sun-of-my-soul/","title":"Sun of My Soul","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/sun-of-my-soul/","title":"Sun of My Soul"}
 ---
 
 
