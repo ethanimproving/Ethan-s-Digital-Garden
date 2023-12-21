@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-love-thee-my-jesus/","title":"I Love Thee, My Jesus","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-love-thee-my-jesus/","title":"I Love Thee, My Jesus"}
 ---
 
 
