@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-have-decided-to-follow-jesus/","title":"I Have Decided to Follow Jesus","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-have-decided-to-follow-jesus/","title":"I Have Decided to Follow Jesus"}
 ---
 
 
