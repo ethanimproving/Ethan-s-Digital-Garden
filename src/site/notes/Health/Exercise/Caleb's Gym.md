@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/exercise/caleb-s-gym/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/health/exercise/caleb-s-gym/"}
 ---
 
 
