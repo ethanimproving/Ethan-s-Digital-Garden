@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/stop-making-assumptions/","tags":["journal"],"created":"Oct 27, 2023, 2:30 PM","updated":""}
+{"dg-publish":true,"permalink":"/journal/stop-making-assumptions/","tags":["journal"],"created":"Oct 27, 2023, 2:30 PM"}
 ---
 
 
