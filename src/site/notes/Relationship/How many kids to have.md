@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/how-many-kids-to-have/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/relationship/how-many-kids-to-have/"}
 ---
 
 
