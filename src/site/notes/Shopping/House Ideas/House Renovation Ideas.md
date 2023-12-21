@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/house-ideas/house-renovation-ideas/","tags":["clean interiordesign spiritualmotivation"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/shopping/house-ideas/house-renovation-ideas/","tags":["clean interiordesign spiritualmotivation"]}
 ---
 
 
@@ -331,6 +331,7 @@ title:: Warm wooden floor for living room and hallways
 | [[Shopping/House Ideas/Examples of Bad House Ideas\|Examples of Bad House Ideas]] | \-   |
 | [[Shopping/House Ideas/House Renovation Ideas\|House Renovation Ideas]]           | \-   |
 
+{ .block-language-dataview}
 
 ```page-gallery
 # Any options given at the root level of the configuration
