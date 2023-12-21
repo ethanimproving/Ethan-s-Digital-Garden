@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/there-is-a-fountain-filled-with-blood/","title":"There is a Fountain Filled with Blood","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/there-is-a-fountain-filled-with-blood/","title":"There is a Fountain Filled with Blood"}
 ---
 
 
