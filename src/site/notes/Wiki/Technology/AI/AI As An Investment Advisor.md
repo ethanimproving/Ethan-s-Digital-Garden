@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/technology/ai/ai-as-an-investment-advisor/","tags":["technology","artificialintelligence"],"created":"Apr 18, 2023, 11:27 PM","updated":""}
+{"dg-publish":true,"permalink":"/wiki/technology/ai/ai-as-an-investment-advisor/","tags":["technology","artificialintelligence"],"created":"Apr 18, 2023, 11:27 PM"}
 ---
 
 
