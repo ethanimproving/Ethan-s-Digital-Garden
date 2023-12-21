@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/my-saviour-first-of-all/","title":"My Saviour First of All","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/my-saviour-first-of-all/","title":"My Saviour First of All"}
 ---
 
 
