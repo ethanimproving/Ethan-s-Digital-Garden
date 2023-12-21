@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/we-shall-shine-as-the-stars/","title":"We Shall Shine as the Stars","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/we-shall-shine-as-the-stars/","title":"We Shall Shine as the Stars"}
 ---
 
 
