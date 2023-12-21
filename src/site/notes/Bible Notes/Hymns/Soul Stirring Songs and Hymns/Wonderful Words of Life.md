@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/wonderful-words-of-life/","title":"Wonderful Words of Life","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/wonderful-words-of-life/","title":"Wonderful Words of Life"}
 ---
 
 
