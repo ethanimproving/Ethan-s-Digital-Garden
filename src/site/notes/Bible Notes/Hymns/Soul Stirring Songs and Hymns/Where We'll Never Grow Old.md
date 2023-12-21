@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/where-we-ll-never-grow-old/","title":"Where We'll Never Grow Old","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/where-we-ll-never-grow-old/","title":"Where We'll Never Grow Old"}
 ---
 
 
