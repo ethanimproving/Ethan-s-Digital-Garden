@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-will-sing-the-wondrous-story/","title":"I Will Sing the Wondrous Story","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-will-sing-the-wondrous-story/","title":"I Will Sing the Wondrous Story"}
 ---
 
 
