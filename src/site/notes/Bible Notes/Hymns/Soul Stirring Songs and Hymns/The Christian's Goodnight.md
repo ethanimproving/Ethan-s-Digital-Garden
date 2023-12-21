@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/the-christian-s-goodnight/","title":"The Christian's Goodnight","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/the-christian-s-goodnight/","title":"The Christian's Goodnight"}
 ---
 
 
