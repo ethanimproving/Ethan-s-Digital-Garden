@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/walking-through-the-neighborhood/","tags":["journal"],"created":"Apr 20, 2023, 12:22 PM","updated":""}
+{"dg-publish":true,"permalink":"/journal/walking-through-the-neighborhood/","tags":["journal"],"created":"Apr 20, 2023, 12:22 PM"}
 ---
 
 
