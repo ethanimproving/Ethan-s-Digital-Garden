@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/change/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/relationship/change/"}
 ---
 
 
