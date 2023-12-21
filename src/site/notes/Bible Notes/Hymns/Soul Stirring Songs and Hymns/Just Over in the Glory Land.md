@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/just-over-in-the-glory-land/","title":"Just Over in the Glory Land","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/just-over-in-the-glory-land/","title":"Just Over in the Glory Land"}
 ---
 
 
