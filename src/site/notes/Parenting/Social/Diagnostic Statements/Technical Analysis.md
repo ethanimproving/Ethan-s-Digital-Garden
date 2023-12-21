@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/parenting/social/diagnostic-statements/technical-analysis/","tags":["goals"],"created":"Dec 9, 2018, 8:30 PM","updated":""}
+{"dg-publish":true,"permalink":"/parenting/social/diagnostic-statements/technical-analysis/","tags":["goals"],"created":"Dec 9, 2018, 8:30 PM"}
 ---
 
 
