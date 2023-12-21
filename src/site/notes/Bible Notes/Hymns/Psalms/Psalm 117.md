@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/psalms/psalm-117/","title":"Psalm 117","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/psalms/psalm-117/","title":"Psalm 117"}
 ---
 
 
