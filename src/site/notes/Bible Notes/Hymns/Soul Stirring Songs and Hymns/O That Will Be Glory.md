@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/o-that-will-be-glory/","title":"O That Will Be Glory","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/o-that-will-be-glory/","title":"O That Will Be Glory"}
 ---
 
 
