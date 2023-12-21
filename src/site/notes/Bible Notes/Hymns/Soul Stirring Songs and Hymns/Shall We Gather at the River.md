@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/shall-we-gather-at-the-river/","title":"Shall We Gather at the River?","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/shall-we-gather-at-the-river/","title":"Shall We Gather at the River?"}
 ---
 
 
