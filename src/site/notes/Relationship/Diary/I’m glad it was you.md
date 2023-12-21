@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/i-m-glad-it-was-you/","created":"Oct 6, 2022, 9:01 PM","updated":""}
+{"dg-publish":true,"permalink":"/relationship/diary/i-m-glad-it-was-you/","created":"Oct 6, 2022, 9:01 PM"}
 ---
 
 
