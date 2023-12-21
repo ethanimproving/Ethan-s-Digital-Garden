@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/little-is-much-when-god-is-in-it/","title":"Little is Much When God is in It","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/little-is-much-when-god-is-in-it/","title":"Little is Much When God is in It"}
 ---
 
 
