@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/a-poetic-reflection-on-devotion-and-longing/","created":"Nov 11, 2022, 7:03 AM","updated":""}
+{"dg-publish":true,"permalink":"/relationship/diary/a-poetic-reflection-on-devotion-and-longing/","created":"Nov 11, 2022, 7:03 AM"}
 ---
 
 
