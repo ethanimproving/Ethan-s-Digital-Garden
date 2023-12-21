@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/nutrition/grocery-list/ingredients/proteins/pork-ribs/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/health/nutrition/grocery-list/ingredients/proteins/pork-ribs/"}
 ---
 
 
