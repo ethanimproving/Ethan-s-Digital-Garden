@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/the-name-of-jesus/","title":"The Name of Jesus","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/the-name-of-jesus/","title":"The Name of Jesus"}
 ---
 
 
