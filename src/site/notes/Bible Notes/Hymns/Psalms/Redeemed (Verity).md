@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/psalms/redeemed-verity/","title":"Redeemed (Verity)","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/psalms/redeemed-verity/","title":"Redeemed (Verity)"}
 ---
 
 
