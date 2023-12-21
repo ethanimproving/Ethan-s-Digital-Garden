@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/travel/paris/","tags":["timeline","crush"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/travel/paris/","tags":["timeline","crush"]}
 ---
 
 
