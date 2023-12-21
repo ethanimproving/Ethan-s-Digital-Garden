@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/freemasonry/albert-pike-letter-to-mazzini/","created":"Jul 04, 2023, 9:23 AM","updated":""}
+{"dg-publish":true,"permalink":"/politics/freemasonry/albert-pike-letter-to-mazzini/","created":"Jul 04, 2023, 9:23 AM"}
 ---
 
 
