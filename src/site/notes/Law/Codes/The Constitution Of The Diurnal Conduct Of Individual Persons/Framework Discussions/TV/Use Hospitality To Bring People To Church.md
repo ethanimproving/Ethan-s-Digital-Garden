@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/framework-discussions/tv/use-hospitality-to-bring-people-to-church/","created":"Jan 7, 2020, 9:59 PM","updated":""}
+{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/framework-discussions/tv/use-hospitality-to-bring-people-to-church/","created":"Jan 7, 2020, 9:59 PM"}
 ---
 
 
