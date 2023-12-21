@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/money/cars/oil-change-procedure/","created":"Jul 08, 2023, 9:44 AM","updated":""}
+{"dg-publish":true,"permalink":"/money/cars/oil-change-procedure/","created":"Jul 08, 2023, 9:44 AM"}
 ---
 
  
