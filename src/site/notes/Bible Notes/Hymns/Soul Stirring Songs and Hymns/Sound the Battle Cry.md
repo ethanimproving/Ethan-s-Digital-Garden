@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/sound-the-battle-cry/","title":"Sound the Battle Cry","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/sound-the-battle-cry/","title":"Sound the Battle Cry"}
 ---
 
 
