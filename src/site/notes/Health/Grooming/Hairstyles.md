@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/grooming/hairstyles/","created":"Jun 12, 2023, 9:49 PM","updated":""}
+{"dg-publish":true,"permalink":"/health/grooming/hairstyles/","created":"Jun 12, 2023, 9:49 PM"}
 ---
 
 
