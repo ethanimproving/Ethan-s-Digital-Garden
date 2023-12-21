@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/nutrition/grocery-list/ingredients/proteins/barbacoa-braised-shredded-beef/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/health/nutrition/grocery-list/ingredients/proteins/barbacoa-braised-shredded-beef/"}
 ---
 
 
