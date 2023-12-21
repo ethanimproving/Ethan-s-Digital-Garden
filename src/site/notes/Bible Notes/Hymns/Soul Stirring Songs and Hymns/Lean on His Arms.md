@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/lean-on-his-arms/","title":"Lean on His Arms","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/lean-on-his-arms/","title":"Lean on His Arms"}
 ---
 
 
