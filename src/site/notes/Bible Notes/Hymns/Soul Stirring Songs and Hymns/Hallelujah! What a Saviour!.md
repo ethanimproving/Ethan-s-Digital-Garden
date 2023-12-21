@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/hallelujah-what-a-saviour/","title":"Hallelujah! What a Saviour!","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/hallelujah-what-a-saviour/","title":"Hallelujah! What a Saviour!"}
 ---
 
 
