@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/leaning-on-the-everlasting-arms/","title":"Leaning on the Everlasting Arms","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/leaning-on-the-everlasting-arms/","title":"Leaning on the Everlasting Arms"}
 ---
 
 
