@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/yesterday-today-forever/","title":"Yesterday, Today, Forever","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/yesterday-today-forever/","title":"Yesterday, Today, Forever"}
 ---
 
 
