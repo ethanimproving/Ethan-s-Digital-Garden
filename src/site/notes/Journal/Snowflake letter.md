@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/snowflake-letter/","created":"Dec 26, 2018, 4:26 PM","updated":""}
+{"dg-publish":true,"permalink":"/journal/snowflake-letter/","created":"Dec 26, 2018, 4:26 PM"}
 ---
 
 
