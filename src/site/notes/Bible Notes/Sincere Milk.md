@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/sincere-milk/","tags":["discipleship"],"created":"May 14, 2023, 5:37 PM","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/sincere-milk/","tags":["discipleship"],"created":"May 14, 2023, 5:37 PM"}
 ---
 
 
