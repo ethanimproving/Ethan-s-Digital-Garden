@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/nutrition/grocery-list/ingredients/dairy-and-dairy-alternatives/queso-fresco/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/health/nutrition/grocery-list/ingredients/dairy-and-dairy-alternatives/queso-fresco/"}
 ---
 
 
