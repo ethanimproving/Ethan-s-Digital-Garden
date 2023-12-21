@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/a-shelter-in-the-time-of-storm/","title":"A Shelter in the Time of Storm","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/a-shelter-in-the-time-of-storm/","title":"A Shelter in the Time of Storm"}
 ---
 
 
