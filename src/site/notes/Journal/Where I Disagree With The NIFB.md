@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/where-i-disagree-with-the-nifb/","tags":["journal"],"created":"Saturday, Sep 5, 2020, 11:51 AM","updated":""}
+{"dg-publish":true,"permalink":"/journal/where-i-disagree-with-the-nifb/","tags":["journal"],"created":"Saturday, Sep 5, 2020, 11:51 AM"}
 ---
 
 
