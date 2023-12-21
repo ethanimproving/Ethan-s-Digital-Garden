@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/praise-the-saviour/","title":"Praise the Saviour","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/praise-the-saviour/","title":"Praise the Saviour"}
 ---
 
 
