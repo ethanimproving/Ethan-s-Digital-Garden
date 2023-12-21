@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/it-is-well-with-my-soul/","title":"It is Well with My Soul","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/it-is-well-with-my-soul/","title":"It is Well with My Soul"}
 ---
 
 
