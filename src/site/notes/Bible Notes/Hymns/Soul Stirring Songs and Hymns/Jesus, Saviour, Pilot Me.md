@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/jesus-saviour-pilot-me/","title":"Jesus, Saviour, Pilot Me","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/jesus-saviour-pilot-me/","title":"Jesus, Saviour, Pilot Me"}
 ---
 
 
