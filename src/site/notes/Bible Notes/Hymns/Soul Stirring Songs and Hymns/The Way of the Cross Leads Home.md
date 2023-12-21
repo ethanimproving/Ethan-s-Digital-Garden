@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/the-way-of-the-cross-leads-home/","title":"The Way of the Cross Leads Home","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/the-way-of-the-cross-leads-home/","title":"The Way of the Cross Leads Home"}
 ---
 
 
