@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/come-ye-disconsolate/","title":"Come, Ye Disconsolate","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/come-ye-disconsolate/","title":"Come, Ye Disconsolate"}
 ---
 
 
