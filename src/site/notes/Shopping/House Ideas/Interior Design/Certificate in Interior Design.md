@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/house-ideas/interior-design/certificate-in-interior-design/","created":"Jul 04, 2023, 3:28 PM","updated":""}
+{"dg-publish":true,"permalink":"/shopping/house-ideas/interior-design/certificate-in-interior-design/","created":"Jul 04, 2023, 3:28 PM"}
 ---
 
 
