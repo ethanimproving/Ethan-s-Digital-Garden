@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/headphones/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/shopping/headphones/"}
 ---
 
 
