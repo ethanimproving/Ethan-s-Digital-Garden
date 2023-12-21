@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/o-come-all-ye-faithful/","title":"O Come, All Ye Faithful","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/o-come-all-ye-faithful/","title":"O Come, All Ye Faithful"}
 ---
 
 
