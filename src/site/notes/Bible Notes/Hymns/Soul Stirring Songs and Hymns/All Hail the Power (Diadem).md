@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/all-hail-the-power-diadem/","title":"All Hail the Power (Diadem)","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/all-hail-the-power-diadem/","title":"All Hail the Power (Diadem)"}
 ---
 
 
