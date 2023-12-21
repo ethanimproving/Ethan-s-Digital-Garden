@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/parenting/skills/drawing/","created":"Oct 22, 2022, 10:24 PM","updated":""}
+{"dg-publish":true,"permalink":"/parenting/skills/drawing/","created":"Oct 22, 2022, 10:24 PM"}
 ---
 
 
