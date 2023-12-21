@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/framework-discussions/nudity-in-movies/the-most-important-thing-to-me-her-hunger-for-righteousness/","tags":["checklistitem"],"created":"Jan 6, 2022, 7:50 PM","updated":""}
+{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/framework-discussions/nudity-in-movies/the-most-important-thing-to-me-her-hunger-for-righteousness/","tags":["checklistitem"],"created":"Jan 6, 2022, 7:50 PM"}
 ---
 
 
