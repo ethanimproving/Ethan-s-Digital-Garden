@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-know-i-love-thee-better-lord/","title":"I Know I Love Thee Better, Lord","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-know-i-love-thee-better-lord/","title":"I Know I Love Thee Better, Lord"}
 ---
 
 
