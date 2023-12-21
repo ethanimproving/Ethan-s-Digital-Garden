@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/it-s-just-like-his-great-love/","title":"It's Just Like His Great Love","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/it-s-just-like-his-great-love/","title":"It's Just Like His Great Love"}
 ---
 
 
