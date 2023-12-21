@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/blessed-be-the-name/","title":"Blessed Be the Name","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/blessed-be-the-name/","title":"Blessed Be the Name"}
 ---
 
 
