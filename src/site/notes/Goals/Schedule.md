@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/schedule/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/goals/schedule/"}
 ---
 
 
