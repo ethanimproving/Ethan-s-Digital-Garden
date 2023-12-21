@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/when-we-all-get-to-heaven/","title":"When We All Get to Heaven","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/when-we-all-get-to-heaven/","title":"When We All Get to Heaven"}
 ---
 
 
