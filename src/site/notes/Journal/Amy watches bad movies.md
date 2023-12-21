@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/amy-watches-bad-movies/","tags":["breakup","favorites","amy","television"],"created":"Apr 27, 2019, 12:01 AM","updated":""}
+{"dg-publish":true,"permalink":"/journal/amy-watches-bad-movies/","tags":["breakup","favorites","amy","television"],"created":"Apr 27, 2019, 12:01 AM"}
 ---
 
 
