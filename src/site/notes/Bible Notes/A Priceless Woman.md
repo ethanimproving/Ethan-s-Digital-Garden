@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/a-priceless-woman/","tags":["women","psychology","praiseyourwife"],"created":"May 9, 2021, 10:40 AM","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/a-priceless-woman/","tags":["women","psychology","praiseyourwife"],"created":"May 9, 2021, 10:40 AM"}
 ---
 
 
