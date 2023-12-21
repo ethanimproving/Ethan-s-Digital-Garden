@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-know-i-am-saved/","title":"I Know I Am Saved","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-know-i-am-saved/","title":"I Know I Am Saved"}
 ---
 
 
