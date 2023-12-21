@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/house-ideas/interior-design/","created":"Jul 04, 2023, 1:09 PM","updated":""}
+{"dg-publish":true,"permalink":"/shopping/house-ideas/interior-design/","created":"Jul 04, 2023, 1:09 PM"}
 ---
 
 
