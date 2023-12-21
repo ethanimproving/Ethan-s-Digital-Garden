@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-need-thee-every-hour/","title":"I Need Thee Every Hour","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-need-thee-every-hour/","title":"I Need Thee Every Hour"}
 ---
 
 
