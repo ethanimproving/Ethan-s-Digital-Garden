@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/the-light-of-the-world-is-jesus/","title":"The Light of the World is Jesus","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/the-light-of-the-world-is-jesus/","title":"The Light of the World is Jesus"}
 ---
 
 
