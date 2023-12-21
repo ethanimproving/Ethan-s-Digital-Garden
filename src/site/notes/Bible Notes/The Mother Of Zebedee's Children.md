@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/the-mother-of-zebedee-s-children/","tags":["mothers","wives","marriage"],"created":"May 14, 2023, 10:37 AM","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/the-mother-of-zebedee-s-children/","tags":["mothers","wives","marriage"],"created":"May 14, 2023, 10:37 AM"}
 ---
 
 
