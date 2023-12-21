@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/joy-unspeakable/","title":"Joy Unspeakable","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/joy-unspeakable/","title":"Joy Unspeakable"}
 ---
 
 
