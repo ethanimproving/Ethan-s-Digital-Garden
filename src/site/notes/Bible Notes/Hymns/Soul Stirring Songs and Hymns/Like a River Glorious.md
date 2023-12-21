@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/like-a-river-glorious/","title":"Like a River Glorious","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/like-a-river-glorious/","title":"Like a River Glorious"}
 ---
 
 
