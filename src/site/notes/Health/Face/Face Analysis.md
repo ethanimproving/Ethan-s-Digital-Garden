@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/face/face-analysis/","created":"May 28, 2023, 8:28 AM","updated":""}
+{"dg-publish":true,"permalink":"/health/face/face-analysis/","created":"May 28, 2023, 8:28 AM"}
 ---
 
 
