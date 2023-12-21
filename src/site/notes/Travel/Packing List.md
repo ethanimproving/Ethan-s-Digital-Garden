@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/travel/packing-list/","tags":["travel"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/travel/packing-list/","tags":["travel"]}
 ---
 
 
