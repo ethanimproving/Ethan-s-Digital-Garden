@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/how-beautiful-heaven-must-be/","title":"How Beautiful Heaven Must Be","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/how-beautiful-heaven-must-be/","title":"How Beautiful Heaven Must Be"}
 ---
 
 
