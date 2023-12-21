@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/authority-shiny-happy-people-part-ii/","tags":["authority"],"created":"Jul 2, 2023, 10:40 AM","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/authority-shiny-happy-people-part-ii/","tags":["authority"],"created":"Jul 2, 2023, 10:40 AM"}
 ---
 
 
@@ -16,23 +16,19 @@
 
 # Text Elements
 GOD
-BIBLE ^jVNffLp9
-
+BIBLE 
 Husband
 Wife
-Children ^fM87FMPQ
-
+Children 
 Pastor
 Evangelist
 Deacon
-Church ^epEUb4jL
-
+Church 
 Constitution
 Federal
 State
 Local
-Citizens ^18CghTmH
-
+Citizens 
 
 
 </div></div>
