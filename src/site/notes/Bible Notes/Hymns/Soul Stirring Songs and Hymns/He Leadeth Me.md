@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/he-leadeth-me/","title":"He Leadeth Me","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/he-leadeth-me/","title":"He Leadeth Me"}
 ---
 
 
