@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/all-that-thrills-my-soul/","title":"All that Thrills My Soul","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/all-that-thrills-my-soul/","title":"All that Thrills My Soul"}
 ---
 
 
