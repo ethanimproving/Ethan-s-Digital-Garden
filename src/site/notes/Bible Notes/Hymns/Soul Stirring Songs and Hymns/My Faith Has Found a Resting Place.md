@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/my-faith-has-found-a-resting-place/","title":"My Faith Has Found a Resting Place","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/my-faith-has-found-a-resting-place/","title":"My Faith Has Found a Resting Place"}
 ---
 
 
