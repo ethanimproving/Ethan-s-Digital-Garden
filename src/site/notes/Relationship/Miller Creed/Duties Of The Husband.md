@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/miller-creed/duties-of-the-husband/","created":"Jun 18, 2023, 8:40 PM","updated":""}
+{"dg-publish":true,"permalink":"/relationship/miller-creed/duties-of-the-husband/","created":"Jun 18, 2023, 8:40 PM"}
 ---
 
 
