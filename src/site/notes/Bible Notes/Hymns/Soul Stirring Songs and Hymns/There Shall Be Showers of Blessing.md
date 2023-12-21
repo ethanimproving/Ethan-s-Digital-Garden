@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/there-shall-be-showers-of-blessing/","title":"There Shall Be Showers of Blessing","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/there-shall-be-showers-of-blessing/","title":"There Shall Be Showers of Blessing"}
 ---
 
 
