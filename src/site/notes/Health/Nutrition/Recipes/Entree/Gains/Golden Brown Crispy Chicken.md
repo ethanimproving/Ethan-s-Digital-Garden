@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/nutrition/recipes/entree/gains/golden-brown-crispy-chicken/","tags":["cookmate"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/health/nutrition/recipes/entree/gains/golden-brown-crispy-chicken/","tags":["cookmate"]}
 ---
 
 
