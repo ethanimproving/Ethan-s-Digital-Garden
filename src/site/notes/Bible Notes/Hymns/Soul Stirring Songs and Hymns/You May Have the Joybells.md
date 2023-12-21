@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/you-may-have-the-joybells/","title":"You May Have the Joybells","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/you-may-have-the-joybells/","title":"You May Have the Joybells"}
 ---
 
 
