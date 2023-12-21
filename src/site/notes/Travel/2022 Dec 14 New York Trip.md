@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/travel/2022-dec-14-new-york-trip/","title":"New York","tags":["timeline","crush"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/travel/2022-dec-14-new-york-trip/","title":"New York","tags":["timeline","crush"]}
 ---
 
 
