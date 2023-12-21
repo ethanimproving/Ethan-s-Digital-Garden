@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/blest-be-the-tie-that-binds/","title":"Blest Be the Tie that Binds","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/blest-be-the-tie-that-binds/","title":"Blest Be the Tie that Binds"}
 ---
 
 
