@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/keyboards/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/shopping/keyboards/"}
 ---
 
 
