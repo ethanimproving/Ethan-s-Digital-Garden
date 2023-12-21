@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/social-s-kills/observational-learning/","created":"Jun 09, 2023, 10:55 AM","updated":""}
+{"dg-publish":true,"permalink":"/social-s-kills/observational-learning/","created":"Jun 09, 2023, 10:55 AM"}
 ---
 
 
