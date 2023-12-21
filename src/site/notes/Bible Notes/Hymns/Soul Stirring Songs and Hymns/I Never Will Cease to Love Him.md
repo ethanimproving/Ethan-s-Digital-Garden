@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-never-will-cease-to-love-him/","title":"I Never Will Cease to Love Him","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-never-will-cease-to-love-him/","title":"I Never Will Cease to Love Him"}
 ---
 
 
