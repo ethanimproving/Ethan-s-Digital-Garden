@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/the-price-of-a-virgin/","created":"Oct 22, 2022, 12:23 PM","updated":""}
+{"dg-publish":true,"permalink":"/relationship/diary/the-price-of-a-virgin/","created":"Oct 22, 2022, 12:23 PM"}
 ---
 
 
