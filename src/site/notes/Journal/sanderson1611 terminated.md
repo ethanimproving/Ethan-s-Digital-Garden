@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/sanderson1611-terminated/","tags":["sanctification","television"],"created":"Jul 6, 2020, 10:23 PM","updated":""}
+{"dg-publish":true,"permalink":"/journal/sanderson1611-terminated/","tags":["sanctification","television"],"created":"Jul 6, 2020, 10:23 PM"}
 ---
 
 
