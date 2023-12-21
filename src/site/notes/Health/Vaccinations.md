@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/vaccinations/","created":"Jul 04, 2023, 9:13 AM","updated":""}
+{"dg-publish":true,"permalink":"/health/vaccinations/","created":"Jul 04, 2023, 9:13 AM"}
 ---
 
 
