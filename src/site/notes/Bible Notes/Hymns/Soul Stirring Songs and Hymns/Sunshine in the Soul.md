@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/sunshine-in-the-soul/","title":"Sunshine in the Soul","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/sunshine-in-the-soul/","title":"Sunshine in the Soul"}
 ---
 
 
