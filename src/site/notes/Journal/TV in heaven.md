@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/tv-in-heaven/","tags":["television"],"created":"Jul 19, 2019, 11:36 AM","updated":""}
+{"dg-publish":true,"permalink":"/journal/tv-in-heaven/","tags":["television"],"created":"Jul 19, 2019, 11:36 AM"}
 ---
 
 
