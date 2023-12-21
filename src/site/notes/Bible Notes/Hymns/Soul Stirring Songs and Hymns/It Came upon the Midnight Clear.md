@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/it-came-upon-the-midnight-clear/","title":"It Came upon the Midnight Clear","created":"","updated":""}
+{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/it-came-upon-the-midnight-clear/","title":"It Came upon the Midnight Clear"}
 ---
 
 
