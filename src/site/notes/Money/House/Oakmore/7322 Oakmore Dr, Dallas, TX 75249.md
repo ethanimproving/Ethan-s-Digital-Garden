@@ -72,30 +72,30 @@ Will the cost of renovating the house increase the sale price by the same amount
 | [[Money/House/Renovation Skills/Appliences/Dishwasher\|Dishwasher]]                                                              | $600          | 5        | \-        |
 | [[Money/House/Renovation Skills/Appliences/Oven and Stove\|Oven and Stove]]                                                      | $1,500        | 5        | \-        |
 | [[Money/House/Renovation Skills/Appliences/Smart Fridge\|Smart Fridge]]                                                          | $2,000        | 5        | \-        |
+| [[Money/House/Renovation Skills/Attic/Attic Work (Electrical)\|Attic Work (Electrical)]]                                         | $0$           | 5        | true      |
+| [[Money/House/Renovation Skills/Attic/In-ceiling Speakers\|In-ceiling Speakers]]                                                 | $1,000        | 5        | \-        |
+| [[Money/House/Renovation Skills/Attic/Remove Smoking Oder\|Remove Smoking Oder]]                                                 | $50           | 5        | \-        |
+| [[Money/House/Renovation Skills/Attic/Clean Air Ducts\|Clean Air Ducts]]                                                         | $650          | 5        | false     |
 | [[Money/House/Renovation Skills/Bathroom/Installing Shower Doors\|Installing Shower Doors]]                                      | $130          | 5        | \-        |
-| [[Money/House/Renovation Skills/Bathroom/Replacing A Toilet\|Replacing A Toilet]]                                                | $0            | 5        | \-        |
 | [[Money/House/Renovation Skills/Bathroom/Remove Shower Soffit (Furr Down)\|Remove Shower Soffit (Furr Down)]]                    | $50           | 5        | \-        |
 | [[Money/House/Renovation Skills/Bathroom/Shower Plumbing\|Shower Plumbing]]                                                      | $0            | 5        | \-        |
 | [[Money/House/Renovation Skills/Bathroom/Unclog Toilet\|Unclog Toilet]]                                                          | $0            | 5        | \-        |
-| [[Money/House/Renovation Skills/Attic/Attic Work (Electrical)\|Attic Work (Electrical)]]                                         | $0$           | 5        | true      |
-| [[Money/House/Renovation Skills/Attic/Clean Air Ducts\|Clean Air Ducts]]                                                         | $650          | 5        | false     |
-| [[Money/House/Renovation Skills/Attic/In-ceiling Speakers\|In-ceiling Speakers]]                                                 | $1,000        | 5        | \-        |
-| [[Money/House/Renovation Skills/Attic/Remove Smoking Oder\|Remove Smoking Oder]]                                                 | $50           | 5        | \-        |
+| [[Money/House/Renovation Skills/Bathroom/Replacing A Toilet\|Replacing A Toilet]]                                                | $0            | 5        | \-        |
 | [[Money/House/Renovation Skills/Garage/Epoxy In Garage\|Epoxy In Garage]]                                                        | $0            | 5        | \-        |
 | [[Money/House/Renovation Skills/Garage/Replace Garage Door Opener\|Replace Garage Door Opener]]                                  | $80           | 5        | \-        |
 | [[Money/House/Renovation Skills/Kitchen/Fix Sink Pipes\|Fix Sink Pipes]]                                                         | $0            | 5        | \-        |
 | [[Money/House/Renovation Skills/Kitchen/Replace Garbage Disposal\|Replace Garbage Disposal]]                                     | $50           | 5        | \-        |
-| [[Money/House/Renovation Skills/Level The Floor\|Level The Floor]]                                                               | $0            | 5        | \-        |
-| [[Money/House/Renovation Skills/Lighting\|Lighting]]                                                                             | $200          | 5        | \-        |
 | [[Money/House/Renovation Skills/Level The Patio\|Level The Patio]]                                                               | $4,200        | 5        | \-        |
 | [[Money/House/Renovation Skills/Living Room/Remove Cement Patches From Concrete Slab\|Remove Cement Patches From Concrete Slab]] | $30           | 5        | \-        |
 | [[Money/House/Renovation Skills/Living Room/Remove Concrete Patch From Slab\|Remove Concrete Patch From Slab]]                   | $30           | 5        | \-        |
+| [[Money/House/Renovation Skills/Level The Floor\|Level The Floor]]                                                               | $0            | 5        | \-        |
+| [[Money/House/Renovation Skills/Lighting\|Lighting]]                                                                             | $200          | 5        | \-        |
 | [[Money/House/Renovation Skills/Mud Room\|Mud Room]]                                                                             | $900          | 5        | \-        |
-| [[Money/House/Renovation Skills/Windows\|Windows]]                                                                               | $5,400        | 5        | \-        |
 | [[Money/House/Renovation Skills/Yard & Outside/Fix Cracks In Sidewalk\|Fix Cracks In Sidewalk]]                                  | $50           | 5        | \-        |
 | [[Money/House/Renovation Skills/Yard & Outside/How To Kill A Tree\|How To Kill A Tree]]                                          | $0            | 5        | \-        |
 | [[Money/House/Renovation Skills/Yard & Outside/Fence\|Fence]]                                                                    | $4,000        | 5        | \-        |
 | [[Money/House/Renovation Skills/Yard & Outside/Install Chimney Cap\|Install Chimney Cap]]                                        | $150          | 5        | \-        |
+| [[Money/House/Renovation Skills/Windows\|Windows]]                                                                               | $5,400        | 5        | \-        |
 | [[Money/House/Renovation Skills/Kitchen/Open Up The Kitchen\|Open Up The Kitchen]]                                               | $3,500        | 4        | \-        |
 | [[Money/House/Renovation Skills/Yard & Outside/Patio\|Patio]]                                                                    | $0            | 4        | \-        |
 | [[Money/House/Renovation Skills/Yard & Outside/Pressure Wash The Sidewalk\|Pressure Wash The Sidewalk]]                          | 0             | 4        | \-        |
@@ -104,30 +104,30 @@ Will the cost of renovating the house increase the sale price by the same amount
 | [[Money/House/Renovation Skills/Kitchen/Island or Peninsula\|Island or Peninsula]]                                               | $5,000        | 3        | \-        |
 | [[Money/House/Renovation Skills/Lay Carpet\|Lay Carpet]]                                                                         | $1 / sq ft    | 3        | \-        |
 | [[Money/House/Renovation Skills/Kitchen Counters\|Kitchen Counters]]                                                             | $3,500        | 3        | \-        |
-| [[Money/House/Renovation Skills/Replace Outlets\|Replace Outlets]]                                                               | $12           | 3        | \-        |
 | [[Money/House/Renovation Skills/Remove Old Carpet And Clean Ground\|Remove Old Carpet And Clean Ground]]                         | $0            | 3        | \-        |
+| [[Money/House/Renovation Skills/Replace Outlets\|Replace Outlets]]                                                               | $12           | 3        | \-        |
 | [[Money/House/Renovation Skills/Appliences/Washer Dryer\|Washer Dryer]]                                                          | $1,300        | 2        | \-        |
 | [[Money/House/Renovation Skills/Bathroom/New Toilets\|New Toilets]]                                                              | $200 / toilet | 2        | \-        |
 | [[Money/House/Renovation Skills/Living Room/Remove Brick From Fireplace\|Remove Brick From Fireplace]]                           | $200          | 2        | \-        |
 | [[Money/House/Renovation Skills/Living Room/Door Sills\|Door Sills]]                                                             | $50           | 2        | \-        |
 | [[Money/House/Renovation Skills/Yard & Outside/Outside Siding\|Outside Siding]]                                                  | $5,000        | 2        | \-        |
-| [[Money/House/Renovation Skills/Appliences/Compressed Air Dusters\|Compressed Air Dusters]]                                      | $30           | 1        | \-        |
 | [[Money/House/Renovation Skills/Appliences/Air Purifier\|Air Purifier]]                                                          | $749.99       | 1        | \-        |
-| [[Money/House/Renovation Skills/Appliences/Echo Dot\|Echo Dot]]                                                                  | $30           | 1        | \-        |
+| [[Money/House/Renovation Skills/Appliences/Compressed Air Dusters\|Compressed Air Dusters]]                                      | $30           | 1        | \-        |
 | [[Money/House/Renovation Skills/Appliences/Echo Show 5\|Echo Show 5]]                                                            | $80           | 1        | \-        |
+| [[Money/House/Renovation Skills/Appliences/Echo Dot\|Echo Dot]]                                                                  | $30           | 1        | \-        |
+| [[Money/House/Renovation Skills/Appliences/Floor Lamp\|Floor Lamp]]                                                              | $241.55       | 1        | \-        |
 | [[Money/House/Renovation Skills/Appliences/Paper Towel Pump\|Paper Towel Pump]]                                                  | $80           | 1        | \-        |
 | [[Money/House/Renovation Skills/Appliences/Smart Blinds\|Smart Blinds]]                                                          | $650 / Window | 1        | \-        |
-| [[Money/House/Renovation Skills/Appliences/Sprinkler System\|Sprinkler System]]                                                  | \-            | 1        | \-        |
 | [[Money/House/Renovation Skills/Appliences/Soap Dispenser\|Soap Dispenser]]                                                      | $120          | 1        | \-        |
-| [[Money/House/Renovation Skills/Appliences/Floor Lamp\|Floor Lamp]]                                                              | $241.55       | 1        | \-        |
+| [[Money/House/Renovation Skills/Appliences/Sprinkler System\|Sprinkler System]]                                                  | \-            | 1        | \-        |
 | [[Money/House/Renovation Skills/Appliences/Vacuum\|Vacuum]]                                                                      | $649.99       | 1        | \-        |
 | [[Money/House/Renovation Skills/Appliences/Under Desk Treadmill\|Under Desk Treadmill]]                                          | $250          | 1        | \-        |
 | [[Money/House/Renovation Skills/Bathroom/Bathroom\|Bathroom]]                                                                    | $2,800        | 1        | \-        |
-| [[Money/House/Renovation Skills/Furnishings/Lighting\|Lighting]]                                                                 | $241.55       | 1        | \-        |
 | [[Money/House/Renovation Skills/Furnishings/Fans\|Fans]]                                                                         | $120          | 1        | \-        |
+| [[Money/House/Renovation Skills/Furnishings/Lighting\|Lighting]]                                                                 | $241.55       | 1        | \-        |
 | [[Money/House/Renovation Skills/Living Room/Smart Locks\|Smart Locks]]                                                           | $200          | 1        | \-        |
-| [[Money/House/Renovation Skills/New Doors\|New Doors]]                                                                           | $300          | 1        | \-        |
 | [[Money/House/Renovation Skills/Paint Doors\|Paint Doors]]                                                                       | $80           | 1        | \-        |
+| [[Money/House/Renovation Skills/New Doors\|New Doors]]                                                                           | $300          | 1        | \-        |
 | [[Money/House/Renovation Skills/Retexturing An Existing Wall\|Retexturing An Existing Wall]]                                     | $200          | 1        | \-        |
 | [[Money/House/Renovation Skills/Retile The Floor\|Retile The Floor]]                                                             | $4,000        | 1        | \-        |
 | [[Money/House/Renovation Skills/Tools/Pressure Washer\|Pressure Washer]]                                                         | $300          | 1        | \-        |
@@ -136,10 +136,10 @@ Will the cost of renovating the house increase the sale price by the same amount
 | [[Money/House/Renovation Skills/LVL Beam\|LVL Beam]]                                                                             | $1,400        | 0        | \-        |
 | [[Money/House/Renovation Skills/Raising A Sunken Floor\|Raising A Sunken Floor]]                                                 | $2,500        | 0        | \-        |
 | [[Money/House/Renovation Skills/Yard & Outside/New AC\|New AC]]                                                                  | $5000         | 0        | \-        |
-| [[Money/House/Renovation Skills/Yard & Outside/Outside Fascia Boards\|Outside Fascia Boards]]                                    | $2,500        | 0        | \-        |
 | [[Money/House/Renovation Skills/Yard & Outside/Patch Rotting Beam\|Patch Rotting Beam]]                                          | $150          | 0        | \-        |
-| [[Money/House/Renovation Skills/Stain Brick\|Stain Brick]]                                                                       | \-            | \-       | \-        |
+| [[Money/House/Renovation Skills/Yard & Outside/Outside Fascia Boards\|Outside Fascia Boards]]                                    | $2,500        | 0        | \-        |
 | [[Money/House/Renovation Skills/Buckled Sidewalks\|Buckled Sidewalks]]                                                           | $0            | \-       | \-        |
+| [[Money/House/Renovation Skills/Stain Brick\|Stain Brick]]                                                                       | \-            | \-       | \-        |
 
 { .block-language-dataview}
 
@@ -148,22 +148,22 @@ Will the cost of renovating the house increase the sale price by the same amount
 | File                                                                                           | Cost          | Priority | Bought |
 | ---------------------------------------------------------------------------------------------- | ------------- | -------- | ------ |
 | [[Money/House/Renovation Skills/Appliences/Echo Dot\|Echo Dot]]                             | $30           | 1        | \-     |
+| [[Money/House/Renovation Skills/Appliences/Floor Lamp\|Floor Lamp]]                         | $241.55       | 1        | \-     |
 | [[Money/House/Renovation Skills/Appliences/Smart Blinds\|Smart Blinds]]                     | $650 / Window | 1        | \-     |
 | [[Money/House/Renovation Skills/Appliences/Sprinkler System\|Sprinkler System]]             | \-            | 1        | \-     |
-| [[Money/House/Renovation Skills/Appliences/Floor Lamp\|Floor Lamp]]                         | $241.55       | 1        | \-     |
 | [[Money/House/Renovation Skills/Appliences/Vacuum\|Vacuum]]                                 | $649.99       | 1        | \-     |
 | [[Money/House/Renovation Skills/Furnishings/Lighting\|Lighting]]                            | $241.55       | 1        | \-     |
 | [[Money/House/Renovation Skills/Appliences/Smart Outlets\|Smart Outlets]]                   | \-            | \-       | \-     |
-| [[Money/House/Renovation Skills/Appliences/Standing Desk\|Standing Desk]]                   | \-            | \-       | \-     |
 | [[Money/House/Renovation Skills/Appliences/Vacuum Robot\|Vacuum Robot]]                     | \-            | \-       | \-     |
+| [[Money/House/Renovation Skills/Appliences/Standing Desk\|Standing Desk]]                   | \-            | \-       | \-     |
 | [[Money/House/Renovation Skills/Appliences/Dishwasher\|Dishwasher]]                         | $600          | 5        | true   |
 | [[Money/House/Renovation Skills/Appliences/Oven and Stove\|Oven and Stove]]                 | $1,500        | 5        | true   |
 | [[Money/House/Renovation Skills/Appliences/Smart Fridge\|Smart Fridge]]                     | $2,000        | 5        | true   |
 | [[Money/House/Renovation Skills/Furnishings/Mounted Range Hood\|Mounted Range Hood]]        | $400          | 5        | true   |
 | [[Money/House/Renovation Skills/Appliences/Security Cameras\|Security Cameras]]             | $1000         | 3        | true   |
 | [[Money/House/Renovation Skills/Appliences/Washer Dryer\|Washer Dryer]]                     | $1,300        | 2        | true   |
-| [[Money/House/Renovation Skills/Appliences/Compressed Air Dusters\|Compressed Air Dusters]] | $30           | 1        | true   |
 | [[Money/House/Renovation Skills/Appliences/Air Purifier\|Air Purifier]]                     | $749.99       | 1        | true   |
+| [[Money/House/Renovation Skills/Appliences/Compressed Air Dusters\|Compressed Air Dusters]] | $30           | 1        | true   |
 | [[Money/House/Renovation Skills/Appliences/Echo Show 5\|Echo Show 5]]                       | $80           | 1        | true   |
 | [[Money/House/Renovation Skills/Appliences/Paper Towel Pump\|Paper Towel Pump]]             | $80           | 1        | true   |
 | [[Money/House/Renovation Skills/Appliences/Soap Dispenser\|Soap Dispenser]]                 | $120          | 1        | true   |
