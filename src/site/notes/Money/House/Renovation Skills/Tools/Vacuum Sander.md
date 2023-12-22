@@ -13,6 +13,18 @@
     
 4. **[WEN 6369 Variable Speed Drywall Sander](https://www.homedepot.com/p/WEN-5-Amp-Corded-Variable-Speed-Drywall-Sander-with-15-ft-Hose-6369/300013232)**: This sander comes with a 5-amp motor and variable speed control, allowing you to adjust the sanding speed based on your needs. It also has a dust collection system. The price is **$135.88** ![](https://images.thdstatic.com/productImages/505b0679-f52b-40a8-8008-abc6ac9735c2/svn/wen-drywall-pole-sanders-6369-64_1000.jpg)
 
+| Feature                                                                                               | [15 ft. 5 Amp 2-in-1 Variable Speed Dual-Head Sander with Dust Hose](https://www.homedepot.com/p/WEN-15-ft-5-Amp-2-in-1-Variable-Speed-Dual-Head-Drywall-Sander-with-Dust-Hose-DW5084/321753380#overlay) | [5 Amp Corded Variable Speed Drywall Sander with 15 ft. Hose](https://www.homedepot.com/p/WEN-5-Amp-Corded-Variable-Speed-Drywall-Sander-with-15-ft-Hose-6369/300013232) | [Variable Speed 5-Amp Dual-Head Drywall Sander with 15-Foot Hose](https://www.homedepot.com/p/WEN-Variable-Speed-5-Amp-Dual-Head-Drywall-Sander-with-15-Foot-Hose-6377/301985566) |
+|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------------|
+| Heads                                                                                                 | 2 (circular and triangular)                                        | 1 (circular)                                                | 2 (circular and triangular)                                     |
+| Head Switching                                                                                        | Tool-free                                                          | May require tools                                           | Tool-free                                                       |
+| Dust Collection                                                                                       | Improved hole configuration for circular head                      | Standard dust collection                                    | May vary depending on model                                     |
+| Versatility                                                                                           | High - suitable for flat surfaces and corners                      | Moderate - primarily for flat surfaces                      | High - suitable for flat surfaces and corners                   |
+| Price                                                                                                 | Generally more expensive                                           | Generally less expensive                                    | May vary depending on features and brand                        |
+| Best for                                                                                              | Diverse sanding tasks                                              | Basic sanding of flat surfaces                              | Diverse sanding tasks                                           |
+
+- triangular – for reaching corners and flat surfaces. This makes it more versatile for different sanding tasks.
+- Sand Paper: https://www.homedepot.com/p/WEN-Drywall-Sander-120-Grit-Hook-and-Loop-9-in-Sandpaper-10-Pack-6369SP120/300673795
+
 # Things To Look For
 
 When choosing a vacuum sander, consider the following factors:
