@@ -32,6 +32,10 @@
 ## Drilling And Nailing
 
 - [Use an endoscope to detect wires](https://youtu.be/Q6gNf6QaRrU?si=xT54PsYrOJ28rdRi&t=476)
+# Mixing The Joint Compound
+
+1. Add water and mix
+2. [Keep a second bucket of water](https://youtu.be/EASP7bIkk0k?si=YAIBQrUdQDPwFMzt&t=397) to clean the mixing bit.
 
 # Taping and Embedding
 
@@ -46,6 +50,7 @@
 - [ ] Lay a tarp down all over the floor to avoid damaging the concrete.
 - [ ] Clean drywall with mop or cloth.
 - [ ] [Run through the screws with a 6 inch putty knife](https://youtu.be/GUTp7wDJSUI?si=LkO7qhUeCNHODhUo&t=129) to ensure none are sticking out past the surface.
+- [ ] [Remove any loos paper from the drywall](https://youtu.be/EASP7bIkk0k?si=GdDXNmDcU38ZtafX&t=138) that could cause blistering.
 
 ### Gear:
 
@@ -81,6 +86,18 @@
 
 ![](https://optimise2.assets-servd.host/trimtex-web/production/media/Blog/what20is20buttboard20thumb.jpg?w=1120&h=840&auto=compress%2Cformat&fit=crop&dm=1659826178&s=164ed2c97998e5dad956c90d916da664)
 
+### Taping Butt Joints
+
+1. [Use a side swipe to apply the mud](https://youtu.be/EASP7bIkk0k?si=q64cBlBheX-rNX4j&t=716).
+
+### Taping Inside Corners
+
+1. [Side swipe with a putty knife](https://youtu.be/EASP7bIkk0k?si=4JS1qwGpyJmBeO4U).
+2. [Use a lambs wool corner roller](https://youtu.be/EASP7bIkk0k?si=efBcvFA3MP8UjMH6&t=1065).
+
+### Coating Screws
+
+1. [Apply in one direction and take it off in the opposite direction](https://youtu.be/EASP7bIkk0k?si=oh_Bjb2DoWKhXloZ&t=1463).
 
 ### Mesh Tape
 
@@ -93,7 +110,7 @@
 ### Paper Tape
 
 1. [Wet your tape before applying](https://www.tiktok.com/@welcome2thewoods/video/7179021045460962603?q=drywall%20taping%20trick&t=1703192360720).
-2. [Loading compound on factory joints](https://youtube.com/shorts/TkewsZ3gM14)
+2. [Paper is better than  mesh because it hides cracks in the drywall](https://www.youtube.com/watch?v=VhsbU6lTrnM).
 
 
 ### Fiberglass Tape
@@ -113,6 +130,8 @@
 3. [Finished with runny consistency](https://youtube.com/shorts/UXTNsXSI3ls?feature=share) because it thickens as it pulls moisture out of the wall.
 4. [Shine light across the wall to see where mud needs to be feathered](https://youtube.com/shorts/hfMJTcvzW3Y)
 5. [Use lightweight all-purpose mud](https://youtube.com/shorts/7l_mNTmfp3k)
+6. [Loading compound on factory joints](https://youtube.com/shorts/TkewsZ3gM14).
+7. [Feature the edge by bending the blade](https://www.youtube.com/watch?v=GIvmfBuAQIw).
 
 ### Unipatching
 
