@@ -55,6 +55,17 @@ In recent years, there has been a growing interest in digital gardening and PKM 
 5. Execute clone repo command with `https://github.com/ethanimproving/Family-Ideas.git`
 6. Reload plugin
 
+# User Interface
+
+![](https://i.imgur.com/IlWD8t0.png)
+
+
+## Local Graph View
+
+`Ctrl+P` to open the command pallet, then `Open Local Graph`. Once the graph view is open, drag it to the right panel to pin it.
+
+
+
 # Frequent Shortcuts
 
 | Action                | Shortcut         |
