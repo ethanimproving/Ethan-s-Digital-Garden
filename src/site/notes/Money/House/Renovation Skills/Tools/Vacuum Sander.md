@@ -25,6 +25,8 @@
 - triangular – for reaching corners and flat surfaces. This makes it more versatile for different sanding tasks.
 - Sand Paper: https://www.homedepot.com/p/WEN-Drywall-Sander-120-Grit-Hook-and-Loop-9-in-Sandpaper-10-Pack-6369SP120/300673795
 
+[POWERTEC](https://www.homedepot.com/p/POWERTEC-125-mm-180-Grit-9-Hole-A-O-Hook-and-Loop-Disc-for-Festool-RO-125-ETS-125-Sander-in-Red-50-Pack-4D125918-50/307854143)
+
 # Things To Look For
 
 When choosing a vacuum sander, consider the following factors:
