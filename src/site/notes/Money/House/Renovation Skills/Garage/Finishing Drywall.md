@@ -11,6 +11,8 @@
 2. [Blind Mark Drywall Electrical Box Locating Tool Kit](https://www.homedepot.com/p/Calculated-Industries-Blind-Mark-Drywall-Electrical-Box-Locating-Tool-Kit-4-Pieces-BMWK/100529468)
 3. [Wireless Endoscope](https://www.amazon.com/dp/B01MYTHWK4/ref=cm_sw_r_as_gl_api_glt_i_N1AWFMP5BM2HNW20M5D0?linkCode=ml1&tag=genevo902-20&th=1)
 
+## Removing Old Drywall
+
 ## Cutting Drywall
 
 ## Install Insulation
