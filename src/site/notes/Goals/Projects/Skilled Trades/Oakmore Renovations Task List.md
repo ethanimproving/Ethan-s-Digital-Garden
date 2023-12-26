@@ -7,26 +7,27 @@
 
 # 1. Garage
 
-## *
+## * Concurrent Tasks
 - [ ] [[Money/House/Chores/Clean 14 Gallon Rigid Shop Vacuum\|Clean 14 Gallon Rigid Shop Vacuum]]
 - [ ] [[Money/House/Renovation Skills/Yard & Outside/Fix Cracks In Sidewalk\|Fix Cracks In Sidewalk]]
 - [ ] R&R (Remove and Replace) Door from Garage to Kitchen Hallway
 - [ ] Remove old attic TV cables
 - [ ] Remove old attic Cat5E cables
 - [x] Remove old attic telephone cables
+- [x] Add [lightbulbs](https://www.homedepot.com/p/Genie-Universal-Garage-Door-Opener-LED-Light-Bulb-GLEDB2-R/310186985) to garage door opener
 
-## 1.1
-- [x] Remove/clean Garage Shelves
-- [x] Remove old drywall
+## 1.1 Garage Preparation 
+- [x] Remove/clean Garage Shelves #finish-to-start
+- [x] Remove old drywall #finish-to-start
 
-## 1.2
+## 1.2 Attic and Electrical Setup (FS)
 - [x] Lay attic boards
-- [ ] Install attic stairs
+- [ ] Install attic stairs #next
 - [ ] Install 2 additional breakers for kitchen and garage
 - [ ] Run wire from Garage Door Opener to Wall Button
 - [ ] Migrate garage light switch from Kitchen to below Wall Button
 
-## 1.3 Finishing Drywall
+## 1.3 Finishing Drywall (FS)
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/money/house/oakmore/project-timelines/#garage-renovation" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -79,15 +80,24 @@
 # Living Room
 - [ ] **5.** Inspect vents for living room electrical access
 - [ ] **3.** Assemble and hang gray fan where the old fan was
-- [ ] Rest uHoo Air Quality Monitor with paperclip
+- [x] * Rest uHoo Air Quality Monitor with paperclip
 
 # Bedrooms
 - [ ] **5.** Mop floors
 
 # Household
 - [ ] Paint or stain doors white
+- [ ] Mop all floors
 
-# Flooring
+# 1.1 Closing
+
+## 1.1 Close on the house
+- [x] Sign offer
+- [x] Do inspection
+- [x] Secure loan
+- [ ] Convert title at Title Office
+
+## 1.2 Flooring
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/money/house/oakmore/project-timelines/#vinyl-installation" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
