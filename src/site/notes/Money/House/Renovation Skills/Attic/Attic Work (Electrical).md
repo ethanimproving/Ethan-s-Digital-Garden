@@ -136,6 +136,10 @@ Transformers play a critical role in electrical power systems, ensuring that the
 
 # Tips
 
+## Magnets for Fishing Tape
+
+When running fishing tape down the wall, it can be a challenge getting it into the back of the box. Consider using a [strong magnet](https://www.amazon.com/MagnetPal-Heavy-Duty-Neodymium-Anti-Rust-Retrieval/dp/B07BYWD99S/ref=sxbs_sbv_search_btf) for this.
+
 ## Cutting Romex
 
 [Best Way to STRIP ROMEX FAST](https://www.youtube.com/shorts/sLCxyD7xMFE?feature=share)
