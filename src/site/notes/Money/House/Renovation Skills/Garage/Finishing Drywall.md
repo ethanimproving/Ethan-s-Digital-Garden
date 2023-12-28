@@ -17,6 +17,27 @@
 
 ## Install Insulation
 
+## Hanging Drywall Panels 
+
+### Sides
+
+- [ ] [Use laser level to keep screws in line with studs](https://www.tiktok.com/@vaughanhandyman/video/7165141665982713094?q=drywall%20hanging%20hack&t=1703633870525)
+- [ ] [Use a saw horse, cheese grader, and a t-square](https://www.tiktok.com/@remodelschool/video/7230158878892248366?q=drywall%20hanging%20hack&t=1703633870525)
+- [ ] [2 x 4 Block](https://www.tiktok.com/@makergray/video/7055827625910013231?q=drywall%20hanging%20hack&t=1703633870525)
+- [ ] [Use a foot pedal to prop up the drywall](https://www.tiktok.com/@homerenovisiondiy/video/7229421933450808582?q=drywall%20hanging%20hack&t=1703633870525)
+- [ ] [Always end on a stud](https://www.tiktok.com/@mcreekrenovations/video/7295672849971301678?q=drywall%20hanging%20hack&t=1703633870525)
+
+### Ceiling
+
+This is one of my [[Goals/Checklist/Life's Goals\|life mission]]
+- [BoardMate](https://www.amazon.com/BoardMate-Drywall-Fitting-Supports-Installing/dp/B00PH72GI0/ref=pd_lutyp_sim_d_sccl_1_1/134-3562437-0686944) 
+- [Telescoping Rod](https://www.amazon.com/Telescopic-Adjustable-Supports-Construction-Drywalls/dp/B09VGJQS81/ref=sr_1_1_sspa)
+	1. [cfhfarm](https://www.tiktok.com/@cfhfarm/video/7195278592312446213?q=drywall%20hanging%20hack&t=1703633870525) 
+	2. [cfhfarm](https://www.tiktok.com/@cfhfarm/video/7206782662692965638?q=drywall%20hanging%20hack&t=1703633870525)
+- [Drywall Lift](https://www.homedepot.com/p/Troy-Professional-Drywall-and-Panel-Hoist-DPH11/203900041) [](https://www.youtube.com/shorts/fiZCjdVm09w)
+- [2 x 4 Blocks](https://youtube.com/shorts/s12xs1nwBDY?si=lH30cgoiEgxX9Hj2) [hdhandyman](https://www.tiktok.com/@hghandyman/video/7232099323616480554?q=drywall%20hanging%20hack&t=1703633870525) [Drywall cleats](https://www.tiktok.com/@energyrising/video/7099556377730960686?q=drywall%20hanging%20hack&t=1703633870525) 
+- [Homemade Panel Lift](https://www.youtube.com/watch?v=E6EGEMzJ5I8)
+
 ## Fill In Gaps
 
 1. [Use expansion foam](https://youtu.be/naBal346_9c?si=ebH_97Ee4Md-5Wfw&t=38) to fill in gaps
@@ -134,6 +155,8 @@
 5. [Use lightweight all-purpose mud](https://youtube.com/shorts/7l_mNTmfp3k)
 6. [Loading compound on factory joints](https://youtube.com/shorts/TkewsZ3gM14).
 7. [Feature the edge by bending the blade](https://www.youtube.com/watch?v=GIvmfBuAQIw).
+8. [Skim the mud after application if applying to painted surface](https://www.youtube.com/watch?v=S9KdiAx3S10&t=2s)
+9. [Use a Hawkmate to carry all your knives with you as you're working](https://www.youtube.com/shorts/V3x16_GXhQQ).
 
 ### Unipatching
 
@@ -150,6 +173,11 @@
 
 - [3 Methods of Sanding](https://www.youtube.com/watch?v=Op0rlKfTbig)
 - [Vacuum Sander](https://www.youtube.com/watch?v=eYHwg0HsmEU&t=25s)
+# Painting
+
+## Tips
+
+- [Let paint brushes soak in bucket of water overnight](https://youtube.com/shorts/p9QQt0pB_x4?si=eBrWgT4YI-7qFsLf)
 
 # Skim Coating Over Texture
 
@@ -171,6 +199,11 @@
 2. [Apply 2 layers of skim coat to avoid sanding before mudding](https://youtube.com/shorts/iOd-HwfhwHI)
 3. 
 
+# Hanging Pictures on Drywall
+
+- [ ] [Use monkey hooks](https://www.tiktok.com/@delancey.diy/video/7135135811128823082?q=drywall%20hanging%20hack&t=1703633870525)
+- [ ] [Anchors](https://www.tiktok.com/@rememberthesecret/video/6933566094875577606?q=drywall%20hanging%20hack&t=1703633870525)
+- [ ] [3M Claw](https://www.tiktok.com/@housemixblog/video/7223914372114976042?q=drywall%20hanging%20hack&t=1703633870525) 
 
 # Vocabulary
 
