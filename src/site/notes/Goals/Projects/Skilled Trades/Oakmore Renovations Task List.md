@@ -22,8 +22,10 @@
 
 ## 1.2 Attic and Electrical Setup (FS)
 - [x] Lay attic boards
-- [ ] Install attic stairs #next
-- [ ] Install 2 additional breakers for kitchen and garage
+- [x] Install attic stairs
+- [x] Install 2 additional breakers for kitchen and garage
+- [ ] Zip tie the Romex in the electrical panel 
+- [ ] Run wire for garage light panels
 - [ ] Run wire from Garage Door Opener to Wall Button
 - [ ] Migrate garage light switch from Kitchen to below Wall Button
 
