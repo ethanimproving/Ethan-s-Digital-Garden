@@ -62,6 +62,7 @@ City Transformers take huge amounts of volts and convert them to amps to make it
 - [Respirator](https://www.amazon.com/3M-Comfort-Facepiece-Reusable-Respirator/dp/B00IF7RCU6) with a [P100 filter](https://www.amazon.com/3M-2091-Particulate-Filter-Pairs/dp/B00KYX8JBU) or N95 dust masks
 - [[Money/House/Renovation Skills/Tools/Safety Goggles\|Safety Goggles]]
 - Gloves
+- [Kneeseat](https://www.youtube.com/watch?v=VNrWVbOCI6M) | [Dealers](https://www.probst-handling.com/us/products/details/kneeseat)
 # Panel Template
 
 [Oakmore Outlet Mapping.xlsx](https://docs.google.com/spreadsheets/d/1BQSn69_lGLNvviKAZ4ghFFkCKHRBOusG/edit?usp=sharing&ouid=101037969843715996109&rtpof=true&sd=true)
@@ -169,6 +170,20 @@ Use a [Klein Staple Gun](https://www.amazon.com/gp/product/B085RLW9XL/ref=ppx_yo
 
 [E3802.2 Cables in Accessible Attics](https://up.codes/s/cables-in-accessible-attics)
 
+
+# Receptacles
+
+Slide your wire [straight underneath the plate](https://youtu.be/nKpWX3nCyDQ?si=jQ8BK3Fi-QP9oH2u&t=51).
+
+![](https://i.imgur.com/PqboEaT.png)
+
+[Use Square Robinson #1 Screw Tip](https://youtu.be/nKpWX3nCyDQ?si=2iHZAFx5SOIfNcsz&t=177).
+
+![](https://assets.northerntool.com/cdn-cgi/image/fit=scale-down,width=2000/products/669/images/66967.jpg)
+
+Use a [Milwaukee ECX #1 Bit](https://youtu.be/nKpWX3nCyDQ?si=3M-FeIDm__EcfmsZ&t=269).
+
+![](https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQTzg62sE0AcQIDzgGuLdpymocRvppWzfTVn48CTEhZfloy9r0Ah8M3L5dTTYHuQi9Oi8iF3YteS9XKzdHH7GV7IIc1wXJdZ_xOcI7wmndk-i_3vNLg3Zo5)
 
 # National Electrical Code (NEC)
 
