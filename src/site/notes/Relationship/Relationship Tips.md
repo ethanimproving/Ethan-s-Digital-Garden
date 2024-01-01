@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/relationship/relationship-tips/"}
 ---
+
 
 # Learn New Things Together
 
@@ -24,6 +25,12 @@ https://www.facebook.com/reel/1016544856397016?fs=e&s=TIeQ9V&mibextid=0NULKw
 # Women are supposed to be nurturing
 
 https://www.facebook.com/reel/1108795243845001?fs=e&s=TIeQ9V&mibextid=0NULKw
+
+# You can breakup or have a thousand fights
+
+You're different than your partner. You bring your skills to the table and I bring my skills to the table and we find a way to both utilize ourselves optimally. ==That's not a compromise. That's a solution==.
+
+https://www.tiktok.com/@miindset.mastery/video/7310785075459722527?q=Install%20Attic%20Stairs&t=1703651263475
 
 ---
 [^1]: Keuilian, Bedros. “[Had to Snag This One from My Brother](https://www.facebook.com/reel/1664538160667777?fs=e&s=TIeQ9V&mibextid=0NULKw).” _Facebook_, Morris Chestnut.
