@@ -3,6 +3,21 @@
 ---
 
 
+
+# Backlog
+
+*Below are the items that have been groomed for completion.*
+
+| File                                                                                                                                                                       | status      | assigned-to | minutes | parent | depends-on             |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ----------- | ------- | ------ | ---------------------- |
+| [[Goals/Projects/Oakmore Renovation/Garage/Trim attic stairs to fit\|Trim attic stairs to fit]]                                                                         | In-Prorgess | Ethan       | 30      | Garage | Buying a Straight Edge |
+| [[Goals/Projects/Oakmore Renovation/Garage/Lay Attic Board\|Lay Attic Board]]                                                                                           | In-Prorgess | Anybody     | 120     | Garage | Truck or Van           |
+| [[Money/House/Renovation Skills/Yard & Outside/Fix Cracks In Sidewalk\|Fix Cracks In Sidewalk]]                                                                         | Defined     | Anybody     | 60      | Garage | \-                     |
+| [[Goals/Projects/Oakmore Renovation/Garage/R&R (Remove and Replace) Door from Garage to Kitchen Hallway\|R&R (Remove and Replace) Door from Garage to Kitchen Hallway]] | Defined     | Anybody     | 480     | \-     | Buying a door          |
+
+{ .block-language-dataview}
+
+
 *Tasks are numbered by priority in the critical path.*
 
 # 1. Garage
@@ -10,7 +25,7 @@
 ## * Concurrent Tasks
 - [ ] [[Money/House/Chores/Clean 14 Gallon Rigid Shop Vacuum\|Clean 14 Gallon Rigid Shop Vacuum]]
 - [ ] [[Money/House/Renovation Skills/Yard & Outside/Fix Cracks In Sidewalk\|Fix Cracks In Sidewalk]]
-- [ ] R&R (Remove and Replace) Door from Garage to Kitchen Hallway
+- [ ] [[Goals/Projects/Oakmore Renovation/Garage/R&R (Remove and Replace) Door from Garage to Kitchen Hallway\|R&R (Remove and Replace) Door from Garage to Kitchen Hallway]]
 - [ ] Remove old attic TV cables
 - [ ] Remove old attic Cat5E cables
 - [x] Remove old attic telephone cables
@@ -21,13 +36,16 @@
 - [x] Remove old drywall #finish-to-start
 
 ## 1.2 Attic and Electrical Setup (FS)
-- [x] Lay attic boards
+- [ ] [[Goals/Projects/Oakmore Renovation/Garage/Lay Attic Board\|Lay Attic Board]]
 - [x] Install attic stairs
 - [x] Install 2 additional breakers for kitchen and garage
 - [ ] Zip tie the Romex in the electrical panel 
 - [ ] Run wire for garage light panels
-- [ ] Run wire from Garage Door Opener to Wall Button
-- [ ] Migrate garage light switch from Kitchen to below Wall Button
+- [ ] [[Money/House/Renovation Skills/Garage/Install Attic Stairs#Cutting the feet to fit\|Trim attic stairs]] to fit
+- [ ] Install 3-way light switch for garage lights
+- [ ] Install 2-gang switch plate in kitchen hallway switch (currently 3)
+- [x] Run wire from Garage Door Opener to Wall Button
+- [x] Migrate garage light switch from Kitchen to below Wall Button
 
 ## 1.3 Finishing Drywall (FS)
 
@@ -67,11 +85,18 @@
 # 2. Guest Bathroom
 - [ ] Replace [Toilet](https://www.homedepot.com/p/American-Standard-Champion-Two-Piece-1-28-GPF-Single-Flush-Round-Chair-Height-Toilet-with-Slow-Close-Seat-in-White-747BA107SC-020/312442226)
 - [ ] Install [NuTone Exhaust Fan](https://www.homedepot.com/p/Broan-NuTone-QT-Series-130-CFM-Ceiling-Bathroom-Exhaust-Fan-with-LED-Light-and-Night-Light-ENERGY-STAR-QTN130LE1/205369502) 
+- [ ] Replace Vanity
+- [ ] Redo lighting
+- [ ] Setup new mirror
+- [ ] Install new shower head
 
 # Security Cameras
 - [ ] **3.** Install New Doorbell
 - [ ] **3.** Wire and mount 4 outdoor security cameras
 - [ ] **4.** Wire and mount 4 indoor security cameras
+
+# Retexture Walls
+- [ ] [[Money/House/Renovation Skills/Retexturing An Existing Wall\|Retexturing An Existing Wall]]
 
 # Sunroom
 - [ ] Grind Sunroom Floor
