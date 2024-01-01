@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/chores/clean-14-gallon-rigid-shop-vacuum/","created":"Dec 19, 2023, 5:47 PM"}
+{"dg-publish":true,"permalink":"/money/house/chores/clean-14-gallon-rigid-shop-vacuum/","tags":["oakmore-renovation-task"],"created":"Dec 19, 2023, 5:47 PM"}
 ---
 
 # Cleaning The Vac
