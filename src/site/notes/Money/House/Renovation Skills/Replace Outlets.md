@@ -8,7 +8,7 @@
 1. Take off the **face plate**.
 2. Turn off the circuit breaker.
 3. Test it with as [circuit tester](https://www.amazon.com/Klein-Tools-69136-General-Twin-Lead/dp/B00093DZZU) to make sure electricity is off.
-4. Unscrew the two screws connecting the outlet to the wall box.
+4. Unscrew the two screws connecting the outlet to the wall box using a [Milwaukee ECX #1 Bit](https://www.amazon.com/dp/B077L8BZV8?psc=1&smid=A16Y0YEU5IY43T&ref_=chk_typ_imgToDp).
 5. Unscrew the screw on the black wire.
 6. Place the wise into the exact same screw outlet on the new [outlet](https://www.homedepot.com/p/Leviton-15-Amp-Tamper-Resistant-Duplex-Outlet-White-10-Pack-M22-T5320-WMP/100684043). Use needle nose plyers.
 7. Repeat step 6 for the white wire.
