@@ -3,17 +3,29 @@
 ---
 
 
-
 # Backlog
 
 *Below are the items that have been groomed for completion.*
 
-| File                                                                                                                                                                       | status      | assigned-to | minutes | parent | depends-on             |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ----------- | ------- | ------ | ---------------------- |
-| [[Goals/Projects/Oakmore Renovation/Garage/Trim attic stairs to fit\|Trim attic stairs to fit]]                                                                         | In-Prorgess | Ethan       | 30      | Garage | Buying a Straight Edge |
-| [[Goals/Projects/Oakmore Renovation/Garage/Lay Attic Board\|Lay Attic Board]]                                                                                           | In-Prorgess | Anybody     | 120     | Garage | Truck or Van           |
-| [[Money/House/Renovation Skills/Yard & Outside/Fix Cracks In Sidewalk\|Fix Cracks In Sidewalk]]                                                                         | Defined     | Anybody     | 60      | Garage | \-                     |
-| [[Goals/Projects/Oakmore Renovation/Garage/R&R (Remove and Replace) Door from Garage to Kitchen Hallway\|R&R (Remove and Replace) Door from Garage to Kitchen Hallway]] | Defined     | Anybody     | 480     | \-     | Buying a door          |
+| File                                                                                                                                                                       | status      | assigned-to | minutes | depends-on             |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ----------- | ------- | ---------------------- |
+| [[Goals/Projects/Oakmore Renovation/Backyard/Identify Grass Type\|Identify Grass Type]]                                                                                 | In-Prorgess | Ethan       | 15      | \-                     |
+| [[Goals/Projects/Oakmore Renovation/Utility Room/Replace Light Bulb\|Replace Light Bulb]]                                                                               | In-Prorgess | Ethan       | 3       | \-                     |
+| [[Goals/Projects/Oakmore Renovation/Household/Remove old attic Cat5E cables\|Remove old attic Cat5E cables]]                                                            | In-Prorgess | \-          | 60      | \-                     |
+| [[Goals/Projects/Oakmore Renovation/Household/Replace Switches\|Replace Switches]]                                                                                      | In-Prorgess | Ethan       | 30      | \-                     |
+| [[Goals/Projects/Oakmore Renovation/Garage/Trim attic stairs to fit\|Trim attic stairs to fit]]                                                                         | In-Prorgess | Ethan       | 30      | Buying a Straight Edge |
+| [[Goals/Projects/Oakmore Renovation/Garage/Lay Attic Board\|Lay Attic Board]]                                                                                           | In-Prorgess | \-          | 120     | Truck or Van           |
+| [[Money/House/Renovation Skills/Yard & Outside/Fix Cracks In Sidewalk\|Fix Cracks In Sidewalk]]                                                                         | Defined     | \-          | 60      | \-                     |
+| [[Money/House/Renovation Skills/Bathroom/Remove Shower Soffit (Furr Down)\|Remove Shower Soffit (Furr Down)]]                                                           | Defined     | \-          | 240     | \-                     |
+| [[Goals/Projects/Oakmore Renovation/Replace exhaust fan\|Replace exhaust fan]]                                                                                          | Defined     | \-          | 120     | \-                     |
+| [[Goals/Projects/Oakmore Renovation/Guest Bathroom/Setup new mirror\|Setup new mirror]]                                                                                 | Defined     | \-          | 60      | \-                     |
+| [[Goals/Projects/Oakmore Renovation/Guest Bathroom/Replace Vanity\|Replace Vanity]]                                                                                     | Defined     | \-          | 60      | \-                     |
+| [[Goals/Projects/Oakmore Renovation/Guest Bathroom/Replace Toilet\|Replace Toilet]]                                                                                     | Defined     | \-          | 120     | \-                     |
+| [[Goals/Projects/Oakmore Renovation/Guest Bathroom/Install NuTone Exhaust Fan\|Install NuTone Exhaust Fan]]                                                             | Defined     | \-          | 180     | \-                     |
+| [[Goals/Projects/Oakmore Renovation/Guest Bathroom/Install new shower head\|Install new shower head]]                                                                   | Defined     | \-          | 120     | Buying New Shower Head |
+| [[Goals/Projects/Oakmore Renovation/Backyard/Install Retractable Garden Hose\|Install Retractable Garden Hose]]                                                         | Defined     | \-          | 120     | Buying Hose Reel       |
+| [[Goals/Projects/Oakmore Renovation/Backyard/Fix Backyard Ground Cable\|Fix Backyard Ground Cable]]                                                                     | Defined     | John Ball   | 15      | \-                     |
+| [[Goals/Projects/Oakmore Renovation/Garage/R&R (Remove and Replace) Door from Garage to Kitchen Hallway\|R&R (Remove and Replace) Door from Garage to Kitchen Hallway]] | Defined     | \-          | 480     | Buying a door          |
 
 { .block-language-dataview}
 
@@ -116,6 +128,15 @@
 - [ ] Paint or stain doors white
 - [ ] Mop all floors
 
+# Master Bathroom
+- [ ] [[Money/House/Renovation Skills/Bathroom/Remove Shower Soffit (Furr Down)\|Remove Shower Soffit (Furr Down)]]
+- [ ] Replace exhaust fan/light
+- [ ] Replace vanity
+- [ ] Replace mirror
+- [ ] Remove wall texture
+- [ ] Replace vanity lights
+
+
 # 1.1 Closing
 
 ## 1.1 Close on the house
@@ -149,3 +170,5 @@
 # Linked Mentions
 - [x] [[Money/House/Oakmore/Project Timelines\|Project Timelines]]
 - [x] [[Goals/Checklist/Habits/2023-09-09\|Refer to previous task list]]
+
+[Oakmore Task Photos](https://photos.app.goo.gl/cnf2ZnQCEMHvmSfG8)
