@@ -23,6 +23,8 @@ The emotional and behavioral stress levels of 28 patients were evaluated pre- an
 
 The hypothesis that it is effective for any other indication is not supported by the findings of rigorous clinical trials (Cooke 2000).
 
+According to Doctor Mike, the effectiveness of essential oils in assisting in weightless is untrue ([Doctor Mike](https://youtu.be/ep8ZMq3GLNA?si=bArwe8oRK6R_8fyI&t=311) 2022). 
+
 ---
 
 <sup>1</sup> [Aromatherapy: Something Smells Funny](http://www.livescience.com/2109-aromatherapy-smells-funny.html)
