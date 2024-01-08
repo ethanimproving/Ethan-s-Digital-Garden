@@ -41,23 +41,35 @@ The first three aspects of the weight lost pyramid will account for 85-90% of yo
 
 No diet in the world will make you lose weight unless it also includes a calorie deficit. When applied to dieting, the first law of thermodynamics states that your body weight is dependent only on the difference between the amount of calories that you consume versus the amount of calories that you burn, which is known as your calorie balance.
 
+Make sure to calculate your calorie balance based on your TDEE ([Felix Harder](https://americanairlines.udemy.com/course/weight-loss-masterclass-lose-fat-get-your-dream-body-now/learn/lecture/8283580#overview))
+
 **1.2** I don't reduce my calories by more than 25% below maintenance.
 
 Not only will too large of a calorie deficit make you feel more tired and hungry, it will also decrease hormone levels, sleep, quality and libido ([Felix Harder](https://americanairlines.udemy.com/course/weight-loss-masterclass-lose-fat-get-your-dream-body-now/learn/lecture/8283532#overview)).
 
-**1.3** I calculate my Total Daily Energy Expenditure 
+**1.3** I calculate my Total Daily Energy Expenditure using a [TDEE calculator](https://www.freedieting.com/calorie-calculator).
 
 It is calculated by estimating how many calories you burn while resting (called the basal metabolic rate or BMR) and adding a certain number of calories on top, depending on how often you exercise.
+
+**1.4** I track my calories using [MyFitnessPal](https://www.myfitnesspal.com/) and a [Kitchen Scale](https://www.amazon.com/Etekcity-Multifunction-Stainless-Batteries-Included/dp/B0113UZJE2/ref=zg_bs_g_678508011_sccl_2/134-3562437-0686944).
+
+Use [WebMD's Calorie Tracker](https://www.webmd.com/diet/healthtool-food-calorie-counter) to check the values in your app.
 
 ### §§ (b) Macronutrients (Protein, Carbs, Dietary Fats)
 
 **1.3** I adjust my diet to be high in protein. 
 
-Daily intake: 0.8-1 gram of protein per pound of body weight. 
+Daily intake: 
+- 0.8 - 1 grams per pound of bodyweight (muscle growth)
+- 0.4 - 0.5 grams per pound of bodyweight (normal health)
 
-- Fish
-- Chicken Breast
-- Beans
+Good Protein Sources: 
+- Eggs 
+- Lean Meats 
+- Chicken Breast 
+- Beans & Legumes 
+- Fish/Sea Food 
+- Soy
 
 Your macros along with your exercise regiment will determine how you lose weight (fat, muscle, or water loss).
 
@@ -67,16 +79,42 @@ If you exercise regularly, a high protein diet is even more important because th
 
 **1.5** I consume a healthy amount of good carbohydrates.
 
-Carbs are not evil, they don't make you fat or unhealthy. In fact, there is a number of benefits to keeping carbohydrate intake as high as possible when dieting. They include:
+Daily intake: 1 - 1.75 grams per pound of bodyweight
 
+Carbs are not evil, they don't make you fat or unhealthy. In fact, there is a number of benefits to keeping carbohydrate intake as high as possible when dieting. They include:
 1. Better workout performance
 2. Improved retention of lean muscle mass
 3. More satiety
 4. Better energy levels.
 
+Good Carb Sources: 
+- Whole Grains (Oats, Rice, Quinoa, Whole Grain 
+Pasta & Bread) 
+- Beans & Legumes (not just high in protein but also 
+quality carbs) 
+- Fruits (as candy substitutes) 
+- Potatoes 
+- All Kinds Of Vegetables & Salads 
+
+
 **1.6** I consume a healthy amount of dietary fats.
 
+Daily intake: 15% - 35% of your daily calories
+
 Dietary fat is essential for your body because it needs some fatty acids to survive and cannot produce them from other foods. You also need fat to regulate hormone production and to keep your skin and hair healthy. Fats also help you absorb vitamins a, d, e and k, the so-called fat soluble vitamins. And lastly, fat cells insulate your body and help you to keep warm.
+
+Healthy Saturated Fats: 
+- Butter 
+- Grass Fed Beef 
+- Eggs 
+- Dairy Products 
+- Coconut Butter
+
+Healthy Unsaturated Fats: 
+- Nuts & Seeds 
+- Avocados 
+- Fatty Fish 
+- Olive Oil
 
 ### §§ (c) Food Composition
 
