@@ -57,7 +57,7 @@ Use [WebMD's Calorie Tracker](https://www.webmd.com/diet/healthtool-food-calorie
 
 ### §§ (b) Macronutrients (Protein, Carbs, Dietary Fats)
 
-**1.3** I adjust my diet to be high in protein. 
+**1.5** I adjust my diet to be high in protein. 
 
 Daily intake: 
 - 0.8 - 1 grams per pound of bodyweight (muscle growth)
@@ -75,9 +75,9 @@ Your macros along with your exercise regiment will determine how you lose weight
 
 If you exercise regularly, a high protein diet is even more important because this further increases your body's demand for amino acids. If it drops to low, strength and muscle loss is accelerated.
 
-**1.4** I maintain strength during my dieting through [[Health/Exercise/Upper Lower Workout Routine\|resistance training]]. 
+**1.6** I maintain strength during my dieting through [[Health/Exercise/Upper Lower Workout Routine\|resistance training]]. 
 
-**1.5** I consume a healthy amount of good carbohydrates.
+**1.7** I consume a healthy amount of good carbohydrates.
 
 Daily intake: 1 - 1.75 grams per pound of bodyweight
 
@@ -97,7 +97,7 @@ quality carbs)
 - All Kinds Of Vegetables & Salads 
 
 
-**1.6** I consume a healthy amount of dietary fats.
+**1.8** I consume a healthy amount of dietary fats.
 
 Daily intake: 15% - 35% of your daily calories
 
@@ -122,7 +122,7 @@ The quality of your food directly impacts your vitamin and mineral intake which 
 
 When your goal isn't merely weight loss, but to have a lower body fat percentage with all the muscle you currently have, getting the majority of your calories from junk, carbs, and fats will no longer cut
 
-**1.7** I choose fat loss foods to accommodate proper macronutrients.
+**1.9** I choose fat loss foods to accommodate proper macronutrients.
 
 The best foods for fat loss are those that provide lots of vitamins and minerals and are filling, while also being relatively light in calories, dietary fat, and added sugar in particular. When you focus on eating these types of foods, you're much less likely to struggle with hunger issues and to overeat ([Felix Harder](https://americanairlines.udemy.com/course/weight-loss-masterclass-lose-fat-get-your-dream-body-now/learn/lecture/8283534#overview)).
 
@@ -138,7 +138,7 @@ Low fat dairy products:
 
 Protein powder is a mixed bag because even though it's convenient it can leave you hungry if you have satiety issues.
 
-**1.8** I avoid  foods that are are very calorie dense, high in dietary fat and added sugar, aren't all that filling, and are highly processed.
+**1.10** I avoid  foods that are are very calorie dense, high in dietary fat and added sugar, aren't all that filling, and are highly processed.
 
 Junk food like:
 1. Chips
@@ -150,25 +150,25 @@ Junk food like:
 
 ### §§ (e) Supplements 
 
-**1.9** I take 3-5 grams of [[Health/Exercise/Creatine\|creatine]] every day.
+**1.11** I take 3-5 grams of [[Health/Exercise/Creatine\|creatine]] every day.
 
-**1.10** I take up to half of my daily protein intake with protein powder before or after my workouts.
+**1.12** I take up to half of my daily protein intake with protein powder before or after my workouts.
 
 Even though you don’t technically need it to build muscle, I don’t have time to cook high-protein meals all day. If you want to save yourself the stress (especially before and after a workout or when traveling) then go with a simple but quality whey protein like the one from [MyProtein](https://www.amazon.com/gp/product/B008BH7KKM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008BH7KKM&linkCode=as2&tag=worhisboo-20&linkId=dd8ff9190596f3122a5472f3c6216d57&th=1).
 
-**1.11** I take 1-3 gram of [fish oil](https://www.amazon.com/gp/product/B00DS5BI78/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DS5BI78&linkCode=as2&tag=worhisboo-20&linkId=67264e8e69f8df8e673d23cd93aa4fe8) per day to get enough omega 3 fatty acids.
+**1.13** I take 1-3 gram of [fish oil](https://www.amazon.com/gp/product/B00DS5BI78/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DS5BI78&linkCode=as2&tag=worhisboo-20&linkId=67264e8e69f8df8e673d23cd93aa4fe8) per day to get enough omega 3 fatty acids.
 
 They ensure healthy hormone production as well as strong bones and ligaments. Fish oil isn't necessarily going to help you build muscle faster, but it will indirectly improve your health and increase the quality of your workouts
 
-**1.12** I take 5 grams of [beta alanine](https://www.amazon.com/gp/product/B00EIO4I7A/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EIO4I7A&linkCode=as2&tag=worhisboo-20&linkId=0eb36e7013c1b931e6e3de40aac5da33&th=1) every day to train harder.
+**1.14** I take 5 grams of [beta alanine](https://www.amazon.com/gp/product/B00EIO4I7A/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EIO4I7A&linkCode=as2&tag=worhisboo-20&linkId=0eb36e7013c1b931e6e3de40aac5da33&th=1) every day to train harder.
 
 ### §§ (f) Meal Frequency & Timing
 
-**1.9** I eat 3 meals a day.
+**1.15** I eat 3 meals a day.
 
 It doesn't matter if you eat 3 or 6 meals or anything in between. Several small means don't boost your metabolism to any meaningful degree. It is impractical to prepare so many meals throughout the day, so I stick with 3.
 
-**1.10** I eat my meals before sunset. 
+**1.16** I eat my meals before sunset. 
 
 Your circadian rhythm determines your hunger, metabolism, etc. to peak during daylight, so after sunset you process calories less efficiently. It can cause weight gain, bad blood sugar levels, blood pressure, etc ([National Center for Biotechnology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6703924/)).
 
