@@ -1,18 +1,7 @@
 ---
-dg-publish: true
-dg-date: May 03, 2023, 8:28 PM
-author: Jeanne Miller
-source: 
-image:
-description: 
-preparation-time: 2
-cook-time: 15
-yield: 6 bowls
-category: ML Core Plan
-meal: breakfast
-rating: 4
-tags: [cookmate]
+{"dg-publish":true,"permalink":"/health/nutrition/recipes/breakfast/breakfast-bowl/","tags":["cookmate"]}
 ---
+
 
 ![](https://d3u8pti8i6gm88.cloudfront.net/medias/img/recipes/44450_Breakfast_Bowl.jpg)
 
@@ -40,3 +29,5 @@ Milk
 ![](https://d3u8pti8i6gm88.cloudfront.net/medias/img/recipes/44450_Breakfast_Bowl_GkNTFSJ.png)
 
 ![](https://d3u8pti8i6gm88.cloudfront.net/medias/img/recipes/44450_Breakfast_Bowl_yuK5mpZ.png)
+
+Oats are a great source of fiber and protein ([Doctor Mike](https://youtu.be/lUwUVVqJt1c?si=gxtoMA4lD1u2497-&t=336)).
