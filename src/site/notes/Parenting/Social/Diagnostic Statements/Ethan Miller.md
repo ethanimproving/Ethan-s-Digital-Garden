@@ -97,3 +97,9 @@ All Aries want to feel things intensely. This is one of their most commendable q
 - Thinks everything is a game they can win
 - Will do anything on a dare
 - Easily bored
+
+# Anthropometric Data
+
+**Basal Metabolic Rate (BMR)**: 1645 calories/day.
+Exercise: 500 calories/day
+20% Negative Calorie Balance: 1716 calories/day
