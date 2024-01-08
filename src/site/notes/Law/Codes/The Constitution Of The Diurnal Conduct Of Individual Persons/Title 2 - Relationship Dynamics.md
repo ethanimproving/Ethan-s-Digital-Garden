@@ -29,6 +29,29 @@
 
 **2.1** Travelers within a moving vehicle shall maintain composure and provide reassurance, abstaining from untimely expressions of distress ([Sergey322](https://youtube.com/shorts/-m2-_EpifCU?si=3TAPvIt2IFu1q0kJ)).
 
+## § 3. Communication
+
+**3.1** Communicate expectations
+
+```poetry
+In love's embrace, let clear words dance,
+A tender rhythm of shared romance.
+Express desires with open hearts,
+A symphony where trust imparts.
+
+Speak the vows of mutual care,
+In the tapestry of love, declare.
+Navigate storms with honest light, 
+Guiding ships through the darkest night.
+
+Communicate, the silent song,
+In the dance of hearts, where echoes throng. 
+Share the whispers of expectations' art,
+Binding souls with the threads of the heart.
+```
+
+The number one cause of divorce is uncommunicated expectations ([elite.mindsets](https://www.facebook.com/reel/919667809012790)).
+
 # Article 4: Marital Fidelity
 
 ## § 2. Infidelity
