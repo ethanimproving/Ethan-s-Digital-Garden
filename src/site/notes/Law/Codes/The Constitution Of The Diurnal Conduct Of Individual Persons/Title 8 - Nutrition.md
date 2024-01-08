@@ -150,6 +150,29 @@ Junk food like:
 
 ### §§ (e) Supplements 
 
+**1.9** I take 3-5 grams of [[Health/Exercise/Creatine\|creatine]] every day.
+
+**1.10** I take up to half of my daily protein intake with protein powder before or after my workouts.
+
+Even though you don’t technically need it to build muscle, I don’t have time to cook high-protein meals all day. If you want to save yourself the stress (especially before and after a workout or when traveling) then go with a simple but quality whey protein like the one from [MyProtein](https://www.amazon.com/gp/product/B008BH7KKM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008BH7KKM&linkCode=as2&tag=worhisboo-20&linkId=dd8ff9190596f3122a5472f3c6216d57&th=1).
+
+**1.11** I take 1-3 gram of [fish oil](https://www.amazon.com/gp/product/B00DS5BI78/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DS5BI78&linkCode=as2&tag=worhisboo-20&linkId=67264e8e69f8df8e673d23cd93aa4fe8) per day to get enough omega 3 fatty acids.
+
+They ensure healthy hormone production as well as strong bones and ligaments. Fish oil isn't necessarily going to help you build muscle faster, but it will indirectly improve your health and increase the quality of your workouts
+
+**1.12** I take 5 grams of [beta alanine](https://www.amazon.com/gp/product/B00EIO4I7A/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EIO4I7A&linkCode=as2&tag=worhisboo-20&linkId=0eb36e7013c1b931e6e3de40aac5da33&th=1) every day to train harder.
+
+### §§ (f) Meal Frequency & Timing
+
+**1.9** I eat 3 meals a day.
+
+It doesn't matter if you eat 3 or 6 meals or anything in between. Several small means don't boost your metabolism to any meaningful degree. It is impractical to prepare so many meals throughout the day, so I stick with 3.
+
+**1.10** I eat my meals before sunset. 
+
+Your circadian rhythm determines your hunger, metabolism, etc. to peak during daylight, so after sunset you process calories less efficiently. It can cause weight gain, bad blood sugar levels, blood pressure, etc ([National Center for Biotechnology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6703924/)).
+
+An article summarizing the paper: [Time-restricted eating no more beneficial than caloric restriction in obese patients, study says](https://www.foxnews.com/health/time-restricted-eating-no-more-beneficial-caloric-restriction-obese-patients-study) 
 
 ## § 5. Philosophies 
 
