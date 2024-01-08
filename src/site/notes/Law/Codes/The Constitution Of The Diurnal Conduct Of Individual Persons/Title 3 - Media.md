@@ -125,6 +125,17 @@ Stedfast Baptist Church put out two documentaries exposing this agenda which are
 
 ## § 4. Relaxation
 
+## § 5. Benefits
+
+**5.1** First person shooters are permissible in reasonable doses due to its [effect in the undermentioned brain developments](https://www.youtube.com/watch?v=d_9ztU3tRU8).
+
+1. Increasing white and gray brain cells in the visual and motor pathways.
+2. Improving the ability to think about objects in 3 dimensions.
+3. Improving reaction time and coordination.
+4. Improving peer relationships and supporting healthy social skills.
+
+**5.2** Strategy games are permissible in reasonable dosses due to clinically discovered [improvements in problem-solving and academic performance](https://youtu.be/d_9ztU3tRU8?si=IOZXnqKvRzVoRsHV&t=36). 
+
 # Article 4: Social Media
 
 ## § 1.  Doom Scrolling
