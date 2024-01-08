@@ -68,6 +68,7 @@ Ethan's Snacks in order of priority:
 3. [Blue Diamond Almonds, Oven Roasted Cocoa Almonds, Dark Chocolate](https://www.walmart.com/ip/Blue-Diamond-Almonds-Oven-Roasted-Cocoa-Almonds-Dark-Chocolate-25-Oz/45996558)
 4. Crackers & Horse Radish
 5. 3 Seed Chips
+6. Skinny Sea Salt & Pepper Popcorn ([Doctor Mike](https://youtu.be/lUwUVVqJt1c?si=md3yqRrXYSy6g-6X&t=502)).
 
 
 ![](https://i5.walmartimages.com/asr/7bbb7ada-9a69-4588-9bab-9dcad048fea7.8dbc3fcf33670a85ef4455323a86f13b.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF)
@@ -76,6 +77,7 @@ Ethan's Snacks in order of priority:
 
 ![](https://i5.walmartimages.com/asr/687bf74b-c49a-4d29-9440-c3fba27205e5_1.556078ff59557e76f2daafe3b18ffdfd.jpeg)
 
+![](https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/7154-18-x6L._AC_UF894,1000_QL80_.jpg)
 # For Mariana
 
 - [Red Roses Heart](https://www.sees.com/valentines-day-gifts/for-your-sweetheart/red-roses-heart/200806.html?cgid=for-your-sweetheart)
