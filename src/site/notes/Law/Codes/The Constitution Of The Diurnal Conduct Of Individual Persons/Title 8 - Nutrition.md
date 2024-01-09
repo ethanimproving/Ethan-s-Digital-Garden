@@ -63,7 +63,7 @@ Daily intake:
 - 0.8 - 1 grams per pound of bodyweight (muscle growth)
 - 0.4 - 0.5 grams per pound of bodyweight (normal health)
 
-Good Protein Sources: 
+[[Health/Nutrition/Quality Protein Sources\|Good Protein Sources]]: 
 - Eggs 
 - Lean Meats 
 - Chicken Breast 
@@ -87,7 +87,7 @@ Carbs are not evil, they don't make you fat or unhealthy. In fact, there is a nu
 3. More satiety
 4. Better energy levels.
 
-Good Carb Sources: 
+[[Health/Nutrition/Quality Carbohydrate Sources\|Good Carb Sources]]: 
 - Whole Grains (Oats, Rice, Quinoa, Whole Grain 
 Pasta & Bread) 
 - Beans & Legumes (not just high in protein but also 
@@ -103,7 +103,7 @@ Daily intake: 15% - 35% of your daily calories
 
 Dietary fat is essential for your body because it needs some fatty acids to survive and cannot produce them from other foods. You also need fat to regulate hormone production and to keep your skin and hair healthy. Fats also help you absorb vitamins a, d, e and k, the so-called fat soluble vitamins. And lastly, fat cells insulate your body and help you to keep warm.
 
-Healthy Saturated Fats: 
+[[Health/Nutrition/Quality Fat Sources\|Healthy Saturated Fats]]: 
 - Butter 
 - Grass Fed Beef 
 - Eggs 
@@ -178,6 +178,8 @@ An article summarizing the paper: [Time-restricted eating no more beneficial th
 
 **5.1** Your relationship with food should not be based off of emotion. It should be based off of reason ([Luke Belmar](https://www.facebook.com/reel/1667358753761106?fs=e&s=TIeQ9V&mibextid=0NULKw)).
 
+Your body will allow you to eat foods you don't like, but you won't do it because it's hard. [[Parenting/Psychological/500 Pushups\|Tell your brain]] that you're going to do it anyway. This is the start of the mental fortitude that is required to sustain a healthy lifestyle.
+
 **5.2** Base decisions on the [hierarchy of evidence](https://youtube.com/clip/UgkxujQnHO7t_gUQx5KsxINVjxCkwflrY-ha?si=SebgLf4QTD8v1vtn).
 
 1. Meta-analysis
@@ -185,6 +187,9 @@ An article summarizing the paper: [Time-restricted eating no more beneficial th
 3. Randomized Controlled Trials
 
 [Anecdotes are the lowest form of evidence](https://youtu.be/ZemkG6Vj7hc?si=KGDLBSaBeCR22TQO&t=5654). They are the dataset you use from your unique experiences, which make them not a great microcosm for predicting outcomes generally.
+
+**5.3** I cultivate my fitness vision by visualizing my ideal physique through [[Health/Nutrition/Fitness Vision (Male)\|exposure to images]] of individuals who embody the physical attributes I aspire to achieve.
+
 # Article 2: Hard Outcomes
 
 ## § 1. Cardiovascular Health
@@ -209,7 +214,7 @@ According to Dr. Danielle Belardo, [lowering apoB levels is the gold standard fo
 
 Foods rich in omega-3 fatty acids, such as fatty fish (salmon, mackerel, sardines), flaxseeds, and walnuts, may have a positive impact on lipid profiles, including apoB levels.
 
-## Esophageal Cancer
+## § 2. Esophageal Cancer
 
 **2.1** Don't drink hot coffee or tea.
 
