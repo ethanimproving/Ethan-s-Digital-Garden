@@ -3,6 +3,9 @@
 ---
 
 
+101216674
+epay.dallascityhall.com
+
 # Trash Day
 
 Visit the [Residential Garbage Collection](https://dallascityhall.com/departments/sanitation/pages/residential_garbage_collection.aspx) page. Your roll cart must be placed in the alley or at the curb by **7am on Wednesday morning**.
