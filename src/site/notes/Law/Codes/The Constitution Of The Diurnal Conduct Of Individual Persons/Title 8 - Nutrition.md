@@ -174,6 +174,10 @@ Your circadian rhythm determines your hunger, metabolism, etc. to peak during da
 
 An article summarizing the paper: [Time-restricted eating no more beneficial than caloric restriction in obese patients, study says](https://www.foxnews.com/health/time-restricted-eating-no-more-beneficial-caloric-restriction-obese-patients-study) 
 
+## § 3. SMART Goals
+
+3.1 I measure myself ([Felix Harder](https://americanairlines.udemy.com/course/weight-loss-masterclass-lose-fat-get-your-dream-body-now/learn/lecture/8284220#overview)).
+
 ## § 5. Philosophies 
 
 **5.1** Your relationship with food should not be based off of emotion. It should be based off of reason ([Luke Belmar](https://www.facebook.com/reel/1667358753761106?fs=e&s=TIeQ9V&mibextid=0NULKw)).
