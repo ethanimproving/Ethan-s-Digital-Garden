@@ -61,6 +61,30 @@ People with C personalities tend to place the emphasis on quality, accuracy, exp
 
 ![](https://i.imgur.com/4Q0s89f.png)
 
+# Myers Briggs Personality Type: "The Campaigner" (ENFP-A)
+
+Warmly enthusiastic and imaginative. See life as full of possibilities. Make connections between events and information very quickly, and confidently proceed based on the patterns they see. Want a lot of affirmation from others, and readily give appreciation and support. Spontaneous and flexible, often rely on their ability to improvise and their verbal fluency.
+
+- **Personality Type:** "The Campaigner" (ENFP-A)
+- **Individual Traits:**
+    - Extraverted – 68%
+    - Intuitive – 70%
+    - Feeling – 53%
+    - Prospecting – 64%
+    - Assertive – 58%
+- **Role:** Diplomat
+- **Strategy:** People Mastery
+
+## Did you know...
+
+Finally, here are some cool Campaigner insights from our research. According to our surveys, Campaigners are the most likely personality type to...
+
+- ...prefer being called weird to being like everyone else
+- ...have a lot of varied hobbies
+- ...try to live like there is no tomorrow
+- ...wear bright and colorful clothes
+- ...believe anyone can be successful if they try hard enough
+
 # Astrology
 
 While astrology is nonsense, there are some positive psychological implications of reading somebody tell you who you are. People often act out the behavior others recognize in them, whether true or false. This is known as a self-fulfilling prophesy, a term most people have heard. So to have some blind fun, [here we go](https://www.costarastrology.com/zodiac-signs/aries-sign):
@@ -78,6 +102,7 @@ While astrology is nonsense, there are some positive psychological implications 
 
 
 Ares, the Greek **god of war**, was considered one of the twelve Olympian gods residing on Mount Olympus. He was often depicted as a strong and fierce warrior wielding weapons such as a spear or a sword.
+
 ### Personality
 
 At their core, Aries ==do things their own way==. They are ==unafraid of conflict==, highly ==competitive,== and ==honest==. They throw themselves at the world eagerly and without fear.
