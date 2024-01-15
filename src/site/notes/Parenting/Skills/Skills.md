@@ -114,14 +114,14 @@ In a similar way I would like to create a list of skills for myself to learn. Wi
 - [x] Air Hockey
 - [x] Ping Pong
 - [x] Biking
-- [ ] [[Shopping/Guns\|Guns]]
+- [ ] [[Shopping/Guns\|Shopping/Guns]]
 - [ ] Martial Arts
 - [ ] Dancing
 - [ ] Surfing
 - [ ] [[Parenting/Skills/Juggling\|Juggling]]
 - [ ] [[Parenting/Skills/Singing\|Singing]]
 - [ ] [[Parenting/Skills/Drawing\|Drawing]]
-- [ ] [[Parenting/Skills/Chess\|Chess]]
+- [ ] [[Parenting/Skills/Chess\|Parenting/Skills/Chess]]
 - [ ] [[Parenting/Skills/Spanish\|Spanish]]
 - [ ] Piano (Chester See)
 
