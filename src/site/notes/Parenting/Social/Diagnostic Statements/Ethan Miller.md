@@ -125,6 +125,8 @@ All Aries want to feel things intensely. This is one of their most commendable q
 
 # Anthropometric Data
 
-**Basal Metabolic Rate (BMR)**: 1645 calories/day.
-Exercise: 500 calories/day
-20% Negative Calorie Balance: 1716 calories/day
+| Parameter                    | Calories/Day |
+|------------------------------|--------------|
+| **Basal Metabolic Rate** (BMR)   | 1645         |
+| Exercise                     | 500          |
+| 20% Negative Calorie Balance | 1716         |
