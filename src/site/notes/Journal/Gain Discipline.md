@@ -36,7 +36,6 @@ Your sleep will get in the way. You’ve slept enough. Go to bed in time and wak
 
 Most people go through life only doing the things they feel motivated to do. You need to do things you don’t feel like doing. That’s called discipline. When Jesus was in the garden he didn't want to be nailed to a cross the next day, and he stood there sweating drops of blood and did it anyway.
 
-
 # Balance
 
 Most things in life are about centering yourself between two extremes. On the one hand I've written profuse and compelling arguments about the [[Papers/Coming In Late\|benefits of Type B personality traits]]:
