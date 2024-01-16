@@ -16,6 +16,10 @@ You can either [buy the phone](https://www.ebay.com/sch/i.html?_dcat=9355&_fsrp=
 
 * [Wamatek](https://wamatek.com/product/google-pixel-xl/?attribute_pa_carrier=unlocked&attribute_pa_color=gray&attribute_pa_condition=good&attribute_pa_storage=32gb&gclid=EAIaIQobChMI6cih9fiK_AIVXBOtBh2nDwVWEAQYAyABEgJlEfD_BwE) | [BBB](https://www.bbb.org/us/mn/eden-prairie/profile/electronics-and-technology/wamatek-0704-1000026030)  
 
+# Signing In
+
+When adding a network, expand "Advanced Options" and change "Hidden network" to "Yes."
+
 # Settings
 
 [How to use OG Pixel as an unlimited Google Photos uploader](https://www.reddit.com/r/GooglePixel/comments/l9m6nk/how_to_use_og_pixel_as_an_unlimited_google_photos/)
@@ -23,8 +27,12 @@ You can either [buy the phone](https://www.ebay.com/sch/i.html?_dcat=9355&_fsrp=
 ## 1. Delete backed-up photos automatically
 
 [Files by Google Help](https://support.google.com/files/answer/10862356?hl=en#:~:text=On%20Files%20by%20Google%2C%20you,storage%20is%20less%20than%2025%25)
-1. Install [Files by Google](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files)
+1. ~~Install [Files by Google](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files)~~
 2. At the top left, tap **Menu > Settings > [Smart Storage](https://9to5google.com/wp-content/uploads/sites/4/2021/09/Screenshot_20210910-101048.png?w=473)**.
+
+Settings > Storage > Smart Storage
+
+![](https://lh3.googleusercontent.com/pw/ABLVV85EQcobChMeU1tfJLWF8JFj9xNmWWIG5fsPe0wlPyL49IheMkeIAB_1FB-Bm7yCw-1hEs2dkDZOMDmlNu1_fVcP_TsKWMz1VFmJuTRJiyCrC4DOGpPsE9HyAOI0OytvKznBWd_DzY-HOiOFcq9zFMnJ_A=w778-h1383-s-no-gm?authuser=1)
 
 ## 2. Disable Battery Optimization
 
@@ -37,6 +45,26 @@ Open up Android settings and search for `Battery Optimization`. Select `All Appa
 Open Sync settings for the folder that is being synced and uncheck `Selective Photos`.
 
 ## 5. Disable Auto Sleep
+
+# Transfer Existing Backed-Up Photos to Unlimited Storage
+
+## 1. Save Photos on Pixel
+
+## 2. Temporarily turn off backup on Pixel Device
+
+## 3. Delete Photos from Cloud on Primary Device
+
+## 4. Re-enable backup on Pixel Device
+
+## Keep Albums
+
+### 1. Share Photos To Another Account Via A Shared Album
+
+### 2. Save Album To Second Account Library
+
+### 3. Delete Photos From First Account
+
+### 4. Save Photos From Shared Album on First Account
 
 # Emulator
 
