@@ -14,6 +14,33 @@
 
 ![](https://lh3.googleusercontent.com/pw/AIL4fc_tsQ4Exf8-4kPRZg-PVT8wLxVsWDI8s-dpF3svHwJ1Oo12wH-5fhvmW9zQwZ8eizwUP7-VHzemSVSvgXYRlQuYfa38yu-pJ5Rv05N1LifsbP5_Mc7K6qTf_fMlXP-HZSUNLXTkFzZEw5vxFjwmrNpDzQ=w1673-h1255-s-no?authuser=1)
 
+# Always Pull Out
+
+For lower kitchen cabinets it's better to get pull-outs so that you can reach everything better.
+
+## Cookie Sheet Pullout
+
+[Tray baking sheet storage](https://www.kraftmaid.com/tray-baking-sheet-storage/)
+
+![](https://cdn11.bigcommerce.com/s-r7ihvq/images/stencil/996x666/products/82604/143813/K_BTP12_MTA1_NAA_PD001__28581.1469122014.jpg?c=3)
+
+[Rev-A-Shelf 2-Tier Wire Pull Out Cabinet Drawer Basket](https://www.wayfair.com/kitchen-tabletop/pdp/rev-a-shelf-2-tier-wire-pull-out-cabinet-drawer-basket-rsef2113.html)
+
+
+# Corner Cabinets 
+
+- [Left Blind Corner Cabinet](https://www.homedepot.com/p/VEVOR-Swing-Left-Blind-Corner-Cabinet-Pull-Out-for-36-in-Cabinet-2-Tier-Swing-Tray-Soft-Close-Cloud-Blind-Kitchen-Cabinet-CGLLSNGFDX36YCZB1V0/323355732)
+- [Blind Corner Organizer](https://www.build.com/product/summary/1766223)
+
+![](https://s3.img-b.com/image/private/t_base,c_pad,f_auto,dpr_2,w_680,h_680/product/kessebohmer/kessebohmer-ks-lm60-cham-ma-r-kit--290644.jpg)
+
+[Basket Shelf](https://www.wayfair.com/RevAShelf--RevAShelf-3-Tier-Pull-Out-Organizer-for-Blind-Corner-Cabinets-w-Soft-Close-5PSP315SCCR-L903-K~RSEF1644.html)
+
+[Rev-A-Shelf Door Mount Kit for Cabinet Pull Out Drawers](https://www.wayfair.com/kitchen-tabletop/pdp/rev-a-shelf-door-mount-kit-for-cabinet-pull-out-drawers-rsef1085.html)
+
+
+# Motion Activated Lights in Cabinets 
+
 # Modern Styles
 
 Modern kitchen cabinet styles encompass sleek, minimalist designs that prioritize clean lines, functionality, and a contemporary aesthetic. Here are some popular modern kitchen cabinet styles:
