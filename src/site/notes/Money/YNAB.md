@@ -19,6 +19,6 @@ The best budgeting app I have found is YNAB. My dad bought a [lifetime license](
 - [Download Transactions](https://i.imgur.com/nTSdEpi.png) from [CapitalOne](https://myaccounts.capitalone.com/Card/wPD86i+fXfL8d7Qs+XKtps9uUYgvWkNdQYBau6j3KvE=).
 - [Download Transactions](https://i.imgur.com/9ks219E.png) from [SmartChoice](https://newjetnet.aa.com/docs/DOC-16622?cint=jetnet_mainnav).
 	- [Benefits Service Center](https://newjetnet.aa.com/external-link.jspa?url=https%3A%2F%2Fidp.aa.com%2Fidp%2FstartSSO.ping%3FPartnerSpId%3Dsaml.alight.com%26TargetResource%3Dhttps%253A%252F%252Fsso.alight.com%252Fportal) > Health & Insurance > [Health & Insurance Summary](https://leplb0370.upoint.alight.com/web/american-airlines/health-and-insurance-lnd-pg?linkId=Health_Insurance_Page&technicalNameForLink=Health_Insurance_Page&userFriendlyNameForLink=This%20link%20will%20be%20redirected%20to%20the%20main%20health%20landing%20page.&domain=Ben-HM&baseClientIndicator=Base&ref=7f47c53e_68ef_4a7d_bc3d_ba629303692fsptr0aad4bd9_0312_4a81_b2d5_7d84d16721ec&nav_item=7f47c53e_68ef_4a7d_bc3d_ba629303692fsptr0aad4bd9_0312_4a81_b2d5_7d84d16721ec) > Health Accounts Dropdown > [Manage Your Account](https://smart-choice.wealthcareportal.com/Page/Dashboard)
+- Download Transactions from [Fidelity](https://nb.fidelity.com/public/nb/aa/home).
 
 It takes about 15 minutes to review / categorize 40 transactions.
-
