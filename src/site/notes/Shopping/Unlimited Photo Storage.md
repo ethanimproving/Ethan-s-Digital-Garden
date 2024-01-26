@@ -46,6 +46,28 @@ Open Sync settings for the folder that is being synced and uncheck `Selective Ph
 
 ## 5. Disable Auto Sleep
 
+# Transfer Existing Backed-Up Photos to Unlimited Storage Using File Transfer
+
+1. Create an album of nearly 500 items grouped by months (About 3 months).
+2. Download the album to your computer.
+3. Delete album.
+4. Unzip files and transfer to Pixel device using USB Cable.
+
+# Transfer Existing Backed-Up Photos to Unlimited Storage Using Sync
+
+1. Select an entire month and add to an album
+2. Select all photos in Album using your *Pixel* and Select `Share` in the upper right corner. Then `Add to Sync`, and add to a folder within DCIM (I created a folder called "Sync" to keep it organized). The folder should now download the files to your Pixel.
+3. Ensure the Google Pixel has **backup turned on** until Google photos has cached the newly synced photos to the existing photos in the cloud.
+4. Any screenshots or downloaded photos (Facebook, texting, etc) will have the wrong timestamps, creating duplicate photos. To fix this, go to "Device Folders" on your Pixel, and create a new album of al the correctly timestamped photos. (Incorrect timestamps will all be today's date.)
+5. Temporarily turn off backup on your *Pixel device*.
+6. Delete entire contents of the new album on *primary device*.
+7. Re-enable backup on *Pixel Device*.
+8. Validate the number of photos in the album now match the previous number in the album.
+9. Free Up Storage
+
+This method works with videos but gives the wrong timestamp for photos.
+
+
 # Transfer Existing Backed-Up Photos to Unlimited Storage
 
 ## 1. Save Photos on Pixel
@@ -152,4 +174,4 @@ Combine two of the values mentioned above to create a more specific search term 
 
 # Where to Buy A Google Pixel 1
 
-[Mamatek](https://wamatek.com/product/google-pixel-xl/)
+[Wamatek](https://wamatek.com/product/google-pixel-xl/)
