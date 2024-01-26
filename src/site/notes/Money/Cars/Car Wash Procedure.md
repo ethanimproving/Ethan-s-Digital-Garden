@@ -41,3 +41,54 @@
 # Interior
 
 1. [Get dirt out of car floor carpet](https://www.youtube.com/shorts/0XD5CV4iBPE).
+
+# If You Have A Pressure Washer
+
+Google Photos: [DW Autocare](https://photos.app.goo.gl/tHrXbEbUVJWwCYjAA)
+
+## Supplies
+
+### Foam Canon
+
+1. [MJJC Foam Cannon Pro V2.0](https://mjjc.com/collections/foam-cannon-pro/products/foam-cannon-pro-1-4_quick_connector)
+
+![](https://mjjc.com/cdn/shop/files/DSC_4250_2000x.jpg?v=1695444619)
+
+### Foam
+
+1. [Chemical Guys Pink Foam](https://www.amazon.com/gp/product/B071RKWXKV/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&th=1)
+2. [Meguiar's Piunk Snow Foam](https://www.amazon.com/gp/product/B091G1WYCX/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+3. [Hydro YUM Wash Foam](https://www.amazon.com/dp/B0BGJ86W8W/?coliid=IYMUJ31FBRA9K&colid=3VJCHFO84X8TJ&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
+
+![](https://m.media-amazon.com/images/I/71-kw1a+sSL._AC_SL1500_.jpg)
+
+# Car Detailing
+
+## Supplies
+
+### Air Compressor
+
+#### Pancake 6 Gallon
+  
+1. [PORTER-CABLE Air Compressor](https://www.amazon.com/dp/B09BXYP2R9/?coliid=I1C9LICEYN4QYU&colid=3VJCHFO84X8TJ&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
+2. [Bostitch 6 Gallon Pancake Compressor](https://www.amazon.com/dp/B00UHNM1R0/?coliid=I3797KS45O76XB&colid=3VJCHFO84X8TJ&psc=0&ref_=list_c_wl_lv_ov_lig_dp_it)
+3. [Campbell Hausfeld 6 Gallon Portable Quiet Air Compressor](https://www.amazon.com/dp/B01IE0USMC/?coliid=I1FPTAXIPXO7NM&colid=3VJCHFO84X8TJ&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it "Campbell Hausfeld 6 Gallon Portable Quiet Air Compressor (DC060500)")
+4. [Craftsman Air Compressor, 6 Gallon, Pancake](https://www.amazon.com/dp/B07KHHDJGD/?coliid=I3C99EFNLCT0D&colid=3VJCHFO84X8TJ&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
+5. [DEWALT Pancake Air Compressor, 6 Gallon, 165 PSI](https://www.amazon.com/dp/B00K34UZBW/?coliid=I34E8SKS8RALWU&colid=3VJCHFO84X8TJ&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
+
+#### Portable 1 Gallon
+
+1. [DEWALT Air Compressor, 135-PSI Max, 1 Gallon Tank](https://www.amazon.com/dp/B000HZJMFM/?coliid=I32B7234GGPF5S&colid=3VJCHFO84X8TJ&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
+
+**Q**: How long will this small tank last with a standard air nozzle gun? Had a different brand small tank that I could get about 20 seconds from full blast  
+**A**: This air compressor pump is capable of running continuously. However, to prolong the life of your air compressor, it is  
+recommended that a 50%-75% average duty cycle be maintained; that is, the air compressor pump should not run more than 30-45 minutes in any given hour.
+
+**Q**: would this work with the tornado cleaning gun?  
+**A**: Absolutely. It goes up to 135 psi. The gun says do not use more than 110 psi. This air compressor is a gem.
+
+### Air Gun
+
+1. [Air compressor nozzle](https://www.homedepot.com/p/Husky-Blow-Gun-Kit-7-Piece-18249HOM/205331812)
+2. [Tornador® Air Blow Out Tool](https://tornadortools.com/products/z-014-tornador%C2%AE-air-blow-out-tool)
+3. *[Tornador® Classic](https://tornadortools.com/products/z-010-tornador%C2%AE-classic) (Cheaper on [Amazon](https://www.amazon.com/Tornador-Car-Cleaning-Tool-Z-010/dp/B0024J6JMI))
