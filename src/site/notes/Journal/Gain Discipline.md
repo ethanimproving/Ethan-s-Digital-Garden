@@ -45,7 +45,7 @@ Most things in life are about centering yourself between two extremes. On the on
 - Less stress, healthier life, healthier mind.
 - [[Journal/Structure vs Hyper Focus\|Hyper-focus]] lending itself to unprecedented productivity.
 
-On the other hand there are benefits of Type A personality traits:
+On the other hand there are [[Bible Notes/Don't Be a Lazy Jerk! - Bro. Dillon Awes\|benefits of Type A personality traits]]:
 - Dependability.
 - Predictability.
 - Feeling productive.
