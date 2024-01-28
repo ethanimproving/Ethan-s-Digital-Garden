@@ -24,3 +24,11 @@ According to NADA, my car is worth **$7,175-11,600**.
 ![](https://lh3.googleusercontent.com/pw/ABLVV869Y6t7FCtk5WML1y5ViNFadY9V5cFjvtvvFdzJe7X-mV0CrIJrHxj0huQrkA_Y6WrhtlWJiDBf1ca_ccOqoE2PYmkF2wtUtQDCX6OWUmOvYUZCuFRxiMc4n1Bfb6MHQy3fxRxyqE3zVfFi_lXnxNqJ0w=w486-h879-s-no-gm?authuser=0)
 
 
+# Tasks
+
+- [ ] Replace [[Money/Cars/2016 Toyota Corolla/Parts/Handle\|Handle]]
+- [ ] [[Money/Cars/2016 Toyota Corolla/Parts/Pointless Dent Repair (PDR)\|Fix hail damage]]
+- [ ] Paint job
+- [ ] Buff scratches
+- [ ] Clean 2013 Floor Matts and Check for Compatibility
+- [ ] Buy [[Shopping/Car Floor Mats\|Car Floor Mats]]
