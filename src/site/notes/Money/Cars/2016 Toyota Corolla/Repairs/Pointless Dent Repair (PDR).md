@@ -44,6 +44,10 @@ You can adjust the feet of the dent lifter, according to the distance of the dif
 
 ![](https://m.media-amazon.com/images/S/aplus-media-library-service-media/7ed4c0cf-cdb0-4dbc-9bab-3a0a92737516.__CR0,0,300,300_PT0_SX300_V1___.jpg)
 
+### Video Demonstrations
+
+[Review of the Super PDR Glue Puller Paintless Dent Removal Kit](https://youtube.com/clip/Ugkx_wDLqjM9Ab6Gn7fCvkFrewFto78leeWp?si=WlqhNGmhyAhRK_Oo)
+
 [Dent repair tool kit - Dent puller paintless Dent repair tools kit with glue gun](https://www.youtube.com/shorts/ojjDL3POfdI)
 
 [How is hail damage repaired?](https://www.youtube.com/shorts/6LU-TCdXOUo)
