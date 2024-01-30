@@ -8,6 +8,7 @@ With a free [Carfax](https://www.carfax.com/vehicle-history-reports/) account yo
 - [nicb.org](https://www.nicb.org/vincheck) (Theft Record, Total Loss Record)
 - [vincheck.info](https://vincheck.info/) (Theft, Accident, Salvage Auction, Sales Records)
 - [vehiclehistory.com](https://www.vehiclehistory.com/) (Pictures, Sales)
+- [Auto Helper Bot](https://autohelperbot.com/en/car/5YFEPMAE5MP154170_48598241)
 
 https://www.carfax.com/showroom/reports/?vin=5YFBU4EE7DP079560&mobile=true
 
