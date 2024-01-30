@@ -12,11 +12,31 @@
 
 ## Glue Gun
 
+![](https://i.imgur.com/ZCotfPR.png)
+
+
 ![](https://m.media-amazon.com/images/I/61Yr9uT68HL._AC_SL1400_.jpg)
 
 ![](https://m.media-amazon.com/images/I/715GgtcuyKL._AC_SL1200_.jpg)
 
+### Glue Sticks
+
+![](https://i.imgur.com/bycIHfC.png)
+
+![](https://i.imgur.com/lH5P6Jz.png)
+
+![](https://i.imgur.com/e5BuIZQ.png)
+
+### Tabs
+
+![](https://i.imgur.com/REECO5o.png)
+
+
 ## Dent Lifter (Small)
+
+![](https://i.imgur.com/lVrQCnB.png)
+
+
 You can adjust the feet of the dent lifter, according to the distance of the different size dents to adjust, and fix the dents more effectively.
 ![](https://m.media-amazon.com/images/I/71M3HZdpm4L._AC_SL1500_.jpg)
 
@@ -27,16 +47,35 @@ You can adjust the feet of the dent lifter, according to the distance of the dif
 [Dent repair tool kit - Dent puller paintless Dent repair tools kit with glue gun](https://www.youtube.com/shorts/ojjDL3POfdI)
 
 [How is hail damage repaired?](https://www.youtube.com/shorts/6LU-TCdXOUo)
+### Image-text Instructions
+
+![](https://i.imgur.com/7eDIy2r.png)
+![](https://i.imgur.com/Lw37bai.png)
+
 
 ## Bridge Puller (Medium)
 Efficient for larger dents on flat panels.
 
+![](https://i.imgur.com/mzFhDpJ.png)
+
+
 ![](https://m.media-amazon.com/images/I/71gt24BKu3L._AC_SL1500_.jpg)
+
+### Video Demonstrations
 
 [Pulling Dents - Just a PDR Poser](https://www.youtube.com/watch?v=OBZFXqMsjhA&list=LL)
 [HOW TO REPAIR DENTS CHEAP $15 HAIL DAMAGE ETC](https://www.youtube.com/shorts/XpL7NAGzNnU)
 
+### Image-text Tutorial
+
+![](https://i.imgur.com/VbfL9nW.png)
+![](https://i.imgur.com/KQXf20h.png)
+
+
 ## Mini Dent Puller (Large)
+
+![](https://i.imgur.com/xj9QbIM.png)
+
 
 ![](https://m.media-amazon.com/images/I/61nmIqGkUEL._AC_SL1440_.jpg)
 
@@ -44,6 +83,17 @@ Efficient for larger dents on flat panels.
 
 
 [How To REMOVE Dents From Your Car!!](https://www.youtube.com/shorts/4LJEk5NGxFM)
+
+### Image-text Tutorial
+
+![](https://i.imgur.com/Pa1iBDu.png)
+![](https://i.imgur.com/vS5qJZo.png)
+![](https://i.imgur.com/FfPt2T4.png)
+![](https://i.imgur.com/vOCnLPS.png)
+![](https://i.imgur.com/KrvPYZh.png)
+![](https://i.imgur.com/cgL83AG.png)
+![](https://i.imgur.com/OqjNt3J.png)
+
 
 ## Short T-bar
 With this short T-bar, you can repair some larger dents easily and effectively.
