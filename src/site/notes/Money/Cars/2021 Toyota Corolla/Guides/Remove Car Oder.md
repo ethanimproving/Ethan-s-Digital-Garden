@@ -36,6 +36,13 @@
 
 [Meguiar's Whole Car Air Refresher, Odor Eliminator Spray](https://www.amazon.com/Meguiars-Whole-Refresher-Odor-Eliminator/dp/B00G49DVGG/ref=sr_1_2) ![](https://m.media-amazon.com/images/I/81efmlgzAEL._AC_SL1500_.jpg)
 
+# Odor Fogger
+
+[Get rid of car odors for good! Use what the dealers use, Car Odor Eliminator Foggers!](https://www.youtube.com/shorts/opMqvMKJdHM)
+
+[E.J. Wheaton Co. Odor Eliminator, Total Release Odor Fogger](https://www.amazon.com/gp/product/B08BLVCDBV/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08BLVCDBV&linkCode=as2&tag=breliable-20&linkId=0beba64119fc24b758b37fc14e41a9b9) ![](https://m.media-amazon.com/images/I/61WrLUtm1zL._AC_SL1001_.jpg)
+
+
 # Cologne in Cabin Air Filter
 
 [This Hack Keeps Your Car Smelling Fresh](https://youtube.com/shorts/OofJRjXojiA?si=J2MQU9LHibOOehw9)
