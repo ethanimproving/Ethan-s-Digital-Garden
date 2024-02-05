@@ -9,7 +9,7 @@ IQ is for losers, the only thing that matters is applied intelligence. This is w
 
 [Tristan Tate compares IQ of Stephen Hawking and Elon Musk](https://www.youtube.com/shorts/ucXyV20uwxs)
 
-The great Professor Stephen Hawking once talked about how IQ scores are for losers. They found this kid in India with an IQ score higher than me. Cool, but what has he done? Nothing. So, ==what matters is intelligence applied to the real world to see results==. That's why I believe Elon Musk to be the single smartest man on the planet right now. He is the Leonardo Da Vinci of our time, and there are going to be tributes to him sung through myth and legend when our old ways of storing data are defunct and useless. Elon Musk is the man. I don't know what his IQ is - 160, 120, 180 - it doesn't matter.
+The great Professor Stephen Hawking once talked about how IQ scores are for losers. "They found this kid in India with an IQ score higher than me." Cool, but what has he done? Nothing. So, ==what matters is intelligence applied to the real world to see results==. That's why I believe Elon Musk to be the single smartest man on the planet right now. He is the Leonardo Da Vinci of our time, and there are going to be tributes to him sung through myth and legend when our old ways of storing data are defunct and useless. Elon Musk is the man. I don't know what his IQ is - 160, 120, 180 - it doesn't matter.
 
 [Tristan Tate Reveals Elon Musk's IQ](https://www.youtube.com/shorts/DG5a_tP8T1c)
 # The Eternal Rewards Multiplier of Applied Knowledge
