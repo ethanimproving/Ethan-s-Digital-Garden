@@ -34,3 +34,6 @@ According to NADA, my car is worth **$7,175-11,600**.
 - [ ] Clean 2013 Floor Matts and Check for Compatibility
 - [ ] Buy [[Shopping/Car Floor Mats\|Car Floor Mats]]
 - [ ] [[Money/Cars/2021 Toyota Corolla/Repairs/Rust Spot Repair\|Rust Spot Repair]]
+- [ ] Replace Bad Fuse
+- [ ] Remove Sound Deadener / Vibration Damper
+- [ ] Vacuum Scratches 
