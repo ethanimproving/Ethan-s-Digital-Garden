@@ -30,6 +30,37 @@ Market Preferences:
 | Cushion Cut | 8 | Vintage vibe, larger facets for fire, square/rectangular with soft corners |
 | Emerald Cut | 5 | Elegant, Art Deco aesthetic, step-cut facets prioritize clarity |
 
+## Material
+
+Platinum.
+
+| Grade (Parts Per Thousand) | Description       |
+|-------|-------------------|
+| 950   | 95% pure platinum |
+
+
+## How Many Carrots?
+
+1, 2, or 3 carrots. 3 is bigger than one.
+
+## How Much Clarity?
+
+Clarity is the density.
+
+| Clarity Grade | Description                         |
+|---------------|-------------------------------------|
+| FL            | ==Flawless==                            |
+| IF            | Internally Flawless                 |
+| VVS1          | Very Very Slightly Included Level 1 |
+| VVS2          | Very Very Slightly Included Level 2 |
+| VS1           | Very Slightly Included Level 1      |
+| VS2           | Very Slightly Included Level 2      |
+| SI1           | Slightly Included Level 1           |
+| SI2           | Slightly Included Level 2           |
+| I1            | Included Level 1                    |
+| I2            | Included Level 2                    |
+| I3            | Included Level 3                    |
+
 ## Diamond Cut
 
 ### Mariana's Opinion
@@ -87,3 +118,9 @@ Siri was raving about Kelley's ring after they got married. "Props to Zach for h
 ![](https://lh3.googleusercontent.com/pw/ABLVV86431DKKnWMNRaFvzV1Kx9AZYTPKUkrQWQ5zglNXsSFj3gWFTE5JLaSjtMrWl2m1l26YPGSvzmT2JZMLpYOmJZPHq1zl9G0aq91OrH0V6WFgtiDn0mtFx7_IMVgUeooUyNN-RNbt9Qz4XrMl4MhQ1XAgQ=w537-h491-s-no-gm?authuser=1)
 ![](https://lh3.googleusercontent.com/pw/ABLVV85Fzkr9iAw1_pDm8qkR-_tH8WEN00EgKzkWuU8YlQQ57v_LN0eBBBM3igy-X_BJWVTVjP3j-defFwmP2ZuUewswH3U-2am9ijh_E5nnVh8Jilqpc3G2KUReMvzg4B8N2S_P_HSCpI4fVlO2Zwpe3nWd1g=w970-h647-s-no-gm?authuser=1)
 ![](https://lh3.googleusercontent.com/pw/ABLVV845w650LWkIjtUpgRDn1e7P5FhJJq60VVX_wmvuG2fwCoNt5viJPtkBXk5tWlWKQtei-G7gEYyi2Lx167QbTZ62PKcPPZ6q-FzEOk3PugTZndUHHun5q-FHUJ9DLL726sZxTG5MbNOy7qVO3y95jHdYOA=w833-h1249-s-no-gm?authuser=1)
+
+# Where To Propose
+
+Kritika says to propose at the Northern Lights. See how magical it is. When can you see the aurora borealis. Nobody can beat nature at the end of the day.
+
+Actions need to speak. You can say anything with your words.
