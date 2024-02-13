@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/faith-s-jobs/","tags":["#laborhours"],"created":"Feb 12, 2024, 9:04 PM"}
+{"dg-publish":true,"permalink":"/journal/faith-s-jobs/","tags":["laborhours"],"created":"Feb 12, 2024, 9:04 PM"}
 ---
 
 # Ikigai
