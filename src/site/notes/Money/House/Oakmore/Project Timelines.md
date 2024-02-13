@@ -55,14 +55,8 @@
 | Redo plumbing to get two sink faucets | 8    |
 | Total                                 | 26   |
 
-| File                                                                                                             | Cost          | Priority | Completed |
-| ---------------------------------------------------------------------------------------------------------------- | ------------- | -------- | --------- |
-| [[Money/House/Renovation Skills/Bathroom/Installing Shower Doors\|Installing Shower Doors]]                   | $130          | 5        | \-        |
-| [[Money/House/Renovation Skills/Bathroom/Shower Plumbing\|Shower Plumbing]]                                   | $0            | 5        | \-        |
-| [[Money/House/Renovation Skills/Bathroom/Replacing A Toilet\|Replacing A Toilet]]                             | $0            | 5        | true      |
-| [[Money/House/Renovation Skills/Bathroom/Remove Shower Soffit (Furr Down)\|Remove Shower Soffit (Furr Down)]] | $50           | 5        | \-        |
-| [[Money/House/Renovation Skills/Bathroom/New Toilets\|New Toilets]]                                           | $200 / toilet | 2        | \-        |
-| [[Money/House/Renovation Skills/Bathroom/Bathroom\|Bathroom]]                                                 | $2,800        | 1        | \-        |
+| File | Cost | Priority | Completed |
+| ---- | ---- | -------- | --------- |
 
 { .block-language-dataview}
 
