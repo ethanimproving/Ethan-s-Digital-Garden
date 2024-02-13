@@ -4,7 +4,7 @@
 
 # Ikigai
 
-There is an ancient Japanese principle that states your job ought to be a combination of (1) what you're good at, (2) what you like, (3) what the world needs, and (4) what you can be paid for.
+There is an ancient Japanese principle that states your job ought to be a combination of **(1)** what you're good at, **(2)** what you like, **(3)** what the world needs, and **(4)** what you can be paid for.
 
 People shouldn't ask, "What can I do to get paid?" They should ask, "What gap exists in the world, and how do I fill it?" There's more than one question. There's four questions. And when you're able to answer all 4, that is the perfect job for you. Don't settle for something that lacks one.
 
