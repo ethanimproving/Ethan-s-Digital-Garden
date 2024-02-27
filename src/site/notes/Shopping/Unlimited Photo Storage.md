@@ -175,3 +175,10 @@ Combine two of the values mentioned above to create a more specific search term 
 # Where to Buy A Google Pixel 1
 
 [Wamatek](https://wamatek.com/product/google-pixel-xl/)
+
+## Wall Mounts
+
+[Magnetic Wall Mount](https://www.peakdesign.com/products/wall-mount)
+[Nail-in Wall Mount](https://theyamazakihome.com/products/tower-wall-mounted-phone-holder)
+[Magnetic Round Mount](https://www.themightymount.com/products/simpl-mag-circular-magnetic-dash-mount)
+https://www.amazon.com/Universal-Magnetic-Mounts-Dashboard-Samsung/dp/B07JFGJMJW?th=1
