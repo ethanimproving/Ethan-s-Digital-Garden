@@ -3,6 +3,10 @@
 ---
 
 
+According to the [Occupational Outlook Handbook](https://www.bls.gov/ooh/construction-and-extraction/brickmasons-blockmasons-and-stonemasons.htm) posted by the U.S. Bureau of Labor Statistics, Electricians make about $60,000 per year and are expected to grow at a pace of 6% in ten years.
+
+![](https://i.imgur.com/zHWX5AA.png)
+
 # Electricity
 
 [Volts, Amps, & Watts Explained!](https://www.youtube.com/watch?app=desktop&v=PyLjnVJVM1s)
