@@ -7,7 +7,7 @@
 
 ## § 1.  Movie Restrictions
 
-**1.1** Movies that include any of the following content are to be banned from watching:
+**1.1** Films featuring any of the specified content are prohibited from viewing:
 1. Anything with nudity
 2. Anything that promotes sodemy
 3. Anything that is obviously promoting worldly thinking
