@@ -37,7 +37,7 @@
 2. Mix the fluff with [Fuse-it Powder](https://www.amazon.com/Bo-Nash-2-Ounce-Fusible-Bonding-Agent/dp/B000W5JQKI/ref=sr_1_2?dib=eyJ2IjoiMSJ9.HGwZe5gOwK4vEosT15uBnAWHLsTsgyG_5iBZhapR6A931trBNwNpUV8nDGGDEmj6o64-sgyO7pCEk_o6QV2jgZiVn6s0R0tHP5klRWKVt7c.b3-ShHkuzFLjQInldBbdeqzlGvuMy8dt-aMkosM7NwM&dib_tag=se&keywords=Bo-Nash%2BFuse%2BIt%2BPowder&s=arts-crafts&sr=1-2&th=1).
 3. Apply fluff into the whole and add more fuse-it powder.
 4. Add a small patch to the wrong side to support the new threads.
-5. Apply the patch with an iron on the maximum cotton-linin and a fiberglass sheet to protect the fabric.
+5. Apply the patch with an iron on the maximum cotton-linin and a [fiberglass sheet](https://www.amazon.com/ZENFUN-Fiberglass-Inches-Glass-Surfboard/dp/B0CQY5KX84/ref=sr_1_1) to protect the fabric.
 
 [How to fix holes in a suit jacket with Fuse It Powder](https://www.youtube.com/watch?v=ZAg-mvQ_8Q4)
 
