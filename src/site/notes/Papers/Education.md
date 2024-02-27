@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jun 26, 2023, 5:35 PM
+{"dg-publish":true,"permalink":"/papers/education/","created":"Jun 26, 2023, 5:35 PM"}
 ---
+
 
 The best learning you will ever do is self taught. Your mind may wander in a lecture, but your own interests will have all of your attention. Information that is useful is 100 times easier for your brain to remember, based on Information Processing Theory. The more context you have for a fact, and the more connections to other pieces of information, the easier it is to recall.
 
