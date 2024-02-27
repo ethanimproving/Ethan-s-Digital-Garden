@@ -147,3 +147,7 @@ Re-contour metal edges after pushing.
 # PDR Real World
 
 https://realworldpdr.com/
+
+# U.S. Bureau of Labor Statistics (BLS)
+
+[Automotive Body and Glass Repairs](https://www.bls.gov/ooh/installation-maintenance-and-repair/automotive-body-and-glass-repairers.htm)
