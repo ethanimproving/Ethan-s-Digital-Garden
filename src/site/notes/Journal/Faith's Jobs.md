@@ -10,6 +10,44 @@ People shouldn't ask, "What can I do to get paid?" They should ask, "What gap ex
 
 ![](https://i.imgur.com/XbAs5f2.jpg)
 
+# Faith's Interests
+
+Faith is an old soul. She doesn't like too much noise and activity. She like **calm peaceful environments**. She is high in agreeableness which filters out ultra-competitive fields. She needs a **cooperative environment** rather than a competitive environment.
+
+## Jobs That Fit Faith's Interests
+
+1. Funeral Home Receptionist
+2. [Professional Tailor](https://www.bls.gov/oes/current/oes516052.htm)
+3. Retirement Home Caretaker
+4. Barber
+5. [[Wiki/Technology/Make Money From Discount Retail Stores\|Retail Arbitrage]]
+
+### Professional Tailor
+
+![](https://i.imgur.com/xdf7vDt.png)
+
+I like this idea because we will always need tailors. People will always be gaining weight, or losing weight, or buying clothes off the rack that don't fit their body correctly from the start. That problem will exist as long as humans and clothes exist. However it is a declining market.
+
+I wouldn't decide to be a tailor in service service to your family. That's making the assumption of poverty. The reason thrift-store clothes don't look good often is not only because they don't fit, but the quality and style is usually old, worn out, or strange. High quality clothes don't get sent to thrift stores. It's usually better to buy clothes off the rack and make minor adjustments than to buy old raggedy items that your kids won't want to wear. But that depends on the thrift stores in your area.
+
+These days it's becoming more common to order clothes online, where you know your exact size and fit, and they make them custom for your measurements. This is cheap on [Amazon Buttoned Down](https://www.amazon.com/stores/ButtonedDown/ButtonedDown/page/71F83440-0F92-48E7-8CD8-15DF2755AEBC), [Modern Tailor](https://www.moderntailor.com/), etc. Instead of tailoring unfitted clothes, you buy clothes to be fitted to you from the start. 
+
+It's definitely cheaper these days to buy your clothes factory made than spend the time cost it takes to make them yourself. Making your own clothes would be like choosing to wash your clothes by hand instead of using a washing machine.
+
+### Retail Arbitrage
+
+This would allow Faith to stay home like she wants, but her friend Jennine discouraged her from doing it because it's a lot of work finding items with enough sale margin to be profitable, and it takes time waiting for customers to purchase the items. You spend half the day shopping, and half the day packages items up.
+
+It doesn't have to be with Amazon FBA, it could also be eBay, using my 75% off discount with FedEx to ship items when they are sold. The problem with that is you would need enough storage space to keep your inventory until they are sold. Packages and taping can be streamlines well enough. It's the daily trips to FedEx that will become bothersome.
+
+# U.S. Bureau of Labor Statistics (BLS)
+
+Estimating the exact number of job titles in the entire United States is challenging due to the vast diversity of **industries**, **sectors**, and **niche roles**. However, there are tens of thousands of distinct job titles across various sectors, including healthcare, technology, finance, manufacturing, education, and many others.
+
+The U.S. Bureau of Labor Statistics (BLS) regularly updates its [Occupational Outlook Handbook](https://www.bls.gov/ooh/), which provides information on hundreds of occupations, including job descriptions, educational requirements, median pay, and job outlook. As of the latest information, the BLS tracked over 800 occupations in its handbook.
+
+Considering the dynamic nature of the job market, including emerging industries and evolving job roles, the actual number of unique job titles is likely even higher. Additionally, job titles can vary widely within specific industries and organizations, further contributing to the complexity of estimating a precise number.
+
 # IQ Bracket
 
 Checkout [Jordan Peterson: What Kind Of Job Fits Your IQ](https://www.youtube.com/watch?v=P2mxdrTP-os). You want to find an occupation that fits your IQ bracket.
@@ -80,7 +118,7 @@ Checkout [Jordan Peterson: What Kind Of Job Fits Your IQ](https://www.youtube.co
 | ==Compensation and Benefits Manager== | $125,130 | 120+ |
 | Logisticians | $76,270 | 120+ |
 | Management Analysts | $87,660 | 120+ |
-| ==== | $65,250 | 120+ |
+| ==Cost Estimators== | $65,250 | 120+ |
 | Market Research Analysts | $65,810 | 120+ |
 | ==Financial Analysts== | $83,660 | 120+ |
 | Personal Financial Advisors | $89,330 | 120+ |
@@ -193,3 +231,4 @@ Checkout [Jordan Peterson: What Kind Of Job Fits Your IQ](https://www.youtube.co
 | Doula                        | $33,920                   | 95+            |
 | Midwife                      | $111,130                  | 120+           |
 | Lactation Consultant         | $51,000                   | 100+           |
+
