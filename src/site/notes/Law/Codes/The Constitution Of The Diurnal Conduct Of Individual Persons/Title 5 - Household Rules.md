@@ -14,6 +14,15 @@ Fannie Mae offers a [HomeView certificate course](https://www.fanniemae.com/educ
 **2.2** Don't wash muddy shoes in any sinks or bathtubs. The mud can clog the drains.
 
 **2.3** Don't rinse hair trimmings longer than 2 millimeters down the drain.
+
+
+## § 3. [[Parenting/Psychological/500 Pushups\|Psychological Development]]
+
+**3.1** No leisure activities shall be undertaken until requisite Bible reading has been completed.
+
+I was given too much flexibility as a child which resulted in a severe lack of discipline later in life. I couldn't get to work on time because I had such a lack of structure. These are the consequences of allowing yourself to do whatever you want without obligations that must be met beforehand. Such outcomes underscore the imperative of adhering to prescribed obligations prior to engaging in discretionary pursuits.
+
+
 ## § 6. Personal Development
 
 Derived from [[Parenting/Skills/12 Rules For Life\|12 Rules For Life]] by Jordan Peterson
@@ -65,3 +74,4 @@ Derived from [[Parenting/Skills/12 Rules For Life\|12 Rules For Life]] by Jordan
 **6.12** Pet a Cat When You Encounter One on the Street:
 
 - _Appreciation:_ Find joy in simple pleasures and appreciate the beauty in everyday moments.
+
