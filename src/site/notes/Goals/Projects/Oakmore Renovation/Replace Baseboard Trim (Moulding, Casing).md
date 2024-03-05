@@ -2,7 +2,18 @@
 {"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/replace-baseboard-trim-moulding-casing/","tags":["oakmore-renovation-task"],"created":"Feb 26, 2024, 6:58 PM"}
 ---
 
+# Home Depot Casing
+
 [Home Depot Moulding](https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding/N-5yc1vZcbjm?mtc=SHOPPING-BF-CDP-GGL-D30-030_020_MOULDINGS-NA-NA-NA-PMAX-NA-NA-NA-NA-NBR-NA-NA-NEW-NA&cm_mmc=SHOPPING-BF-CDP-GGL-D30-030_020_MOULDINGS-NA-NA-NA-PMAX-NA-NA-NA-NA-NBR-NA-NA-NEW-NA-71700000111971272--&gad_source=1&gclid=CjwKCAiAivGuBhBEEiwAWiFmYf16_YYjVNzPoo5RNePUlL5YlnvPAs5JAXF63PoEQTyIoIEbWmD8YhoCr58QAvD_BwE&gclsrc=aw.ds)
+
+- [WM 356 11/16 in. x 2-1/4 in. x 84 in. Pine Primed Finger-Jointed Casing](https://www.homedepot.com/p/Alexandria-Moulding-WM-356-11-16-in-x-2-1-4-in-x-84-in-Pine-Primed-Finger-Jointed-Casing-0W356-94084/204757793)![](https://images.thdstatic.com/productImages/ab6234d7-f171-47a0-8662-040d55880c6d/svn/primed-white-alexandria-moulding-casing-0w356-94084-64_1000.jpg)
+
+
+[WG A214 - 5/8 in. x 2-1/4 in. x 84 in. Primed Finger-Jointed Casing Molding Door Pack](https://www.homedepot.com/p/Woodgrain-Millwork-WG-A214-5-8-in-x-2-1-4-in-x-84-in-Primed-Finger-Jointed-Casing-Molding-Door-Pack-10001511/202086611) - (==Top Seller, Caleb's but upside down==)
+![](https://images.thdstatic.com/productImages/e019a31a-b95a-4250-8db8-7407ee938faa/svn/white-woodgrain-millwork-casing-10001511-64_1000.jpg)
+
+[WM 356 11/16 in. x 2-1/4 in. x 84 in. Primed Finger-Jointed Casing](https://www.homedepot.com/p/Woodgrain-Millwork-WM-356-11-16-in-x-2-1-4-in-x-84-in-Primed-Finger-Jointed-Casing-10000527/206001677) (Most popular, 604 reviews)
+![](https://images.thdstatic.com/productImages/070add85-8d24-4bd9-aa4d-c6e66859d47d/svn/white-woodgrain-millwork-casing-10000527-64_1000.jpg)
 
 # Casing Profiles
 
