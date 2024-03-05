@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/replace-kitchen-garage-door/","tags":["oakmore-renovation-task"],"created":"Feb 11, 2024, 10:20 PM"}
 ---
 
+[[Goals/Projects/Oakmore Renovation/Garage/R&R (Remove and Replace) Door from Garage to Kitchen Hallway\|R&R (Remove and Replace) Door from Garage to Kitchen Hallway]]
+
 - [x] Swanson Speed Square
 - [x] Power Hand Saw ($80)
 - [ ] [Reciprocating saw](https://www.homedepot.com/p/DEWALT-20V-MAX-Cordless-Reciprocating-Saw-Tool-Only-DCS380B/203164237) 
