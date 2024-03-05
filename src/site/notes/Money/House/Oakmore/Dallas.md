@@ -2,10 +2,17 @@
 {"dg-publish":true,"permalink":"/money/house/oakmore/dallas/","created":"Jun 24, 2023, 11:36 PM"}
 ---
 
+# Bills
 
 101216674
-epay.dallascityhall.com
+[epay.dallascityhall.com](https://epay.dallascityhall.com/bdisu/public/frameset_top_html.jsp)
 
+# Voting
+
+[Check Voter Registration](https://www.nass.org/can-i-vote/find-your-polling-place) 
+![](https://i.imgur.com/zMqOSCW.png)
+
+[Where To Vote In Texas](https://www.votetexas.gov/mobile/voting/voting-in-person.htm)
 # Trash Day
 
 Visit the [Residential Garbage Collection](https://dallascityhall.com/departments/sanitation/pages/residential_garbage_collection.aspx) page. Your roll cart must be placed in the alley or at the curb by **7am on Wednesday morning**.
