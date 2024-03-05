@@ -42,3 +42,64 @@
 [How to fix holes in a suit jacket with Fuse It Powder](https://www.youtube.com/watch?v=ZAg-mvQ_8Q4)
 
 Put clothes away cleaned and you have fewer issues. The grubs like to eat the human oils we leave on clothing. A hanging garment bag is also a good solution for this. Cedar cubes in drawers also repel them.
+
+# Needles
+
+## Thread A Needle
+
+[Learn to tie a knot in your thread - the easy way!](https://www.youtube.com/shorts/R-IbkK9Gpo8)
+
+[How to tie a knot easily while hand sewing.](https://www.youtube.com/shorts/7_ESoQ5h6so)
+
+## Tying Off
+
+[How to End a Stitch](https://www.youtube.com/shorts/84jriiTv3Es)
+
+[Beginning & Ending Embroidery Knots](https://www.youtube.com/shorts/uNtQ1TKW7tY)
+
+## Blind Stitch
+
+When you want to shorten pants, use a blind stitch to be invisible on the right side.
+
+[Invisible Hem: Blind Stitch Hem on Sewing](https://www.youtube.com/shorts/QO55AmCMEsc)
+
+[Sew a Blind Hem like a Pro! Get a Blind Hem Foot!](https://www.youtube.com/shorts/kjX61OMvZjo)
+## Manual Invisible Stitch
+
+[Invisible stitch](https://www.youtube.com/shorts/69bR7JBqVM0)
+# Guide To A Perfect Men's Suit
+
+## Men's Shirt - Measure your best fitting shirt
+Please note that your shirt should be laid flat on a table or smooth surface for proper measurement.
+
+![](https://i.imgur.com/sy7PxVf.png)
+![](https://i.imgur.com/1kr7P1V.png)
+![](https://i.imgur.com/XcpTMGP.png)
+![](https://i.imgur.com/xli34yX.png)
+![](https://i.imgur.com/OyNL5Wy.png)
+![](https://i.imgur.com/K5Und9S.png)
+![](https://i.imgur.com/27Y4cRA.png)
+![](https://i.imgur.com/HwpVEvM.png)
+![](https://i.imgur.com/VRgoa6S.png)
+![](https://i.imgur.com/YbuBgc3.png)
+![](https://i.imgur.com/oXJrvfT.png)
+
+
+
+## Suit Pants - Measure your best fitting pants
+Please note that pants should be laid flat on a table or smooth surface for proper measurement. 
+
+![](https://i.imgur.com/bP80PFQ.png)
+![](https://i.imgur.com/CksVST0.png)
+![](https://i.imgur.com/6bZdUZt.png)
+![](https://i.imgur.com/49s38fl.png)
+![](https://i.imgur.com/dqbtB7A.png)
+![](https://i.imgur.com/g9LIT9z.png)
+![](https://i.imgur.com/QSdw1ie.png)
+![](https://i.imgur.com/bjSi4wo.png)
+![](https://i.imgur.com/i233If7.png)
+
+| Blag    | Measurement |
+| ------- | ----------- |
+| Outseem | 36 3/4"     |
+| Inseam  | 27 1/2"     |
