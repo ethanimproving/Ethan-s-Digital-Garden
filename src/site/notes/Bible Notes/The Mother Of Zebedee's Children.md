@@ -44,7 +44,7 @@ She is also spiritual praise God for women who are choosing to be spiritual.
 him, and desiring a certain thing of him.
 
 
-***Every day God is asking, “What wilt thou?” Every day you can pray. Prayer is an exercise of faith. We see a 40 year Faith going from grandmother to mother into Timothy. Why is Timothy such a great guy? Because of his mother and grandmother and their great faith.
+***Every day God is asking, “What wilt thou?” Every day you can pray. Prayer is an exercise of faith. We see a 40 year faith going from grandmother to mother into Timothy. Why is Timothy such a great guy? Because of his mother and grandmother and their great faith.
 > [!Bible] [2 Timothy 1:5 - KJV](https://bible-api.com/2Timothy+1:5?translation=kjv)
 > 5. When I call to remembrance the unfeigned faith that is in thee, which dwelt first in thy grandmother Lois, and thy mother Eunice; and I am persuaded that in thee also.
 
