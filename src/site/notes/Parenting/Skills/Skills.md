@@ -50,7 +50,7 @@ In a similar way I would like to create a list of skills for myself to learn. Wi
 	- [ ] Transmission
 - [x] [[Money/House/Renovation Skills/Tools/Pressure Washer\|Pressure Washing]]
 - [ ] [Contractor](https://www.bls.gov/ooh/construction-and-extraction/home.htm)
-	- [ ] [Plumbing](https://www.bls.gov/ooh/construction-and-extraction/plumbers-pipefitters-and-steamfitters.htm)
+	- [ ] [[Money/House/Renovation Skills/Kitchen/Plumbing\|Plumbing]]
 	- [ ] Construction
 	- [ ] [Carpentry](https://www.bls.gov/ooh/construction-and-extraction/carpenters.htm)
 	- [ ] [Masonry](https://www.bls.gov/ooh/construction-and-extraction/brickmasons-blockmasons-and-stonemasons.htm)
