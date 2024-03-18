@@ -19,6 +19,8 @@ The documentary features interviews with scientists, researchers, and individual
 
 "Earthing Movie: The Grounded" aims to raise awareness about the potential health benefits of reconnecting with the Earth's energy and encourages viewers to consider incorporating grounding practices into their daily lives. It has garnered attention from those interested in holistic health, natural healing methods, and alternative therapies.
 
+[How Do I Explain Earthing to People Without Sounding “Woo-Woo”?](https://www.youtube.com/watch?v=TyQSHoS2Y6E)
+
 # Grounding Helps Inflammation
 [Grounding helps inflammation](https://www.facebook.com/share/r/RCv34brQ8qjRFtxN/?mibextid=s54t8k).
 [Inflammation of your cells keep energy low](https://www.facebook.com/share/r/G8b32mEnDwV9xqps/?mibextid=s54t8k).
