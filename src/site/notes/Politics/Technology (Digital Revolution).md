@@ -159,8 +159,8 @@ Mostly what doctors do is listen to you explain your symptoms and compare that w
 | [[Wiki/Technology/AI/Use ChatGPT to Write and Sell Books\|Use ChatGPT to Write and Sell Books]] | Apr 18, 2023, 10:32 PM |
 | [[Wiki/Technology/AI/AI As A Fitness Trainer\|AI As A Fitness Trainer]]                         | \-                     |
 | [[Wiki/Technology/AI/AI As A Real Estate Assistant\|AI As A Real Estate Assistant]]             | \-                     |
-| [[Wiki/Technology/AI/AI To Search For People\|AI To Search For People]]                         | \-                     |
 | [[Wiki/Technology/AI/Make Money with AI\|Make Money with AI]]                                   | \-                     |
+| [[Wiki/Technology/AI/AI To Search For People\|AI To Search For People]]                         | \-                     |
 
 { .block-language-dataview}
 
