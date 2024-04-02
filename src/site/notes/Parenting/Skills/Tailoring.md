@@ -94,8 +94,22 @@ Please note that pants should be laid flat on a table or smooth surface for prop
 ![](https://i.imgur.com/6bZdUZt.png)
 ![](https://i.imgur.com/49s38fl.png)
 ![](https://i.imgur.com/dqbtB7A.png)
+
+| Pants        | Measurement |
+| ------------ | ----------- |
+| Blue Bar III | 27 3/4"     |
+
+---
+
 ![](https://i.imgur.com/g9LIT9z.png)
 ![](https://i.imgur.com/QSdw1ie.png)
+
+| Pants        | Measurement |
+| ------------ | ----------- |
+| Blue Bar III | 37"         |
+
+---
+
 ![](https://i.imgur.com/bjSi4wo.png)
 ![](https://i.imgur.com/i233If7.png)
 
