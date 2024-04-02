@@ -47,7 +47,7 @@ Make sure to calculate your calorie balance based on your TDEE ([Felix Harder](h
 
 Not only will too large of a calorie deficit make you feel more tired and hungry, it will also decrease hormone levels, sleep, quality and libido ([Felix Harder](https://americanairlines.udemy.com/course/weight-loss-masterclass-lose-fat-get-your-dream-body-now/learn/lecture/8283532#overview)).
 
-**1.3** I calculate my Total Daily Energy Expenditure using a [TDEE calculator](https://www.freedieting.com/calorie-calculator).
+**1.3** I calculate [[Parenting/Social/Diagnostic Statements/Ethan Miller#Anthropometric Data\|my Total Daily Energy Expenditure]] using a [TDEE calculator](https://www.freedieting.com/calorie-calculator).
 
 It is calculated by estimating how many calories you burn while resting (called the basal metabolic rate or BMR) and adding a certain number of calories on top, depending on how often you exercise.
 
