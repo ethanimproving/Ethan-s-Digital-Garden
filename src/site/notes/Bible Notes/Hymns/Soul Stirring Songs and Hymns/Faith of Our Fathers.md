@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/faith-of-our-fathers/","title":"Faith of Our Fathers"}
+dg-publish: true
+title: Faith of Our Fathers
+author: Frederick William Faber (1849)
+audio: http://www.kjvprophecy.com/407.mp3
+index: 407
 ---
-
 
 *Faith of the martyrs, living still
 in spite of dungeon, fire, and sword;
