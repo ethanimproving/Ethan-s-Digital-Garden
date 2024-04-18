@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/house-ideas/auctions/","created":"Jul 10, 2023, 11:10 PM"}
+dg-publish: true
+dg-created: Jul 10, 2023, 11:10 PM
 ---
-
  
 # Range Hoods
 
