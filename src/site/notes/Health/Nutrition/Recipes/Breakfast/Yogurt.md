@@ -1,7 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/health/nutrition/recipes/breakfast/yogurt/","tags":["cookmate"],"created":"Jan 07, 2024, 2:24 PM"}
+dg-publish: true
+dg-created: Jan 07, 2024, 2:24 PM
+author: 
+source: 
+image: 
+description: 
+preparation-time: 
+cook-time: 
+yield: 
+category: 
+meal: 
+rating: 
+calories: 
+tags:
+  - cookmate
 ---
-
 
 
 
