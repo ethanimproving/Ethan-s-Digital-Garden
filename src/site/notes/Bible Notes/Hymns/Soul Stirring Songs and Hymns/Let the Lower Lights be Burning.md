@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/let-the-lower-lights-be-burning/","title":"Let the Lower Lights be Burning"}
+dg-publish: true
+title: Let the Lower Lights be Burning
+author: P. P. Bliss (1871)
+audio: http://www.kjvprophecy.com/372.mp3
+index: 372
 ---
-
 
 Brightly beams our Father’s mercy
 From His lighthouse evermore;
