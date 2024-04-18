@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-heard-the-bells-on-christmas-day/","title":"I Heard the Bells on Christmas Day"}
+dg-publish: true
+title: I Heard the Bells on Christmas Day
+author: Henry W. Longfellow (1864)
+audio: http://www.kjvprophecy.com/426.mp3
+index: 426
 ---
-
 
 I heard the bells on Christmas day
 Their old familiar carols play,
