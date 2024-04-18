@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/houses/2325-n-carrier-pkwy-grand-prairie-tx-75050/","tags":["homes2023","nixed"],"created":"Jun 15, 2023, 1:53 PM"}
+dg-publish: true
+cost: 289,000
+sq-ft: 1,835
+year: 1965
+dg-created: Jun 15, 2023, 1:53 PM
+tags: [homes2023, nixed]
 ---
-
 
 [2325 N Carrier Pkwy, Grand Prairie, TX, 75050](https://www.realtor.com/realestateandhomes-detail/2325-N-Carrier-Pkwy_Grand-Prairie_TX_75050_M89677-41369?cid=eml_saf_property_photo)
 
