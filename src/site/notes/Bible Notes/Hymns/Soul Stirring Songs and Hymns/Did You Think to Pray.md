@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/did-you-think-to-pray/","title":"Did You Think to Pray?"}
+dg-publish: true
+title: Did You Think to Pray?
+author: M. A. Kidder (1876)
+audio: http://www.kjvprophecy.com/361.mp3
+index: 361
 ---
-
 
 Ere you left your room this morning,
 Did you think to pray?
