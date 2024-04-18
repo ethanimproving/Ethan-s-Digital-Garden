@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/the-great-physician/","title":"The Great Physician"}
+dg-publish: true
+title: The Great Physician
+author: William Hunter
+audio: http://www.kjvprophecy.com/114.mp3
+index: 114
 ---
-
 
 The great Physician now is near,
 the sympathizing Jesus;
