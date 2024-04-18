@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/hallelujah-we-shall-rise/","title":"Hallelujah, We Shall Rise"}
+dg-publish: true
+title: Hallelujah, We Shall Rise
+author: J. E. Thomas
+audio: http://www.kjvprophecy.com/038.mp3
+index: 038
 ---
-
 
 In the resurrection morning,
 When the trump of God shall sound,
