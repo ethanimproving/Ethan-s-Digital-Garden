@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/bathroom/installing-shower-doors/","tags":["oakmore","masterbath"],"created":"Aug 19, 2023, 3:20 PM"}
+dg-publish: true
+dg-created: Aug 19, 2023, 3:20 PM
+cost: $130
+priority: 5
+tags: [oakmore, masterbath]
 ---
-
 
 
 [DreamLine Essence 56 to 60 in. x 76 in. Semi-Frameless Sliding Shower Door in Brushed Nickel](https://www.homedepot.com/p/DreamLine-Essence-56-to-60-in-x-76-in-Semi-Frameless-Sliding-Shower-Door-in-Brushed-Nickel-SHDR-6360760-04/300078596). I got one at [auction](https://www.auctionhubtexas.com/auctions/96/lot/35733-dreamline-essence-56-in-to-60-in-w-x-76-in-h-double-frameless-sliding-brushed-nickel-alcove-shower-door-clear-glass) for $130. 
