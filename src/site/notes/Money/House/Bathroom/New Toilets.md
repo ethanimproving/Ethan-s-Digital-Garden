@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/bathroom/new-toilets/","tags":["oakmore","masterbath","guestbath"]}
+dg-publish: true
+dg-date: Jul 06, 2023, 8:29 PM
+cost: $200 / toilet
+priority: 2
+tags: [oakmore, masterbath, guestbath]
 ---
-
 
 # Stores
 
