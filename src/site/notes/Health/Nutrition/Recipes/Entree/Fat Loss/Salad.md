@@ -1,7 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/health/nutrition/recipes/entree/fat-loss/salad/","tags":["cookmate"]}
+dg-publish: true
+dg-date: Oct 30, 2023, 12:09 PM
+author: Ethan Miller
+source: 
+image:
+description: 
+preparation-time: 
+cook-time:
+yield: 
+category: entree
+meal: 
+rating: 5
+calories: 
+tags: [cookmate]
 ---
-
 
 ![](https://lh3.googleusercontent.com/pw/ADCreHdDPPdUmRjUMz39ganVHWD2pG8qwWWyLeIAZIwOV4K1gbtLq3sbgHEptYF45fMmng0RQRsjlHmt1m2qBxI8GJ5JPtndZL7FstInr0owDzyWa36UTpBLql5rN5PGzwYSikLUZHCER7HGrTh4dtM3qFXHMQ=w703-h1249-s-no-gm?authuser=0)
 
