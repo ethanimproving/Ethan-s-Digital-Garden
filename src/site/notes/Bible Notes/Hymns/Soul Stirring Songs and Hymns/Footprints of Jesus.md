@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/footprints-of-jesus/","title":"Footprints of Jesus"}
+dg-publish: true
+title: Footprints of Jesus
+author: M. B. C. Slade (1871)
+audio: http://www.kjvprophecy.com/310.mp3
+index: 310
 ---
-
 
 Sweetly, Lord, have we heard Thee calling,
 ""Come, follow Me!""
