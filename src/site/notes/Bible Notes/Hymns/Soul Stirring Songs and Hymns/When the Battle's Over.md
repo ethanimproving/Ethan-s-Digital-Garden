@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/when-the-battle-s-over/","title":"When the Battle's Over"}
+dg-publish: true
+title: When the Battle's Over
+author: Isaac Watts (1724)
+audio: http://www.kjvprophecy.com/404.mp3
+index: 404
 ---
-
 
 Am I a soldier of the cross,
 A foll'wer of the Lamb?
