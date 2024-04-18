@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/go-tell-it-on-the-mountain/","title":"Go Tell It on the Mountain"}
+dg-publish: true
+known: 1
+title: Go Tell It on the Mountain
+author: Unknown
+audio: http://www.kjvprophecy.com/486.mp3
+index: 486
 ---
-
 
 
 *Go tell it on the mountain,
