@@ -1,7 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/health/nutrition/recipes/entree/chanclas-poplanas/","tags":["cookmate"]}
+dg-publish: true
+dg-date: 
+author: 
+source: 
+image:
+description: 
+preparation-time:
+cook-time:
+yield: 
+category: Mexican
+meal: entree
+rating: 
+calories: 
+tags: [cookmate]
 ---
-
 
 ![](https://lh3.googleusercontent.com/pw/ABLVV85gDlVaiejzCGmJkIAWnvbOXWJGsWFZ1sp95K8TDVaa4xC8KLCePF5e6UNyK_dweJjzl17Yo1eUuQB2RGTM8is9TbVa7TnDpcQDaaRwXA4WPQ16Nm63IkXYSdiifOLpTSRePVC4fcdNuMDCYJ9UWSyRrpbg76LmWspZ0M4eKeTvTC7RgPWnaxxURK5sIbMECBtZSptYyvsFzUQ-h4ZeMPl1SRux2fRWKTKFT3KrypVBpXkYvnML2hdTyj4RxgBHUS7Yv0kfSxUcvi05Jh4B0e-osoF5CKxe8uVcCNs_qVcFHkkfHnSJyd7OClxg5Cb6kf7a0qnskmbYbxlOPzdKINMLe2doLTbFkzjbRtC1W_LfztCdEX3ghzUmgCGamIGceJjaKllNg28et5J38uP-94mD1-l2ZBVsqASSiN7V3HqTLiVFrMdKGeWe1NSUR0PfMEjX91_Lu1ctyYEmPUj7y4JmMocnBP91V4LXK12_e0hIxlDck3fCruDYnZ10vNm9SuaR0dOLNaQJY5flBxlcafZunZ8mf4FJfBDGyJqedXm4kJadKXpEmfW46i0IAw-DE9UOagarYBwhITk9C-H1h80-6fX_Psk18nu6kqpb-Ww6DHyeHMB6ZrtUIZpW2LeaTym9XupcPhAgGkoSFZb0xSOjih29iIkLiB4Uki3Tsze7GJKV5H8cMIvZ3zGHxN1U6rLmXT9lgLQROZCeSb1U2Ud8u9_0ePMvR-lb3ccRaiOIwKhsDsSNIw6nyr4OpseOecVNMrLkRhDviKJaQqDxn3IXNHGVfb2BET23FR5PP9f0vMzP80SvxeQxfAvaiw8TW3s_-WENX8ovgd4uhcAIucIuHJeb6P9NSYJbpQF2Vk0GQl5cP2db8b7uEwqZ_cTRH8mLaq4qAHOmRZ_ACFBcZOvlTreAHKgZrWgHIcue7w=w2213-h1245-s-no-gm?authuser=1)
 
