@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/when-i-see-the-blood/","title":"When I See the Blood"}
+dg-publish: true
+title: When I See the Blood
+author: John G. Foote
+audio: http://www.kjvprophecy.com/020.mp3
+index: 20
+known: 1
 ---
-
 
 Christ our Redeemer died on the cross,
 Died for the sinner, paid all his due;
