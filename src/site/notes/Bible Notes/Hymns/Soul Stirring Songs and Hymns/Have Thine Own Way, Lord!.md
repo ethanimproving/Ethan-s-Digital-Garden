@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/have-thine-own-way-lord/","title":"Have Thine Own Way, Lord!"}
+dg-publish: true
+title: Have Thine Own Way, Lord!
+author: Adelaide A. Pollard (1906)
+audio: http://www.kjvprophecy.com/306.mp3
+index: 306
 ---
-
 
 Have thine own way, Lord!
 Have thine own way!
