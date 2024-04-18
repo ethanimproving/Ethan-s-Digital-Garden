@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/through-tribulation/","title":"Through Tribulation"}
+dg-publish: true
+title: Through Tribulation
+author: Mary Bowley Peters (1847)
+audio: http://www.kjvprophecy.com/480.mp3
+index: 480
 ---
-
 
 Through the love of God our Saviour,
 all will be well.
