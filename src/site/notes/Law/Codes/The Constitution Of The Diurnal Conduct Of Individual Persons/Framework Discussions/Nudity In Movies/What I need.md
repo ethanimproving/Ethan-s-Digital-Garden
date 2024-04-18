@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/framework-discussions/nudity-in-movies/what-i-need/","created":"Jun 17, 2022, 8:47 AM"}
+dg-publish: true
+dg-created: Jun 17, 2022, 8:47 AM
 ---
-
 
 - I need her to ask me for forgiveness because she slept with other guys.
 	- She said she wouldn't have done it if she knew she would end up with me.
