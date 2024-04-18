@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/all-hail-the-power-diadem/","title":"All Hail the Power (Diadem)"}
+dg-publish: true
+title: All Hail the Power (Diadem)
+author: Edward Perronet (1780)
+audio: http://www.kjvprophecy.com/168.mp3
+index: 168
 ---
-
 
 All hail the power of Jesus' name!
 Let angels prostrate fall.
