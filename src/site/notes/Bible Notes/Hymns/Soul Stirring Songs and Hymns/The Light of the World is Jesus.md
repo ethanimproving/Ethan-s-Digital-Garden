@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/the-light-of-the-world-is-jesus/","title":"The Light of the World is Jesus"}
+dg-publish: true
+title: The Light of the World is Jesus
+author: P. P. Bliss (1875)
+audio: http://www.kjvprophecy.com/262.mp3
+index: 262
 ---
-
 
 The whole world was lost in the darkness of sin,
 The Light of the world is Jesus!
