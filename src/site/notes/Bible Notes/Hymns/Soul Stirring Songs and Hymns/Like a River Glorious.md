@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/like-a-river-glorious/","title":"Like a River Glorious"}
+dg-publish: true
+title: Like a River Glorious
+author: Frances Ridley Havergal
+audio: http://www.kjvprophecy.com/121.mp3
+index: 121
 ---
-
 
 Like a river glorious is God's perfect peace,
 over all victorious in its bright increase:
