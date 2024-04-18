@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/wonderful-grace-of-jesus/","title":"Wonderful Grace of Jesus"}
+dg-publish: true
+title: Wonderful Grace of Jesus
+author: Haldor Lillenas (1918)
+audio: http://www.kjvprophecy.com/210.mp3
+index: 210
 ---
-
 
 Wonderful grace of Jesus,
 greater than all my sin;
