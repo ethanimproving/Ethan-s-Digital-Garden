@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/jesus-lover-of-my-soul/","title":"Jesus, Lover of My Soul"}
+dg-publish: true
+title: Jesus, Lover of My Soul
+author: Charles Wesley (1740)
+audio: http://www.kjvprophecy.com/090.mp3
+index: 090
 ---
-
 
 Jesus, lover of my soul,
 let me to thy bosom fly,
