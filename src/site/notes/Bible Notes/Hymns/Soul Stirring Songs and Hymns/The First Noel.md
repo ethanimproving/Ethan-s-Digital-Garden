@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/the-first-noel/","title":"The First Noel"}
+dg-publish: true
+title: The First Noel
+author: Anonymous (1833)
+audio: http://www.kjvprophecy.com/421.mp3
+index: 421
 ---
-
 
 The first Nowell the angel did say
 was to certain poor shepherds in fields as they lay,
