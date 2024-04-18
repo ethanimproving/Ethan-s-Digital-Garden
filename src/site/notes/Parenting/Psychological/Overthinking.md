@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/parenting/psychological/overthinking/","tags":["goals","headway","books"],"created":"Mar 8, 2023, 6:59 AM"}
+dg-publish: true
+dg-created: Mar 8, 2023, 6:59 AM
+tags: [goals, headway, books]
 ---
-
 
 Overthinking means those times when we lavish mental energy on things that don’t deserve it. Those times when we can’t seem to think about anything else, even though we know our thoughts are better spent elsewhere.  
 
