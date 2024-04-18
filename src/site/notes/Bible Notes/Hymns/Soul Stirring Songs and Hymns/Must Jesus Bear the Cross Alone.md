@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/must-jesus-bear-the-cross-alone/","title":"Must Jesus Bear the Cross Alone"}
+dg-publish: true
+title: Must Jesus Bear the Cross Alone
+author: Thomas Shepherd (1693)
+audio: http://www.kjvprophecy.com/013.mp3
+index: 13
+known: 1
 ---
-
 
 Must Jesus bear the cross alone
 And all the world go free?
