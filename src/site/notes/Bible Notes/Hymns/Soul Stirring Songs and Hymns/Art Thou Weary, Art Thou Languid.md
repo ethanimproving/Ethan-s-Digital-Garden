@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/art-thou-weary-art-thou-languid/","title":"Art Thou Weary, Art Thou Languid?"}
+dg-publish: true
+title: Art Thou Weary, Art Thou Languid?
+author: St. Stephen of Mar Sabas
+audio: http://www.kjvprophecy.com/093.mp3
+index: 093
 ---
-
 
 Art thou weary, heavy laden,
 Art thou sore distrest?
