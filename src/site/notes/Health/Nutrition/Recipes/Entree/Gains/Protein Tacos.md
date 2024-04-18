@@ -1,7 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/health/nutrition/recipes/entree/gains/protein-tacos/","tags":["cookmate"]}
+dg-publish: true
+dg-date: May 04, 2023, 6:40 PM
+author: 
+source: 
+image:
+description: 
+preparation-time:
+cook-time:
+yield: 
+category: Gains
+meal: entree
+rating: 5
+tags: [cookmate]
 ---
-
 
 calories:: [[Chuck Eye Steak.cook|912]]
 
