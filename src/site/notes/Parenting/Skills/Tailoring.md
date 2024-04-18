@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/parenting/skills/tailoring/","created":"Feb 26, 2024, 9:32 PM"}
+dg-publish: true
+dg-created: Feb 26, 2024, 9:32 PM
 ---
-
 
 # Vocabulary
 
