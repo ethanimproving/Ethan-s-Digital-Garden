@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/there-is-power-in-the-blood/","title":"There is Power in the Blood"}
+dg-publish: true
+title: There is Power in the Blood
+author: Lewis E. Jones (1899)
+audio: http://www.kjvprophecy.com/023.mp3
+index: 23
+known: 1
 ---
-
 
 Would you be free from the burden of sin?
 There's pow'r in the blood, pow'r in the blood;
