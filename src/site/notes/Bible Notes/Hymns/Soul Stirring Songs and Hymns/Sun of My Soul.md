@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/sun-of-my-soul/","title":"Sun of My Soul"}
+dg-publish: true
+title: Sun of My Soul
+author: John Keble (1820)
+audio: http://www.kjvprophecy.com/108.mp3
+index: 108
 ---
-
 
 Sun of my soul, Thou Savior dear,
 it is not night if Thou be near;
