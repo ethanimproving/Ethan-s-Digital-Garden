@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/framework-discussions/picking-a-wife/feeling-disheartened/","created":"Jan 2, 2019, 1:15 PM"}
+dg-publish: true
+dg-created: Jan 2, 2019, 1:15 PM
 ---
-
 
 Dear God, help me not to be lazy today. Help me to be motivated and driven to get my work done. I'm trying to work and earn my bread, dear Lord. I want to find work, and I'm socially anxious in that context. Help me to have the peace that you promise to them that stay their minds on you. Help me not to worry about food or clothes, but to put your kingdom first. Help me to trust you, that you have something good for me in the future. Help me to be faithful, and not get too busy in my labor to do the work of God and be a fruitful Christian. The eye is not satisfied with seeing, nor the ear filled with hearing, and I'm prone to keep plugging away until it's time for bed, neglecting to those things which you've required of me.
 
