@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/journal/where-i-disagree-with-the-nifb/","tags":["journal"],"created":"Saturday, Sep 5, 2020, 11:51 AM"}
+dg-publish: true
+dg-created: Saturday, Sep 5, 2020, 11:51 AM
+tags: [journal]
 ---
-
 
 1. I have no problem with the name Yeshua (Hebrew pronunciation of Joshua)
 2. I think the rest if the dead in Revelation 20 are all unsaved, because it says they were judged by their works in chapter 21.
