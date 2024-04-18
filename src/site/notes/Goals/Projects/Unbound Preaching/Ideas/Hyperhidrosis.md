@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/hyperhidrosis/","created":"Jul 23, 2018, 9:07 PM","updated":"Oct 30, 2018, 12:10 PM"}
----
+dg-publish: true
+dg-created: Jul 23, 2018, 9:07 PM
+dg-updated: Oct 30, 2018, 12:10 PM
 
+---
 
 Today I wore my black short with a pink tie, and I did not sweat at all. Here are possible reasons:
 
