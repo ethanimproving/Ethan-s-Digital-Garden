@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/o-come-o-come-emmanuel/","title":"O Come, O Come Emmanuel"}
+dg-publish: true
+title: O Come, O Come Emmanuel
+author: Unknown
+audio: http://www.kjvprophecy.com/o_come_emmanuel.mp3
+index: o_come_emmanuel
 ---
-
 
 O come, O come, Immanuel,
 and ransom captive Israel
