@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/a-shelter-in-the-time-of-storm/","title":"A Shelter in the Time of Storm"}
+dg-publish: true
+title: A Shelter in the Time of Storm
+author: Vernon J. Charlesworth (ca. 1880)
+audio: http://www.kjvprophecy.com/146.mp3
+index: 146
 ---
-
 
 The Lord's our rock, in Him we hide,
 A shelter in the time of storm;
