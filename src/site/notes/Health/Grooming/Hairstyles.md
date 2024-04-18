@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/health/grooming/hairstyles/","created":"Jun 12, 2023, 9:49 PM"}
+dg-publish: true
+dg-created: Jun 12, 2023, 9:49 PM
 ---
-
 
 [40 Styles For Men With Wavy Hair](https://haircutinspiration.com/wavy-hairstyles-for-men/)
 
