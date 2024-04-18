@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/houses/home-builders/","created":"Jun 14, 2023, 11:20 PM"}
+dg-publish: true
+dg-created: Jun 14, 2023, 11:20 PM
 ---
-
 
 While popularity can vary over time, here are 15 well-known home builders that have a significant presence in the Dallas-Fort Worth (DFW) area:
 
