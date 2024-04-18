@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/amazon-interview-prep/","tags":["timeline","personal"]}
+dg-publish: true
+start-date: 2022-06-22
+end-date: 2022-10-27
+type: range
+color: green
+tags:
+  - timeline
+  - personal
 ---
-
 
 # June 22 - David wants me to apply for Amazon
 
