@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/houses/2923-renaissance-cir-dallas-tx-75287/","tags":["homes2023"],"created":"Jul 02, 2023, 9:16 AM"}
+dg-publish: true
+dg-created: Jul 02, 2023, 9:16 AM
+cost: 225,000
+sq-ft: 1,951
+year: 1992
+tags: [homes2023]
 ---
-
 
 [2923 Renaissance Cir, Dallas, TX 75287](https://www.zillow.com/homedetails/2923-Renaissance-Cir-Dallas-TX-75287/27273818_zpid/)
 
