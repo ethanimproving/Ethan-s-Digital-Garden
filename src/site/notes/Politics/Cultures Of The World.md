@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/politics/cultures-of-the-world/","created":"Apr 22, 2023, 12:01 PM"}
+dg-publish: true
+dg-created: Apr 22, 2023, 12:01 PM
 ---
-
 
 | Ethnicity         | Major Religions                            | Cultural Elements                                               | Countries                         | Population Estimate |
 |-------------------|--------------------------------------------|-----------------------------------------------------------------|-----------------------------------|---------------------|
