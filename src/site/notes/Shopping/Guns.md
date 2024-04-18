@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/guns/"}
+dg-publish: true
 ---
-
 
 # Ruger LCP II
 
