@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/we-have-an-anchor/","title":"We Have an Anchor"}
+dg-publish: true
+title: We Have an Anchor
+author: Priscilla J. Owens
+audio: http://www.kjvprophecy.com/140.mp3
+index: 140
 ---
-
 
 Will your anchor hold in the storms of life,
 when the clouds unfold their wings of strife?
