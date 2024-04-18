@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/renovation-skills/tools/masks/","created":"Jul 14, 2023, 12:00 PM"}
+dg-publish: true
+dg-created: Jul 14, 2023, 12:00 PM
 ---
-
 
 # NIOSH Ratings
 
@@ -33,7 +33,24 @@ Please note that the above ratings are commonly used in the United States and ar
 
 
 
-
+---
+Bible: 0
+Pray: 0
+Scripture_Typer: 0
+Sing_Hymns: 0
+Make_Bed: 0
+iRestore_Treatment: 1
+Flexbelt: 0
+Gym: 0
+Run: 0
+Clean_Room: 0
+Headway: 0
+Spanish: 0
+Yousicion: 0
+NoFap: 0
+Tiege_Hanley: 0
+Pushups: 0
+---
 
 - [x] Get [[Money/Cars/Vehicle Registration\|registration]]
 - [x] Pickup Brio from CVS
