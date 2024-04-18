@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/resource-tags/","tags":["website"],"created":"Nov 09, 2018, 9:11 AM","updated":"Nov 09, 2018, 9:11 AM"}
+dg-publish: true
+dg-created: Nov 09, 2018, 9:11 AM
+dg-updated: Nov 09, 2018, 9:11 AM
+tags: [website]
 ---
-
 
 Make "Add Scripture..." tag include "Add Source..." or something to link to Perseus libraries.
 Mirror Evernote's "Add To Notebook" / Default Notebook dropdown.
