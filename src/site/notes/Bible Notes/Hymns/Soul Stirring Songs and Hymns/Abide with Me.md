@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/abide-with-me/","title":"Abide with Me"}
+dg-publish: true
+title: Abide with Me
+author: Henry Francis Lyte (1847)
+audio: http://www.kjvprophecy.com/106.mp3
+index: 106
 ---
-
 
 Abide with me: fast falls the eventide;
 the darkness deepens; Lord, with me abide.
