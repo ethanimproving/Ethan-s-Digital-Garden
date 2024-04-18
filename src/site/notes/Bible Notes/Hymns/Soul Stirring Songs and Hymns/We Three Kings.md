@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/we-three-kings/","title":"We Three Kings"}
+dg-publish: true
+title: We Three Kings
+author: John H. Hopkins (1857)
+audio: http://www.kjvprophecy.com/427.mp3
+index: 427
 ---
-
 
 We three kings of Orient are;
 bearing gifts we traverse afar,
