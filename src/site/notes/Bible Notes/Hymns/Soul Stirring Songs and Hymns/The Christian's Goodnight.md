@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/the-christian-s-goodnight/","title":"The Christian's Goodnight"}
+dg-publish: true
+title: The Christian's Goodnight
+author: Sarah Doudney
+audio: http://www.kjvprophecy.com/123.mp3
+index: 123
 ---
-
 
 Sleep on, beloved, sleep, and take thy rest;
 Lay down thy head upon thy Saviour's breast;
