@@ -1,7 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/unclog-ac-discharge-pipe/","tags":["oakmore-renovation-task"],"created":"Jan 20, 2024, 9:28 AM"}
+dg-publish: true
+dg-created: Jan 20, 2024, 9:28 AM
+date-completed:
+parent: Utility Room
+status: Defined
+minutes: 30
+assigned-to: Ethan Miller
+depends-on: Buy Air Compressor
+tags:
+  - oakmore-renovation-task
+cost: "200"
+priority: 1
 ---
-
 [How to Unclog an AC Drain Line in an Attic](https://www.wikihow.com/Unclog-an-AC-Drain-Line-in-an-Attic)
 
 Looks like drip pan got full and the discharge pipe may be clogged a little bit
