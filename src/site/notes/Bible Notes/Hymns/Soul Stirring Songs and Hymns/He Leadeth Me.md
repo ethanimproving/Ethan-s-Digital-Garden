@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/he-leadeth-me/","title":"He Leadeth Me"}
+dg-publish: true
+title: He Leadeth Me
+author: J. H. Gilmore (1862)
+audio: http://www.kjvprophecy.com/116.mp3
+index: 116
 ---
-
 
 He leadeth me: O blessed thought!
 O words with heavenly comfort fraught!
