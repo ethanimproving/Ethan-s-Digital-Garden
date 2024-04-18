@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/some-time-we-ll-understand/","title":"Some Time We'll Understand"}
+dg-publish: true
+title: Some Time We'll Understand
+author: Maxwell N. Cornelius
+audio: http://www.kjvprophecy.com/088.mp3
+index: 088
 ---
-
 
 Not now, but in the coming years,
 It may be in the better land,
