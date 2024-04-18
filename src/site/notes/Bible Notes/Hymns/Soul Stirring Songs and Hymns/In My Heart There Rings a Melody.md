@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/in-my-heart-there-rings-a-melody/","title":"In My Heart There Rings a Melody"}
+dg-publish: true
+title: In My Heart There Rings a Melody
+author: Elton Menno Roth
+audio: http://www.kjvprophecy.com/191.mp3
+index: 191
 ---
-
 
 <h6>The Cyber Hymnal #2810</h6>
 <ul>
