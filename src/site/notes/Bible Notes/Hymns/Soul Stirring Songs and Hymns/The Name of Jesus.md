@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/the-name-of-jesus/","title":"The Name of Jesus"}
+dg-publish: true
+title: The Name of Jesus
+author: W. C. Martin (1901)
+audio: http://www.kjvprophecy.com/098.mp3
+index: 098
 ---
-
 
 The name of Jesus is so sweet,
 I love its music to repeat;
