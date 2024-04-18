@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/rain/","tags":["poetry","diary"],"created":"Oct 28, 2022, 8:05 AM"}
+dg-publish: true
+dg-created: Oct 28, 2022, 8:05 AM
+dg-updated: 
+tags: [poetry, diary]
 ---
-
 
 Rain. Nothing soothes my soul like a million droplets pattering atop the roof of my parents house. Come, my lover, and rest in my arms. We have nowhere to go except my bed to drift away into blissful sleep. And as I hold you, the rain giving us permission to stay in, I fall asleep and dream of my desire. So the cycle repeats.
 
