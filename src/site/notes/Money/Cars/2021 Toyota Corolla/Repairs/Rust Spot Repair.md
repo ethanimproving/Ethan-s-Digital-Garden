@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/money/cars/2021-toyota-corolla/repairs/rust-spot-repair/","created":"Jan 28, 2024, 10:12 PM"}
+dg-publish: true
+dg-created: Jan 28, 2024, 10:12 PM
 ---
-
 
 ![](https://lh3.googleusercontent.com/pw/ABLVV845kZEt_JZU3MSPQ6otkBgDque4QaloVyBKRBspi7WaDWrBEIPWX6j23QiHceKk6aAQVeKBMjrmmBN73EJXAExi6kl_JYYQh1Cmbo-MWoAj0RS43ijXRix3OkzNEfe0sWtn3SlX6Laz5SmqwINztVLmOw=w1287-h869-s-no-gm?authuser=1)
 
