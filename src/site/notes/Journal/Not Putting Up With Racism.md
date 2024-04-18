@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/journal/not-putting-up-with-racism/","created":"Apr 14, 2023, 8:32 AM"}
+dg-publish: true
+dg-created: Apr 14, 2023, 8:32 AM
 ---
-
 
 I'm not going to put up with that. I was born believing all skin colors are equal, but if you want to start a fight, we will fight. If you want to start being racist towards white people and making it a competition, bring it on. The world was conquered by white people, built by white people, and if you want to face off against us, we will do it again. If you want to treat us as equal, I will treat you as equal. But I won’t put up with racism. The second you attack white people, you attack me, and I will return your attacks. The difference is that I won’t superimpose your attacks on other people that share your skin color, but on other people that share your behavior.
 
