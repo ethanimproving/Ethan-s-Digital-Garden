@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/title-6-professional-etiquette/","created":"Nov 22, 2023, 1:12 PM"}
+dg-publish: true
+dg-created: Nov 22, 2023, 1:12 PM
+author: Ethan Miller
 ---
-
 # Article 1: The Speed Of Trust
 
 Derived from [13 Behaviors of High Trust Leaders](https://www.unthsc.edu/values/wp-content/uploads/sites/11/13-Behaviors-of-a-High-Trust-Leader.pdf).
