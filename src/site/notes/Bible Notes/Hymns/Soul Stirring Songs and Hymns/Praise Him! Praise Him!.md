@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/praise-him-praise-him/","title":"Praise Him! Praise Him!"}
+dg-publish: true
+title: Praise Him! Praise Him!
+author: Fanny Crosby (1869)
+audio: http://www.kjvprophecy.com/164.mp3
+index: 164
 ---
-
 
 Praise him, praise him! Jesus, our blessed redeemer!
 Sing, O earth, his wonderful love proclaim!
