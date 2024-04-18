@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/it-s-just-like-his-great-love/","title":"It's Just Like His Great Love"}
+dg-publish: true
+title: It's Just Like His Great Love
+author: Edna Randolph Worrell (1903)
+audio: http://www.kjvprophecy.com/175.mp3
+index: 175
 ---
-
 
 A friend I have called Jesus,
 Whose love is strong and true,
