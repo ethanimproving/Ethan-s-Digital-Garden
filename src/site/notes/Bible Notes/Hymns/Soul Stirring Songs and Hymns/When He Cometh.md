@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/when-he-cometh/","title":"When He Cometh"}
+dg-publish: true
+title: When He Cometh
+author: William Cushing (1856)
+audio: http://www.kjvprophecy.com/082.mp3
+index: 082
 ---
-
 
 When He cometh, when He cometh
 To make up His jewels,
