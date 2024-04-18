@@ -1,7 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/sincere-milk/","tags":["discipleship"],"created":"May 14, 2023, 5:37 PM"}
+dg-publish: true
+dg-created: May 14, 2023, 5:37 PM
+author: Pastor Shelley
+note-id: 5
+verse-reference: 1 Peter 2:2
+date-created: 05/14/2023
+date-updated: 05/14/2023
+icon: pulpit
+tags: [discipleship]
+category: Sermon Notes
 ---
-
 
 - [Rumble](https://rumble.com/v2nt62a-sincere-milk-pastor-jonathan-shelley-stedfast-baptist-church.html?start=840)
 - [God Resource](https://new.godresource.com/video/kJXlAwlWd4Z)
