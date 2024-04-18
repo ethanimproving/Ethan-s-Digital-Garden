@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/travel/packing-list/","tags":["travel"]}
+dg-publish: true
+tags: [travel]
 ---
-
 
 # Default
 
