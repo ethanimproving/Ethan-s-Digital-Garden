@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/psalms/psalm-126/","title":"Psalm 126"}
+dg-publish: true
+title: Psalm 126
+author: Steven L. Anderson
+audio: http://www.kjvprophecy.com/psalm126.mp3
+index: 0
 ---
-
 
 > [!Bible] [Psalms 126:1-6 - KJV](https://bible-api.com/Psalm+126:1-6?translation=kjv)
 > 1. When the LORD turned again the captivity of Zion, we were like them that dream.
