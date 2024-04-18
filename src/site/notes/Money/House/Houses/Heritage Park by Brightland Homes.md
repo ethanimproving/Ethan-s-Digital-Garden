@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/houses/heritage-park-by-brightland-homes/","tags":["homes2023"],"created":"Jun 15, 2023, 12:16 AM"}
+dg-publish: true
+dg-created: Jun 15, 2023, 12:16 AM
+cost: 329,990
+sq-ft: 1,520
+tags: [homes2023]
 ---
-
 
 [Heritage Park](https://www.brightlandhomes.com/new-homes/texas/dallas-fort-worth/community/Heritage-Park-183557) 
 
