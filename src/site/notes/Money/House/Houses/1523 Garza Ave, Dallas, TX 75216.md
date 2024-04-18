@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/houses/1523-garza-ave-dallas-tx-75216/","tags":["homes2023","pending"],"created":"Jun 15, 2023, 12:57 PM"}
+dg-publish: true
+cost: 246,000
+sq-ft: 1,694
+dg-created: Jun 15, 2023, 12:57 PM
+tags: [homes2023, pending]
 ---
-
 
 [1523 Garza Ave, Dallas, TX 75216](https://www.realtor.com/realestateandhomes-detail/1523-Garza-Ave_Dallas_TX_75216_M70708-47515?cid=eml_saf_property_photo)
 
