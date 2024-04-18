@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/papers/speed-in-decision-making/","tags":["parenting","relationships"],"created":"Dec 29, 2023, 9:49 AM"}
+dg-publish: true
+dg-created: Dec 29, 2023, 9:49 AM
+tags: [parenting, relationships]
 ---
-
 
 
 # Order Food Quickly
