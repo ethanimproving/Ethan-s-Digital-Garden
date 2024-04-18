@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/renovation-skills/windows/","tags":["oakmore"]}
+dg-publish: true
+gd-created: Jun 03, 2023, 4:20 PM
+priority: 5
+cost: $5,400
+cost-breakdown: $450 / window * 12 windows
+tags: [oakmore]
 ---
-
 
 # Oakmore Family Photos
 
