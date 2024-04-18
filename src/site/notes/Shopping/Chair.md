@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/chair/"}
+dg-publish: true
 ---
-
 
 # HOMCOM Massage Chair
 
