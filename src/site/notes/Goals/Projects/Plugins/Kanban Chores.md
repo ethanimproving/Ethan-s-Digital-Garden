@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/plugins/kanban-chores/","created":"Dec 15, 2023, 12:16 PM"}
+dg-publish: true
+dg-created: Dec 15, 2023, 12:16 PM
 ---
-
 
 I want a Kanban board to autogenerate chores based on the schedule defined in [[Law/Codes/The Constitution Of The Diurnal Conduct Of Individual Persons/Title 7 - Chores\|Title 7]] of the Miller Code.    
 
