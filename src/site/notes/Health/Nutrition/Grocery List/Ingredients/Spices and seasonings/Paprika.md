@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/health/nutrition/grocery-list/ingredients/spices-and-seasonings/paprika/"}
+dg-publish: true
+price: 1.12
+aisle: A13
+inventory: 1
 ---
-
 
 store:: [Walmart](https://www.walmart.com/ip/Great-Value-Paprika-2-5-oz/559839182)
 
