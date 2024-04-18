@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/audio-bible-text-scroll/","tags":["website"],"created":"Aug 02, 2018, 7:08 AM","updated":"Oct 30, 2018, 12:10 PM"}
+dg-publish: true
+dg-created: Aug 02, 2018, 7:08 AM
+dg-updated: Oct 30, 2018, 12:10 PM
+tags: [website]
 ---
-
 
 Divide the number of words from the time of an audio clip to determine the average speed that the text should scroll to display what's being read if there aren't user-defined time marks.
 
