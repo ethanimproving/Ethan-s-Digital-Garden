@@ -1,7 +1,29 @@
 ---
-{"dg-publish":true,"permalink":"/health/nutrition/recipes/entree/tacos/carne-asada-street-tacos/","tags":["cookmate"]}
+dg-publish: true
+dg-date: May 04, 2023, 9:27 PM
+author: 
+source: 
+image:
+description: Juicy carne asada stuffed inside two soft corn tortillas and topped with onions and cilantro for an authentic Mexican street taco recipe. Carne Asada street tacos, made with Carne Asada Seasoning, are the pinnacle of Mexican recipes, along with Tacos al Carbon. This steak street tacos recipe is perfect for taco Tuesday or Cinco de Mayo parties!
+preparation-time:
+cook-time:
+yield: 
+category: Mexican
+meal: entree
+rating: 
+calories: 176
+carbohydrateContent: 26 g
+cholesterolContent: 13 mg
+fatContent: 4 g
+fiberContent: 4 g
+proteinContent: 10 g
+saturatedFatContent: 1 g
+servingSize: 1 serving
+sodiumContent: 39 mg
+sugarContent: 2 g
+unsaturatedFatContent: 2 g
+tags: [cookmate]
 ---
-
 
 
 # Ingredients
