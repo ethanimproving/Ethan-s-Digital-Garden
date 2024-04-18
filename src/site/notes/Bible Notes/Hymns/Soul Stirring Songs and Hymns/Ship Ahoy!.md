@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/ship-ahoy/","title":"Ship Ahoy!"}
+dg-publish: true
+title: Ship Ahoy!
+author: E. E. Hewitt
+audio: http://www.kjvprophecy.com/473.mp3
+index: 473
 ---
-
 
 We’re sailing, sailing over life’s great sea,
 And other ships are passing by;
