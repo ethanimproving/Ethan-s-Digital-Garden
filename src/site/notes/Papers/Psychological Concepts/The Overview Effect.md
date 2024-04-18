@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/papers/psychological-concepts/the-overview-effect/","created":"Apr 28, 2023, 6:48 PM"}
+dg-publish: true
+dg-created: Apr 28, 2023, 6:48 PM
 ---
-
 
 [Neil deGrasse Tyson Is Not Afraid of Artificial Intelligence](https://youtu.be/ukhmq5on-IA?t=92)
 
