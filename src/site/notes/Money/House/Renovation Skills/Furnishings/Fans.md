@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/renovation-skills/furnishings/fans/","tags":["oakmore"]}
+dg-publish: true
+cost: $120
+priority: 1
+tags: [oakmore]
+bought: true
 ---
-
 
 # Dimensions
 
