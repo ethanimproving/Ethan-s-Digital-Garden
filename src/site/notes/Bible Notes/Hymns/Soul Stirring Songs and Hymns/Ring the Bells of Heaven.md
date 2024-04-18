@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/ring-the-bells-of-heaven/","title":"Ring the Bells of Heaven"}
+dg-publish: true
+title: Ring the Bells of Heaven
+author: W. O. Cushing
+audio: http://www.kjvprophecy.com/192.mp3
+index: 192
 ---
-
 
 Ring the bells of heaven!
 There is joy today,
