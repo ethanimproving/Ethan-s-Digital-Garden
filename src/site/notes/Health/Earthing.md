@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/earthing/","created":"Mar 15, 2024, 11:18 AM"}
+{"dg-publish":true,"permalink":"/health/earthing/"}
 ---
 
 There’s actually a ton of multi-disciplinary research done on earthing when it comes to inflammation reduction and organ function.[^1]
