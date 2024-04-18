@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/our-great-saviour/","title":"Our Great Saviour"}
+dg-publish: true
+title: Our Great Saviour
+author: J. Wilbur Chapman (1910)
+audio: http://www.kjvprophecy.com/161.mp3
+index: 161
 ---
-
 
 Jesus! what a Friend for sinners!
 Jesus! Lover of my soul;
