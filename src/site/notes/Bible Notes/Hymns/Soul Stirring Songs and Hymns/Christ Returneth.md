@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/christ-returneth/","title":"Christ Returneth"}
+dg-publish: true
+title: Christ Returneth
+author: H. L. Turner
+audio: http://www.kjvprophecy.com/074.mp3
+index: 074
 ---
-
 
 It may be at morn, when the day is awaking,
 When sunlight through darkness and shadow is breaking,
