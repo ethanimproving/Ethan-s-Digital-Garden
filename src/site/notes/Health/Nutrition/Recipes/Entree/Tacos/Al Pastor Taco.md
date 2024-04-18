@@ -1,7 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/health/nutrition/recipes/entree/tacos/al-pastor-taco/","tags":["cookmate"]}
+dg-publish: true
+dg-date: May 04, 2023, 9:27 PM
+author: 
+source: 
+image:
+description: 
+preparation-time:
+cook-time:
+yield: 
+category: 
+meal: 
+rating: 
+calories: 
+tags: [cookmate]
 ---
-
 
 
 # Ingredients
