@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/the-way-of-the-cross-leads-home/","title":"The Way of the Cross Leads Home"}
+dg-publish: true
+title: The Way of the Cross Leads Home
+author: Jessie Brown Pounds (1906)
+audio: http://www.kjvprophecy.com/004.mp3
+index: 4
+known: 1
 ---
-
 
 I must needs go home by the way of the cross,
 There's no other way but this;
