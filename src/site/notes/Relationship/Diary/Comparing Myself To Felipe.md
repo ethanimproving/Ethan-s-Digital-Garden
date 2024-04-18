@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/comparing-myself-to-felipe/","tags":["diary","breakup","suicide"],"created":"Dec 28, 2021, 3:26 PM"}
+dg-publish: true
+dg-created: Dec 28, 2021, 3:26 PM
+tags: [diary, breakup, suicide]
 ---
-
 
 A picture. Worth a thousand words, each wrapping a hundred emotions. Mariana doesn't belong with me. Felipe made her happy. I'm not good enough for her. I'm not a leader like he was. I'm not sure of myself like he was. I'm not handsome like he was. I don't have the same focus and vision in my eyes. I'm just a drifter. I'm a con artist smiling my way through the world. I don't speak with authority. I exploit stranger's compassion. I make friends and manipulate them into fighting my battles for me. I'm not good like he is. And she doesn't love me like she loved him, and she never will. I don't make her smile like him. I don't make her laugh like him. What am I?
 
