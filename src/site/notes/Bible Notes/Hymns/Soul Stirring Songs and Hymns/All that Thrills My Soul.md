@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/all-that-thrills-my-soul/","title":"All that Thrills My Soul"}
+dg-publish: true
+title: All that Thrills My Soul
+author: Thoro Harris
+audio: http://www.kjvprophecy.com/105.mp3
+index: 105
 ---
-
 
 Who can cheer the heart like Jesus,
 by His presence all divine?
