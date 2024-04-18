@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/doctrine/music/christian-contemporary/christian-rap-fights-against-soft-music-that-sacrifice-strength/","created":"Jan 07, 2021, 7:34 PM","updated":"Jan 07, 2021, 8:45 PM"}
----
+dg-publish: true
+dg-created: Jan 07, 2021, 7:34 PM
+dg-updated: Jan 07, 2021, 8:45 PM
 
+---
 
 Christian rap affords you the ability to preach to yourself without becoming weak and taken advantage of. It affords you the ability to pursue holiness without pity or nice guy syndrome. I hate it when girls talk to me because they feel bad for me. I'm a victim of pity. I'm a victim of sympathy. Christian rap is where I go when I want to feel good about my choices to live for God. It's strong. There's no repentance. There's no second thought about following Christ. Take it or leave it.
 
