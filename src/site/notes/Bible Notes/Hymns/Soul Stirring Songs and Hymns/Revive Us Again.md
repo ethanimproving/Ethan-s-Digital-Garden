@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/revive-us-again/","title":"Revive Us Again"}
+dg-publish: true
+title: Revive Us Again
+author: W. P. Mackay (1863, 1867)
+audio: http://www.kjvprophecy.com/343.mp3
+index: 343
 ---
-
 
 We praise thee, O God, for the Son of thy love,
 for Jesus who died, and is now gone above.
