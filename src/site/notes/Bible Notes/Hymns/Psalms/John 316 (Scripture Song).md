@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/psalms/john-316-scripture-song/","title":"John 3:16 (Scripture Song)"}
+dg-publish: true
+title: John 3:16 (Scripture Song)
+author: Fanny Crosby (1875)
+audio: http://www.kjvprophecy.com/john3_16.mp3
+index: 0
 ---
-
 
 To God be the glory, great things he has done!
 So loved he the world that he gave us his Son,
