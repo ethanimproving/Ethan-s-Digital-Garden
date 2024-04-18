@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/little-is-much-when-god-is-in-it/","title":"Little is Much When God is in It"}
+dg-publish: true
+title: Little is Much When God is in It
+author: Kittie L. Suffield (1924)
+audio: http://www.kjvprophecy.com/397.mp3
+index: 397
 ---
-
 
 In the harvest field now ripened
 There’s a work for all to do;
