@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/he-died-for-me/","title":"He Died for Me"}
+dg-publish: true
+title: He Died for Me
+author: John Newton
+audio: http://www.kjvprophecy.com/011.mp3
+index: 11
+known: 1
 ---
-
 
 I saw One hanging on a tree,
 In agony and blood;
