@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/silent-night-holy-night/","title":"Silent Night! Holy Night!"}
+dg-publish: true
+title: Silent Night! Holy Night!
+author: Joseph Mohr
+audio: http://www.kjvprophecy.com/431.mp3
+index: 431
 ---
-
 
 ENGLISH -
 Silent night, holy night!
