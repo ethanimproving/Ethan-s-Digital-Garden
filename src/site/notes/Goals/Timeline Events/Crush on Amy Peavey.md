@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/crush-on-amy-peavey/","tags":["timeline","crush"]}
+dg-publish: true
+start-date: 2018-08-10
+end-date: 2020-02-25
+type: range
+color: pink
+date-limit: year
+importance: 50
+tags: [timeline, crush]
 ---
-
 
 I discovered hidden affections for Amy when I became sick with the flu one day and struggled to cease fantasizing about her. I found it a most absurd notion to be so fond of a girl so much older than me, but the heart wants what it wants.  
 
