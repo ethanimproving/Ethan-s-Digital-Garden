@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/renovation-skills/furnishings/door-knobs/","created":"Oct 3, 2023, 10:23 PM"}
+dg-publish: true
+dg-created: Oct 3, 2023, 10:23 PM
+bought: true
 ---
-
 
 # Rekey A Kwikset Doorknob Handle Without Original Key
 
