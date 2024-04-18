@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/when-love-shines-in/","title":"When Love Shines In"}
+dg-publish: true
+title: When Love Shines In
+author: Carrie Ellis Breck (1874)
+audio: http://www.kjvprophecy.com/177.mp3
+index: 177
 ---
-
 
 Jesus comes with pow’r to gladden,
 When love shines in,
