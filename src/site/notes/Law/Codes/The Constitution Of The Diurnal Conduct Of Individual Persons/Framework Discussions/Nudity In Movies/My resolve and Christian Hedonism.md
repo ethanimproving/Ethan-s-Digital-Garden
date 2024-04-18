@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/framework-discussions/nudity-in-movies/my-resolve-and-christian-hedonism/","tags":["checklistitem"],"created":"Nov 8, 2021, 8:19 AM"}
+dg-publish: true
+dg-created: Nov 8, 2021, 8:19 AM
+tags: [checklistitem]
 ---
-
 
 Gill warned me you would roll your eyes at saying that, and maybe it was just how I was raised.
 
