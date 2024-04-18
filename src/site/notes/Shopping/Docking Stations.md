@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/docking-stations/"}
+dg-publish: true
 ---
-
 
 The Dell WD19TB is the gold standard. Main thing to keep in mind is the bandwidth requirements of your monitors based on resolution and Hz. A 4K monitor at 30 Hz requires 6.2 Gbps, so if you want 2 of them you will need a Thunderbolt dock (40 Gbps) since USB-C only transmits up to 10 Gbps. The new [WD19TBS](https://www.amazon.com/dp/B093NNTPPL?ref_=cm_sw_r_cp_ud_dp_R7CA7GB792MJHAG206PW&fbclid=IwAR06ZoZGXYZ2IyxOMFwmbuTIiUMIQ2plwoGuWiVUooI6TJjFBBN6fyfjfp8) has HDMI 2.0 and a better interface max data rate.
 
