@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/take-the-name-of-jesus-with-you/","title":"Take the Name of Jesus with You"}
+dg-publish: true
+title: Take the Name of Jesus with You
+author: Lydia Baxter (1870)
+audio: http://www.kjvprophecy.com/018.mp3
+index: 18
+known: 1
 ---
-
 
 Take the name of Jesus with you,
 Child of sorrow and of woe.
