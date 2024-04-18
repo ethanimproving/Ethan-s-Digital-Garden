@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/blessed-be-the-name/","title":"Blessed Be the Name"}
+dg-publish: true
+title: Blessed Be the Name
+author: Charles Wesley (1739)
+audio: http://www.kjvprophecy.com/159.mp3
+index: 159
 ---
-
 
 O for a thousand tongues to sing
 my great Redeemer's praise,
