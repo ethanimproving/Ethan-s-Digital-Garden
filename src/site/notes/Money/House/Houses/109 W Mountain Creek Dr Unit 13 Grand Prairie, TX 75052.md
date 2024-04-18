@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/houses/109-w-mountain-creek-dr-unit-13-grand-prairie-tx-75052/","tags":["homes2023"],"created":"Jun 12, 2023, 11:05 PM"}
+dg-publish: true
+dg-created: Jun 12, 2023, 11:05 PM
+cost: 210,000
+sq-ft: 1,540
+tags: [homes2023]
 ---
-
 
 [109 W Mountain Creek Dr Unit 13, Grand Prairie, TX 75052](https://www.homes.com/property/109-w-mountain-creek-dr-grand-prairie-tx-unit-13/kr1f44nhk99k0/)
 
