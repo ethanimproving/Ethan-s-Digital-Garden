@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/when-we-all-get-to-heaven/","title":"When We All Get to Heaven"}
+dg-publish: true
+title: When We All Get to Heaven
+author: E. E. Hewitt (1898)
+audio: http://www.kjvprophecy.com/056.mp3
+index: 056
 ---
-
 
 Sing the wondrous love of Jesus,
 Sing His mercy and His grace;
