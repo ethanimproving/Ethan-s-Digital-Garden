@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/now-i-belong-to-jesus/","title":"Now I Belong to Jesus"}
+dg-publish: true
+title: Now I Belong to Jesus
+author: Norman J. Clayton (1943)
+audio: http://www.kjvprophecy.com/248.mp3
+index: 248
 ---
-
 
