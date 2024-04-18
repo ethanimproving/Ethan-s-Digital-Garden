@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/when-i-can-read-my-title-clear/","title":"When I Can Read My Title Clear"}
+dg-publish: true
+title: When I Can Read My Title Clear
+author: Isaac Watts (1707)
+audio: http://www.kjvprophecy.com/045.mp3
+index: 045
 ---
-
 
 When I can read my title clear
 To mansions in the skies,
