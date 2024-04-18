@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/he-is-able-to-deliver-thee/","title":"He is Able to Deliver Thee"}
+dg-publish: true
+title: He is Able to Deliver Thee
+author: W. A. Ogden (1887)
+audio: http://www.kjvprophecy.com/260.mp3
+index: 260
 ---
-
 
 ’Tis the grandest theme through the ages rung;
 ’Tis the grandest theme for a mortal tongue;
