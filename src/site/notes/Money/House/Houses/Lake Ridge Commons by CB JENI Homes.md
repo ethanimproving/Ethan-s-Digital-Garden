@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/houses/lake-ridge-commons-by-cb-jeni-homes/","tags":["homes2023"],"created":"Jun 15, 2023, 12:16 AM"}
+dg-publish: true
+dg-created: Jun 15, 2023, 12:16 AM
+cost: 329,990
+sq-ft: 1,567
+tags: [homes2023]
 ---
-
 
 [Lake Ridge Commons](https://cbjenihomes.com/communities/cbj-lake-ridge-commons/) is in a very ideal location in everything except home.
 
