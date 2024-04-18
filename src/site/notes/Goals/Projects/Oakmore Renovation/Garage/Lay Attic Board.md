@@ -1,7 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/garage/lay-attic-board/","tags":["oakmore-renovation-task"],"created":"Jan 01, 2024, 10:19 AM"}
+dg-publish: true
+dg-created: Jan 01, 2024, 10:19 AM
+date-completed:
+parent: Garage
+status: In-Prorgess
+minutes: 120
+assigned-to:
+depends-on: Truck or Van
+tags:
+  - oakmore-renovation-task
+cost: "70"
 ---
-
 
 # Lay Sheets of Insulation
 
