@@ -1,7 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/health/nutrition/recipes/entree/gains/chicken-thigh-and-rice/","tags":["cookmate"]}
+dg-publish: true
+dg-date: May 03, 2023, 8:34 PM
+author: TMF
+source: 
+image:
+description: 
+preparation-time:
+cook-time:
+yield: 
+category: Gains
+meal: entree
+rating: 
+calories: 1,000
+tags: [cookmate]
 ---
-
 
 
 # Ingredients
