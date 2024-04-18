@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/christ-the-lord-is-risen-today/","title":"Christ the Lord is Risen Today"}
+dg-publish: true
+title: Christ the Lord is Risen Today
+author: Charles Wesley (1739)
+audio: http://www.kjvprophecy.com/033.mp3
+index: 33
+known: 1
 ---
-
 
 Christ the Lord is risen today, Alleluia!
 Earth and heaven in chorus say, Alleluia!
