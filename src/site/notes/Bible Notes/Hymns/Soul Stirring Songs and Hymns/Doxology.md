@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/doxology/","title":"Doxology"}
+dg-publish: true
+title: Doxology
+author: Thomas Ken (1674)
+audio: http://www.kjvprophecy.com/155.mp3
+index: 155
 ---
-
 
 <h6>Baptist Hymnal 199#253</h6>
 <ul>
