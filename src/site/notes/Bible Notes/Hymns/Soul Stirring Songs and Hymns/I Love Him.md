@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-love-him/","title":"I Love Him"}
+dg-publish: true
+title: I Love Him
+author: Unknown
+audio: http://www.kjvprophecy.com/181.mp3
+index: 181
 ---
-
 
 Gone from my heart the world with all its charm;
 Now thro' the blood I'm saved from all alarms;
