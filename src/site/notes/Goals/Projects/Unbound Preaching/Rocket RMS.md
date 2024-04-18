@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/rocket-rms/","created":"May 13, 2023, 11:44 PM"}
+dg-publish: true
+dg-created: May 13, 2023, 11:44 PM
 ---
-
 
 - [Rocket RMS](https://www.rockrms.com/)
 - [Rocket.rs](https://api.rocket.rs/v0.4/rocket_contrib/databases/index.html)
