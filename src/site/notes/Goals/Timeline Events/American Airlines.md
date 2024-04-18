@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/american-airlines/","tags":["timeline","personal"]}
+dg-publish: true
+start-date: 2020-01-13
+end-date: 2024-01-12
+type: range
+color: blue
+tags:
+  - timeline
+  - personal
 ---
-
 
 I had 4 really good interviews at the end of Bootcamp. I wanted to stay at Improving, but AA selected me as their first candidate. All of the other Bootcampers were offered $45k, except Paloma at $40k, and Jennifer at $35k. They offered me $55k, which is low for the industry, but for me it was the light at the end of the tunnel. I was thrilled that my life was finally coming together. It was more than any of my siblings were making, and it was my very first job ever. I was excited to get started.
 
