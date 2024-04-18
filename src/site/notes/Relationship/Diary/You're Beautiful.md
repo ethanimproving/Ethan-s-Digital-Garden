@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/you-re-beautiful/","tags":["diary","crush"],"created":"Sep 14, 2021, 2:06 AM"}
+dg-publish: true
+dg-created: Sep 14, 2021, 2:06 AM
+dg-updated: 
+tags: [diary, crush]
 ---
-
 
 Even if I close my eyes you're a beautiful person. You're not the only girl that I know, but you're the one that I like the most. You are perfect for me because of your personality. You can tease and joke, but you're not unaware of anything.
 
