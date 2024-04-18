@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/jesus-saviour-pilot-me/","title":"Jesus, Saviour, Pilot Me"}
+dg-publish: true
+title: Jesus, Saviour, Pilot Me
+author: Edward Hopper (1871)
+audio: http://www.kjvprophecy.com/120.mp3
+index: 120
 ---
-
 
 Jesus, Savior, pilot me,
 Over life's tempestuous sea:
