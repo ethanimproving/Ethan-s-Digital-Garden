@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/he-keeps-me-singing/","title":"He Keeps Me Singing"}
+dg-publish: true
+title: He Keeps Me Singing
+author: Luther B. Bridgers (1910)
+audio: http://www.kjvprophecy.com/205.mp3
+index: 205
 ---
-
 
 There's within my heart a melody;
 Jesus whispers sweet and low,
