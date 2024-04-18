@@ -1,7 +1,29 @@
 ---
-{"dg-publish":true,"permalink":"/health/nutrition/recipes/entree/tacos/flank-steak-street-tacos/","tags":["cookmate"]}
+dg-publish: true
+dg-date: May 04, 2023, 9:18 PM
+author: Alyssa Rivers
+source: https://therecipecritic.com/street-tacos/
+image:
+description: Street Tacos are delicious, amazing, and oh so mouthwatering. I cannot stop thinking about these! They are SOO delicious. You will want to gobble these all up at once!
+preparation-time: 10
+cook-time: 10
+yield: 
+category: Mexican
+meal: entree
+rating: 
+calories: 121
+carbohydrateContent: 2 g
+cholesterolContent: 45 mg
+fatContent: 4 g
+fiberContent: 1 g
+proteinContent: 18 g
+saturatedFatContent: 2 g
+servingSize: 1 serving
+sodiumContent: 1154 mg
+sugarContent: 1 g
+unsaturatedFatContent: 3 g
+tags: [cookmate]
 ---
-
 
 ![](https://therecipecritic.com/wp-content/uploads/2021/07/streettacos-1-667x1000.jpg)
 
