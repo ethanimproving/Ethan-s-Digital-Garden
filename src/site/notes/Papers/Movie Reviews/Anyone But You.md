@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/papers/movie-reviews/anyone-but-you/","tags":["moviereviews"],"created":"Feb 16, 2024, 7:36 PM"}
+dg-publish: true
+dg-created: Feb 16, 2024, 7:36 PM
+tags:
+  - moviereviews
 ---
-
 # Intro
 
 [Anyone But You](https://www.imdb.com/title/tt26047818/) is a movie that begins with two people meeting at a coffee shop and they immediately hit it off. They want out together and fell asleep talking because they were so good for each other. When the girl wakes up the next morning, she left and called her friend about the amazing time. Then her friend asks why she didn't stay until he woke up, and she returns hoping to have something with him. Just then, the guy was talking with his friend, and to avoid embarrassment acted like he didn't like this girl that ran away from him. "That girl was a disaster," he said. "I couldn't get rid of her fast enough." She overheard him say that, and understandably became angry with him and hurt.
