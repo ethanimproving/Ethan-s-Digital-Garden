@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/praise-the-saviour/","title":"Praise the Saviour"}
+dg-publish: true
+title: Praise the Saviour
+author: Benjamin Francis
+audio: http://www.kjvprophecy.com/107.mp3
+index: 107
 ---
-
 
 Praise the Savior, all ye nations,
 Praise him, all ye hosts above;
