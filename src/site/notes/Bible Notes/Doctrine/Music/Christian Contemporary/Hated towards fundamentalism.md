@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/doctrine/music/christian-contemporary/hated-towards-fundamentalism/","created":"Aug 24, 2018, 2:49 PM","updated":"Sep 22, 2018, 1:04 PM"}
----
+dg-publish: true
+dg-created: Aug 24, 2018, 2:49 PM
+dg-updated: Sep 22, 2018, 1:04 PM
 
+---
 
 "[Dear Mr. Christian](https://www.youtube.com/watch?v=2Uf8F7jIkYc)." Who is that targeted at? Christian fundamentalists. It's empowering unvelievers to hate the best Christians Christianity has to offer. The people who are the most faithful Christians in the world are the target of Lecrae's reproach. He doesn't have a point. Hes trying to make Christians afraid to stand firm for the things of God. Afraid to tell people they're sinners. Well that's funny, because the Holy Spirit testifies in the hearts of unbelievers of sin, righteousness, and the coming judgment. And we're the lights of the world. But men love darkness because light exposes their sin.
 
