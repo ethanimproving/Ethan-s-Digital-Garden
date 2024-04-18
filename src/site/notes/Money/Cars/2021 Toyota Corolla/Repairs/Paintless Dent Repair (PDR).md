@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/money/cars/2021-toyota-corolla/repairs/paintless-dent-repair-pdr/","created":"Jan 28, 2024, 2:55 PM"}
+dg-publish: true
+dg-created: Jan 28, 2024, 2:55 PM
 ---
-
 
 - [74 Pcs Car Body Paintless Repair](https://www.amazon.com/gp/product/B01MSWFVJJ/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&th=1)
 - [129pc Professional Car Paintless Dent Removal](https://www.amazon.com/Bitlyle-Remover-Professional-Paintless-Adjustable/dp/B0CBJLQ4HY/ref=asc_df_B0CBJLQ4HY/)
