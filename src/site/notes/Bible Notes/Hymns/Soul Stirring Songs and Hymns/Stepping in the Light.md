@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/stepping-in-the-light/","title":"Stepping in the Light"}
+dg-publish: true
+title: Stepping in the Light
+author: E. E. Hewitt (1890)
+audio: http://www.kjvprophecy.com/294.mp3
+index: 294
 ---
-
 
 Trying to walk in the steps of the Saviour,
 Trying to follow our Saviour and King;
