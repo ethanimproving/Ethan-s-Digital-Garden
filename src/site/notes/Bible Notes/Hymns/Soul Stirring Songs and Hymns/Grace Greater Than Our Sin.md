@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/grace-greater-than-our-sin/","title":"Grace Greater Than Our Sin"}
+dg-publish: true
+title: Grace Greater Than Our Sin
+author: Julia H. Johnston (1910)
+audio: http://www.kjvprophecy.com/208.mp3
+index: 208
 ---
-
 
 Marvelous grace of our loving Lord,
 Grace that exceeds our sin and our guilt!
