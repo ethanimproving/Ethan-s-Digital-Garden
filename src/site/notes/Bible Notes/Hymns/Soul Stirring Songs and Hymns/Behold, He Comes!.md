@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/behold-he-comes/","title":"Behold, He Comes!"}
+dg-publish: true
+title: Behold, He Comes!
+author: Albert Midlane
+audio: http://www.kjvprophecy.com/077.mp3
+index: 077
 ---
-
 
