@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/alas-and-did-my-saviour-bleed/","title":"Alas and Did My Saviour Bleed?"}
+dg-publish: true
+title: Alas and Did My Saviour Bleed?
+author: Isaac Watts (1707)
+audio: http://www.kjvprophecy.com/028.mp3
+index: 28
+known: 1
 ---
-
 
 Alas! and did my Savior bleed,
 and did my Sovereign die!
