@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/lucy-is-n-ice/","tags":["diary","joural"],"created":"Apr 29, 2023, 4:35 PM"}
+dg-publish: true
+dg-created: Apr 29, 2023, 4:35 PM
+tags: [diary, joural]
 ---
-
 
 Lucy is a genuinely fun person to talk to. She has a lot of wisdom. Her voice is sharp and confident, but showered in femininity. I like that a lot. I can already tell that I would have more enjoyable conversations with her and an easier life than with Mariana. Of course that’s not the only thing I care about. There’s the 90-10 principle. I don’t want to flee to a girl that has the 10% Mariana lacks to discover she’s missing the 90% Mariana has. I love Mariana, and I’m committed to her, and she has my loyalty. However loyalty means something different when you’re dating than when you’re married. I think it’s okay to weigh my options before we have made vows to each other.
 
