@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/angels-we-have-heard-on-high/","title":"Angels We Have Heard On High"}
+dg-publish: true
+title: Angels We Have Heard On High
+author: Unknown
+audio: http://www.kjvprophecy.com/483.mp3
+index: 483
 ---
-
 
 Angels we have heard on high,
 sweetly singing o'er the plains,
