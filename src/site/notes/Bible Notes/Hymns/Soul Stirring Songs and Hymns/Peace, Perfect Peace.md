@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/peace-perfect-peace/","title":"Peace, Perfect Peace"}
+dg-publish: true
+title: Peace, Perfect Peace
+author: Edward Henry Bickersteth
+audio: http://www.kjvprophecy.com/050.mp3
+index: 050
 ---
-
 
 Peace, perfect peace, in this dark world of sin?
 The blood of Jesus whispers peace within.
