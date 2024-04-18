@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/glory-to-his-name/","title":"Glory to His Name"}
+dg-publish: true
+known: 1
+title: Glory to His Name
+author: E. A. Hoffman (1878)
+audio: http://www.kjvprophecy.com/002.mp3
+index: 2
 ---
-
 
 Down at the cross where my Savior died,
 Down where for cleansing from sin I cried,
