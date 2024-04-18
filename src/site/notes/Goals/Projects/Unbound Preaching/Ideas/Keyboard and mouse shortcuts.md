@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/keyboard-and-mouse-shortcuts/","tags":["website"],"created":"Aug 01, 2018, 10:08 AM","updated":"Aug 01, 2018, 10:08 AM"}
+dg-publish: true
+dg-created: Aug 01, 2018, 10:08 AM
+dg-updated: Aug 01, 2018, 10:08 AM
+tags: [website]
 ---
-
 
 Shift + Scroll to increase / decrease playback speed by user set interval (default is .1).
 Scroll up / down to change volume.
