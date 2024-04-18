@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/no-one-ever-cared-for-me-like-jesus/","title":"No One Ever Cared for Me Like Jesus"}
+dg-publish: true
+title: No One Ever Cared for Me Like Jesus
+author: Charles F. Weigle
+audio: http://www.kjvprophecy.com/115.mp3
+index: 115
 ---
-
 
