@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-will-sing-the-wondrous-story/","title":"I Will Sing the Wondrous Story"}
+dg-publish: true
+title: I Will Sing the Wondrous Story
+author: Francis H. Rowley (1886)
+audio: http://www.kjvprophecy.com/196.mp3
+index: 196
 ---
-
 
 I will sing the wondrous story
 Of the Christ who died for me.
