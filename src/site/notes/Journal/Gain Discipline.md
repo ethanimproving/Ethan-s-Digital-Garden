@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/journal/gain-discipline/","created":"Jan 15, 2024, 8:57 AM"}
+dg-publish: true
+dg-created: Jan 15, 2024, 8:57 AM
 ---
-
 
 I've sometimes internally contested the Emergenetics conclusion that I lack structure.  With all of the schedules I create, and how I track my tasks every day, how could it be said I lack structure? But it's starting to make sense. Tracking tasks isn't structure. It's analysis, which scored 32% of my [[Parenting/Social/Diagnostic Statements/Ethan Miller#Emergenetics\|personality traits]]. What I lack is the **discipline** to do the things I don't want to do. I'm perfectly good at defining things to do, and analyzing metrics in how and when I do them, but actually getting myself out of bed to clean my room or read my Bible is where I lack. And now that I've identified my problem, I'm going to find ways to make the trait of discipline greater than my spontaneity so that people around me would assume I'm a type A personality.
 
