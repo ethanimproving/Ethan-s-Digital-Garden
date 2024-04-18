@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/only-a-sinner/","title":"Only a Sinner"}
+dg-publish: true
+title: Only a Sinner
+author: James M. Gray
+audio: http://www.kjvprophecy.com/207.mp3
+index: 207
 ---
-
 
 Naught have I gotten but what I received;
 Grace hath bestowed it since I have believed;
