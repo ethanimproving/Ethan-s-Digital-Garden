@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/framework-discussions/religion-taught-me-to-be-angry/","created":"Dec 31, 2021, 5:47 PM"}
+dg-publish: true
+dg-created: Dec 31, 2021, 5:47 PM
 ---
-
 
 I think I've been doing religion wrong. What has it done for me except make me bitter? I wasn't born with hatred for sin. I was taught to hate it. What has religion done for me except taught me to disapprove of others? I was angry at my friends for watching movies with nudity. I was angry at my cousin for using bad words. I was angry at the girl I love for drinking alcohol. Religion has taught me to be angry.
 
