@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/sweet-hour-of-prayer/","title":"Sweet Hour of Prayer"}
+dg-publish: true
+title: Sweet Hour of Prayer
+author: W. W. Walford (1845)
+audio: http://www.kjvprophecy.com/301.mp3
+index: 301
 ---
-
 
 Sweet hour of prayer! sweet hour of prayer!
 that calls me from a world of care,
