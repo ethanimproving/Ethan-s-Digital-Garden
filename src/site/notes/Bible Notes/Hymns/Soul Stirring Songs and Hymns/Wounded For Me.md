@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/wounded-for-me/","title":"Wounded For Me"}
+dg-publish: true
+title: Wounded For Me
+author: Unknown
+audio: http://www.kjvprophecy.com/025.mp3
+index: 25
+known: 1
 ---
-
 
 Wounded for me, wounded for me,
 Wounded for me, He was wounded for me.
