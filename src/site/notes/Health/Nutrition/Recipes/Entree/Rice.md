@@ -1,7 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/health/nutrition/recipes/entree/rice/","tags":["cookmate"]}
+dg-publish: true
+dg-date: 
+author: 
+source: 
+image:
+description: 
+preparation-time: 3
+cook-time: 10
+yield: 
+category: 
+meal: 
+rating: 
+calories: 
+tags: [cookmate]
 ---
-
 
 ![](https://d3u8pti8i6gm88.cloudfront.net/medias/img/recipes/44450_Rice_JNgRRIA.jpg)
 
