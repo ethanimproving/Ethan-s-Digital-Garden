@@ -1,7 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/travel/2023-jul-19-smf-red-hot-preaching-conference/","tags":["timeline","missions"],"created":"Jul 19, 2023, 10:16 PM"}
+dg-publish: true
+dg-created: Jul 19, 2023, 10:16 PM
+start-date: 2023-07-20
+end-date: 2023-07-23
+days-traveled: 4
+type: range
+color: green
+door-lock: 6493
+corperate-code: Amer0137
+wifi: Sutley Home
+pwd: Sactown280
+tags: [timeline, missions]
 ---
-
 
 # Itinerary
 
