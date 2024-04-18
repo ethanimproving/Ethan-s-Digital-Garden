@@ -1,7 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/crush-on-kayleigh-forbes/","title":"Crush on Kayleigh Forbes","tags":["timeline","crush"]}
+dg-publish: true
+start-date: 2009-07-05
+end-date: 2013-01-28
+type: range
+color: pink
+title: Crush on Kayleigh Forbes
+date-limit: year
+importance: 30
+tags: [timeline, crush]
 ---
-
 
 If my memory serves me correctly from yesterday, I asked God to put truth in my mind, I was feeling somewhat alone; hopeless of Eros. But I barely mentioned it in a metaphor that his plan for me be fulfilled, that the empty replacements I tried loving would stop. 
 
