@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/journal/why-web-development/","tags":["work","favorites"],"created":"Nov 28, 2018, 4:15 PM"}
+dg-publish: true
+dg-created: Nov 28, 2018, 4:15 PM
+tags: [work, favorites]
 ---
-
 
 Maybe I chose the wrong profession. Maybe I like being around people more than I thought I did. Last time somebody asked my, "Why web development?" I simply responded, "You've got to choose something." That's true, but it's not my answer. I started doing web development because I bought a book on sale at half-price books. I was planning just to make a living using principles of technical analysis in trading options. But I decided to learn a new skill. I had learned graphic design, and I loved it, but I didn't know how to deploy it in a job. I started a YouTube channel called "Amplify Ministries" because I realized the world didn't need me to flip burgers. There's enough production in our world, the problem is in distribution. And the biggest problems of my generation is not hunger, but complacency. Bad parenting. The world needs to be parented, and the world needs to be taught. The world needs life changing spiritual awakening, and so I started putting my time towards making sermon jams. I would extract a couple of minutes from a sermon that gave me an epiphany, mix it with music in FL Studio, add kinetic typography in After Effects, and publish the content on YouTube. John Piper said, "Books don't change lives. Sentences do." Dave Johnson observed that books are 98% fluff and 2% value. I was extracting those short genes in the whole string and giving it to my subscribers. There's too much information in the world. My job was to sort through it and preserve the valuable bits, and make it look good so that it will stand out and not get lost in the overload of information that's out there. People don't have time to listen to everything on YouTube. You need quality to make it worth listening to.
 
