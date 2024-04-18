@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/journal/structure-vs-hyper-focus/","created":"Dec 21, 2023, 11:47 PM"}
+dg-publish: true
+dg-created: Dec 21, 2023, 11:47 PM
 ---
-
 
 In order to be really structured you have to be good at juggling multiple things. The trade off is focus. I get hyper-focused on one task and devote all of my attention and time to it. If I'm researching drywall techniques in preparation for a project, I'm going to be on my laptop until I fall asleep. I'm not going to stop to clean my room, and learn Spanish, and practice singing on Youcision. A structured person would stop the eminent task to complete the other tasks he has for the day. Whereas I want to [[Papers/Coming In Late#Ride Inspiration Until It Ends\|ride inspiration until it dies]] and avoid interrupting the momentum I've built up. There are a certain number of ideas in my head and if I stop my current task to complete other tasks, those ideas will disappear. I'll lose them and forget them, and the loss aversion prevents me from being a structured person.
 
