@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/this-is-my-father-s-world/","title":"This is My Father's World"}
+dg-publish: true
+title: This is My Father's World
+author: Maltbie D. Babcock (1901)
+audio: http://www.kjvprophecy.com/472.mp3
+index: 472
 ---
-
 
 This is my Father's world,
 And to my listening ears
