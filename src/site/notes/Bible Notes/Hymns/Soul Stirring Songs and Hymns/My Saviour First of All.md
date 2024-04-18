@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/my-saviour-first-of-all/","title":"My Saviour First of All"}
+dg-publish: true
+title: My Saviour First of All
+author: Fanny Crosby (1894)
+audio: http://www.kjvprophecy.com/046.mp3
+index: 046
 ---
-
 
 When my lifework is ended and I cross the swelling tide,
 When the bright and glorious morning I shall see;
