@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/the-haven-of-rest/","title":"The Haven of Rest"}
+dg-publish: true
+title: The Haven of Rest
+author: H. L. Gilmour (1885)
+audio: http://www.kjvprophecy.com/138.mp3
+index: 138
 ---
-
 
 My soul in sad exile was out on life's sea,
 So burdened with sin, and distressed,
