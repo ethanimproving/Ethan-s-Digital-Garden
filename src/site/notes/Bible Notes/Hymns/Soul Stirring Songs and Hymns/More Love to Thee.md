@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/more-love-to-thee/","title":"More Love to Thee"}
+dg-publish: true
+title: More Love to Thee
+author: E. Prentiss (1856)
+audio: http://www.kjvprophecy.com/314.mp3
+index: 314
 ---
-
 
 More love to Thee, O Christ,
 More love to Thee!
