@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/tis-so-sweet-to-trust-in-jesus/","title":"Tis So Sweet to Trust in Jesus"}
+dg-publish: true
+title: Tis So Sweet to Trust in Jesus
+author: Louisa M. R. Stead (1882)
+audio: http://www.kjvprophecy.com/127.mp3
+index: 127
 ---
-
 
 'Tis so sweet to trust in Jesus,
 and to take him at his word;
