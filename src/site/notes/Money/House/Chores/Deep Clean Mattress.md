@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/chores/deep-clean-mattress/","created":"Dec 15, 2023, 12:07 PM"}
+dg-publish: true
+dg-created: Dec 15, 2023, 12:07 PM
 ---
-
 
 # Hydrogen Peroxide, Soap, and Baking Soda
 
