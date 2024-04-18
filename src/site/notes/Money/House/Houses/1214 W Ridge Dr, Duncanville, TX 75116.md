@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/houses/1214-w-ridge-dr-duncanville-tx-75116/","tags":["homes2023"],"created":"Jun 16, 2023, 10:45 PM"}
+dg-publish: true
+dg-created: Jun 16, 2023, 10:45 PM
+cost: 289,000
+sq-ft: 1,722
+year: 1980
+tags: [homes2023]
 ---
-
 
 [1214 W Ridge Dr, Duncanville, TX 75116](https://www.zillow.com/homedetails/1214-W-Ridge-Dr-Duncanville-TX-75116/27211625_zpid/?)
 
