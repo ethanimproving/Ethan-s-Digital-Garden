@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/away-in-a-manger/","title":"Away in a Manger"}
+dg-publish: true
+title: Away in a Manger
+author: Unknown
+audio: http://www.kjvprophecy.com/433.mp3
+index: 433
 ---
-
 
 Away in a manger, no crib for a bed,
 the little Lord Jesus laid down his sweet head.
