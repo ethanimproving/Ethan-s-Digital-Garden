@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/renovation-skills/yard-and-outside/outside-siding/","tags":["oakmore"],"created":"Jun 03, 2023, 4:21 PM"}
+dg-publish: true
+dg-created: Jun 03, 2023, 4:21 PM
+priority: 2
+cost: $5,000
+tags: [oakmore]
 ---
-
 
 # Oakmore
 
