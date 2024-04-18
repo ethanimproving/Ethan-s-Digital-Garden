@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/losing-my-virginity/","tags":["diary","joural"],"created":"Feb 24, 2022, 7:02 PM"}
+dg-publish: true
+dg-created: Feb 24, 2022, 7:02 PM
+dg-updated: 
+tags: [diary, joural]
 ---
-
 
 I don't want to do it. My desires aren't uncontrollable. I have every inch of the handle gripped. I'm not doing it for me. I'm doing it for her. Not to feed her desires, but because I know it will make her happy. It will make her smile when I pursue her in bed. And if I don't, especially now, especially after everything I said, she will be disappointed. It will be worse than disappointment, because of everything I put in her head. She doesn't know what to expect. But I do. I expect to find a change of clothes in her bags. I expect to find birth control pills and her legs shaved. She doesn't know what will happen, but she's planning for what she hopes will happen. And if I don't give myself to her, if I don't let her give herself to me, it will be hope deferred.
 
