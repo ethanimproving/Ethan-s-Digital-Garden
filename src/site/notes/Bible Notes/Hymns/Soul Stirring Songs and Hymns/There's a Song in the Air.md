@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/there-s-a-song-in-the-air/","title":"There's a Song in the Air"}
+dg-publish: true
+title: There's a Song in the Air
+author: Josiah G. Holland (1872)
+audio: http://www.kjvprophecy.com/420.mp3
+index: 420
 ---
-
 
 There's a song in the air!
 There's a star in the sky!
