@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/angels-from-the-realms-of-glory/","title":"Angels From the Realms of Glory"}
+dg-publish: true
+title: Angels From the Realms of Glory
+author: James Montgomery (1816)
+audio: http://www.kjvprophecy.com/432.mp3
+index: 432
 ---
-
 
 Angels from the realms of glory,
 wing your flight o'er all the earth;
