@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/saviour-like-a-shepherd-lead-us/","title":"Saviour, Like a Shepherd Lead Us"}
+dg-publish: true
+title: Saviour, Like a Shepherd Lead Us
+author: Unknown
+audio: http://www.kjvprophecy.com/109.mp3
+index: 109
 ---
-
 
 Savior, like a shepherd lead us,
 Much we need Thy tender care;
