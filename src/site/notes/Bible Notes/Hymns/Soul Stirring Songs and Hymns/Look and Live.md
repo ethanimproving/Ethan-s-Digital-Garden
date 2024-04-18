@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/look-and-live/","title":"Look and Live"}
+dg-publish: true
+title: Look and Live
+author: William A. Ogden (1887)
+audio: http://www.kjvprophecy.com/257.mp3
+index: 257
 ---
-
 
 I’ve a message from the Lord, Hallelujah!
 The message unto you I’ll give.
