@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/throw-out-the-lifeline/","title":"Throw Out the Lifeline"}
+dg-publish: true
+title: Throw Out the Lifeline
+author: Edward S. Ufford (1888)
+audio: http://www.kjvprophecy.com/370.mp3
+index: 370
 ---
-
 
 Throw out the lifeline across the dark wave;
 There is a brother whom someone should save;
