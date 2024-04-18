@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/choose-a-girl-who-will-support-you/","tags":["favorites"],"created":"Apr 10, 2023, 2:20 PM"}
+dg-publish: true
+dg-created: Apr 10, 2023, 2:20 PM
+tags: [favorites]
 ---
-
 
 A lot of guys say they want a girl who is smart, who has ambitions and goals, who challenges them. That's not the kind of girl you want. You have your boys to be smart. What you want in a woman is someone who will [[Relationship/Diary/Smart vs. Submissive\|support you]] no matter what, someone to strengthen you when you're questioning yourself, someone who's ride or die with you, and she believes in you and pushes you to create [[Goals/Checklist/Life's Goals\|the vision]] you have. You have enough guy friends to tell you if your idea is stupid or not. What you need a woman for is to have someone standing behind you, and you know that no matter what, you have one stable thing in your life, and she will be your cheerleader the entire journey towards the finish line, and she's with you the whole way. That's what I want in a woman. So you can have the smart girl with her goals and ambitions, you can have the girl that will argue with you every night, you can have the girl who will question every decision you make, but as for me, I want a girl who loves me. I will choose the girl who respects me and trusts me so much that she will follow me on whatever path I choose for our life. When you have [[Relationship/Relationship Tips#Your Wife Determines Your Success\|that kind of woman]] in your life, you have a serious advantage over the other men who are competing with a double eye and half their heart because their wife was questioning them.
