@@ -1,7 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/backyard/fix-backyard-ground-cable/","tags":["oakmore-renovation-task"],"created":"Jan 01, 2024, 3:29 PM"}
+dg-publish: true
+dg-created: Jan 01, 2024, 3:29 PM
+date-completed:
+parent: Backyard
+status: Defined
+minutes: 15
+assigned-to: John Ball
+depends-on:
+tags:
+  - oakmore-renovation-task
 ---
-
 
 This ground cable got caught on the mower while I was cutting the grass. Not sure if it was connected to something else or not. I couldn't locate any other cabling.
 
