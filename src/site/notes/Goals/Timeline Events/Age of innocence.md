@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/age-of-innocence/","tags":["timeline","personal"]}
+dg-publish: true
+start-date: 1996-03-22
+end-date: 2009-03-08
+type: range
+color: gray
+date-limit: year
+importance: 50
+tags: [timeline, personal]
 ---
-
 
 > [!Bible] [Romans 7:9 - KJV](https://bible-api.com/Romans+7:9?translation=kjv)
 > 9. For I was alive without the law once: but when the commandment came, sin revived, and I died.
