@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/verily-verily/","title":"Verily, Verily"}
+dg-publish: true
+title: Verily, Verily
+author: James McGranahan
+audio: http://www.kjvprophecy.com/263.mp3
+index: 263
 ---
-
 
 Oh, what a Saviour that He died for me!
 From condemnation He hath made me free;
