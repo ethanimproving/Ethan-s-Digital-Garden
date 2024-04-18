@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/under-his-wings/","title":"Under His Wings"}
+dg-publish: true
+title: Under His Wings
+author: William Cushing
+audio: http://www.kjvprophecy.com/103.mp3
+index: 103
 ---
-
 
 Under His wings I am safely abiding;
 Though the night deepens and tempests are wild,
