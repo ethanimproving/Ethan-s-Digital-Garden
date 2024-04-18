@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/let-the-joy-overflow/","title":"Let the Joy Overflow"}
+dg-publish: true
+title: Let the Joy Overflow
+author: E. E. Hewitt
+audio: http://www.kjvprophecy.com/199.mp3
+index: 199
 ---
-
 
 There’s a clear fountain flowing
 From the bright throne above,
