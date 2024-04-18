@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/there-is-a-fountain-filled-with-blood/","title":"There is a Fountain Filled with Blood"}
+dg-publish: true
+title: There is a Fountain Filled with Blood
+author: William Cowper (1772)
+audio: http://www.kjvprophecy.com/019.mp3
+index: 19
+known: 1
 ---
-
 
 There is a fountain filled with blood
 Drawn from Immanuel's veins;
