@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/jesus-jesus-jesus/","title":"Jesus! Jesus! Jesus!"}
+dg-publish: true
+title: Jesus! Jesus! Jesus!
+author: Luther B. Bridgers (1910)
+audio: http://www.kjvprophecy.com/085.mp3
+index: 085
 ---
-
 
 There's within my heart a melody;
 Jesus whispers sweet and low,
