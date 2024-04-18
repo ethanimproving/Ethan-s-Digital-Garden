@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/my-latest-sun-is-sinking-fast/","title":"My Latest Sun is Sinking Fast"}
+dg-publish: true
+title: My Latest Sun is Sinking Fast
+author: Jefferson Hascall (1860)
+audio: http://www.kjvprophecy.com/042.mp3
+index: 042
 ---
-
 
 My latest sun is sinking fast,
 my race is nearly run;
