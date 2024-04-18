@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/o-happy-day/","title":"O Happy Day"}
+dg-publish: true
+title: O Happy Day
+author: Philip Doddridge (1755)
+audio: http://www.kjvprophecy.com/212.mp3
+index: 212
 ---
-
 
 O happy day that fixed my choice
 On Thee, my Savior and my God!
