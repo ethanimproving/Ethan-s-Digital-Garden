@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/dated-jennifer/","tags":["timeline","crush","breakup"]}
+dg-publish: true
+start-date: 2019-10-25
+end-date: 2019-12-13
+type: range
+color: pink
+date-limit: year
+importance: 50
+tags: [timeline, crush, breakup]
 ---
-
 
 Dear Jennifer,  
 
