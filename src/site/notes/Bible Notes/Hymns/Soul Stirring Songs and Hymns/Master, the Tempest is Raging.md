@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/master-the-tempest-is-raging/","title":"Master, the Tempest is Raging"}
+dg-publish: true
+title: Master, the Tempest is Raging
+author: Mary Ann Baker
+audio: http://www.kjvprophecy.com/136.mp3
+index: 136
 ---
-
 
 Master, the tempest is raging!
 The billows are tossing high!
