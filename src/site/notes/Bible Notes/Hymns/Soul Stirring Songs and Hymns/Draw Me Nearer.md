@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/draw-me-nearer/","title":"Draw Me Nearer"}
+dg-publish: true
+title: Draw Me Nearer
+author: Fanny Crosby (1875)
+audio: http://www.kjvprophecy.com/324.mp3
+index: 324
 ---
-
 
 I am Thine, O Lord, I have heard Thy voice,
 And it told Thy love to me;
