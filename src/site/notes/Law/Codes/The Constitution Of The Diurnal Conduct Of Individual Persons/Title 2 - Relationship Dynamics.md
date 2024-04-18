@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/title-2-relationship-dynamics/","created":"Nov 13, 2023, 11:12 PM"}
+dg-publish: true
+dg-created: Nov 13, 2023, 11:12 PM
+author: Ethan Miller
 ---
-
 
 # Article 1: Duties Of The Husband
 
