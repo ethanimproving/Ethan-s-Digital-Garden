@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/count-your-blessings/","title":"Count Your Blessings"}
+dg-publish: true
+title: Count Your Blessings
+author: Johnson Oatman (1897)
+audio: http://www.kjvprophecy.com/439.mp3
+index: 439
 ---
-
 
 When upon life's billows you are tempest tossed,
 When you are discouraged, thinking all is lost,
