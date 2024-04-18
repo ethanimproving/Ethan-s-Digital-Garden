@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-ll-be-so-glad/","title":"I'll Be So Glad"}
+dg-publish: true
+title: I'll Be So Glad
+author: Unknown
+audio: http://www.kjvprophecy.com/048.mp3
+index: 048
 ---
-
 
 <h6>Small Church Music #5873</h6>
 <ul>
