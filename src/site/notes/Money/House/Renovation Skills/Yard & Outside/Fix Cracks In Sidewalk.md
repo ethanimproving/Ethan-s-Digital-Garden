@@ -1,7 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/renovation-skills/yard-and-outside/fix-cracks-in-sidewalk/","tags":["oakmore","oakmore-renovation-task"],"created":"Aug 28, 2023, 9:58 PM"}
+dg-publish: true
+dg-created: Aug 28, 2023, 9:58 PM
+cost: $50
+priority: 5
+parent: Garage
+status: Defined
+minutes: 60
+assigned-to:
+parent-task:
+tags:
+  - oakmore
+  - oakmore-renovation-task
 ---
-
 
 # Get Mud Out Of Cracks
 
