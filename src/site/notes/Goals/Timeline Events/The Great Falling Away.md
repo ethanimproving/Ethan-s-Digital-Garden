@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/the-great-falling-away/","tags":["timeline","salvation"]}
+dg-publish: true
+start-date: 2016-07-12
+date-limit: year
+importance: 50
+tags: [timeline, salvation]
 ---
-
 
 [The Great Falling Away - Sunday Evening Service 7-10-16 sanderson1611 1:05:08](https://www.youtube.com/watch?v=UeJkK0UX-AU)
 
