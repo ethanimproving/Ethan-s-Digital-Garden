@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/singing-i-go/","title":"Singing I Go"}
+dg-publish: true
+title: Singing I Go
+author: Eliza E. Hewitt
+audio: http://www.kjvprophecy.com/197.mp3
+index: 197
 ---
-
 
 The trusting heart to Jesus clings,
 Nor any ill forbodes,
