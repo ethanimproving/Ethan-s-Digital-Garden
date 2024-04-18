@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/heavenly-sunlight/","title":"Heavenly Sunlight"}
+dg-publish: true
+title: Heavenly Sunlight
+author: Henry J. Zelley (1899)
+audio: http://www.kjvprophecy.com/230.mp3
+index: 230
 ---
-
 
 Walking in sunlight, all of my journey,
 over the mountains, through the deep vale;
