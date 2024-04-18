@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/just-as-i-am/","title":"Just As I Am"}
+dg-publish: true
+title: Just As I Am
+author: Charlotte Elliott
+audio: http://www.kjvprophecy.com/270.mp3
+index: 270
 ---
-
 
 Just as I am, without one plea,
 but that thy blood was shed for me,
