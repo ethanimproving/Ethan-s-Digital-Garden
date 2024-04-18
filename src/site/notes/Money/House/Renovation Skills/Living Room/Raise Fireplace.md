@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/renovation-skills/living-room/raise-fireplace/","tags":["oakmore"]}
+dg-publish: true
+cost: $0
+priority: 0
+tags: [oakmore]
 ---
-
 
 After looking at videos, this may not need to be raised at all. 
 
