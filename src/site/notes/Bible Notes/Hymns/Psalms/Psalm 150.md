@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/psalms/psalm-150/","title":"Psalm 150"}
+dg-publish: true
+title: Psalm 150
+author: Steven L. Anderson
+audio: http://www.kjvprophecy.com/psalm150.mp3
+index: 0
 ---
-
 
 > [!Bible] [Psalms 150:1-6 - KJV](https://bible-api.com/Psalm+150:1-6?translation=kjv)
 > 1. Praise ye the LORD. Praise God in his sanctuary: praise him in the firmament of his power.
