@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/we-shall-shine-as-the-stars/","title":"We Shall Shine as the Stars"}
+dg-publish: true
+title: We Shall Shine as the Stars
+author: Francis Scott Key (1814)
+audio: http://www.kjvprophecy.com/069.mp3
+index: 069
 ---
-
 
 O say, can you see, by the dawn's early light,
 What so proudly we hailed at the twilight's last gleaming,
