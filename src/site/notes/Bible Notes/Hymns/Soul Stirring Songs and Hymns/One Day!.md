@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/one-day/","title":"One Day!"}
+dg-publish: true
+title: One Day!
+author: J. Wilbur Chapman (1910)
+audio: http://www.kjvprophecy.com/017.mp3
+index: 017
 ---
-
 
 One day when heaven was filled with His praises,
 One day when sin was as black as could be,
