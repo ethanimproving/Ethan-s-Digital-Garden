@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/soul-stirring-database/"}
+dg-publish: true
+index: 0
+database-plugin: basic
 ---
-
 
 ```yaml:dbfolder
 name: new database
