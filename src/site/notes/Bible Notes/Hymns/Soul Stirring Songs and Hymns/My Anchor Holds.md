@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/my-anchor-holds/","title":"My Anchor Holds"}
+dg-publish: true
+title: My Anchor Holds
+author: W. C. Martin
+audio: http://www.kjvprophecy.com/134.mp3
+index: 134
 ---
-
 
 Tho’ the angry surges roll
 On my tempest-driven soul,
