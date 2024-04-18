@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/christ-receiveth-sinful-men/","title":"Christ Receiveth Sinful Men"}
+dg-publish: true
+title: Christ Receiveth Sinful Men
+author: Erdmann Neumeister (1718)
+audio: http://www.kjvprophecy.com/258.mp3
+index: 258
 ---
-
 
 Sinners Jesus will receive:
 Sound this word of grace to all
