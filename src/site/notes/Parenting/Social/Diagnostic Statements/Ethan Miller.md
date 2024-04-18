@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/parenting/social/diagnostic-statements/ethan-miller/","created":"Sep 22, 2023, 7:10 PM"}
+dg-publish: true
+dg-created: Sep 22, 2023, 7:10 PM
 ---
-
 # Strength Finders
 
 At my first consulting company they had me take Gallup's Strength Finders, and my number two strength was "Activator."
