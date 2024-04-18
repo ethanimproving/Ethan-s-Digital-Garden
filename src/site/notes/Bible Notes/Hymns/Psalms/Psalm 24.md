@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/psalms/psalm-24/","title":"Psalm 24"}
+dg-publish: true
+title: Psalm 24
+author: Steven L. Anderson
+audio: http://www.kjvprophecy.com/psalm24.mp3
+index: 0
 ---
-
 
 Lift up your heads, ye mighty gates;
 behold, the King of glory waits;
