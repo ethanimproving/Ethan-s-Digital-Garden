@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/journal/never-let-yourself-become-comfortable/","created":"Jan 12, 2024, 8:53 AM"}
+dg-publish: true
+dg-created: Jan 12, 2024, 8:53 AM
 ---
-
 [Don’t ever be comfortable at work](https://www.youtube.com/watch?v=xShl6aDZz0k)
 # Embracing Discomfort for Growth
 
