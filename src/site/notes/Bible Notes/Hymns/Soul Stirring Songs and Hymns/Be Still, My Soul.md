@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/be-still-my-soul/","title":"Be Still, My Soul"}
+dg-publish: true
+title: Be Still, My Soul
+author: Kathrina von Schlegel
+audio: http://www.kjvprophecy.com/112.mp3
+index: 112
 ---
-
 
 Be still, my soul; the Lord is on your side;
 bear patiently the cross of grief or pain;
