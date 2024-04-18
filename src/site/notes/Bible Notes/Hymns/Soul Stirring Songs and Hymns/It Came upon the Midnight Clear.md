@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/it-came-upon-the-midnight-clear/","title":"It Came upon the Midnight Clear"}
+dg-publish: true
+title: It Came upon the Midnight Clear
+author: Edmund H. Sears (1849)
+audio: http://www.kjvprophecy.com/428.mp3
+index: 428
 ---
-
 
 It came upon the midnight clear,
 that glorious song of old,
