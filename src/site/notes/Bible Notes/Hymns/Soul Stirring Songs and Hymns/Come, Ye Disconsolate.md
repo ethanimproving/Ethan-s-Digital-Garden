@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/come-ye-disconsolate/","title":"Come, Ye Disconsolate"}
+dg-publish: true
+title: Come, Ye Disconsolate
+author: Unknown
+audio: http://www.kjvprophecy.com/099.mp3
+index: 099
 ---
-
 
 Come, you disconsolate, where'er you languish;
 come to the mercy seat, fervently kneel.
