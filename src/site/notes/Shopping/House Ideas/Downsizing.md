@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/house-ideas/downsizing/"}
+dg-publish: true
 ---
-
 
 # Video Capture Card | Dazzle by Pinnacle
 
