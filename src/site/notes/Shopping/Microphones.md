@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/microphones/","created":"Oct 06, 2023, 10:15 PM"}
+dg-publish: true
+dg-created: Oct 06, 2023, 10:15 PM
 ---
-
 
 # Blue YetiA
 
