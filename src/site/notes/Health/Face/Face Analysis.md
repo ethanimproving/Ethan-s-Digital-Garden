@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/health/face/face-analysis/","created":"May 28, 2023, 8:28 AM"}
+dg-publish: true
+dg-created: May 28, 2023, 8:28 AM
 ---
-
 
 [Face Analysis & Ratings - Wheat Waffles](https://youtube.com/playlist?list=PL1fAbCnE4fPaHBWXzaYcm70HRlVTyfT7W)
 
