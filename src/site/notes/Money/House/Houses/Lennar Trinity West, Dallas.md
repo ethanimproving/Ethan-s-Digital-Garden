@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/houses/lennar-trinity-west-dallas/","tags":["homes2023"],"created":"Jun 12, 2023, 8:24 PM"}
+dg-publish: true
+dg-created: Jun 12, 2023, 8:24 PM
+sq-ft: 1,685
+cost: 320,000
+tags: [homes2023]
 ---
-
 
 # Info
 
