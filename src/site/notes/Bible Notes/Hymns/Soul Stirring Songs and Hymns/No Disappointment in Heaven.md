@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/no-disappointment-in-heaven/","title":"No Disappointment in Heaven"}
+dg-publish: true
+title: No Disappointment in Heaven
+author: Frederick M. Lehman
+audio: http://www.kjvprophecy.com/040.mp3
+index: 40
+known: 1
 ---
-
 
 There’s no disappointment in Heaven,
 No weariness, sorrow or pain;
