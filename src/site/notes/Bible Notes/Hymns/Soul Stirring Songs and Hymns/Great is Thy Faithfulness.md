@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/great-is-thy-faithfulness/","title":"Great is Thy Faithfulness"}
+dg-publish: true
+title: Great is Thy Faithfulness
+author: Thomas O. Chisholm (1923)
+audio: http://www.kjvprophecy.com/441.mp3
+index: 441
 ---
-
 
 Great is thy faithfulness, O God my Father,
 there is no shadow of turning with thee.
