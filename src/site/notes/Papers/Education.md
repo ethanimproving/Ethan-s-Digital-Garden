@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/papers/education/","created":"Jun 26, 2023, 5:35 PM"}
+dg-publish: true
+dg-created: Jun 26, 2023, 5:35 PM
 ---
-
 
 The best learning you will ever do is self taught. Your mind may wander in a lecture, but your own interests will have all of your attention. Information that is useful is 100 times easier for your brain to remember, based on Information Processing Theory. The more context you have for a fact, and the more connections to other pieces of information, the easier it is to recall.
 
@@ -31,7 +31,7 @@ It is better to seek out information out of curiosity than to be given informati
 
 # Social Aspect
 
-Kids shouldn't depend on school for their social lives. What happens in many cases is that people get out of school and never make friends after that. There should be other establishments in place for people's social lives. Church, hobby groups, boy scouts, normalizing meeting people at the park. The problem with school friendships is that **they’re only friends with you as long as they’re with you in the place that you’re forced to be**. You can find [[Social Skills/Charisma Matrix\|online social training]] and have a flourishing social life without depending on school for that, and I would argue it's better to do it that way, because then your social life doesn't die when you graduate.
+Kids shouldn't depend on school for their social lives. What happens in many cases is that people get out of school and never make friends after that. There should be other establishments in place for people's social lives. Church, hobby groups, boy scouts, normalizing meeting people at the park. The problem with school friendships is that **they’re only friends with you as long as they’re with you in the place that you’re forced to be**. You can find [[Social SKills/Charisma Matrix\|online social training]] and have a flourishing social life without depending on school for that, and I would argue it's better to do it that way, because then your social life doesn't die when you graduate.
 
 # College Sparks Creative Thought
 
