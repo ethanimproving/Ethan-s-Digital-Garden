@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/title-8-nutrition/","created":"Jan 07, 2024, 1:02 AM"}
+dg-publish: true
+dg-created: Jan 07, 2024, 1:02 AM
 ---
-
 
 # Article 1: Fat Loss
 
