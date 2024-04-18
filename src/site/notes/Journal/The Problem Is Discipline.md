@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/journal/the-problem-is-discipline/","tags":["journal"],"created":"May 07, 2023, 11:01 AM"}
+dg-publish: true
+dg-created: May 07, 2023, 11:01 AM
+tags: [journal]
 ---
-
 
 Making a beautiful app to track your habits isn't going to help you build habits. Discipline is. I have made the mistake of looking far and wide for the best checklist app, schedule app,  Bible apps, reading plans, note taking apps, and at the end of the day none of that helped in any measurable way to accomplish my goals. Because I'm focused on the wrong thing. I'm focused on the outward appearance, and the skin, rather than the substance of the issue. Even when I had the best checklist app on Android, I ended up ignoring it most days. That will probably happen again if I spend a lot of time to build another one.
 
