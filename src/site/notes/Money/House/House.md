@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/house/","created":"Mar 7, 2023, 8:39 PM"}
+dg-publish: true
+dg-created: Mar 7, 2023, 8:39 PM
 ---
-
 
 # Balloon Payment
 
@@ -115,7 +115,6 @@ My two best options are probably [[Money/House/Oakmore/7322 Oakmore Dr, Dallas, 
 | [[Money/House/Houses/Lake Ridge Commons by CB JENI Homes\|Lake Ridge Commons by CB JENI Homes]]                                         | 329,990 | 1,567 |
 | [[Money/House/Houses/Heritage Park by Brightland Homes\|Heritage Park by Brightland Homes]]                                             | 329,990 | 1,520 |
 | [[Money/House/Houses/Tenison Village by Ashton Woods\|Tenison Village by Ashton Woods]]                                                 | 366,000 | 2,168 |
-| [[Money/House/Houses/Rolling Meadows by Bloomfield Homes\|Rolling Meadows by Bloomfield Homes]]                                         | 366,990 | 1840  |
 
 { .block-language-dataview}
 
