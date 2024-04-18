@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/bring-them-in/","title":"Bring Them In"}
+dg-publish: true
+title: Bring Them In
+author: Alexcenah Thomas
+audio: http://www.kjvprophecy.com/389.mp3
+index: 389
 ---
-
 
 Hark! 'Tis the Shepherd's voice I hear,
 Out in the desert dark and drear,
