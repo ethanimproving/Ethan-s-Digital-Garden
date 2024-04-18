@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/journal/tv-in-heaven/","tags":["television"],"created":"Jul 19, 2019, 11:36 AM"}
+dg-publish: true
+dg-created: Jul 19, 2019, 11:36 AM
+tags: [television]
 ---
-
 
 Would you watch Harry Potter in Heaven? Be honest with your answer to that question. Because if you say no, as far as I can tell that's admitting that watching Harry Potter is walking in the flesh. Why wouldn't it be in heaven? Better question: if heaven is in you, why would you be watching it?
 
