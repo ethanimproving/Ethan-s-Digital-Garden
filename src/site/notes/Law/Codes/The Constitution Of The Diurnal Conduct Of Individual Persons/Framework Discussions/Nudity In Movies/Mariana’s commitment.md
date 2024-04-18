@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/framework-discussions/nudity-in-movies/mariana-s-commitment/","created":"Oct 12, 2022, 6:08 AM"}
+dg-publish: true
+dg-created: Oct 12, 2022, 6:08 AM
 ---
-
 
 - [ ] I submit to my husband
 - [ ] I do not go out with another man alone
