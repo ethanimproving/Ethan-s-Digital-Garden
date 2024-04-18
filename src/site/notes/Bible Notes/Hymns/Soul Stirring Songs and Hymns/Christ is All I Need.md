@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/christ-is-all-i-need/","title":"Christ is All I Need"}
+dg-publish: true
+title: Christ is All I Need
+author: Charles Price Jones (1908)
+audio: http://www.kjvprophecy.com/131.mp3
+index: 131
 ---
-
 
 Jesus Christ is made to me,
 All I need, all I need,
