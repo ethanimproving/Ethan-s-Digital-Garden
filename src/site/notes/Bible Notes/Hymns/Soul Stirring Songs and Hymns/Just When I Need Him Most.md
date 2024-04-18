@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/just-when-i-need-him-most/","title":"Just When I Need Him Most"}
+dg-publish: true
+title: Just When I Need Him Most
+author: William C. Poole (1907)
+audio: http://www.kjvprophecy.com/087.mp3
+index: 087
 ---
-
 
 Just when I need Him, Jesus is near,
 Just when I falter, just when I fear;
