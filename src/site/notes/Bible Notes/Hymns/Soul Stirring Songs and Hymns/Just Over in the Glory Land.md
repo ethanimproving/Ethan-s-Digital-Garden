@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/just-over-in-the-glory-land/","title":"Just Over in the Glory Land"}
+dg-publish: true
+title: Just Over in the Glory Land
+author: James W. Acuff (1906)
+audio: http://www.kjvprophecy.com/065.mp3
+index: 065
 ---
-
 
 I’ve a home prepared where the saints abide,
 Just over in the gloryland;
