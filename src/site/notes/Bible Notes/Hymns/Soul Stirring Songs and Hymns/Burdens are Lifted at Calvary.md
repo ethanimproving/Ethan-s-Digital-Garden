@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/burdens-are-lifted-at-calvary/","title":"Burdens are Lifted at Calvary"}
+dg-publish: true
+title: Burdens are Lifted at Calvary
+author: John M. Moore
+audio: http://www.kjvprophecy.com/250.mp3
+index: 250
 ---
-
 
