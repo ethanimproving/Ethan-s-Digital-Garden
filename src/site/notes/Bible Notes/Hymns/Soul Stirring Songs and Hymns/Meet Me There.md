@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/meet-me-there/","title":"Meet Me There"}
+dg-publish: true
+title: Meet Me There
+author: Fanny J. Crosby
+audio: http://www.kjvprophecy.com/049.mp3
+index: 049
 ---
-
 
 On the happy, golden shore,
 Where the faithful part no more,
