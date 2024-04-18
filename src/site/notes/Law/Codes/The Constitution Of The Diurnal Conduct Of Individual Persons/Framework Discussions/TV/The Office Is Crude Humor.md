@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/framework-discussions/tv/the-office-is-crude-humor/","created":"Jun 4, 2019, 11:19 PM"}
+dg-publish: true
+dg-created: Jun 4, 2019, 11:19 PM
+tage: [television]
 ---
-
 
 "Happy birthday to this beauty. The one that always understands my Office references, the one that loves Jesus with all her heart, the one that is an amazing travel buddy, and the one that has become such a dear sweet friend to me over the last few years!!Thankful for ya and I love you boo 😘❤️🥳. #happybirthday #happybirdday Abigail"
 
