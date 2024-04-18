@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/renovation-skills/living-room/remove-brick-from-fireplace/","tags":["oakmore"]}
+dg-publish: true
+dg-date: Jun 04, 2023, 11:11 PM
+cost: $200
+priority: 2
+tags: [oakmore]
 ---
-
 
 # Vision
 
