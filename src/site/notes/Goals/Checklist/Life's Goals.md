@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/goals/checklist/life-s-goals/","tags":["goals"],"created":"Apr 2, 2020, 8:01 PM"}
+dg-publish: true
+dg-created: Apr 2, 2020, 8:01 PM
+dg-updated: 
+tags: [goals]
 ---
-
 
 - [ ] I want to help free boys from pornography.
 
