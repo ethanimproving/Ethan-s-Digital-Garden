@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/standing-on-the-promises/","title":"Standing on the Promises"}
+dg-publish: true
+title: Standing on the Promises
+author: Russell Kelso Carter (1886)
+audio: http://www.kjvprophecy.com/364.mp3
+index: 364
 ---
-
 
 Standing on the promises of Christ, my King,
 Through eternal ages let his praises ring;
