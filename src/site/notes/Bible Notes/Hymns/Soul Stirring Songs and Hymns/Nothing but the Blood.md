@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/nothing-but-the-blood/","title":"Nothing but the Blood"}
+dg-publish: true
+title: Nothing but the Blood
+author: Robert Lowry (1876)
+audio: http://www.kjvprophecy.com/030.mp3
+index: 030
 ---
-
 
 What can wash away my sin?
 Nothing but the blood of Jesus.
