@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/aimlessly-dating/","tags":["advice"],"created":"Jul 16, 2020, 11:13 PM"}
+dg-publish: true
+dg-created: Jul 16, 2020, 11:13 PM
+dg-updated: 
+tags: [advice]
 ---
-
 
 > *"I cannot think of something that's a bigger waste of time than going out and aimlessly dating like most people do in their 20s. It is a very time consuming very emotional energy consuming thing." ~ Alex Becker[^1]*
 
