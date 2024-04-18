@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/o-worship-the-king/","title":"O Worship the King"}
+dg-publish: true
+title: O Worship the King
+author: Robert Grant (1833)
+audio: http://www.kjvprophecy.com/165.mp3
+index: 165
 ---
-
 
 O worship the King all-glorious above,
 O gratefully sing his power and his love:
