@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/holy-holy-holy/","title":"Holy, Holy, Holy"}
+dg-publish: true
+title: Holy, Holy, Holy
+author: Reginald Heber (1826)
+audio: http://www.kjvprophecy.com/holy_holy_holy.mp3
+index: holy_holy_holy
 ---
-
 
 Holy, holy, holy! Lord God Almighty!
 Early in the morning our song shall rise to thee.
