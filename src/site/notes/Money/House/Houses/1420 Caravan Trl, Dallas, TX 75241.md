@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/houses/1420-caravan-trl-dallas-tx-75241/","tags":["homes2023"],"created":"Jun 29, 2023, 7:46 PM"}
+dg-publish: true
+dg-created: Jun 29, 2023, 7:46 PM
+cost: 230,000
+sq-ft: 1,650
+year: 1960
+tags: [homes2023]
 ---
-
 
 [1420 Caravan Trl, Dallas, TX 75241](https://www.zillow.com/homedetails/1420-Caravan-Trl-Dallas-TX-75241/26824046_zpid/)
 
