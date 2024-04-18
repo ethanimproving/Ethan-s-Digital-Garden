@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/renovation-skills/appliences/vacuum/","tags":["oakmore"],"created":"Jul 08, 2023, 4:00 PM"}
+dg-publish: true
+dg-created: Jul 08, 2023, 4:00 PM
+cost: $649.99
+priority: 1
+tags: [oakmore]
 ---
-
 
 [Dyson V12 Detect Slim Absolute vacuum](https://www.dyson.com/vacuum-cleaners/cordless/v12/detect-slim-absolute-hepa-gold?source_description=yext%7Evacuums%7EDyson+V12+Detect+Slim%E2%84%A2+Absolute)
 ![](https://dyson-h.assetsadobe2.com/is/image/content/dam/dyson/images/products/primary-locale/en_US/447287-01.png?$responsive$&cropPathE=desktop&fit=stretch,1&wid=960)
