@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/god-leads-us-along/","title":"God Leads Us Along"}
+dg-publish: true
+title: God Leads Us Along
+author: G. A. Young
+audio: http://www.kjvprophecy.com/096.mp3
+index: 096
 ---
-
 
 In shady, green pastures, so rich and so sweet,
 God leads His dear children along;
