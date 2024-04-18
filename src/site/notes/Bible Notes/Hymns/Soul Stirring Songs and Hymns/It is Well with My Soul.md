@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/it-is-well-with-my-soul/","title":"It is Well with My Soul"}
+dg-publish: true
+title: It is Well with My Soul
+author: Horatio Gates Spafford (1873)
+audio: http://www.kjvprophecy.com/145.mp3
+index: 145
 ---
-
 
 When peace like a river attendeth my way,
 when sorrows like sea billows roll;
