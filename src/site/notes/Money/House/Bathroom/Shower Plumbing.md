@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/bathroom/shower-plumbing/","tags":["oakmore","masterbath","guestbath"],"created":"Dec 21, 2023, 9:46 AM"}
+dg-publish: true
+dg-created: Dec 21, 2023, 9:46 AM
+cost: $0
+priority: 5
+tags: [oakmore, masterbath, guestbath]
 ---
-
 
 
 ![](https://thehubhaus.com/wp-content/uploads/2021/09/Screenshot-2021-09-14-at-4.51.55-PM.png)
