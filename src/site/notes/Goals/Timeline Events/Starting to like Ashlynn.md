@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/starting-to-like-ashlynn/","tags":["timeline","crush"]}
+dg-publish: true
+start-date: 2019-02-20
+color: pink
+date-limit: year
+importance: 50
+tags: [timeline, crush]
 ---
-
 
 She is the shyest thing I've ever seen. She showed up while I was talking to the guys, and stood outside the crowd looking down. She's such a sweet girl when she talks to you, though. I actually like that she doesn't make eye contact because I'm sure that's the reason guys don't approach her. She really is extremely pretty, was home schooled for 4 years, and talks submissively, not domineeringly and loudly like many girls do to get attention. She is a Lutheran by descent, and I'll stay away from her if I can't get her saved.
 
