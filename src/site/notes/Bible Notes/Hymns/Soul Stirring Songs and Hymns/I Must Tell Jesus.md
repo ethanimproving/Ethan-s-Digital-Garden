@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-must-tell-jesus/","title":"I Must Tell Jesus"}
+dg-publish: true
+title: I Must Tell Jesus
+author: E. A. Hoffman (1894)
+audio: http://www.kjvprophecy.com/356.mp3
+index: 356
 ---
-
 
 I must tell Jesus all of my trials;
 I cannot bear these burdens alone;
