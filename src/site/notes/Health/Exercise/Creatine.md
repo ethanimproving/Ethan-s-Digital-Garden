@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/health/exercise/creatine/","created":"Jun 22, 2023, 7:35 PM"}
+dg-publish: true
+dg-created: Jun 22, 2023, 7:35 PM
+cost: 17.97
+store: Walmart
 ---
-
 
 Walmart: [Six Star Pro Nutrition 100% Creatine Unflavored Powder](https://www.walmart.com/ip/Six-Star-Pro-Nutrition-100-Creatine-Unflavored-Powder/1112528832)
 Be sure to get the unflavored one as the berry flavored is too sweet with the protein. 
