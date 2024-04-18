@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/title-3-media/","created":"Nov 14, 2023, 8:41 PM"}
+dg-publish: true
+dg-created: Nov 14, 2023, 8:41 PM
+author: Ethan Miller
 ---
-
 
 # Article 1: Movies
 
