@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/o-come-all-ye-faithful/","title":"O Come, All Ye Faithful"}
+dg-publish: true
+title: O Come, All Ye Faithful
+author: Unknown
+audio: http://www.kjvprophecy.com/424.mp3
+index: 424
 ---
-
 
 O come, all ye faithful,
 joyful and triumphant!
