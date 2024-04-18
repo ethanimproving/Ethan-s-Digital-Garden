@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/o-say-but-i-m-glad/","title":"O Say, But I'm Glad"}
+dg-publish: true
+title: O Say, But I'm Glad
+author: James P. Sullivan
+audio: http://www.kjvprophecy.com/206.mp3
+index: 206
 ---
-
 
 There is a song in my heart today,
 Something I never had;
