@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/journal/to-be-full-of-life-again/","tags":["diary","breakup","prayer"],"created":"Apr 21, 2023, 4:39 PM"}
+dg-publish: true
+dg-created: Apr 21, 2023, 4:39 PM
+tags: [diary, breakup, prayer]
 ---
-
 
 ![](https://lh3.googleusercontent.com/pw/AJFCJaVTLsqNg177S1-zO9uf_bhAKTlMCAD5bjqJgUhPzgtTLMScZ-kwaYKEHHUDpHofWwC-lRqXjTfUipIE6TN2_gEVPhjcUcvTQCJlLZ39p5IqDddHVCq9e6n6LqzP7KMjYayQYFE7ScbAswHboF5a0_-Cjg=w960-h720-s-no)
 
