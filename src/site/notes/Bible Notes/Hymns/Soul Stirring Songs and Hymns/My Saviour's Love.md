@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/my-saviour-s-love/","title":"My Saviour's Love"}
+dg-publish: true
+title: My Saviour's Love
+author: Chas. H. Gabriel (1905)
+audio: http://www.kjvprophecy.com/185.mp3
+index: 185
 ---
-
 
 I stand amazed in the presence
 Of Jesus the Nazarene,
