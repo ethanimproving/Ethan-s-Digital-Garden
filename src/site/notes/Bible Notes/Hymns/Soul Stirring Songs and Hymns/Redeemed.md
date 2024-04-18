@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/redeemed/","title":"Redeemed"}
+dg-publish: true
+title: Redeemed
+author: Fanny Crosby (1882)
+audio: http://www.kjvprophecy.com/246.mp3
+index: 246
 ---
-
 
 Redeemed, how I love to proclaim it!
 Redeemed by the blood of the Lamb;
