@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/a-mighty-fortress-is-our-god/","title":"A Mighty Fortress is Our God"}
+dg-publish: true
+title: A Mighty Fortress is Our God
+author: Martin Luther (1529)
+audio: http://www.kjvprophecy.com/144.mp3
+index: 144
 ---
-
 
 A mighty fortress is our God,
 a bulwark never failing;
