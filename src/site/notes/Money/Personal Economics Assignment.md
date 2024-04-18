@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/money/personal-economics-assignment/"}
+dg-publish: true
 ---
-
 
 Ethan Miller
 Tom Hudgins
