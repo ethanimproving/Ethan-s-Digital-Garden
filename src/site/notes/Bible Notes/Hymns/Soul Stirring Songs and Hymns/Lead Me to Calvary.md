@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/lead-me-to-calvary/","title":"Lead Me to Calvary"}
+dg-publish: true
+title: Lead Me to Calvary
+author: Jennie Evelyn Hussey (1921)
+audio: http://www.kjvprophecy.com/015.mp3
+index: 15
+known: 1
 ---
-
 
 King of my life I crown Thee now-
 Thine shall the glory be;
