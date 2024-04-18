@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-will-praise-him/","title":"I Will Praise Him"}
+dg-publish: true
+title: I Will Praise Him
+author: Margaret J. Harris
+audio: http://www.kjvprophecy.com/166.mp3
+index: 166
 ---
-
 
 When I saw the cleansing fountain,
 Open wide for all my sin,
