@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/bathroom/bathroom/","tags":["oakmore","masterbath"],"created":"Jun 03, 2023, 4:56 PM"}
+dg-publish: true
+dg-created: Jun 03, 2023, 4:56 PM
+cost: $2,800
+priority: 1
+tags: [oakmore, masterbath]
 ---
-
 
 Contractors:
 - [Manny](https://www.facebook.com/nconstruction2019/reels/)
