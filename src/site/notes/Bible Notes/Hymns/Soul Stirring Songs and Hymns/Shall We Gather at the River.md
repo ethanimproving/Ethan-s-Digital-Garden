@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/shall-we-gather-at-the-river/","title":"Shall We Gather at the River?"}
+dg-publish: true
+title: Shall We Gather at the River?
+author: Robert Lowry (1864)
+audio: http://www.kjvprophecy.com/064.mp3
+index: 064
 ---
-
 
 Shall we gather at the river,
 Where bright angel feet have trod;
