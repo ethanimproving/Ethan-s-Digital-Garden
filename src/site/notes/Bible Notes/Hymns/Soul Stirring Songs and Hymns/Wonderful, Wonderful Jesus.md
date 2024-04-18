@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/wonderful-wonderful-jesus/","title":"Wonderful, Wonderful Jesus"}
+dg-publish: true
+title: Wonderful, Wonderful Jesus
+author: Anna B. Russell
+audio: http://www.kjvprophecy.com/190.mp3
+index: 190
 ---
-
 
 There is never a day so dreary,
 there is never a night so long,
