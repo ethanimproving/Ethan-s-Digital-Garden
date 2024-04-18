@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/he-the-pearly-gates-will-open/","title":"He The Pearly Gates Will Open"}
+dg-publish: true
+title: He The Pearly Gates Will Open
+author: Frederick A. Blom (1917)
+audio: http://www.kjvprophecy.com/058.mp3
+index: 058
 ---
-
 
 Love divine, so great and wondrous,
 Deep and mighty, pure, sublime,
