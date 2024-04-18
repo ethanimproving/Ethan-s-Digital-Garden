@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/renovation-skills/attic/in-ceiling-speakers/","tags":["oakmore"],"created":"Jul 06, 2023, 10:13 PM"}
+dg-publish: true
+dg-created: Jul 06, 2023, 10:13 PM
+priority: 5
+cost: $1,000
+tags: [oakmore]
 ---
-
 
 # Best Brands
 
