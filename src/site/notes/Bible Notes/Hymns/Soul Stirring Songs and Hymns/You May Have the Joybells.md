@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/you-may-have-the-joybells/","title":"You May Have the Joybells"}
+dg-publish: true
+title: You May Have the Joybells
+author: J. Edward Ruark
+audio: http://www.kjvprophecy.com/193.mp3
+index: 193
 ---
-
 
 You may have the joy-bells ringing in your heart,
 And a peace that from you never will depart;
