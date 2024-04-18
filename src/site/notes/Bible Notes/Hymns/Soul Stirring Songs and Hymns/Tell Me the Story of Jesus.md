@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/tell-me-the-story-of-jesus/","title":"Tell Me the Story of Jesus"}
+dg-publish: true
+title: Tell Me the Story of Jesus
+author: William H. Parker (1885)
+audio: http://www.kjvprophecy.com/232.mp3
+index: 232
 ---
-
 
 Tell me the stories of Jesus
 I love to hear;
