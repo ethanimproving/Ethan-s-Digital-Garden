@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/all-hail-the-power/","title":"All Hail the Power"}
+dg-publish: true
+title: All Hail the Power
+author: Edward Perronet (1780)
+audio: http://www.kjvprophecy.com/167.mp3
+index: 167
 ---
-
 
 All hail the power of Jesus' name!
 Let angels prostrate fall.
