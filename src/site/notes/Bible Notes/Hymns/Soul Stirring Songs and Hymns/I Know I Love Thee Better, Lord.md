@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-know-i-love-thee-better-lord/","title":"I Know I Love Thee Better, Lord"}
+dg-publish: true
+title: I Know I Love Thee Better, Lord
+author: Frances R. Havergal (1878)
+audio: http://www.kjvprophecy.com/235.mp3
+index: 235
 ---
-
 
 I know I love Thee better, Lord
 Than any earthly joy:
