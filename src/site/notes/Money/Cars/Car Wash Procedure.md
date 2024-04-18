@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/money/cars/car-wash-procedure/","created":"Jul 08, 2023, 2:23 PM"}
+dg-publish: true
+dg-created: Jul 08, 2023, 2:23 PM
 ---
-
 
 [Car Stuff Album](https://photos.app.goo.gl/DvV18m5FtLta4vZYA)
 
