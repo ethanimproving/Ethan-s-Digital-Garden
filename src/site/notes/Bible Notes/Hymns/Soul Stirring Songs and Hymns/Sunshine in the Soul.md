@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/sunshine-in-the-soul/","title":"Sunshine in the Soul"}
+dg-publish: true
+title: Sunshine in the Soul
+author: E. E. Hewitt
+audio: http://www.kjvprophecy.com/209.mp3
+index: 209
 ---
-
 
 There is sunshine in my soul today,
 More glorious and bright
