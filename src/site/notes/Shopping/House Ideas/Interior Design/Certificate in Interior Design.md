@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/house-ideas/interior-design/certificate-in-interior-design/","created":"Jul 04, 2023, 3:28 PM"}
+dg-publish: true
+dg-created: Jul 04, 2023, 3:28 PM
 ---
-
 
 [Oxford Home Study Centre](http://www.oxfordhomestudy.com/) is not affiliated with or operated by the University of Oxford. The Oxford Home Study Centre, which operates this website, is an independent online learning platform that offers vIt arious courses and certifications. While the name might suggest a connection to the University of Oxford, it is important to note that the Oxford Home Study Centre is a separate entity and not associated with the prestigious University of Oxford.
 
