@@ -1,7 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/health/nutrition/recipes/entree/egg-saled-sandwich/","tags":["cookmate"]}
+dg-publish: true
+dg-date: 
+author: 
+source: 
+image:
+description: 
+preparation-time: 5
+cook-time:
+yield: 2
+category: ML Core Plan
+meal: 
+rating: 4
+calories: 400 
+tags: [cookmate]
 ---
-
 
 ![](https://d3u8pti8i6gm88.cloudfront.net/medias/img/recipes/44450_Egg_Saled_Sandwich_IvDx4Ep.jpg)
 
