@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/journal/burned-tastebuds/","created":"May 12, 2023, 3:08 PM"}
+dg-publish: true
+dg-created: May 12, 2023, 3:08 PM
 ---
-
 
 I want to  enter into days of rest again, when we would walk outside and be painted with the sunshine’s color. We weren’t worried in those days, because we didn’t believe the lie that we need to take care of ourselves. Then we grew up and became easier to deceive, because we trusted less in our Provider and more in our accuser. There is a voice of fear that we started listening to. But there is a stronger voice of protection, and I want to cling to the stronger voice again. Let the light touch my skin in the afternoon. I don’t need my face to be in front of plasma to earn my bread.
 
