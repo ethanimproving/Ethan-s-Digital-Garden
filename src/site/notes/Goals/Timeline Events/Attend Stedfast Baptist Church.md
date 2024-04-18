@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/attend-stedfast-baptist-church/","tags":["timeline","personal"]}
+dg-publish: true
+start-date: 2019-01-13
+color: blue
+date-limit: year
+importance: 50
+tags: [timeline, personal]
 ---
-
 
 This morning I felt like I was leaving everything I know. Tonight I feel like I'm coming back to a wasteland. All the activity, all the people, all of the lifeblood and energy is back in Fort Worth. I left a group of brothers in great fellowship and likeminded company, and I walked into my house to my family watching a reality TV show with brainwashing music. The Spirit in Fort Worth is amazing. The spirit here is dead. The spirit there is exciting and encouraging, and stimulating. There's nothing at home except a bed. It's quiet. I usually have a headache on Sunday afternoons as I take a nap. I put forth my hands to work for the Lord this afternoon and I feel great now.  
 
