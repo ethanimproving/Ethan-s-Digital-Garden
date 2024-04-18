@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/jesus-saves/","title":"Jesus Saves"}
+dg-publish: true
+title: Jesus Saves
+author: Priscilla J. Owens
+audio: http://www.kjvprophecy.com/259.mp3
+index: 259
 ---
-
 
 We have heard the joyful sound:
 Jesus saves! Jesus saves!
