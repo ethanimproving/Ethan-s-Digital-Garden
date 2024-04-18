@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/journal/i-think-william-lane-craig-is-saved/","tags":["journal"],"created":"Monday, Jan 21, 2019, 10:16 PM"}
+dg-publish: true
+dg-created: Monday, Jan 21, 2019, 10:16 PM
+tags: [journal]
 ---
-
 
 I really like William Lane Craig, and I think the new ifb is silly to call in the heretic Because he believes that Genesis 1 is poetic enough to be interpreted as though creation occurred 13.6 billion years ago. When we dismiss somebody's Faith because of something that is not related to soteriology, I'm astonished by it. People want to dismiss John Piper because of his Calvinism, and that doesn't account for his positions about how person get saved. They don't ask what gospel that you have, they ask what doctrines you have. That's silly and it's out of step with biblical wisdom. Of course William Lane Craig is saved. You believe the gospel. And John Piper does too. And some people like Francis Chan might even be safe, because I believe the gospel. They believe on the name of Jesus Christ. Christianity isn't this narrow so as to only belong to 6,000 churches in America. Certainly most Christians are not true believers, but that's because I have salvation wrong, not because they have minor doctrines different anyway ifb. We're just splitting hairs at this point. You don't need to be 95% identical to the new ifb in order to be safe. You just need to have five things right. Number one, you're a sinner, number two, you deserve hell, number three, Christ bore our sins on the cross, number four, salvation is a free gift, number five, eternal life lasts forever.
 
