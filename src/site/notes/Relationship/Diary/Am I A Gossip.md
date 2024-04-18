@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/am-i-a-gossip/","tags":["diary","crush","gossip","journal"],"created":"Nov 1, 2021, 9:24 AM"}
+dg-publish: true
+dg-created: Nov 1, 2021, 9:24 AM
+dg-updated: 
+tags: [diary, crush, gossip, journal]
 ---
-
 
 To be honest Lord, she told me one of the reason's she likes talking with me is because I'm fun to gossip with, so I thought to tell her the drama between my extended family and myself. But now I regret it, because I realize everything in her messages were positive, and everything in my 3 messages were negative. My words will be odious to her. She will perceive that my character is lacking, and it will invalidate any warranted negativity I say in the future. If I call the pope a pedophile, or say homos are capable of anything, my judgment is already discredited by saying negative things about my own family. She will think I'm against everything. Forgive me Lord, I've tried to repent from my words, my I keep increasing my folly. I don't know what to say. I can't unsay the stupid things I wish I wouldn't have. Forgive me, Lord. Rescue me from my hasty words. I'm sorry. And further I have grieved the Holy Spirit by speaking evil about my family.
 
