@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/heaven-came-down/","title":"Heaven Came Down"}
+dg-publish: true
+title: Heaven Came Down
+author: John W. Peterson
+audio: http://www.kjvprophecy.com/215.mp3
+index: 215
 ---
-
 
