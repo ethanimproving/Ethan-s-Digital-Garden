@@ -1,7 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/health/nutrition/recipes/entree/mexican-lesagna/","tags":["cookmate"]}
+dg-publish: true
+dg-date: May 03, 2023, 10:56 PM
+author: 
+source: 
+image:
+description: 
+preparation-time: 30
+cook-time: 20
+yield: 
+category: Fun
+meal: entree
+rating: 5
+calories: 
+tags: [cookmate]
 ---
-
 
 ![](https://d3u8pti8i6gm88.cloudfront.net/medias/img/recipes/44450_Mexican_Lesagna_MxeQyEs.jpg)
 
