@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/cable-standards/"}
+dg-publish: true
 ---
-
 
 # Display Bandwidth
 
