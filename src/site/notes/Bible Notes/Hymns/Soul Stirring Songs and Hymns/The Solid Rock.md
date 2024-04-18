@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/the-solid-rock/","title":"The Solid Rock"}
+dg-publish: true
+title: The Solid Rock
+author: Edward Mote (1834)
+audio: http://www.kjvprophecy.com/125.mp3
+index: 125
 ---
-
 
 My hope is built on nothing less
 than Jesus' blood and righteousness;
