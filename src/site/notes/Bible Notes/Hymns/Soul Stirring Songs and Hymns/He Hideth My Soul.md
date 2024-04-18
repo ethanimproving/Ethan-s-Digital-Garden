@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/he-hideth-my-soul/","title":"He Hideth My Soul"}
+dg-publish: true
+title: He Hideth My Soul
+author: Fanny Crosby (1890)
+audio: http://www.kjvprophecy.com/102.mp3
+index: 102
 ---
-
 
 A wonderful Savior is Jesus my Lord,
 a wonderful Savior to me.
