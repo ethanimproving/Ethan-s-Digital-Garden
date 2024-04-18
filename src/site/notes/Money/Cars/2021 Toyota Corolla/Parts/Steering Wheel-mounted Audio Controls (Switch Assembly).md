@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/money/cars/2021-toyota-corolla/parts/steering-wheel-mounted-audio-controls-switch-assembly/","created":"Jan 26, 2024, 11:09 AM"}
+dg-publish: true
+dg-created: Jan 26, 2024, 11:09 AM
 ---
-
 
 Where can I get replacement parts for the Steering Wheel-mounted Audio Controls for a 2016 Toyota corolla S Plus Sedan 4D?
 
