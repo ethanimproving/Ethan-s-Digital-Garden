@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/parenting/psychological/500-pushups/"}
+dg-publish: true
 ---
-
 
 Everything starts with a mindset. There is no physical fortitude, or financial fortitude without mental fortitude. Most of you are mentally weak. I have a few insults I like to use, and I throw that one around a lot. "You're weak." "What do you mean I'm weak?" "You're mentally weak." Because people are weak. And every time someone says to me, "I'm not weak," I say you are. And here's the ironclad proof, if you want to test yourself now, "Am I weak or not?"" here's the test: I want you to do 500 pushups today. One of three things is going to happen:
 
