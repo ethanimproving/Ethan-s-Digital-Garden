@@ -1,7 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/health/nutrition/recipes/breakfast/eggs-bacon-bagel/","tags":["cookmate"]}
+dg-publish: true
+dg-date: 
+author: 
+source: 
+image:
+description: 
+preparation-time:
+cook-time:
+yield: 
+category: Gains
+meal: breakfast
+rating: 
+calories: 1,200
+tags: [cookmate]
 ---
-
 
 
 # Ingredients
