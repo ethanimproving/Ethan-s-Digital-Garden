@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/higher-ground/","title":"Higher Ground"}
+dg-publish: true
+title: Higher Ground
+author: Johnson Oatman, Jr.
+audio: http://www.kjvprophecy.com/327.mp3
+index: 327
 ---
-
 
 I’m pressing on the upward way,
 New heights I’m gaining ev'ry day;
