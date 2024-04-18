@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/money/cars/2021-toyota-corolla/parts/tail-light-assembly/","created":"Jan 28, 2024, 2:54 PM"}
+dg-publish: true
+dg-created: Jan 28, 2024, 2:54 PM
 ---
-
 
 # Parts
 
