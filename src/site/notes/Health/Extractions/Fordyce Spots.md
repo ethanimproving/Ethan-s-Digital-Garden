@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/health/extractions/fordyce-spots/","created":"Dec 22, 2023, 10:45 AM"}
+dg-publish: true
+dg-created: Dec 22, 2023, 10:45 AM
 ---
-
 
 My dermatologist (Dr. McGuiness) charges $35 to extract about 7 Fordyce Spots. Supposedly about 70% of men have these spots, some just grow them larger than others for unknown reasons. It is caused because the sebum that comes to secrete the hair follicles get clocked 
 
