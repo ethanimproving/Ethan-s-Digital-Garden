@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/we-gather-together/","title":"We Gather Together"}
+dg-publish: true
+title: We Gather Together
+author: Anonymous (1625)
+audio: http://www.kjvprophecy.com/442.mp3
+index: 442
 ---
-
 
 We gather together to ask the Lord’s blessing;
 He chastens and hastens his will to make known;
