@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/near-the-cross/","title":"Near the Cross"}
+dg-publish: true
+title: Near the Cross
+author: Fanny Crosby (1869)
+audio: http://www.kjvprophecy.com/010.mp3
+index: 10
+known: 1
 ---
-
 
 Jesus, keep me near the cross,
 There a precious fountain;
