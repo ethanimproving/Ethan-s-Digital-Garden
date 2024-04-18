@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/sound-the-battle-cry/","title":"Sound the Battle Cry"}
+dg-publish: true
+title: Sound the Battle Cry
+author: William F. Sherwin (1869)
+audio: http://www.kjvprophecy.com/419.mp3
+index: 419
 ---
-
 
 Sound the battle cry!
 See, the foe is nigh;
