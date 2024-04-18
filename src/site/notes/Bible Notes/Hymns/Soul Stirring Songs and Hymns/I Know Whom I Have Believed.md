@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-know-whom-i-have-believed/","title":"I Know Whom I Have Believed"}
+dg-publish: true
+title: I Know Whom I Have Believed
+author: D. W. Whittle (1883)
+audio: http://www.kjvprophecy.com/139.mp3
+index: 139
 ---
-
 
 I know not why God’s wondrous grace
 to me is daily shown,
