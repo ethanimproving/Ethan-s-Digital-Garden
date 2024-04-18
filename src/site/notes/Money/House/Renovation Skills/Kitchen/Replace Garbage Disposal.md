@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/renovation-skills/kitchen/replace-garbage-disposal/","tags":["oakmore"]}
+dg-publish: true
+dg-date: Aug 19, 2023, 5:51 PM
+priority: 5
+cost: $50
+tags: [oakmore]
 ---
-
 
 ![](https://www.thespruce.com/thmb/kAPBmruZPpgdSQ7zM7BSU4jZq_o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gar_disp_expl_view-640-56a4a2d25f9b58b7d0d7effe.jpg)
 
