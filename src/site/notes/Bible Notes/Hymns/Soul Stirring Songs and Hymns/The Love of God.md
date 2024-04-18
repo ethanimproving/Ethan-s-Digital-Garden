@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/the-love-of-god/","title":"The Love of God"}
+dg-publish: true
+title: The Love of God
+author: Horatius Bonar (1861)
+audio: http://www.kjvprophecy.com/188.mp3
+index: 188
 ---
-
 
 O love of God, how strong and true,
 eternal and yet ever new,
