@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/where-we-ll-never-grow-old/","title":"Where We'll Never Grow Old"}
+dg-publish: true
+title: Where We'll Never Grow Old
+author: James C. Moore (1914)
+audio: http://www.kjvprophecy.com/051.mp3
+index: 051
 ---
-
 
 I have heard of a land
 On the faraway strand,
