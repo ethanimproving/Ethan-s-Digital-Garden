@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/o-how-i-love-jesus/","title":"O How I Love Jesus"}
+dg-publish: true
+title: O How I Love Jesus
+author: Frederick Whitfield
+audio: http://www.kjvprophecy.com/183.mp3
+index: 183
 ---
-
 
 There is a name I love to hear,
 I love to sing its worth;
