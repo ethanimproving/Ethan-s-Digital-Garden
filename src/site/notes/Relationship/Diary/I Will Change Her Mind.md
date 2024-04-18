@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/i-will-change-her-mind/","tags":["diary","crush"],"created":"Oct 11, 2021, 8:42 AM"}
+dg-publish: true
+dg-created: Oct 11, 2021, 8:42 AM
+dg-updated: 
+tags: [diary, crush]
 ---
-
 
 John is right. Why am I infatuated with Mariana? She's not a virgin, she doesn't know it was a sin, she drinks, she doesn't want many kids, she thinks divorce is necessary sometimes. There's nothing about any of those beliefs that are acceptable to me. They are all deal breakers, and she has 4 of them! Do I think I can change her mind? Give her pretty face up and start meeting girls locally. Or go back to Jennifer! She wants you back.
 
