@@ -1,7 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/left-to-my-own-devices-u-torrent/","title":"Left to my own devices (uTorrent)","tags":["timeline","personal"]}
+dg-publish: true
+start-date: 2010-05-17
+end-date: 2015-10-25
+type: range
+color: green
+title: Left to my own devices (uTorrent)
+date-limit: year
+importance: 30
+tags: [timeline, personal]
 ---
-
 
 uTorrent: All the weights of the bag are his concern.  
 The first evidence I have of using uTorrent was 12 Nov 2010 in a journal entry where I wrote, "Yeah so im trying to download men who stare at goats and it said it would take 50 days. Now it says 44 minutes hahaha." I'm offsetting it by a few months because it seems as though I already had a fair degree of experience with it to be torrenting with my cousin in Arkansas.  
