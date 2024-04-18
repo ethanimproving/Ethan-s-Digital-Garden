@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/journal/walking-through-the-neighborhood/","tags":["journal"],"created":"Apr 20, 2023, 12:22 PM"}
+dg-publish: true
+dg-created: Apr 20, 2023, 12:22 PM
+tags: [journal]
 ---
-
 
 As an adolescent it was such a privilege to be able to walk around the neighborhood during the day. Being homeschooled allowed me a lot of freedom to follow my imagination wherever it led. An army man in the drainage system, the trails by the Bridge on Park and Mobile, or walking simply to Friendship Park. I used to pray on my walks. There's something therapeutic about being outside in a quiet neighborhood. I had a crush on Kerri Shomette, so I walked by her house in hopes that she would be there.
 
