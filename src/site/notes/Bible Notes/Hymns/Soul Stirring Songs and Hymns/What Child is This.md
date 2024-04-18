@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/what-child-is-this/","title":"What Child is This?"}
+dg-publish: true
+title: What Child is This?
+author: W. Chatterton Dix
+audio: http://www.kjvprophecy.com/484.mp3
+index: 484
 ---
-
 
 What Child is this, who, laid to rest,
 On Mary's lap is sleeping?
