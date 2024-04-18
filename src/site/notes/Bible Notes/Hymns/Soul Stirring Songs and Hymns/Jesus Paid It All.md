@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/jesus-paid-it-all/","title":"Jesus Paid It All"}
+dg-publish: true
+title: Jesus Paid It All
+author: Elvina M. Hall (1865)
+audio: http://www.kjvprophecy.com/003.mp3
+index: 3
+known: 1
 ---
-
 
 I hear the Savior say,
 ""Thy strength indeed is small,
