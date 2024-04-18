@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/do-you-hear-what-i-hear/","title":"Do You Hear What I Hear?"}
+dg-publish: true
+title: Do You Hear What I Hear?
+author: Communauté de Taizé
+audio: http://www.kjvprophecy.com/485.mp3
+index: 485
 ---
-
 
