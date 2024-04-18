@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/miller-creed/the-love-dare/","created":"Jun 18, 2023, 9:07 PM"}
+dg-publish: true
+dg-created: Jun 18, 2023, 9:07 PM
 ---
-
 
 [The Love Dare](https://firefighterwife.com/the-love-dare-overview/) is a 40-day challenge designed to help individuals develop and strengthen their love and commitment in a marriage relationship. It was featured in the movie Fireproof and has since become a popular resource for couples seeking to improve their relationship. Each day of the Love Dare presents a specific task or action to be taken, aimed at cultivating love, forgiveness, and selflessness. Here is the Love Dare, consisting of 40 daily challenges:
 
