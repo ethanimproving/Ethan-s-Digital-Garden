@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/health/nutrition/recipes/snacks/brandon-s-queso-recipe/","created":"Nov 07, 2023, 5:31 PM"}
+dg-publish: true
+dg-created: Nov 07, 2023, 5:31 PM
 ---
-
 
 [Walmart Shopping List](https://www.walmart.com/lists/shared/WL/b557cda2-a610-40c0-bee0-697a4ebe87b5)
 
