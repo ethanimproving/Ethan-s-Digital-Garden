@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/psalms/redeemed-verity/","title":"Redeemed (Verity)"}
+dg-publish: true
+title: Redeemed (Verity)
+author: William Allen
+audio: http://www.kjvprophecy.com/246v.mp3
+index: 0
 ---
-
 
 In thee, O Lord, I put my trust,
 Sham'd never let me be;
