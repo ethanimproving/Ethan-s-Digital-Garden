@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/blessed-redeemer/","title":"Blessed Redeemer"}
+dg-publish: true
+title: Blessed Redeemer
+author: Avis B. Christiansen (1920)
+audio: http://www.kjvprophecy.com/012.mp3
+index: 012
 ---
-
 
 Up Calv'ry's mountain one dreadful morn
 Walked Christ, my Savior, weary and worn;
