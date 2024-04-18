@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/mariana-s-likes/","created":"Apr 6, 2023, 1:27 PM"}
+dg-publish: true
+dg-created: Apr 6, 2023, 1:27 PM
 ---
-
 
 Great! Her name is Mariana. Her [[Relationship/Dates/Adventure Challenge#Mariana\|love languages]] are:
 1. Quality time (27%)
