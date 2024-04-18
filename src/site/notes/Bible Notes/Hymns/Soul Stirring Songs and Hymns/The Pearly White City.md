@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/the-pearly-white-city/","title":"The Pearly White City"}
+dg-publish: true
+title: The Pearly White City
+author: Arthur F. Ingler
+audio: http://www.kjvprophecy.com/067.mp3
+index: 067
 ---
-
 
 There’s a holy and beautiful city
 Whose builder and ruler is God;
