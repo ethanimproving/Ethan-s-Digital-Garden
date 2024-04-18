@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/social-s-kills/etiquette/","created":"Jun 19, 2023, 7:21 PM"}
+dg-publish: true
+dg-created: Jun 19, 2023, 7:21 PM
 ---
-
 
 # Finding A Seat At Church
  1. Look for the number of seats available to suit your needs.
