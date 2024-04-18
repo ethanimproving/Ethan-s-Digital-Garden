@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/while-shepherds-watched-their-flocks/","title":"While Shepherds Watched Their Flocks"}
+dg-publish: true
+title: While Shepherds Watched Their Flocks
+author: Nahum Tate (1700)
+audio: http://www.kjvprophecy.com/430.mp3
+index: 430
 ---
-
 
 While shepherds watched their flocks by night,
 all seated on the ground,
