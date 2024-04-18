@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/the-windows-of-heaven/","title":"The Windows of Heaven"}
+dg-publish: true
+title: The Windows of Heaven
+author: Charles Edward Pollock
+audio: http://www.kjvprophecy.com/203.mp3
+index: 203
 ---
-
 
 Lord, send Thy Spirit down,
 Like a refreshing show’r;
