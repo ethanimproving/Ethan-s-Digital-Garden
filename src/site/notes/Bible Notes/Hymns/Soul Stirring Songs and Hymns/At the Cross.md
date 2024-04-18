@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/at-the-cross/","title":"At the Cross"}
+dg-publish: true
+title: At the Cross
+author: Isaac Watts (1707)
+audio: http://www.kjvprophecy.com/029.mp3
+index: 29
+known: 1
 ---
-
 
 Alas! and did my Savior bleed,
 and did my Sovereign die!
