@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/health/exercise/cardio-before-breakfast/"}
+dg-publish: true
 ---
-
 
 Ethan Miller
 Research Paper # 1
