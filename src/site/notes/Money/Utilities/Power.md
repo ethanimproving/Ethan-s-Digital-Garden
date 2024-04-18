@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/money/utilities/power/","created":"Sep 15, 2023, 8:30 PM"}
+dg-publish: true
+dg-created: Sep 15, 2023, 8:30 PM
 ---
-
 
 # Dad: Try a temporary plan
 
