@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/o-little-town-of-bethlehem/","title":"O Little Town of Bethlehem"}
+dg-publish: true
+title: O Little Town of Bethlehem
+author: Phillips Brooks (1868)
+audio: http://www.kjvprophecy.com/434.mp3
+index: 434
 ---
-
 
 O little town of Bethlehem,
 how still we see thee lie!
