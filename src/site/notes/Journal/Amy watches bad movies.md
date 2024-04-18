@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/journal/amy-watches-bad-movies/","tags":["breakup","favorites","amy","television"],"created":"Apr 27, 2019, 12:01 AM"}
+dg-publish: true
+dg-created: Apr 27, 2019, 12:01 AM
+tags: [breakup, favorites, amy, television]
 ---
-
 
 I'm afraid that Amy won't want to live for God and chase holiness. I'm afraid that she'll want to watch R rated movies with straight up nudity. "The Boy Nextdoor." We don't do that in this family. I'm afraid she'll despise my militancy against it. I'm afraid she'll despise my standards. I've never seen so much as a trailer for Deadpool. I heard there was full frontal nudity. I thought, "Nobody I know will see that." But then Brandon said he not only saw it, but went with his family. And nobody raised an eyebrow. And Chris said he watched Game of Thrones, and nobody thought it strange except me. Are they all so desensitized? Does nobody have my conscience? Does nobody have the judgments of our Lord?
 
