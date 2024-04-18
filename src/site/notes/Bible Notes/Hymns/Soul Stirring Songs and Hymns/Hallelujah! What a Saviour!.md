@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/hallelujah-what-a-saviour/","title":"Hallelujah! What a Saviour!"}
+dg-publish: true
+title: Hallelujah! What a Saviour!
+author: P. P. Bliss (1875)
+audio: http://www.kjvprophecy.com/170.mp3
+index: 170
 ---
-
 
 Man of sorrows what a name
 for the Son of God, who came
