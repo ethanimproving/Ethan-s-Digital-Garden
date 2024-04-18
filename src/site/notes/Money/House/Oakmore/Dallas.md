@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/oakmore/dallas/","created":"Jun 24, 2023, 11:36 PM"}
+dg-publish: true
+dg-created: Jun 24, 2023, 11:36 PM
 ---
-
 # Bills
 
 101216674
