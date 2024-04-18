@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/unbound/","created":"Jul 07, 2020, 6:07 PM","updated":"Jul 07, 2020, 6:07 PM"}
+dg-publish: true
+dg-created: Jul 07, 2020, 6:07 PM
+dg-updated: Jul 07, 2020, 6:07 PM
 ---
-
 
 Unbound App
 "The word of God is not bound"
