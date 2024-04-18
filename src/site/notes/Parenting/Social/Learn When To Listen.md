@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/parenting/social/learn-when-to-listen/","tags":["lifeadvice","parenting"],"created":"Apr 19, 2023, 8:42 PM"}
+dg-publish: true
+dg-created: Apr 19, 2023, 8:42 PM
+tags: [lifeadvice, parenting]
 ---
-
 
 [Know When To STFU And LISTEN!](https://www.youtube.com/watch?v=1Lg1A8Ijb7Y)
 
