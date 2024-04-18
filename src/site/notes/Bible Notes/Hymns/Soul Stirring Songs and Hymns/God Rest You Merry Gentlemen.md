@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/god-rest-you-merry-gentlemen/","title":"God Rest You Merry Gentlemen"}
+dg-publish: true
+title: God Rest You Merry Gentlemen
+author: Unknown
+audio: http://www.kjvprophecy.com/482.mp3
+index: 482
 ---
-
 
 God rest you merry, gentlemen,
 let nothing you dismay;
