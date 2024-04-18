@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/wonderful-peace/","title":"Wonderful Peace"}
+dg-publish: true
+title: Wonderful Peace
+author: W. D. Cornell
+audio: http://www.kjvprophecy.com/113.mp3
+index: 113
 ---
-
 
 Far away in the depths of my spirit tonight
 Rolls a melody sweeter than psalm;
