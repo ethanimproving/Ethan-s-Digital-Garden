@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/there-shall-be-showers-of-blessing/","title":"There Shall Be Showers of Blessing"}
+dg-publish: true
+title: There Shall Be Showers of Blessing
+author: D. W. Whittle (1883)
+audio: http://www.kjvprophecy.com/224.mp3
+index: 224
 ---
-
 
 There shall be showers of blessing:
 This is the promise of love;
