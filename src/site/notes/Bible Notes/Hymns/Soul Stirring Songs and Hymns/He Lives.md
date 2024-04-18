@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/he-lives/","title":"He Lives","tags":["favoritehymns"]}
+dg-publish: true
+title: He Lives
+author: Gloria Gaither (1971)
+audio: http://www.kjvprophecy.com/031.mp3
+index: 31
+tags:
+  - favoritehymns
+known: 1
 ---
-
 
 I serve a risen Saviour, He's in the world today  
 I know that He is living, whatever men may say  
