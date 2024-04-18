@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/blessed-assurance/","title":"Blessed Assurance"}
+dg-publish: true
+title: Blessed Assurance
+author: Fanny Crosby
+audio: http://www.kjvprophecy.com/143.mp3
+index: 143
 ---
-
 
 Blessed assurance, Jesus is mine!
 Oh, what a foretaste of glory divine!
