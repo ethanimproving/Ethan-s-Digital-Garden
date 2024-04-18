@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/house-ideas/house-ideas/"}
+dg-publish: true
 ---
-
 
 # Reversible Faucets
 
