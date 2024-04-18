@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/love-lifted-me/","title":"Love Lifted Me"}
+dg-publish: true
+title: Love Lifted Me
+author: James Rowe (1912)
+audio: http://www.kjvprophecy.com/173.mp3
+index: 173
 ---
-
 
 I was sinking deep in sin,
 Far from the peaceful shore,
