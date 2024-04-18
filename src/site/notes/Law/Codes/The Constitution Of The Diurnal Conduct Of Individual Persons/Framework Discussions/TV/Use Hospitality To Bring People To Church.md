@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/framework-discussions/tv/use-hospitality-to-bring-people-to-church/","created":"Jan 7, 2020, 9:59 PM"}
+dg-publish: true
+dg-created: Jan 7, 2020, 9:59 PM
+tage: [soulwinning, discipleship, television]
 ---
-
 
 So I have this thought about how to bring people to church. I was reading in 1 Peter 4, and in verse 7 he says
 
