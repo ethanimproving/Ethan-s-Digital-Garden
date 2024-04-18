@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/oakmore/project-timelines/","created":"Dec 20, 2023, 11:00 PM"}
+dg-publish: true
+dg-created: Dec 20, 2023, 11:00 PM
 ---
-
 
 [Project Timelines.xlsx](https://mysite.aa.com/:x:/g/personal/242924_corpaa_aa_com/EQeNqxk1nAZEl_KnXAcRf8gBM1KbNua8-TXHSMP81jstkA?e=aTcmrR)
 
