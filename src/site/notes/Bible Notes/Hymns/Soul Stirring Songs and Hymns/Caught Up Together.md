@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/caught-up-together/","title":"Caught Up Together"}
+dg-publish: true
+title: Caught Up Together
+author: John R. Rice
+audio: http://www.kjvprophecy.com/059.mp3
+index: 059
 ---
-
 
