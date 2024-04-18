@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/propose-to-mariana/","tags":["timeline","personal"]}
+dg-publish: true
+start-date: 2024-02-05
+end-date: 2024-03-05
+type: range
+color: pink
+tags:
+  - timeline
+  - personal
 ---
-
 
 - [ ] Buy a ring. What Ring to buy?
 - [ ] Where is the most romantic setting to propose?
