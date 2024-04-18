@@ -1,7 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/don-t-be-a-lazy-jerk-bro-dillon-awes/","tags":["laziness"],"created":"Jan 28, 2024, 10:40 PM"}
+dg-publish: true
+dg-created: Jan 28, 2024, 10:40 PM
+note-id: 1
+verse-reference: Proverbs 10:26
+date-created: 1/28/2024
+date-updated: 1/28/2024
+icon: pulpit
+tags: [laziness]
+category: Laziness
 ---
-
 
 [Don't Be a Lazy Jerk! - Bro. Dillon Awes](https://rumble.com/v49ukdz-dont-be-a-lazy-jerk-bro.-dillon-awes.html)
 
