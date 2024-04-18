@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/on-jordan-s-stormy-banks/","title":"On Jordan's Stormy Banks"}
+dg-publish: true
+title: On Jordan's Stormy Banks
+author: Samuel Stennett (1787)
+audio: http://www.kjvprophecy.com/075.mp3
+index: 075
 ---
-
 
 On Jordan's stormy banks I stand,
 and cast a wishful eye
