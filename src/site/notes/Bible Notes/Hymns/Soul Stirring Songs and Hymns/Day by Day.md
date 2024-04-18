@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/day-by-day/","title":"Day by Day"}
+dg-publish: true
+title: Day by Day
+author: Carolina Sandell
+audio: http://www.kjvprophecy.com/100.mp3
+index: 100
 ---
-
 
