@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/houses/hampton-park-by-bloomfield-homes/","created":"Jun 15, 2023, 12:35 AM"}
+dg-publish: true
+dg-created: Jun 15, 2023, 12:35 AM
 ---
-
 
 [Hampton Park](https://www.bloomfieldhomes.com/community-detail/Hampton-Park-167828) is too far, just like [[Money/House/Houses/Stone Creek Community by Starlight Homes\|Stone Creek]]. The price range is also outside of my budget. But the houses themselves are beautiful.
 
