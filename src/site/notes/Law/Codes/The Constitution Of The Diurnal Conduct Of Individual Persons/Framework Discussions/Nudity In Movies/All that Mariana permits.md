@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/framework-discussions/nudity-in-movies/all-that-mariana-permits/","created":"Nov 7, 2021, 1:59 AM"}
+dg-publish: true
+dg-created: Nov 7, 2021, 1:59 AM
 ---
-
 
 Lord, be my calm in a moment of disorientation. I'm angry. For 2 years I liked Mariana because I saw something pure and innocent in her nature. I don't see that right now. I don't see that anymore. She is so worldly. She thinks so many false things:
 
