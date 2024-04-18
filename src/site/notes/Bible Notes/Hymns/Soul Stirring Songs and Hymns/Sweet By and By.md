@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/sweet-by-and-by/","title":"Sweet By and By"}
+dg-publish: true
+title: Sweet By and By
+author: Sanford Fillmore Bennett (1868)
+audio: http://www.kjvprophecy.com/041.mp3
+index: 41
+known: 1
 ---
-
 
 There's a land that is fairer than day,
 And by faith we can see it afar,
