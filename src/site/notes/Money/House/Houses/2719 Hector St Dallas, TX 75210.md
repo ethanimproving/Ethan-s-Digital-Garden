@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/houses/2719-hector-st-dallas-tx-75210/","tags":["homes2023"],"created":"Jun 12, 2023, 8:13 PM"}
+dg-publish: true
+dg-created: Jun 12, 2023, 8:13 PM
+cost: 292,000
+sq-ft: 1,578
+tags: [homes2023]
 ---
-
 
 [2719 Hector St, Dallas, TX 75210](https://www.homes.com/property/2719-hector-st-dallas-tx/htp9cghz1vzmc/)
 
