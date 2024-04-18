@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/authority-shiny-happy-people-part-ii/","tags":["authority"],"created":"Jul 2, 2023, 10:40 AM"}
+dg-publish: true
+dg-created: Jul 2, 2023, 10:40 AM
+note-id: 1
+verse-reference: 1 Corinthians 11:3
+icon: pulpit
+tags: [authority]
 ---
-
 
 [Authority - Shiny Happy People (Part II) - Pastor Jonathan Shelley](https://rumble.com/v2xm8vq-authority-shiny-happy-people-part-ii-pastor-jonathan-shelley-stedfast-bapti.html)
 
@@ -10,25 +14,34 @@
 
 
 
+---
 
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
 
 # Text Elements
 GOD
-BIBLE 
+BIBLE ^jVNffLp9
+
 Husband
 Wife
-Children 
+Children ^fM87FMPQ
+
 Pastor
 Evangelist
 Deacon
-Church 
+Church ^epEUb4jL
+
 Constitution
 Federal
 State
 Local
-Citizens 
+Citizens ^18CghTmH
+
 
 
 </div></div>
