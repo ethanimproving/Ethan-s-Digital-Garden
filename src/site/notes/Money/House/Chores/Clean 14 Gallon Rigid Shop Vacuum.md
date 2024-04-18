@@ -1,7 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/chores/clean-14-gallon-rigid-shop-vacuum/","tags":["oakmore-renovation-task"],"created":"Dec 19, 2023, 5:47 PM"}
+dg-publish: true
+dg-created: Dec 19, 2023, 5:47 PM
+date-completed: Dec 31, 2023, 4:47 PM
+parent: Garage
+status: Complete
+minutes: 15
+assigned-to: Ethan
+parent-task:
+tags:
+  - oakmore-renovation-task
 ---
-
 # Cleaning The Vac
 
 1. Purchase a filter for the [14 Gallon Rigid Shop Vacuum](https://www.homedepot.com/p/RIDGID-14-Gallon-6-0-Peak-HP-NXT-Wet-Dry-Shop-Vacuum-with-Fine-Dust-Filter-Hose-Accessories-and-Premium-Car-Cleaning-Kit-HD1401/308343494) from [Amazon](https://www.amazon.com/Cartridge-Replacement-Vacuums-WD09700-WD06700/dp/B08B68WSDP/ref=asc_df_B08B68WSDP).
