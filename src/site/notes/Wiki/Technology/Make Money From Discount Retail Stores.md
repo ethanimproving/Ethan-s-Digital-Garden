@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/technology/make-money-from-discount-retail-stores/","tags":["technology","moneyideas","retailarbitrage"],"created":"Apr 19, 2023, 7:24 PM"}
+dg-publish: true
+dg-created: Apr 19, 2023, 7:24 PM
+tags: [technology, moneyideas, retailarbitrage]
 ---
-
 
 # Amazon FBA (Fulfillment By Amazon)
 If you are making less than $100K a year and unhappy with your job, you should quit and sell items on Amazon.
