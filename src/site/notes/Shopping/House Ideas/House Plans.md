@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/house-ideas/house-plans/"}
+dg-publish: true
 ---
-
 
 | Plan                    | Image                                                       |
 | ----------------------- | ----------------------------------------------------------- |
