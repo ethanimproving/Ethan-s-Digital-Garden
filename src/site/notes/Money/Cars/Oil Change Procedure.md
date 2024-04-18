@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/money/cars/oil-change-procedure/","created":"Jul 08, 2023, 9:44 AM"}
+dg-publish: true
+dg-created: Jul 08, 2023, 9:44 AM
 ---
-
  
 - [ ] Add Vehicle
 ```
