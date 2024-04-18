@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/psalms/psalm-15/","title":"Psalm 15"}
+dg-publish: true
+title: Psalm 15
+author: Steven L. Anderson
+audio: http://www.kjvprophecy.com/psalm15.mp3
+index: 0
 ---
-
 
 Who shall ascend unto your place,
 Great God, and dwell before your face?
