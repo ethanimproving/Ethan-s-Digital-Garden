@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/o-god-our-help/","title":"O God, Our Help"}
+dg-publish: true
+title: O God, Our Help
+author: Isaac Watts (1719)
+audio: http://www.kjvprophecy.com/122.mp3
+index: 122
 ---
-
 
 O God, our help in ages past,
 our hope for years to come,
