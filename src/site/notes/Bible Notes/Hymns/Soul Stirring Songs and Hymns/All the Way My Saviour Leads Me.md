@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/all-the-way-my-saviour-leads-me/","title":"All the Way My Saviour Leads Me"}
+dg-publish: true
+title: All the Way My Saviour Leads Me
+author: Fanny Crosby (1875)
+audio: http://www.kjvprophecy.com/110.mp3
+index: 110
 ---
-
 
 All the way my Savior leads me–
 What have I to ask beside?
