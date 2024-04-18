@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/i-will-chase-her/","tags":["diary","prayer","crush"],"created":"Nov 16, 2020, 8:17 AM"}
+dg-publish: true
+dg-created: Nov 16, 2020, 8:17 AM
+dg-updated: 
+tags: [diary, prayer, crush]
 ---
-
 
 Father, I don't pray that you would unlatch my heart from Mariana. I pray you would latch her heart to mine. She's the one I want now. At first I only talked to her so to make myself higher status among my friends. Paloma and Siri saw me talking to girls and thought I could pick up girls easily. But she's special. As we talked I fell in love with with her way you fall asleep. Slowly, and then all at once. I didn't know that would happen. I couldn't have guessed. I was using her to get to Siri, but now I don't want Siri. I want her. I found a treasure in her eyes that makes Siri look like costume jewelry.
 
