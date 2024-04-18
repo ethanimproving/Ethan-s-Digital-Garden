@@ -1,6 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/framework-discussions/picking-a-wife/god-i-pray-for-my-future-wife/","created":"Jul 25, 2019, 5:12 PM"}
+dg-publish: true
+dg-created: Jul 25, 2019, 5:12 PM
 ---
-
 
 God, I pray for my future wife. I don't know who she is, but you do. I pray that you would draw her near to you. Give her a heart to love you, a heart to love purity, a heart to want to see you more clearly. Shake her up, Lord. There's so many things that fight for our eyes. The whole world lieth in wickedness. They watch TV, and listen to worldly music, and love alcohol, and approve tattoos, and smoke cigarette, and speak with a froward mouth, and I pray that you would rip her away from all of that. I pray that you would keep her from thinking on any impure fantasy that would blur her vision. The pure in heart will see God. I want her to see you. Lord, I pray that she would not worship you with trendy music and shallow emotions, but that she will taste the reality of the goodness of God. Make her step back and see the new way, and ask for the old paths, where is the good way, and walk therein, and find rest for her soul. Let her find the preserved people, and that her heart would open up to your prophets. Let her take heed to their words. Lord, ease her into the truth. You know the best church in the area. I have my estimation, but I don't know. Just like I know who I want to marry, but I don't know.
