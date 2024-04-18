@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/hiding-in-thee/","title":"Hiding in Thee"}
+dg-publish: true
+title: Hiding in Thee
+author: W. O. Cushing (1876)
+audio: http://www.kjvprophecy.com/091.mp3
+index: 091
 ---
-
 
 O safe to the Rock that is higher than I,
 My soul in its conflicts and sorrows would fly.
