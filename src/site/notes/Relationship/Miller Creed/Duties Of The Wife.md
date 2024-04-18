@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/miller-creed/duties-of-the-wife/","created":"Jun 18, 2023, 8:57 PM"}
+dg-publish: true
+dg-created: Jun 18, 2023, 8:57 PM
 ---
-
 
 ## Duties of a Wife towards Her Husband
 
