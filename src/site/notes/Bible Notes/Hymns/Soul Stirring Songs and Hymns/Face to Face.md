@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/face-to-face/","title":"Face to Face"}
+dg-publish: true
+title: Face to Face
+author: Carrie Ellis Breck (1898)
+audio: http://www.kjvprophecy.com/060.mp3
+index: 060
 ---
-
 
 Face to face with Christ, my Savior,
 Face to face- what will it be
