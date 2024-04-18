@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/we-ll-never-say-goodbye/","title":"We'll Never Say Goodbye"}
+dg-publish: true
+title: We'll Never Say Goodbye
+author: Anzentia Igene Perry Chapman
+audio: http://www.kjvprophecy.com/061.mp3
+index: 061
 ---
-
 
 Our friends on earth we meet with pleasure,
 While swift the moments fly,
