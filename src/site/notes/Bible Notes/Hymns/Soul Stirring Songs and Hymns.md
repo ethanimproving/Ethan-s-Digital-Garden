@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/","created":"May 13, 2023, 6:03 PM"}
+dg-publish: true
+dg-created: May 13, 2023, 6:03 PM
 ---
-
 
 | File                                                                                                                                            | index           | known |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | ----- |
