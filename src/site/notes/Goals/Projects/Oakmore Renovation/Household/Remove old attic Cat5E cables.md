@@ -1,7 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/household/remove-old-attic-cat5-e-cables/","tags":["oakmore-renovation-task"],"created":"Jan 01, 2024, 3:22 PM"}
+dg-publish: true
+dg-created: Jan 01, 2024, 3:22 PM
+date-completed:
+parent: Attic
+status: In-Prorgess
+minutes: 60
+assigned-to:
+depends-on:
+tags:
+  - oakmore-renovation-task
 ---
-
 
 # Master Bathroom
 
