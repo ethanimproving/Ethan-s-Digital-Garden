@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/come-thou-almighty-king/","title":"Come, Thou Almighty King"}
+dg-publish: true
+title: Come, Thou Almighty King
+author: Anonymous
+audio: http://www.kjvprophecy.com/157.mp3
+index: 157
 ---
-
 
 Come, thou almighty King,
 help us thy name to sing;
