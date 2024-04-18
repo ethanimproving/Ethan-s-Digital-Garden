@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/jesus-loves-even-me/","title":"Jesus Loves Even Me"}
+dg-publish: true
+title: Jesus Loves Even Me
+author: P. P. Bliss (1871)
+audio: http://www.kjvprophecy.com/178.mp3
+index: 178
 ---
-
 
 I am so glad that our Father in heaven
 Tells of His love in the Book He has given;
