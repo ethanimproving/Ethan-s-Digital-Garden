@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-will-sing-of-the-mercies/","title":"I Will Sing of the Mercies"}
+dg-publish: true
+title: I Will Sing of the Mercies
+author: James H. Fillmore
+audio: http://www.kjvprophecy.com/195.mp3
+index: 195
 ---
-
 
 I will sing of the mercies of the Lord forever,
 I will sing, I will sing,
