@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/2023-black-friday-list/","created":"Nov 20, 2023, 1:45 PM"}
+dg-publish: true
+dg-created: Nov 20, 2023, 1:45 PM
 ---
-
 
 # House Stuff
 
