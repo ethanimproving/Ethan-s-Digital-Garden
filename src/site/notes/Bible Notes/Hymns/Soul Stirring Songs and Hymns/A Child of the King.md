@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/a-child-of-the-king/","title":"A Child of the King"}
+dg-publish: true
+title: A Child of the King
+author: Hattie E. Buell (1877)
+audio: http://www.kjvprophecy.com/221.mp3
+index: 221
 ---
-
 
 My Father is rich in houses and land,
 He holdeth the wealth of the world in His hands!
