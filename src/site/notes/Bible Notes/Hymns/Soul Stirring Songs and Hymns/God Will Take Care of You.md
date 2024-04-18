@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/god-will-take-care-of-you/","title":"God Will Take Care of You"}
+dg-publish: true
+title: God Will Take Care of You
+author: Civilla D. Martin (1904)
+audio: http://www.kjvprophecy.com/124.mp3
+index: 124
 ---
-
 
 Be not dismayed whate’er betide,
 God will take care of you;
