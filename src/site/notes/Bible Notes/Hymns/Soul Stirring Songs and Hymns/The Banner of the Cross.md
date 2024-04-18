@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/the-banner-of-the-cross/","title":"The Banner of the Cross"}
+dg-publish: true
+title: The Banner of the Cross
+author: D. W. Whittle
+audio: http://www.kjvprophecy.com/405.mp3
+index: 405
 ---
-
 
 There's a royal banner given for display
 To the soldiers of the King;
