@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/renovation-skills/attic/attic-work-electrical/","tags":["oakmore","skill"],"created":"Aug 01, 2023, 5:17 PM"}
+dg-publish: true
+dg-created: Aug 01, 2023, 5:17 PM
+cost: $0$
+priority: 5
+tags: [oakmore, skill]
+completed: true
 ---
-
 
 According to the [Occupational Outlook Handbook](https://www.bls.gov/ooh/construction-and-extraction/brickmasons-blockmasons-and-stonemasons.htm) posted by the U.S. Bureau of Labor Statistics, Electricians make about $60,000 per year and are expected to grow at a pace of 6% in ten years.
 
