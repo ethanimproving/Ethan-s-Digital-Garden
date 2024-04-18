@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/such-love/","title":"Such Love"}
+dg-publish: true
+title: Such Love
+author: C. Bishop
+audio: http://www.kjvprophecy.com/179.mp3
+index: 179
 ---
-
 
