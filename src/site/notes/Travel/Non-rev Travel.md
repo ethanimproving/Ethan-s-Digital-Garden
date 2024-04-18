@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/travel/non-rev-travel/","created":"Jun 4, 2021, 10:06 PM"}
+dg-publish: true
+dg-created: Jun 4, 2021, 10:06 PM
 ---
-
 
 # Where to Park
 
