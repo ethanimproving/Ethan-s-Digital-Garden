@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/o-holy-night/","title":"O Holy Night"}
+dg-publish: true
+title: O Holy Night
+author: Placide Cappeau (1847)
+audio: http://www.kjvprophecy.com/481.mp3
+index: 481
 ---
-
 
 O holy night! the stars are brightly shining;
 It is the night of the dear Savior’s birth.
