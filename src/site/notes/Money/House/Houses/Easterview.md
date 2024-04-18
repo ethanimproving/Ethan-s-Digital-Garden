@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/houses/easterview/","tags":["homes2023"],"created":"Jun 29, 2023, 9:08 PM"}
+dg-publish: true
+dg-created: Jun 29, 2023, 9:08 PM
+cost: 238,900
+sq-ft: 1,176
+year: 2023
+subdivision: Easterview
+tags: [homes2023]
 ---
-
 
 [2436 Hudspeth Ave, Dallas, TX 75216](https://www.zillow.com/homedetails/2436-Hudspeth-Ave-Dallas-TX-75216/26767010_zpid/)
 
