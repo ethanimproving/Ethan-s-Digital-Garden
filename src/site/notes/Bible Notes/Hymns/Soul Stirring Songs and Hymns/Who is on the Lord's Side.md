@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/who-is-on-the-lord-s-side/","title":"Who is on the Lord's Side?"}
+dg-publish: true
+title: Who is on the Lord's Side?
+author: Frances R. Havergal (1877)
+audio: http://www.kjvprophecy.com/406.mp3
+index: 406
 ---
-
 
 Who is on the Lord’s side? Who will serve the King?
 Who will be His helpers, other lives to bring?
