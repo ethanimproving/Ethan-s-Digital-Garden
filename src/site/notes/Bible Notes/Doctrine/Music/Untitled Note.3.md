@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/doctrine/music/untitled-note-3/","created":"Jun 21, 2020, 10:00 AM","updated":"Jun 21, 2020, 10:18 AM"}
----
+dg-publish: true
+dg-created: Jun 21, 2020, 10:00 AM
+dg-updated: Jun 21, 2020, 10:18 AM
 
+---
 
 There is nothing that has had a more powerful influence on afflicting my mind with depression than music. It used to be that I wasn't allowed to listen to secular music or even Christian Rock. I was safeguarded from those things as a child, and I fought against those rules like a civil rights activist. After enough pushing and defiance, our protection faded and I began withholding no music that was pleasurable to me. Now I'm listening to "I'm a mess, I'm a loser / I'm a hater, I'm a user / I'm a mess for your love, it ain't new / I'm obsessed, I'm embarrassed / I don't trust no one around us / I'm a mess for your love, it ain't new." I've started listening to the songs I listened to as a child, and it was like the birth of a new day with fresh air and sunlight to dry up all the snot from these songs I've been congesting myself with. I mean it was powerful. The trumpets, the choir, the strength of their voices, it was like a Disney World musical for Christians. Just beautiful and majestic. My depression went fleeting away. But my desire for imprisoning music didn't. After I started listening to the worldly songs it's amazing how quickly my negative feelings turned back on like a TV channel. And the same goes for Christian rap and Christian so-called worship from modern artists. The music itself gave me bad feelings, not triumphant feelings.
 
