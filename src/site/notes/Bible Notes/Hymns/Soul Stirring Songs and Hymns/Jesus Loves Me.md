@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/jesus-loves-me/","title":"Jesus Loves Me"}
+dg-publish: true
+title: Jesus Loves Me
+author: Anna Bartlett Warner (1859)
+audio: http://www.kjvprophecy.com/187.mp3
+index: 187
 ---
-
 
 Jesus loves me, this I know,
 for the Bible tells me so.
