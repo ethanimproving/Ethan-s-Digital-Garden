@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-know-that-my-redeemer-liveth/","title":"I Know That My Redeemer Liveth"}
+dg-publish: true
+title: I Know That My Redeemer Liveth
+author: Jessie Brown Pounds
+audio: http://www.kjvprophecy.com/034.mp3
+index: 34
+known: 1
 ---
-
 
 I know that my Redeemer liveth,
 And on the earth again shall stand;
