@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-know-i-am-saved/","title":"I Know I Am Saved"}
+dg-publish: true
+title: I Know I Am Saved
+author: C. Austin Miles
+audio: http://www.kjvprophecy.com/135.mp3
+index: 135
 ---
-
 
 I was once a sinner, but I came
 Pardon to receive from my Lord.
