@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/tell-it-to-jesus/","title":"Tell it to Jesus"}
+dg-publish: true
+title: Tell it to Jesus
+author: Jeremiah Eames Rankin
+audio: http://www.kjvprophecy.com/351.mp3
+index: 351
 ---
-
 
 Are you weary, are you heavyhearted?
 Tell it to Jesus,
