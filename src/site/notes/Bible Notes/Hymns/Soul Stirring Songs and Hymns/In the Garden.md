@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/in-the-garden/","title":"In the Garden"}
+dg-publish: true
+title: In the Garden
+author: C. Austin Miles (1913)
+audio: http://www.kjvprophecy.com/086.mp3
+index: 086
 ---
-
 
 I come to the garden alone,
 While the dew is still on the roses;
