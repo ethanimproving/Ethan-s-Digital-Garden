@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/hallelujah-for-the-cross/","title":"Hallelujah for the Cross"}
+dg-publish: true
+title: Hallelujah for the Cross
+author: Horatius Bonar
+audio: http://www.kjvprophecy.com/026.mp3
+index: 26
+known: 1
 ---
-
 
 The cross it standeth fast -
 Hallelujah, hallelujah!
