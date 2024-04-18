@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/parenting/spiritual/no-fap/","created":"Jul 16, 2020, 11:40 PM"}
+dg-publish: true
+dg-created: Jul 16, 2020, 11:40 PM
 ---
-
 
 [NO-FAP NIGHTMARE MODE RESULTS (AGING BACKWARDS)](https://www.youtube.com/watch?v=7XX80DaKIgI)
 # Mounting The Manticore
