@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/journal/snowflake-letter/","created":"Dec 26, 2018, 4:26 PM"}
+dg-publish: true
+dg-created: Dec 26, 2018, 4:26 PM
+tage: [devotion]
 ---
-
 
 I'm sorry mom. I didn't mean to make you cry. **It isn't easy for me to stand alone for what I see when nobody else sees it.** I do feel a weight in my chest with contention, and I try to numb it out and push it down, but I suppose it manifests itself in my quick speaking selection of words.
 
