@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/anderson-rebuking-lordship-salvation/","tags":["timeline","salvation"]}
+dg-publish: true
+start-date: 2016-04-29
+date-limit: month
+importance: 30
+tags: [timeline, salvation]
 ---
-
 
 YouTube
 Watched Paul Washer is an Unsaved False Prophet
