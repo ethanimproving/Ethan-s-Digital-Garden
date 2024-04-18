@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/health/vaccinations/","created":"Jul 04, 2023, 9:13 AM"}
+dg-publish: true
+dg-created: Jul 04, 2023, 9:13 AM
 ---
-
 
 [RFK Jr.: Saying I'm anti-vaccine is 'way of silencing me' | RFK Jr. Town Hall](https://www.youtube.com/watch?v=KLxBwIupF88)
 
