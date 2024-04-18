@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-have-decided-to-follow-jesus/","title":"I Have Decided to Follow Jesus"}
+dg-publish: true
+title: I Have Decided to Follow Jesus
+author: Unknown
+audio: http://www.kjvprophecy.com/316.mp3
+index: 316
 ---
-
 
 I have decided to follow Jesus;
 I have decided to follow Jesus;
