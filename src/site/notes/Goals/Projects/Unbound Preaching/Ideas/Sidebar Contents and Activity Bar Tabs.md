@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/sidebar-contents-and-activity-bar-tabs/","tags":["website"],"created":"Nov 26, 2018, 10:11 AM","updated":"Nov 26, 2018, 1:11 PM"}
+dg-publish: true
+dg-created: Nov 26, 2018, 10:11 AM
+dg-updated: Nov 26, 2018, 1:11 PM
+tags: [website]
 ---
-
 
 The sidebar might include an activity bar to its left that contains tabs to switch what the sidebar displays (such as current video course with breadcrumbs (default), video series (the "notebook" to which the entry belongs -- Sunday Morning Sermons, Sunday Night Sermons, FWBC Sermons, etc), user playlists, subscriptions, 
 
