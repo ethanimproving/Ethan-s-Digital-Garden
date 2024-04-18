@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/hark-the-herald-angels-sing/","title":"Hark! The Herald Angels Sing"}
+dg-publish: true
+title: Hark! The Herald Angels Sing
+author: Charles Wesley (1739)
+audio: http://www.kjvprophecy.com/429.mp3
+index: 429
 ---
-
 
 Hark! the herald angels sing,
 ""Glory to the newborn King:
