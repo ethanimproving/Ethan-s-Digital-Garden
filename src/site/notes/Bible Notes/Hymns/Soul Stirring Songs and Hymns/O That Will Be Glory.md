@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/o-that-will-be-glory/","title":"O That Will Be Glory"}
+dg-publish: true
+title: O That Will Be Glory
+author: Chas. H. Gabriel (1900)
+audio: http://www.kjvprophecy.com/054.mp3
+index: 054
 ---
-
 
 When all my labors and trials are o’er,
 And I am safe on that beautiful shore,
