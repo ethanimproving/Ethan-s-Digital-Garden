@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/are-you-washed-in-the-blood/","title":"Are You Washed in the Blood?"}
+dg-publish: true
+title: Are You Washed in the Blood?
+author: E. A. Hoffman (1878)
+audio: http://www.kjvprophecy.com/022.mp3
+index: 22
+known: 1
 ---
-
 
 Have you been to Jesus for the cleansing power?
 Are you washed in the blood of the Lamb?
