@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/obsidian-plugins/","tags":["timeline","personal"]}
+dg-publish: true
+start-date: 2023-04-10
+end-date: 2023-05-03
+type: range
+color: blue
+tags:
+  - timeline
+  - personal
 ---
-
 
 # Apr 10 - 15
 
@@ -16,7 +22,10 @@ The last plugin I created was [Cooklang](https://github.com/cooklang/cooklang-ob
 
 
 
-
+---
+dg-publish: true
+dg-created: Apr 14, 2023, 9:25 AM
+---
 
 # Timeline Idea
 
