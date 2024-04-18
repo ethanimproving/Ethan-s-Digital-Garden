@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-never-will-cease-to-love-him/","title":"I Never Will Cease to Love Him"}
+dg-publish: true
+title: I Never Will Cease to Love Him
+author: Charles Hutchinson Gabriel
+audio: http://www.kjvprophecy.com/189.mp3
+index: 189
 ---
-
 
 For all the Lord has done for me,
 I never will cease to praise Him;
