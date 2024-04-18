@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/when-i-survey-the-wondrous-cross/","title":"When I Survey the Wondrous Cross"}
+dg-publish: true
+title: When I Survey the Wondrous Cross
+author: Isaac Watts (1707)
+audio: http://www.kjvprophecy.com/005.mp3
+index: 5
+known: 1
 ---
-
 
 When I survey the wondrous cross
 on which the Prince of glory died,
