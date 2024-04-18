@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/social-s-kills/observational-learning/","created":"Jun 09, 2023, 10:55 AM"}
+dg-publish: true
+dg-created: Jun 09, 2023, 10:55 AM
 ---
-
 
 For a collection of helpful videos, visit my [Psychology](https://www.youtube.com/playlist?list=PLYAz1Lwo4O59pob2Bf0Nndq03gLcFo7oa) playlist on YouTube.
 
