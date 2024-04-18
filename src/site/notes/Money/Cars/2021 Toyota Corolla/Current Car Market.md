@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/money/cars/2021-toyota-corolla/current-car-market/","created":"Jan 23, 2024, 6:12 PM"}
+dg-publish: true
+dg-created: Jan 23, 2024, 6:12 PM
 ---
-
 
 # Features I Want
 
