@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/wonderful-story-of-love/","title":"Wonderful Story of Love"}
+dg-publish: true
+title: Wonderful Story of Love
+author: J. M. Driver (1885)
+audio: http://www.kjvprophecy.com/182.mp3
+index: 182
 ---
-
 
 Wonderful story of love!
 Tell it to me again;
