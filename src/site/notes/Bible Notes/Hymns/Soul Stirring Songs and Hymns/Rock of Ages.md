@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/rock-of-ages/","title":"Rock of Ages"}
+dg-publish: true
+title: Rock of Ages
+author: Augustus Toplady (1776)
+audio: http://www.kjvprophecy.com/129.mp3
+index: 129
 ---
-
 
 Rock of Ages, cleft for me,
 let me hide myself in thee;
