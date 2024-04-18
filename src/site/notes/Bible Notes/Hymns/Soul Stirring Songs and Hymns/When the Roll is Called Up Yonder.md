@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/when-the-roll-is-called-up-yonder/","title":"When the Roll is Called Up Yonder"}
+dg-publish: true
+title: When the Roll is Called Up Yonder
+author: James M. Black (1893)
+audio: http://www.kjvprophecy.com/055.mp3
+index: 055
 ---
-
 
 When the trumpet of the Lord shall sound and time shall be no more,
 And the morning breaks, eternal, bright and fair;
