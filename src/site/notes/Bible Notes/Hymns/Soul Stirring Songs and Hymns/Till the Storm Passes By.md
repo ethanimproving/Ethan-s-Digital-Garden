@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/till-the-storm-passes-by/","title":"Till the Storm Passes By"}
+dg-publish: true
+title: Till the Storm Passes By
+author: Mosie Lister
+audio: http://www.kjvprophecy.com/119.mp3
+index: 119
 ---
-
 
