@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/kneel-at-the-cross/","title":"Kneel at the Cross"}
+dg-publish: true
+title: Kneel at the Cross
+author: Charles E. Moody
+audio: http://www.kjvprophecy.com/014.mp3
+index: 14
+known: 1
 ---
-
 
 Kneel at the cross,
 Christ will meet you there,
