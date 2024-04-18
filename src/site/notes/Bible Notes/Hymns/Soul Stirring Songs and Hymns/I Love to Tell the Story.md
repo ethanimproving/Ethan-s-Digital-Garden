@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/i-love-to-tell-the-story/","title":"I Love to Tell the Story"}
+dg-publish: true
+title: I Love to Tell the Story
+author: Kate Hankey (1866)
+audio: http://www.kjvprophecy.com/228.mp3
+index: 228
 ---
-
 
 I love to tell the story
 of unseen things above,
