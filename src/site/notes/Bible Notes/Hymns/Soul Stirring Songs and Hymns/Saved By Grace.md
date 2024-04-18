@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/saved-by-grace/","title":"Saved By Grace"}
+dg-publish: true
+title: Saved By Grace
+author: Fanny Crosby (1891)
+audio: http://www.kjvprophecy.com/062.mp3
+index: 062
 ---
-
 
 Some day the silver cord will break,
 And I no more as now shall sing;
