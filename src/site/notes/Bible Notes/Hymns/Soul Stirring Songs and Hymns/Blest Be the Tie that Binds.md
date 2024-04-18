@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/blest-be-the-tie-that-binds/","title":"Blest Be the Tie that Binds"}
+dg-publish: true
+title: Blest Be the Tie that Binds
+author: John Fawcett (1782)
+audio: http://www.kjvprophecy.com/154.mp3
+index: 154
 ---
-
 
 Blest be the tie that binds
 our hearts in Christian love;
