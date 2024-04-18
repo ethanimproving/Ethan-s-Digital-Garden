@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/jesus-is-the-sweetest-name-i-know/","title":"Jesus is the Sweetest Name I Know"}
+dg-publish: true
+title: Jesus is the Sweetest Name I Know
+author: Lela B. Long
+audio: http://www.kjvprophecy.com/156.mp3
+index: 156
 ---
-
 
 There have been names that I have loved to hear,
 But never has there been a name so dear
