@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/the-lord-is-my-shepherd/","title":"The Lord is My Shepherd"}
+dg-publish: true
+title: The Lord is My Shepherd
+author: James Montgomery (1822)
+audio: http://www.kjvprophecy.com/095.mp3
+index: 095
 ---
-
 
 The Lord is my Shepherd, no want shall I know;
 I feed in green pastures, safe folded I rest;
