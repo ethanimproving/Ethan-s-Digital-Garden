@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/parenting/psychological/video-games/","tags":["dopamine"]}
+dg-publish: true
+tags: [dopamine]
 ---
-
 
 > *There is single handedly no hobby or side thing you can do that will probably be more damaging to you being successful than playing video games. I'm gonna tell you why in this video so just listen up. ~ Alex Becker*
 
