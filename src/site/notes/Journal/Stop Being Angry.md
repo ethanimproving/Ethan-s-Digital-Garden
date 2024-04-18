@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/journal/stop-being-angry/","created":"Jan 12, 2024, 11:23 AM"}
+dg-publish: true
+dg-created: Jan 12, 2024, 11:23 AM
 ---
-
 
 How to stop being angry? Stop living to please people. Don't worry about disappointing anybody. The decisions you make are the decisions you make, and if they regret being nice to you because you didn't appreciate their gift enough, that's up to them.
 
