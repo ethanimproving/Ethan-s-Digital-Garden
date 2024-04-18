@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/psalms/psalm-11/","title":"Psalm 11"}
+dg-publish: true
+title: Psalm 11
+author: Steven L. Anderson
+audio: http://www.kjvprophecy.com/psalm11.mp3
+index: 11
 ---
-
 
 > [!Bible] [Psalms 11:1-7 - KJV](https://bible-api.com/Psalm+11:1-7?translation=kjv)
 > 1. In the LORD put I my trust: How say ye to my soul, Flee as
