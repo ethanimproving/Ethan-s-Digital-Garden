@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/safe-wherever-i-go/","title":"Safe Wherever I Go"}
+dg-publish: true
+title: Safe Wherever I Go
+author: John R. Rice
+audio: http://www.kjvprophecy.com/133.mp3
+index: 133
 ---
-
 
