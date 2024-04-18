@@ -1,7 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/health/nutrition/recipes/entree/gains/chuck-eye-steak/","tags":["cookmate"]}
+dg-publish: true
+dg-date: May 04, 2023, 6:40 PM
+author: 
+source: 
+image:
+description: 
+preparation-time:
+cook-time:
+yield: 
+category: Gains
+meal: entree
+rating: 5
+calories: 912
+tags: [cookmate]
 ---
-
 
 link:: [[Chuck Eye Steak.cook|Directions]]
 
