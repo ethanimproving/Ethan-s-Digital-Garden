@@ -1,7 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/health/nutrition/recipes/entree/messy-millers/","tags":["cookmate"]}
+dg-publish: true
+dg-date: May 03, 2023, 11:01 PM
+author: 
+source: 
+image:
+description: 
+preparation-time:
+cook-time:
+yield: 
+category: ML Core Plan
+meal: entree
+rating: 5
+calories: 
+tags: [cookmate]
 ---
-
 
 ![](https://d3u8pti8i6gm88.cloudfront.net/medias/img/recipes/44450_Messy_Millers_rRHzHNi.png)
 
