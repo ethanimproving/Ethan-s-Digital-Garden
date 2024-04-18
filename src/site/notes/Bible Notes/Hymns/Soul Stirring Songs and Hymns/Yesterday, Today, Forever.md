@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/yesterday-today-forever/","title":"Yesterday, Today, Forever"}
+dg-publish: true
+title: Yesterday, Today, Forever
+author: Albert B. Simpson
+audio: http://www.kjvprophecy.com/130.mp3
+index: 130
 ---
-
 
 Oh, how sweet the glorious message simple faith may claim:
 Yesterday, today, forever, Jesus is the same;
