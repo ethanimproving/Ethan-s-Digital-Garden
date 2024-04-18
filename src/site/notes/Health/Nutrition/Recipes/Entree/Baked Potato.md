@@ -1,7 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/health/nutrition/recipes/entree/baked-potato/","tags":["cookmate"]}
+dg-publish: true
+dg-date: May 03, 2023, 9:25 PM
+author: 
+source: 
+image:
+description: 
+preparation-time:
+cook-time: 40
+yield: 
+category: ML Core Plan
+meal: entree
+rating: 5
+tags: [cookmate]
 ---
-
 
 calories:: [[Baked Potato.cook|418]]
 
