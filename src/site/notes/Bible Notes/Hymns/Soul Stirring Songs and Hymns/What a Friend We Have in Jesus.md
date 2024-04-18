@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/what-a-friend-we-have-in-jesus/","title":"What a Friend We Have in Jesus"}
+dg-publish: true
+title: What a Friend We Have in Jesus
+author: Joseph Medlicott Scriven (1855)
+audio: http://www.kjvprophecy.com/355.mp3
+index: 355
 ---
-
 
 What a friend we have in Jesus,
 all our sins and griefs to bear!
