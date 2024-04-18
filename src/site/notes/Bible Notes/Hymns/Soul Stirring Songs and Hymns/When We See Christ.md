@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/when-we-see-christ/","title":"When We See Christ"}
+dg-publish: true
+title: When We See Christ
+author: Esther Kerr Rusthoi
+audio: http://www.kjvprophecy.com/081.mp3
+index: 081
 ---
-
 
