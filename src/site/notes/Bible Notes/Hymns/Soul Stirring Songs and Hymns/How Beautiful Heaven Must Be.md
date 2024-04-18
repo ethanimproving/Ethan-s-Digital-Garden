@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/how-beautiful-heaven-must-be/","title":"How Beautiful Heaven Must Be"}
+dg-publish: true
+title: How Beautiful Heaven Must Be
+author: Mrs. A. S. Bridgewater
+audio: http://www.kjvprophecy.com/039.mp3
+index: 39
+known: 1
 ---
-
 
 We read of a place that’s called heaven,
 It’s made for the pure and the free;
