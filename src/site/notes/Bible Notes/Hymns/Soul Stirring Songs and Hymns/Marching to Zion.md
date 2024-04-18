@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/marching-to-zion/","title":"Marching to Zion"}
+dg-publish: true
+known: 1
+title: Marching to Zion
+author: Isaac Watts
+audio: http://www.kjvprophecy.com/043.mp3
+index: 43
 ---
-
 
 Come, we that love the Lord,
 and let our joys be known.
