@@ -1,7 +1,28 @@
 ---
-{"dg-publish":true,"permalink":"/health/nutrition/recipes/snacks/papas-rellenas-fried-stuffed-potatoes/","tags":["cookmate"]}
+dg-publish: true
+dg-date: May 04, 2023, 8:31 PM
+author: alu1977
+source: https://www.allrecipes.com/recipe/217840/papas-rellenas-fried-stuffed-potatoes/
+image:
+description: These papas rellenas are creamy potato balls filled with bell pepper, onion, tomato, and ground beef coated with breadcrumbs and fried until crisp.
+preparation-time: 1 hour
+cook-time: 45 minutes
+yield: 12 potatos
+category: 
+meal: 
+rating: 
+calories: 380
+carbohydrateContent: 45 g
+cholesterolContent: 85 mg
+fatContent: 16 g
+fiberContent: 4 g
+proteinContent: 14 g
+saturatedFatContent: 4 g
+sodiumContent: 489 mg
+sugarContent: 3 g
+unsaturatedFatContent: 0 g
+tags: [cookmate]
 ---
-
 
 ![](https://www.allrecipes.com/thmb/wHcSMwIyzpERKmI_I1E4TH0Fe1k=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1008443-bddf126d4ae84d10a36e56618147f929.jpg)
 
