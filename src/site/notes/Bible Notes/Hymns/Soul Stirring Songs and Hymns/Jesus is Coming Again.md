@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/jesus-is-coming-again/","title":"Jesus is Coming Again"}
+dg-publish: true
+title: Jesus is Coming Again
+author: Jessie E. Strout
+audio: http://www.kjvprophecy.com/084.mp3
+index: 084
 ---
-
 
 Lift up the trumpet, and loud let it ring:
 Jesus is coming again!
