@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/saved-by-the-blood/","title":"Saved By the Blood"}
+dg-publish: true
+title: Saved By the Blood
+author: S. J. Henderson (1902)
+audio: http://www.kjvprophecy.com/227.mp3
+index: 227
 ---
-
 
 Saved by the blood of the Crucified One!
 Now ransomed from sin and a new work begun,
