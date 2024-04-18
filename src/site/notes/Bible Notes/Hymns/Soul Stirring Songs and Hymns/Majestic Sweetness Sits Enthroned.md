@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/majestic-sweetness-sits-enthroned/","title":"Majestic Sweetness Sits Enthroned"}
+dg-publish: true
+title: Majestic Sweetness Sits Enthroned
+author: Samuel Stennett (1787)
+audio: http://www.kjvprophecy.com/016.mp3
+index: 016
 ---
-
 
 Majestic sweetness sits enthroned
 upon the Savior's brow;
