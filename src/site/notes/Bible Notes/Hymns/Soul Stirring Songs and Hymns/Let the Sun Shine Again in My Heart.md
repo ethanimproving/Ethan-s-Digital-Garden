@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/let-the-sun-shine-again-in-my-heart/","title":"Let the Sun Shine Again in My Heart"}
+dg-publish: true
+title: Let the Sun Shine Again in My Heart
+author: John R. Rice
+audio: http://www.kjvprophecy.com/047.mp3
+index: 047
 ---
-
 
