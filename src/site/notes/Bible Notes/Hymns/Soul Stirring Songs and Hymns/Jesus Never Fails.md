@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/jesus-never-fails/","title":"Jesus Never Fails"}
+dg-publish: true
+title: Jesus Never Fails
+author: Arthur A. Luther
+audio: http://www.kjvprophecy.com/101.mp3
+index: 101
 ---
-
 
 Earthly friends may prove untrue,
 Doubts and fears assail;
