@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/joy-to-the-world/","title":"Joy to the World"}
+dg-publish: true
+title: Joy to the World
+author: Isaac Watts (1719)
+audio: http://www.kjvprophecy.com/423.mp3
+index: 423
 ---
-
 
 Joy to the world, the Lord is come!
 Let earth receive her King;
