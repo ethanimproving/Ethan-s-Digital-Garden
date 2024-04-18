@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/doctrine/music/christian-contemporary/dc-talk-first-album/","created":"Aug 04, 2019, 9:21 AM","updated":"Aug 05, 2019, 12:07 PM"}
----
+dg-publish: true
+dg-created: Aug 04, 2019, 9:21 AM
+dg-updated: Aug 05, 2019, 12:07 PM
 
+---
 
 This music inhibits my social ability. I'm not in the Spirit.
 
