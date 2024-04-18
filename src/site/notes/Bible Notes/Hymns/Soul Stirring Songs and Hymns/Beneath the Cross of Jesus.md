@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/beneath-the-cross-of-jesus/","title":"Beneath the Cross of Jesus"}
+dg-publish: true
+title: Beneath the Cross of Jesus
+author: Elizabeth Cecilia Clephane (1868)
+audio: http://www.kjvprophecy.com/006.mp3
+index: 6
+known: 1
 ---
-
 
 Beneath the cross of Jesus
 I fain would take my stand,
