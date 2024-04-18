@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/we-ll-work-till-jesus-comes/","title":"We'll Work Till Jesus Comes"}
+dg-publish: true
+title: We'll Work Till Jesus Comes
+author: Elizabeth Mills
+audio: http://www.kjvprophecy.com/044.mp3
+index: 44
+known: 1
 ---
-
 
 O land of rest, for thee I sigh!
 When will the moment come
