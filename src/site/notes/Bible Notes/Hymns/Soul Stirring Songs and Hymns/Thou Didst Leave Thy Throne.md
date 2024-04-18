@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/thou-didst-leave-thy-throne/","title":"Thou Didst Leave Thy Throne"}
+dg-publish: true
+title: Thou Didst Leave Thy Throne
+author: E. S. Elliot (1864)
+audio: http://www.kjvprophecy.com/422.mp3
+index: 422
 ---
-
 
 Thou didst leave Thy throne and Thy kingly crown,
 When Thou camest to earth for me;
