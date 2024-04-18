@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/keyboards/"}
+dg-publish: true
 ---
-
 
 # Dvorak Keyboard
 If you look at a heatmap of the most commonly used characters, the standard QWERTY Keyboard spaces them apart. The popularly accepted reason is that this was done intentionally when typewriters couldn't mechanically type as fast as humans could, so they spaced it this way to slow typing down to keep the typewriters from jamming.
