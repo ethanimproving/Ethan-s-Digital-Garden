@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/renovation-skills/appliences/oven-and-stove/","tags":["oakmore"]}
+dg-publish: true
+cost: $1,500
+priority: 5
+tags: [oakmore]
+bought: true
 ---
-
 
 [Samsung - 6.3 cu. ft. Smart Instant Heat Slide-in Induction Range with Air Fry & Convection+ - Stainless Steel](https://www.bestbuy.com/site/samsung-6-3-cu-ft-smart-instant-heat-slide-in-induction-range-with-air-fry-convection-stainless-steel/6491829.p?skuId=6491829)
 
