@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/o-for-a-thousand-tongues-to-sing/","title":"O For a Thousand Tongues to Sing"}
+dg-publish: true
+title: O For a Thousand Tongues to Sing
+author: Charles Wesley (1739)
+audio: http://www.kjvprophecy.com/158.mp3
+index: 158
 ---
-
 
 O for a thousand tongues to sing
 my great Redeemer's praise,
