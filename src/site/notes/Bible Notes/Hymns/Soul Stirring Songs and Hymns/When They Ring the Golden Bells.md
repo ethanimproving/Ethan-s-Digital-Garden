@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/when-they-ring-the-golden-bells/","title":"When They Ring the Golden Bells"}
+dg-publish: true
+title: When They Ring the Golden Bells
+author: Unknown
+audio: http://www.kjvprophecy.com/057.mp3
+index: 057
 ---
-
 
 There’s a land beyond the river,
 That we call the sweet forever,
