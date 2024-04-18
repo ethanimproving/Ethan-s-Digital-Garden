@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/what-a-wonderful-saviour/","title":"What a Wonderful Saviour"}
+dg-publish: true
+title: What a Wonderful Saviour
+author: E. A. Hoffman (1891)
+audio: http://www.kjvprophecy.com/021.mp3
+index: 21
+known: 1
 ---
-
 
 Christ has for sin atonement made,
 What a wonderful Saviour!
