@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/wonderful-words-of-life/","title":"Wonderful Words of Life"}
+dg-publish: true
+title: Wonderful Words of Life
+author: P. P. Bliss (1874)
+audio: http://www.kjvprophecy.com/363.mp3
+index: 363
 ---
-
 
 Sing them over again to me,
 Wonderful words of life;
