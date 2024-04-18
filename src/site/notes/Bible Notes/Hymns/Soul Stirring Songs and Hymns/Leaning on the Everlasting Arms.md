@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/leaning-on-the-everlasting-arms/","title":"Leaning on the Everlasting Arms"}
+dg-publish: true
+title: Leaning on the Everlasting Arms
+author: E. A. Hoffman (1887)
+audio: http://www.kjvprophecy.com/147.mp3
+index: 147
 ---
-
 
 What a fellowship, what a joy divine,
 leaning on the everlasting arms;
