@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/o-perfect-love/","title":"O Perfect Love"}
+dg-publish: true
+title: O Perfect Love
+author: Dorothy F. Gurney (1883)
+audio: http://www.kjvprophecy.com/455.mp3
+index: 455
 ---
-
 
 O perfect Love, all human thought transcending,
 lowly we kneel in prayer before thy throne,
