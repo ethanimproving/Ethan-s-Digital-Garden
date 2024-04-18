@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/at-calvary/","title":"At Calvary"}
+dg-publish: true
+title: At Calvary
+author: William R. Newell (1895)
+audio: http://www.kjvprophecy.com/066.mp3
+index: 066
 ---
-
 
 Years I spent in vanity and pride,
 Caring not my Lord was crucified,
