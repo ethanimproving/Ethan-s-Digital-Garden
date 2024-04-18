@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/papers/gender-specific-sleep-needs/","tags":["research"],"created":"May 11, 2023, 1:45 PM"}
+dg-publish: true
+dg-created: May 11, 2023, 1:45 PM
+tags: [research]
 ---
-
 
 > Women need dramatically more sleep than men. A man can get away with 7-8 hours. Sometimes you need 6. I don't encourage 6, but the idea is a woman needs 9-10 hours. The key is what's called **hormonal reserves**. Women depend so much on their adrenals to produce even daily hormones. A man does not. Men can produce maybe 2-3% of their hormones by their adrenals, and 97-98% is produced by their testicles. Testicles work if you're sleeping or not. Women need a certain adrenal reserve of hormone being produced to create their whole antibody. Women need a lot more sleep than men. Women need uninterrupted sleep. Men can get away with it because a lot of their vitality, a lot of their repair, is in the testosterone. It's mainly made by the testicle. Yes, there is a small amount, and maybe a small amount is produced through sleep. But I can tell you right now, men need a lot less sleep than women. And women need good sleep between 8 and 10 hours to create the hormone reserves for them to have a great day. ~ [Dr. Patrick Flynn](https://www.tiktok.com/@dr_patrick_flynn/video/7193786780905164074) 
 
