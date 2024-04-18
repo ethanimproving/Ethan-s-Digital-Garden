@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/first-soul-saved/","tags":["timeline","personal"]}
+dg-publish: true
+start-date: 2017-08-23
+color: blue
+date-limit: year
+importance: 50
+tags: [timeline, personal]
 ---
-
 
 I got my first soul saved today! Chris did not show up at 1:30 like I told him, to no surprise. I wasn't sure that I had the gospel memorized well enough, but after going through it in my head twice, I prayed for boldness in utterance, and that Christ would teach me what to say, and that the Holy Spirit would speak through me, and I went out to Azinia Street and knocked my first door. The guy who answered was a friendly person who worked at a church. Being unsure that we was going to heaven, he denied my offer to hear the gospel. I said, "Do you know 100% that you're going to heaven?" He replied with a laugh, "No." I said, "Can I just take a couple of minutes and show you from the Bible how you can know that 100%?" He said, "I'm good." "I said, "No problem. Let me just leave you with this one verse," and followed Steven Anderson's script. He wished me luck on my journey as I said to him, "You have a great day." Many doors did not answer, and probably few people were even home. The next door that was open before I knocked, the lady who lived there came to it and shouted, "What do you want?" I said, "The reason I'm here is because I'm a Christian, and Jesus Christ, before he went up into heaven, commanded us to preach the gospel to ever creature that some might hear, and believe, and be saved." She just closed the door, and I thought, "Cool. So this is what it means to suffer shame for the sake of the gospel. 
 
