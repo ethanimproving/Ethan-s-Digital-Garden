@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/renovation-skills/attic/electrical/national-electrical-code-nec/","created":"Sep 22, 2023, 9:28 PM"}
+dg-publish: true
+dg-created: Sep 22, 2023, 9:28 PM
 ---
-
 
 # Cable Type
 
