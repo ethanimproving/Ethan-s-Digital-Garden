@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/parenting/social/diagnostic-statements/value-of-labor-hours/","tags":["goals","laborhours"],"created":"Dec 9, 2018, 8:31 PM"}
+dg-publish: true
+dg-created: Dec 9, 2018, 8:31 PM
+dg-updated: 
+tags: [goals, laborhours]
 ---
-
 
 # Posing the Question
 ---
