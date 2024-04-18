@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/does-jesus-care/","title":"Does Jesus Care?"}
+dg-publish: true
+title: Does Jesus Care?
+author: Frank E. Graeff (1901)
+audio: http://www.kjvprophecy.com/089.mp3
+index: 089
 ---
-
 
 Does Jesus care when my heart is pained
 Too deeply for mirth or song;
