@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/take-my-life-and-let-it-be/","title":"Take My Life and Let it Be"}
+dg-publish: true
+title: Take My Life and Let it Be
+author: Frances R. Havergal (1874)
+audio: http://www.kjvprophecy.com/315.mp3
+index: 315
 ---
-
 
 Take my life and let it be
 consecrated, Lord, to thee.
