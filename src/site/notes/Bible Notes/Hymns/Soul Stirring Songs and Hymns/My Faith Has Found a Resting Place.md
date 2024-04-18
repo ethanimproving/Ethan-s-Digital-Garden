@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/my-faith-has-found-a-resting-place/","title":"My Faith Has Found a Resting Place"}
+dg-publish: true
+title: My Faith Has Found a Resting Place
+author: E. E. Hewitt
+audio: http://www.kjvprophecy.com/150.mp3
+index: 150
 ---
-
 
 My faith has found a resting place,
 from guilt my soul is freed;
