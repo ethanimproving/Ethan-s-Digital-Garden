@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/doctrine/music/christian-contemporary/the-music-of-devils-will-stir-surface-level-christians/","created":"Jul 30, 2018, 7:37 AM","updated":"Jul 30, 2018, 10:28 PM"}
----
+dg-publish: true
+dg-created: Jul 30, 2018, 7:37 AM
+dg-updated: Jul 30, 2018, 10:28 PM
 
+---
 
 Don't let the music of devils move you. I'm not talking about Krewella and Cheat Codes and Liam Payne. I'm talking about Hillsong. I'm talking about The Stand. I'm talking about From The Inside Out. I'm talking about Came To My Rescue. In fact, I would rather you listen to the world's trash than use the music that was crafted for Baalzeeba. Hillsong worships a false God, it's another Jesus, they're wicked devils, and no Christian should offer their music to the God of truth. You know how manipulative it is! It stirs you. It moves you. And they sing it to the devil. Listen to th2c, listen to Bedroom Floor, but do not listen to this idolatrous music taking the Lord's name in vain. You say, "Wait a minute, maybe they meant it that way, but ==the lyrics at face value are good. Can't the song be disconnected from its creator?== Can't I sing it from the heart and God will be pleased?" No, God's not pleased with your ignorant worship. I know the truth hurts, but you may have spent your whole life in tender moments singing song's that made God angry. You say, "No it was so emotional, God was pleased with my heart." Listen to me, when you worship, it has to be in truth and in spirit. If it's in any other way, it's not pleasing to God no matter how it makes you feel. Especially when you're using the practices of the other nations which God cast out before us. Mormons are the kings of emotion and beautiful music. But are they pleasing God? God hates them so much he sends them to hell. I agree, a lot of the music, you wouldn't know it was written by heretics. It sounds write. A little basic, void of real content, but not heresy. But the Bible commands us to mark and avoid them that spread damnable heresies, not welcome their life's work into our churches. The Bible commands us to abstain from all appearance of evil. And if you lie down with dogs, you'll wake up with fleas. Without are dogs. Avoid them. The leaders at Hillsong Church are dogs. They're reprobate. God rejected them. They're an abomination to God.
 
