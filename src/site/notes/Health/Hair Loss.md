@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/health/hair-loss/"}
+dg-publish: true
 ---
-
 
 # iRestore
 
