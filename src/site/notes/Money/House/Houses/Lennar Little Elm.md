@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/houses/lennar-little-elm/","created":"Jun 12, 2023, 8:28 PM"}
+dg-publish: true
+dg-created: Jun 12, 2023, 8:28 PM
 ---
-
 
 
 [Little Elm](https://www.lennar.com/new-homes/texas/dallas-ft-worth/little-elm) is way too far away. Also the [price range](https://www.newhomesource.com/community/tx/little-elm/linden-hills-classic-collection-by-lennar/155413) is higher than I'm shooting for at $363,999 - $524,999.
