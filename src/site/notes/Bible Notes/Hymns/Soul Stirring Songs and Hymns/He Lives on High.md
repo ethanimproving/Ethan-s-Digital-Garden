@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/he-lives-on-high/","title":"He Lives on High"}
+dg-publish: true
+title: He Lives on High
+author: Baylus Benjamin McKinney
+audio: http://www.kjvprophecy.com/032.mp3
+index: 32
+known: 1
 ---
-
 
 Christ the Savior came from Heaven’s glory,
 To redeem the lost from sin and shame;
