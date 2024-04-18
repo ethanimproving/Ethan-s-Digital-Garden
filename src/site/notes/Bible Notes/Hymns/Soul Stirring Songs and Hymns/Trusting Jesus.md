@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/trusting-jesus/","title":"Trusting Jesus"}
+dg-publish: true
+title: Trusting Jesus
+author: Edgar Page (1876)
+audio: http://www.kjvprophecy.com/149.mp3
+index: 149
 ---
-
 
 Simply trusting every day,
 Trusting through a stormy way;
