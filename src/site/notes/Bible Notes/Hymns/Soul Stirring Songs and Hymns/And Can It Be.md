@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/and-can-it-be/","title":"And Can It Be?"}
+dg-publish: true
+title: And Can It Be?
+author: Charles Wesley (1738)
+audio: http://www.kjvprophecy.com/024.mp3
+index: 24
+known: 1
 ---
-
 
 And can it be that I should gain
 An int'rest in the Savior's blood?
