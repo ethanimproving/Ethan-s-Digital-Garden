@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/no-room-in-the-inn/","title":"No Room in the Inn"}
+dg-publish: true
+title: No Room in the Inn
+author: A. L. Skilton
+audio: http://www.kjvprophecy.com/425.mp3
+index: 425
 ---
-
 
 No beautiful chamber,
 No soft cradle bed,
