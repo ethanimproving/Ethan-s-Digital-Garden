@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/beulah-land/","title":"Beulah Land"}
+dg-publish: true
+title: Beulah Land
+author: Edgar Page Stites (1876)
+audio: http://www.kjvprophecy.com/053.mp3
+index: 053
 ---
-
 
 I’ve reached the land of corn and wine,
 And all its riches freely mine;
