@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/come-thou-fount/","title":"Come Thou Fount"}
+dg-publish: true
+title: Come Thou Fount
+author: Robert Robinson (1758)
+audio: http://www.kjvprophecy.com/169.mp3
+index: 169
 ---
-
 
 Come, thou Fount of every blessing;
 tune my heart to sing thy grace;
