@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/christ-arose/","title":"Christ Arose!"}
+dg-publish: true
+title: Christ Arose!
+author: Robert Lowry (1874)
+audio: http://www.kjvprophecy.com/036.mp3
+index: 36
+known: 1
 ---
-
 
 Low in the grave he lay, Jesus my Savior,
 waiting the coming day, Jesus my Lord!
