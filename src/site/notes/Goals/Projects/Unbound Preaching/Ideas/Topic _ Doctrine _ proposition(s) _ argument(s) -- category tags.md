@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/topic-doctrine-proposition-s-argument-s-category-tags/","tags":["website"],"created":"Nov 12, 2018, 10:11 AM","updated":"Nov 12, 2018, 11:11 AM"}
+dg-publish: true
+dg-created: Nov 12, 2018, 10:11 AM
+dg-updated: Nov 12, 2018, 11:11 AM
+tags: [website]
 ---
-
 
 Their arguments for propositions, and then there are categories for those propositions. A proposition or a position are not necessarily the same thing. A position on a broader Doctrine may include a number of propositions.
 
