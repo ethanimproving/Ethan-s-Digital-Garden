@@ -1,7 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/replace-baseboard-trim-moulding-casing/","tags":["oakmore-renovation-task"],"created":"Feb 26, 2024, 6:58 PM"}
+dg-publish: true
+dg-created: Feb 26, 2024, 6:58 PM
+date-completed:
+parent: House
+status: Defined
+minutes: 240
+assigned-to: Ethan
+depends-on:
+tags:
+  - oakmore-renovation-task
 ---
-
 # Home Depot Casing
 
 [Home Depot Moulding](https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding/N-5yc1vZcbjm?mtc=SHOPPING-BF-CDP-GGL-D30-030_020_MOULDINGS-NA-NA-NA-PMAX-NA-NA-NA-NA-NBR-NA-NA-NEW-NA&cm_mmc=SHOPPING-BF-CDP-GGL-D30-030_020_MOULDINGS-NA-NA-NA-PMAX-NA-NA-NA-NA-NBR-NA-NA-NEW-NA-71700000111971272--&gad_source=1&gclid=CjwKCAiAivGuBhBEEiwAWiFmYf16_YYjVNzPoo5RNePUlL5YlnvPAs5JAXF63PoEQTyIoIEbWmD8YhoCr58QAvD_BwE&gclsrc=aw.ds)
