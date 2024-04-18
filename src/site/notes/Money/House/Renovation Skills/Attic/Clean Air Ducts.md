@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/renovation-skills/attic/clean-air-ducts/","tags":["oakmore","skill"],"created":"Jul 24, 2023, 11:05 PM"}
+dg-publish: true
+dg-created: Jul 24, 2023, 11:05 PM
+priority: 5
+cost: $650
+tags: [oakmore, skill]
+completed: false
 ---
-
 
 Most of the dust you see in your vent is human skin cells.
 
