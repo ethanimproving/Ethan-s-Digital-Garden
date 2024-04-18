@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/there-ll-be-no-dark-valley/","title":"There'll Be No Dark Valley"}
+dg-publish: true
+title: There'll Be No Dark Valley
+author: William Cushing
+audio: http://www.kjvprophecy.com/037.mp3
+index: 37
+known: 1
 ---
-
 
 There’ll be no dark valley when Jesus comes,
 There’ll be no dark valley when Jesus comes;
