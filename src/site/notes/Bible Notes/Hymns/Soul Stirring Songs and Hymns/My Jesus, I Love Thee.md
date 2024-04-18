@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/hymns/soul-stirring-songs-and-hymns/my-jesus-i-love-thee/","title":"My Jesus, I Love Thee"}
+dg-publish: true
+title: My Jesus, I Love Thee
+author: William R. Featherston (1862)
+audio: http://www.kjvprophecy.com/174.mp3
+index: 174
 ---
-
 
 My Jesus, I love thee, I know thou art mine;
 for thee all the follies of sin I resign;
