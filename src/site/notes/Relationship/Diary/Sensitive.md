@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/sensitive/","tags":["diary","letters"],"created":"Dec 14, 2022, 7:19 AM"}
+dg-publish: true
+dg-created: Dec 14, 2022, 7:19 AM
+dg-updated: 
+tags: [diary, letters]
 ---
-
 
 Dear Mariana,
 
