@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-dg-created: Feb 23, 2023, 11:11 PM
+{"dg-publish":true,"permalink":"/papers/leading-indicators/"}
 ---
+
 
 [Brad Lea - Leading Indicators](https://www.facebook.com/TheRealBradLea/videos/the-truth-is-it-doesnt-matter-where-youre-from-or-what-your-culture-is-ability-c/425870638779180/)
 
