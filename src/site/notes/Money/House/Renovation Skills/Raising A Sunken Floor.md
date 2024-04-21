@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-cost: $2,500
-cost-breakdown: $7 / cu ft
-priority: 0
-tags: [oakmore]
+{"dg-publish":true,"permalink":"/money/house/renovation-skills/raising-a-sunken-floor/","tags":["oakmore"]}
 ---
+
 
 Drawbacks of raising the floors include the problem of not knowing how much it will cost to raise the fireplace. That will not be cheap. The other concern is that the **post-tension point** in the living room will not be accessible if it is ever needed.
 
