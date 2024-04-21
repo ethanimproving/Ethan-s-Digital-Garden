@@ -17,14 +17,14 @@ dg-created: Dec 22, 2023, 2:40 PM
 | [[Goals/Projects/Oakmore Renovation/Backyard/Identify Grass Type\|Identify Grass Type]]                                    | In-Prorgess | Ethan        | 15      | \-                     |
 | [[Money/House/Renovation Skills/Yard & Outside/Fix Cracks In Sidewalk\|Fix Cracks In Sidewalk]]                            | Defined     | \-           | 60      | \-                     |
 | [[Money/House/Bathroom/Remove Shower Soffit (Furr Down)\|Remove Shower Soffit (Furr Down)]]                                | Defined     | \-           | 240     | \-                     |
-| [[Goals/Projects/Oakmore Renovation/Unclog AC Discharge Pipe\|Unclog AC Discharge Pipe]]                                   | Defined     | Ethan Miller | 30      | Buy Air Compressor     |
 | [[Goals/Projects/Oakmore Renovation/Replace exhaust fan\|Replace exhaust fan]]                                             | Defined     | \-           | 120     | \-                     |
+| [[Goals/Projects/Oakmore Renovation/Unclog AC Discharge Pipe\|Unclog AC Discharge Pipe]]                                   | Defined     | Ethan Miller | 30      | Buy Air Compressor     |
 | [[Goals/Projects/Oakmore Renovation/Replace Or Paint Doors\|Replace Or Paint Doors]]                                       | Defined     | \-           | 720     | \-                     |
 | [[Goals/Projects/Oakmore Renovation/Replace Baseboard Trim (Moulding, Casing)\|Replace Baseboard Trim (Moulding, Casing)]] | Defined     | Ethan        | 240     | \-                     |
 | [[Goals/Projects/Oakmore Renovation/Inspect Heating Unit\|Inspect Heating Unit]]                                           | Defined     | Ethan        | 120     | \-                     |
 | [[Goals/Projects/Oakmore Renovation/Guest Bathroom/Setup new mirror\|Setup new mirror]]                                    | Defined     | \-           | 60      | \-                     |
-| [[Goals/Projects/Oakmore Renovation/Guest Bathroom/Replace Toilet\|Replace Toilet]]                                        | Defined     | \-           | 120     | \-                     |
 | [[Goals/Projects/Oakmore Renovation/Guest Bathroom/Replace Vanity\|Replace Vanity]]                                        | Defined     | \-           | 60      | \-                     |
+| [[Goals/Projects/Oakmore Renovation/Guest Bathroom/Replace Toilet\|Replace Toilet]]                                        | Defined     | \-           | 120     | \-                     |
 | [[Goals/Projects/Oakmore Renovation/Guest Bathroom/Install new shower head\|Install new shower head]]                      | Defined     | \-           | 120     | Buying New Shower Head |
 | [[Goals/Projects/Oakmore Renovation/Backyard/Install Retractable Garden Hose\|Install Retractable Garden Hose]]            | Defined     | \-           | 120     | Buying Hose Reel       |
 | [[Goals/Projects/Oakmore Renovation/Backyard/Fix Backyard Ground Cable\|Fix Backyard Ground Cable]]                        | Defined     | John Ball    | 15      | \-                     |
