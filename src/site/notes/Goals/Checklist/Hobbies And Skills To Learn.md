@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jun 23, 2023, 8:15 PM
+{"dg-publish":true,"permalink":"/goals/checklist/hobbies-and-skills-to-learn/"}
 ---
+
 - [ ] Dance - Amy Peavey
 - [ ] Sing - Music Videos
 - [ ] Piano - Chester See
