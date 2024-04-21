@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jan 15, 2024, 9:27 AM
+{"dg-publish":true,"permalink":"/papers/procrastination/"}
 ---
+
 # Input input based tasks
 
 Similar to the concept of [[Papers/Leading Indicators\|Leading Indicators]], procrastination can be mitigated by reframing your tasks to focus on inputs rather than the outputs. 
