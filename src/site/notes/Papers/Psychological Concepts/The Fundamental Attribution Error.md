@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-dg-created: Feb 12, 2024, 2:17 PM
+{"dg-publish":true,"permalink":"/papers/psychological-concepts/the-fundamental-attribution-error/"}
 ---
+
 
 Joshua Israel pointed this out during a DEI call in a video I titles "Elena Got Caught."
 
