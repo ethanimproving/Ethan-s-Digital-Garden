@@ -84,6 +84,7 @@ Will the cost of renovating the house increase the sale price by the same amount
 | [[Money/House/Renovation Skills/Attic/Remove Smoking Oder\|Remove Smoking Oder]]                                                 | $50           | 5        | \-        |
 | [[Money/House/Renovation Skills/Garage/Epoxy In Garage\|Epoxy In Garage]]                                                        | $0            | 5        | \-        |
 | [[Money/House/Renovation Skills/Garage/Replace Garage Door Opener\|Replace Garage Door Opener]]                                  | $80           | 5        | \-        |
+| [[Money/House/Renovation Skills/Kitchen/Fix Sink Pipes\|Fix Sink Pipes]]                                                         | $0            | 5        | \-        |
 | [[Money/House/Renovation Skills/Kitchen/Replace Garbage Disposal\|Replace Garbage Disposal]]                                     | $50           | 5        | \-        |
 | [[Money/House/Renovation Skills/Living Room/Remove Cement Patches From Concrete Slab\|Remove Cement Patches From Concrete Slab]] | $30           | 5        | \-        |
 | [[Money/House/Renovation Skills/Living Room/Remove Concrete Patch From Slab\|Remove Concrete Patch From Slab]]                   | $30           | 5        | \-        |
