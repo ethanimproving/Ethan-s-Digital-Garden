@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/shopping/laptops/"}
 ---
+
 
 Laptops should have the following capabilities:
 - [ ] Connect to 4 external monitors through a single docking station (requires Thunderbolt port).
@@ -72,6 +73,34 @@ Laptops should have the following capabilities:
 | # of Displays Supported                      | 3                        |
 
 According to [Intel specification](https://ark.intel.com/content/www/us/en/ark/products/124967/intel-core-i5-8250u-processor-6m-cache-up-to-3-40-ghz.html "ark.intel.com"), you can connect up to <mark class="hltr-yellow">three monitors</mark> maximal with up to 4K resolutions (limited to 24 fps if using HDMI). Please note however that the number of connected display possible also depends on the physical slot available from the manufacturer.
+
+# LG gram
+
+
+| System Information                           |                                                                                                                                                                                 |
+| -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| System Manufacturer                          | LG Electronics                                                                                                                                                                  |
+| System Model                                 | 17Z90N-R.AAC8U1                                                                                                                                                                 |
+| Processor                                    | [Intel(R) Core(TM) i7-1065G7](https://ark.intel.com/content/www/us/en/ark/products/196597/intel-core-i7-1065g7-processor-8m-cache-up-to-3-90-ghz.html) CPU @ 1.30GHz   1.50 GHz |
+| Display Stream Compression (DSC) Support     | [Yes](https://www.intel.com/content/www/us/en/support/articles/000092565/graphics.html)                                                                                         |
+| Installed Physical Memory (RAM)              | 16.0 GB                                                                                                                                                                         |
+| Total Physical Memory                        | 15.7 GB                                                                                                                                                                         |
+| Available Physical Memory                    | 606 MB                                                                                                                                                                          |
+| Total Virtual Memory                         | 31.7 GB                                                                                                                                                                         |
+| Available Virtual Memory                     | 9.92 GB                                                                                                                                                                         |
+| Page File Space                              | 16.0 GB                                                                                                                                                                         |
+| # of Displays Supported                      | 3                                                                                                                                                                               |
+| Max Resolution (HDMI)                        | 4096 x 2304 @ 60Hz                                                                                                                                                              |
+| Max Resolution (DP)                          | 5120 x 3200@60Hz                                                                                                                                                                |
+| Max Resolution (eDP - Integrated Flat Panel) | 5120 x 3200@60Hz                                                                                                                                                                |
+| 1x Thunderbolt™ 3 (USB Type-C™)              | [Port Specs](https://www.lg.com/us/laptops/lg-17z90n-r.aac8u1-ultra-slim-laptop). See [[Shopping/Cable Standards\|Shopping/Cable Standards]].                                                             |
+| 1x USB 3.2 Gen 1 with PowerShare             |                                                                                                                                                                                 |
+| 1x HDMI 2.0                                  |                                                                                                                                                                                 |
+| 1x uSIM card slot (optional) (WWAN only)     |                                                                                                                                                                                 |
+| 1x Universal Audio Jack                      |                                                                                                                                                                                 |
+| 1x Smart Card Reader (optional)              |                                                                                                                                                                                 |
+
+
 
 # HP EliteBook 840 G3
 
