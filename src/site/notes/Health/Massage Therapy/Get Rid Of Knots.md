@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/massage-therapy/get-rid-of-knots/"}
+{"dg-publish":true,"permalink":"/Health/Massage Therapy/Get Rid Of Knots/","created":"Jun 22, 2023, 8:23 PM"}
 ---
 
 
