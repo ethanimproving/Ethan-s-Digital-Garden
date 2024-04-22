@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-dg-created: Dec 22, 2023, 2:40 PM
+{"dg-publish":true,"permalink":"/goals/projects/skilled-trades/oakmore-renovations-task-list/","created":"Dec 22, 2023, 2:40 PM"}
 ---
+
 
 # Backlog
 
