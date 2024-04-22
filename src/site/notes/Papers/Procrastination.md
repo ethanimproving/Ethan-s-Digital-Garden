@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/papers/procrastination/"}
+{"dg-publish":true,"permalink":"/Papers/Procrastination/","created":"Jan 15, 2024, 9:27 AM"}
 ---
 
 # Input input based tasks
