@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/nutrition/lectins/"}
+{"dg-publish":true,"permalink":"/Health/Nutrition/Lectins/","created":"Jan 07, 2024, 1:21 AM"}
 ---
 
 
