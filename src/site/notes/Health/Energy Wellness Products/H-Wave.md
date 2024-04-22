@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/energy-wellness-products/h-wave/"}
+{"dg-publish":true,"permalink":"/Health/Energy Wellness Products/H-Wave/","created":"Apr 19, 2024, 9:16 PM"}
 ---
 
 
