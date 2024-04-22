@@ -1,9 +1,7 @@
 ---
-dg-publish: true
-dg-created: May 28, 2020, 7:35 AM
-dg-updated: May 28, 2020, 8:10 AM
-
+{"dg-publish":true,"permalink":"/bible-notes/doctrine/music/untitled-note-5/","created":"May 28, 2020, 7:35 AM"}
 ---
+
 
 It's amazing to me how Christians are so shallow these days they embrace music that was written by the heart of a total unbeliever posing as worship to God. Spirit and truth? "It wasn't true to them, but it was true to me. I meant it even if he didn't." If the depth of your worshop to God is more powerfully expressed by someone who is blind, who doesn't know God, who can't see God because of the hardness of his heart, then it is by solid IFB preaching and hymns, what spirit and truth do you really have?
 
