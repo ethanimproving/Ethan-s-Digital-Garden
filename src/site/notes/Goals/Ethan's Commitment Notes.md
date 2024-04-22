@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Goals/Ethan's Commitment Notes/"}
+{"dg-publish":true,"permalink":"/goals/ethan-s-commitment-notes/"}
 ---
 
 
