@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/renovation-skills/raising-a-sunken-floor/","tags":["oakmore"]}
+{"dg-publish":true,"permalink":"/Money/House/Renovation Skills/Raising A Sunken Floor/","tags":["oakmore"]}
 ---
 
 
