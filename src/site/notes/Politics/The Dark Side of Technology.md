@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Politics/The Dark Side of Technology/"}
+{"dg-publish":true,"permalink":"/politics/the-dark-side-of-technology/"}
 ---
 
 
