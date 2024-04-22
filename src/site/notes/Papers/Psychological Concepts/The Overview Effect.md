@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/papers/psychological-concepts/the-overview-effect/"}
+{"dg-publish":true,"permalink":"/Papers/Psychological Concepts/The Overview Effect/","created":"Apr 28, 2023, 6:48 PM"}
 ---
 
 
