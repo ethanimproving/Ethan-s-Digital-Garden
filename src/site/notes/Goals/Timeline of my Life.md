@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-of-my-life/"}
+{"dg-publish":true,"permalink":"/Goals/Timeline of my Life/"}
 ---
 
 
