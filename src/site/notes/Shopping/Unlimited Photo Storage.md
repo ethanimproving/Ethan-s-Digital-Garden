@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Shopping/Unlimited Photo Storage/"}
+{"dg-publish":true,"permalink":"/shopping/unlimited-photo-storage/"}
 ---
 
 
