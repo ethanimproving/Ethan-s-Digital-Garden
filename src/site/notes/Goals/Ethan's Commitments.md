@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/goals/ethan-s-commitments/"}
 ---
+
 
 # I am filled with the Holy Spirit
 
