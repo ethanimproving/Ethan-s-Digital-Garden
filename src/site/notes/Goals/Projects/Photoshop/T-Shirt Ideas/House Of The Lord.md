@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/goals/projects/photoshop/t-shirt-ideas/house-of-the-lord/"}
 ---
+
 
 The House Of The Lord is a throwback to Harry Potter and the 4 houses. It is a way to say, "I am of the Lord's House," while simultaneously saying, "I am not too other worldly that I can't communicate with you about the lore and fiction you enjoy. Let's use what you like to talk about Jesus."
 
