@@ -1,11 +1,7 @@
 ---
-dg-publish: true
-start-date: 2023-12-08
-end-date: 2023-12-09
-type: range
-color: gray
-tags: [timeline, sick]
+{"dg-publish":true,"permalink":"/health/journal-of-sickness/allergies-dec-8-9/","tags":["timeline","sick"]}
 ---
+
 
 The weather suddenly got hot on Friday and I developed a sore throat. My tongue felt like a sharp burning blade cut me on the left side while I was eating Sobritos chips from Mexico.
 
