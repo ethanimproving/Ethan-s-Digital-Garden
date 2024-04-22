@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/health/exercise/excersize-gi-fs/"}
 ---
+
 
 https://fitnessprogramer.com/exercise-primary-muscle/triceps/
 
