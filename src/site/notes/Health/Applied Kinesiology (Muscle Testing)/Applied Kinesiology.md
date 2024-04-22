@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/health/applied-kinesiology-muscle-testing/applied-kinesiology/"}
 ---
+
 
 Ethan Miller
 Applied Kinesiology
