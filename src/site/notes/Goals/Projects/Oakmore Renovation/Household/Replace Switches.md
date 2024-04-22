@@ -1,15 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jan 01, 2024, 3:05 PM
-date-completed:
-parent: Household
-status: Complete
-minutes: 30
-assigned-to: Ethan
-depends-on:
-tags:
-  - oakmore-renovation-task
+{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/household/replace-switches/","tags":["oakmore-renovation-task"],"created":"Jan 01, 2024, 3:05 PM"}
 ---
+
 
 Use the [[Money/House/Renovation Skills/Replace Outlets\|ECX bit]]
 
