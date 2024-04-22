@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/health/exercise/caleb-s-gym/"}
 ---
+
 
 # Chest
 
