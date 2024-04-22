@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/photoshop/t-shirt-ideas/t-and-r-t-shirt-design/"}
+{"dg-publish":true,"permalink":"/Goals/Projects/Photoshop/T-Shirt Ideas/T&R T-Shirt Design/","created":"Jun 16, 2023, 9:20 PM"}
 ---
 
 
