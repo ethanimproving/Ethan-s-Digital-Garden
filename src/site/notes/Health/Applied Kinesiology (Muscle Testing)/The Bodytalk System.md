@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/health/applied-kinesiology-muscle-testing/the-bodytalk-system/"}
 ---
+
 
 Ethan Miller
 Research Papers
