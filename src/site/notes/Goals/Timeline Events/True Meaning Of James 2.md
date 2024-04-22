@@ -1,8 +1,5 @@
 ---
-dg-publish: true
-start-date: 2016-08-26
-date-limit: year
-importance: 50
-tags: [timeline, salvation]
+{"dg-publish":true,"permalink":"/goals/timeline-events/true-meaning-of-james-2/","tags":["timeline","salvation"]}
 ---
+
 
