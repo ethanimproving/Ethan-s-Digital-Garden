@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/health/honey-onion-garlic-syrup/"}
 ---
+
 
 - Garlic is a great **immune system booster**, and is especially apt at **treating colds & sore throats**.
 - Onions are full of antibiotic, antiviral and antioxidant properties. Onion is also an expectorant, which will help thin & loosen up any mucus you have and cause a productive cough.
