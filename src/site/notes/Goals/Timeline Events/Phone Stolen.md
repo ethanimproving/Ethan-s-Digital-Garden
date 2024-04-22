@@ -1,13 +1,7 @@
 ---
-dg-publish: true
-start-date: 2022-08-29
-end-date: 2022-10-03
-type: range
-color: pink
-tags:
-  - timeline
-  - personal
+{"dg-publish":true,"permalink":"/goals/timeline-events/phone-stolen/","tags":["timeline","personal"]}
 ---
+
 
 I was at a concert and this woman bumped into me. The guy behind me stabilized me, and when I found Mariana, my phone was gone.
 
