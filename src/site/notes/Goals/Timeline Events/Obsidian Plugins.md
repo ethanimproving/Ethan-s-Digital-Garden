@@ -1,13 +1,7 @@
 ---
-dg-publish: true
-start-date: 2023-04-10
-end-date: 2023-05-03
-type: range
-color: blue
-tags:
-  - timeline
-  - personal
+{"dg-publish":true,"permalink":"/goals/timeline-events/obsidian-plugins/","tags":["timeline","personal"]}
 ---
+
 
 # Apr 10 - 15
 
