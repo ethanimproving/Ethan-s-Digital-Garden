@@ -1,9 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jul 06, 2019, 10:07 PM
-dg-updated: Jul 06, 2019, 11:07 PM
-tags: [website]
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/efficient-note-taking-and-resource-organization-techniques-for-enhanced-productivity/","tags":["website"],"created":"Jul 06, 2019, 10:07 PM"}
 ---
+
 
 Heading 1: Take notes
 
