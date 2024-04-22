@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Politics/Modern Technology/Solar Power Purchase Agreement (Freedom Forever)/","created":"Apr 16, 2024, 11:36 AM"}
+{"dg-publish":true,"dg-permalink":"ppa","permalink":"/ppa/","created":"Apr 16, 2024, 11:36 AM"}
 ---
 
 
