@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Money/House/Renovation Skills/Kitchen/Island or Peninsula/","tags":["oakmore"],"created":"Jun 06, 2023, 9:59 PM"}
+{"dg-publish":true,"permalink":"/money/house/renovation-skills/kitchen/island-or-peninsula/","tags":["oakmore"],"created":"Jun 06, 2023, 9:59 PM"}
 ---
 
 
