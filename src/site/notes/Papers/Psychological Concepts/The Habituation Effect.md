@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Papers/Psychological Concepts/The Habituation Effect/","created":"Feb 12, 2024, 8:06 PM"}
+{"dg-publish":true,"permalink":"/papers/psychological-concepts/the-habituation-effect/","created":"Feb 12, 2024, 8:06 PM"}
 ---
 
 
