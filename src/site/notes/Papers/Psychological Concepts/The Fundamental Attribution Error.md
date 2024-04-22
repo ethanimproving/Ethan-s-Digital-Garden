@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/papers/psychological-concepts/the-fundamental-attribution-error/"}
+{"dg-publish":true,"permalink":"/Papers/Psychological Concepts/The Fundamental Attribution Error/","created":"Feb 12, 2024, 2:17 PM"}
 ---
 
 
