@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/renovation-skills/kitchen/fix-sink-pipes/","tags":["oakmore"]}
+{"dg-publish":true,"permalink":"/Money/House/Renovation Skills/Kitchen/Fix Sink Pipes/","tags":["oakmore"],"created":"Aug 08, 2023, 7:31 PM"}
 ---
 
 
