@@ -1,14 +1,7 @@
 ---
-dg-publish: true
-dg-created: May 9, 2021, 10:40 AM
-note-id: 3
-verse-reference: Mat 8:22
-date-created: 4/19/2023
-date-updated: 4/19/2023
-icon: pulpit
-tags: [women, psychology, praiseyourwife]
-category: Relationship
+{"dg-publish":true,"permalink":"/bible-notes/a-priceless-woman/","tags":["women","psychology","praiseyourwife"],"created":"May 9, 2021, 10:40 AM"}
 ---
+
 
 [A Priceless Woman](https://www.kjv1611only.com/video/02preaching/Sermons_Pastor_Shelley/A_Priceless_Woman.mp4)
 
