@@ -1,13 +1,7 @@
 ---
-dg-publish: true
-dg-created: Apr 16, 2023, 10:50 PM
-start-date: 2023-04-24
-end-date: 2023-04-29
-days-traveled: 6
-type: range
-color: green
-tags: [timeline, missions]
+{"dg-publish":true,"permalink":"/travel/bahamas/","tags":["timeline","missions"],"created":"Apr 16, 2023, 10:50 PM"}
 ---
+
 
 # Itinerary
 [Trip Itineraries.xlsx](https://mysite.aa.com/:x:/g/personal/242924_corpaa_aa_com/ES44AlMAsIVLmsqZlKGqKjQBNsYHpULQ4Pml1pnilgLieg?e=gyzqJE)
