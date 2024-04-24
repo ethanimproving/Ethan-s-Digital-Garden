@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/shopping/phone/"}
 ---
+
 
 # iPhone 13 Pro
 
