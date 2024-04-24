@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-gift-from: Alex Le
+{"dg-publish":true,"permalink":"/shopping/travel-items/"}
 ---
+
 
 # Carry-On Monos Suitcase
 
