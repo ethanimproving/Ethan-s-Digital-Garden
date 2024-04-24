@@ -1,9 +1,7 @@
 ---
-dg-publish: true
-dg-created: Dec 9, 2018, 8:30 PM
-dg-updated: 
-tags: [goals]
+{"dg-publish":true,"permalink":"/parenting/social/diagnostic-statements/technical-analysis/","tags":["goals"],"created":"Dec 9, 2018, 8:30 PM"}
 ---
+
 
 There are 3 core tenets of Technical Analysis:
 
