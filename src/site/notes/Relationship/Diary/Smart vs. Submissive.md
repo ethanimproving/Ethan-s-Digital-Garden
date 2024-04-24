@@ -1,9 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jul 8, 2022, 10:56 AM
-dg-updated:
-tags: [checklistitem, favorites]
+{"dg-publish":true,"permalink":"/relationship/diary/smart-vs-submissive/","tags":["checklistitem","favorites"],"created":"Jul 8, 2022, 10:56 AM"}
 ---
+
 
 You don't have to be smart to be successful. If you listen to someone else who is smart, your life will end up really well.
 
