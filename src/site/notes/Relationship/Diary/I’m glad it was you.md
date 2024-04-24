@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-dg-created: Oct 6, 2022, 9:01 PM
-dg-updated: 
+{"dg-publish":true,"permalink":"/relationship/diary/i-m-glad-it-was-you/","created":"Oct 6, 2022, 9:01 PM"}
 ---
+
 
 I’m glad it was you and no other. There is no gem that compares with your eyes, no sunshine that compares with your smile, no rain that compares with the serenity of your countenance.
 
