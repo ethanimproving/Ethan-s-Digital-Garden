@@ -1,11 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jun 03, 2023, 9:37 PM
-cost: $4,000
-cost-breakdown: $2/sq ft
-priority: 1
-tags: [oakmore]
+{"dg-publish":true,"permalink":"/money/house/renovation-skills/retile-the-floor/","tags":["oakmore"],"created":"Jun 03, 2023, 9:37 PM"}
 ---
+
 
 # Types of Tile
 
