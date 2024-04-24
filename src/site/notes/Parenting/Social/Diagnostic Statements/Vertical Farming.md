@@ -1,9 +1,7 @@
 ---
-dg-publish: true
-dg-created: Dec 9, 2018, 8:31 PM
-dg-updated: 
-tags: [goals, laborhours]
+{"dg-publish":true,"permalink":"/parenting/social/diagnostic-statements/vertical-farming/","tags":["goals","laborhours"],"created":"Dec 9, 2018, 8:31 PM"}
 ---
+
 
 I chose to be a soul-winner instead. CEO takes too much time.
 
