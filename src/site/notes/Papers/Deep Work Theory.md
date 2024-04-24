@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-dg-created: May 11, 2023, 10:39 AM
-tags: [goals, research]
+{"dg-publish":true,"permalink":"/papers/deep-work-theory/","tags":["goals","research"],"created":"May 11, 2023, 10:39 AM"}
 ---
+
 
 # Deep Work Theory
 
