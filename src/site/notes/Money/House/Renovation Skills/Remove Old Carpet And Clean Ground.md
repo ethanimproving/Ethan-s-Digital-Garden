@@ -1,11 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jul 09, 2023, 11:01 PM
-priority: 3
-cost: $0
-status: 1
-tags: [oakmore]
+{"dg-publish":true,"permalink":"/money/house/renovation-skills/remove-old-carpet-and-clean-ground/","tags":["oakmore"],"created":"Jul 09, 2023, 11:01 PM"}
 ---
+
 
 ![](https://youtu.be/XRP8EWX1t4Q)
 
