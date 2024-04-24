@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-dg-created: Mar 2, 2023, 7:58 AM
-tags: [goals, headway, books]
+{"dg-publish":true,"permalink":"/parenting/psychological/the-power-of-your-subconscious-mind/","tags":["goals","headway","books"],"created":"Mar 2, 2023, 7:58 AM"}
 ---
+
 
 Your subconscious started your heartbeat, controls the circulation of your blood, and regulates your digestion, assimilation, and elimination. When you eat a piece of bread, your subconscious mind transmutes it into tissue, muscle, bone, and blood. This process is beyond the ken of the wisest man who walks the earth.
 
