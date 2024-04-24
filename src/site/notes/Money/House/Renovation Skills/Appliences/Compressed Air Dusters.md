@@ -1,11 +1,7 @@
 ---
-dg-publish: true
-dg-created: Nov 25, 2023, 11:33 PM
-cost: $30
-priority: 1
-tags: [oakmore]
-bought: true
+{"dg-publish":true,"permalink":"/money/house/renovation-skills/appliences/compressed-air-dusters/","tags":["oakmore"],"created":"Nov 25, 2023, 11:33 PM"}
 ---
+
 
 [Amazon Best Sellers](https://www.amazon.com/Best-Sellers-Compressed-Air-Dusters/zgbs/pc/3012916011)
 
