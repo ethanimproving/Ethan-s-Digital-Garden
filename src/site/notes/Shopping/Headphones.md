@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/shopping/headphones/"}
 ---
+
 
 Headphones should be:
 * Comfortable (ear cup design).
