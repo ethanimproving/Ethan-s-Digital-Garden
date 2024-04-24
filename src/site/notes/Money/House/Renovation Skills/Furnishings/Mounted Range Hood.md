@@ -1,11 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jul 21, 2023, 4:38 PM
-cost: $400
-tags: [furnishings]
-priority: 5
-bought: true
+{"dg-publish":true,"permalink":"/money/house/renovation-skills/furnishings/mounted-range-hood/","tags":["furnishings"],"created":"Jul 21, 2023, 4:38 PM"}
 ---
+
 
 - [36 in. W Convertible Glass Island Mount Range Hood - $400](https://www.homedepot.com/p/Vissani-36-in-W-Convertible-Glass-Island-Mount-Range-Hood-with-Dual-Sided-Touch-Panels-and-Charcoal-Filters-in-Stainless-Steel-668I-CS53/308006092)
 - [30 Inch Wide Wall Mounted Range Hood - $200](https://www.build.com/product/summary/1771860)
