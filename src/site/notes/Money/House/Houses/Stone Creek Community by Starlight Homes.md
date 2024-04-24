@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jun 12, 2023, 8:28 PM
-tags: [homes2023]
+{"dg-publish":true,"permalink":"/money/house/houses/stone-creek-community-by-starlight-homes/","tags":["homes2023"],"created":"Jun 12, 2023, 8:28 PM"}
 ---
+
 
 [Stone Creek](https://www.starlighthomes.com/dallas/stone-creek)  is too far south to be worth moving to. I like the potential but it's a far drive from the core places. I may as well move to Princeton if I move here.
 
