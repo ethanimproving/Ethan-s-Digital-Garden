@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-dg-created: July 11, 2015, 3:11 PM
-author: Ethan Miller
+{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/judicial-ruling-discourses/section-1-4/","created":"July 11, 2015, 3:11 PM"}
 ---
+
 
 **Title. 1.**
 
