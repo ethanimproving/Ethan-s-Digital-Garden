@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-cost: 274,990
-sq-ft: 1,616
-dg-created: Jun 15, 2023, 1:13 PM
-tags: [homes2023, pending]
+{"dg-publish":true,"permalink":"/money/house/houses/2927-gospel-dr-dallas-tx-75237/","tags":["homes2023","pending"],"created":"Jun 15, 2023, 1:13 PM"}
 ---
+
 
 [2927 Gospel Dr, Dallas, TX, 75237](https://www.realtor.com/realestateandhomes-detail/2927-Gospel-Dr_Dallas_TX_75237_M77512-76148?cid=eml_saf_property_photo)
 
