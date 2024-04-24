@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/shopping/monitor-stand/"}
 ---
+
 
 [Ergotron – HX Single Ultrawide Monitor Arm with HD Pivot](https://www.amazon.com/Ergotron-Single-Ultrawide-Monitor-Arm-1000R-Curved-Monitors-Up/dp/B0959D7XDM?ref_=ast_sto_dp&th=1&psc=1)
 
