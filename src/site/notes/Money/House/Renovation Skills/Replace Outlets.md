@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jul 09, 2023, 10:48 PM
-priority: 3
-cost: $12
-tags: [oakmore]
+{"dg-publish":true,"permalink":"/money/house/renovation-skills/replace-outlets/","tags":["oakmore"],"created":"Jul 09, 2023, 10:48 PM"}
 ---
+
 
 [How to Replace an Electrical Outlet](https://www.youtube.com/watch?v=B16l7RurJuQ)
 
