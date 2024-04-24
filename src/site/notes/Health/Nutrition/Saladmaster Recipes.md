@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/health/nutrition/saladmaster-recipes/"}
 ---
+
 
 https://www.cookmate.online/recipes/
 
