@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/relationship/dates/date-ideas/"}
 ---
+
 
 # Date Ideas
 
