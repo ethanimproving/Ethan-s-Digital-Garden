@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-dg-created:
+{"dg-publish":true,"permalink":"/money/house/chores/lawn-care/bermuda-schedule/"}
 ---
+
 
 # Yearly Scedule
 
