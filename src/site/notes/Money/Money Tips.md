@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/money/money-tips/"}
 ---
+
 
 # Position Yourself Around Successful People
 
