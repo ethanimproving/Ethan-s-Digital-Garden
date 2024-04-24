@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/shopping/custom-pc-desktop/"}
 ---
+
 
 [Custom PC Builder](https://www.newegg.com/tools/custom-pc-builder)
 
