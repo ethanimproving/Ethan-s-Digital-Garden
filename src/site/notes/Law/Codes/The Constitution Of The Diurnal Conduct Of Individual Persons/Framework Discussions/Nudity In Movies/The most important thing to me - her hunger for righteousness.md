@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jan 6, 2022, 7:50 PM
-tags: [checklistitem]
+{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/framework-discussions/nudity-in-movies/the-most-important-thing-to-me-her-hunger-for-righteousness/","tags":["checklistitem"],"created":"Jan 6, 2022, 7:50 PM"}
 ---
+
 
 I tell her everything that she's doing wrong. Why would she want to be with me?
 
