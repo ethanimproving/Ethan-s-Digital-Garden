@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jul 06, 2023, 11:24 PM
-priority: 1
-cost: $650 / Window
-tags: [oakmore]
+{"dg-publish":true,"permalink":"/money/house/renovation-skills/appliences/smart-blinds/","tags":["oakmore"],"created":"Jul 06, 2023, 11:24 PM"}
 ---
+
 
 [Smart Wood Blinds](https://www.serenashades.com/products/#smart-wood-blinds) by Serena
 
