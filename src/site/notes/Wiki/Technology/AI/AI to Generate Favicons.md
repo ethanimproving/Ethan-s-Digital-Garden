@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-dg-created: Apr 18, 2023, 10:36 PM
-tags: [technology, artificialintelligence]
+{"dg-publish":true,"permalink":"/wiki/technology/ai/ai-to-generate-favicons/","tags":["technology","artificialintelligence"],"created":"Apr 18, 2023, 10:36 PM"}
 ---
+
 
 # Generate Logos with AI
 
