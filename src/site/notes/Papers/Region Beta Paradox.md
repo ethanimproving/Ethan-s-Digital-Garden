@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/papers/region-beta-paradox/"}
 ---
+
 
 [Region Beta Paradox | Chris Williamson & Joe Rogan](https://www.youtube.com/shorts/d5c_EZfxJgw)
 
