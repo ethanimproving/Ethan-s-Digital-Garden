@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jul 07, 2023, 11:14 PM
-priority: 4
-cost: $0
-tags: [oakmore]
+{"dg-publish":true,"permalink":"/money/house/renovation-skills/yard-and-outside/patio/","tags":["oakmore"],"created":"Jul 07, 2023, 11:14 PM"}
 ---
+
 
 # Kill Trees
 
