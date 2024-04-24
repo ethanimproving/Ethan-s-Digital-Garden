@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-dg-created: Apr 19, 2023, 10:33 AM
-tags: [technology, artificialintelligence]
+{"dg-publish":true,"permalink":"/wiki/technology/ai/ai-as-text-to-speech-tts-agent/","tags":["technology","artificialintelligence"],"created":"Apr 19, 2023, 10:33 AM"}
 ---
+
 
 [Deepfake AI voice clone: 30min vs 8hrs of training](https://www.youtube.com/watch?v=EAowXV_hWks)
 
