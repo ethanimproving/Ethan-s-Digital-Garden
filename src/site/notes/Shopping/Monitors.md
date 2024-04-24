@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/shopping/monitors/"}
 ---
+
 
 | Brand    | Model              | Refresh Rate | Price  | List Price | Brightness     | Color Gamut      |
 |----------|--------------------|--------------|--------|------------|----------------|------------------|
