@@ -1,11 +1,7 @@
 ---
-dg-publish: true
-start-date: 2023-02-10
-end-date: 2023-02-18
-type: range
-color: pink
-tags: [timeline, crush]
+{"dg-publish":true,"permalink":"/travel/paris/","tags":["timeline","crush"]}
 ---
+
 
 # Itinerary
 
