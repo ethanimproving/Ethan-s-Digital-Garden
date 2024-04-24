@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-tags: [diary]
+{"dg-publish":true,"permalink":"/relationship/diary/diary-datatable/","tags":["diary"]}
 ---
+
 
 | File                                                                                                                     | Date                   |
 | ------------------------------------------------------------------------------------------------------------------------ | ---------------------- |
