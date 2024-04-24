@@ -1,9 +1,7 @@
 ---
-dg-publish: true
-dg-created: Sep 25, 2021, 8:41 PM
-dg-updated: 
-tags: [diary]
+{"dg-publish":true,"permalink":"/relationship/diary/her-messages-and-her-s-ilence/","tags":["diary"],"created":"Sep 25, 2021, 8:41 PM"}
 ---
+
 
 Father, I've sinned. Forgive me. Cleanse me. Correct me.
 
