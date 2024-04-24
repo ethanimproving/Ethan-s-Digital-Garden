@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jul 19, 2023, 5:35 PM
-priority: 5
-cost: $0
-tags: [oakmore]
+{"dg-publish":true,"permalink":"/money/house/renovation-skills/level-the-floor/","tags":["oakmore"],"created":"Jul 19, 2023, 5:35 PM"}
 ---
+
 
 
 [https://youtu.be/diDVtXpAcLg](https://youtu.be/diDVtXpAcLg)
