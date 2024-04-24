@@ -1,9 +1,7 @@
 ---
-dg-publish: true
-cost: 260,000
-sq-ft: 1,780
-tags: [homes2023]
+{"dg-publish":true,"permalink":"/money/house/oakmore/7322-oakmore-dr-dallas-tx-75249/","tags":["homes2023"]}
 ---
+
 
 > [!bible] [Psalms 73:22 - KJV](https://bible-api.com/Psalm+73:22?translation=kjv)
 > 22. So foolish was I, and ignorant: I was as a beast before thee.
