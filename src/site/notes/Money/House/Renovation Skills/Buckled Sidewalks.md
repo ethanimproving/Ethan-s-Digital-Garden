@@ -1,9 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jun 03, 2023, 10:59 AM
-cost: $0
-tags: [oakmore]
+{"dg-publish":true,"permalink":"/money/house/renovation-skills/buckled-sidewalks/","tags":["oakmore"],"created":"Jun 03, 2023, 10:59 AM"}
 ---
+
 
 # Don't Buy In A Neighborhood With Buckled Sidewalks
 
