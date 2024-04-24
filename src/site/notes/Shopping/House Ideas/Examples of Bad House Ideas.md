@@ -1,8 +1,7 @@
 ---
-tags: messy interiordesign
-folder_type: images
-dg-publish: true
+{"dg-publish":true,"permalink":"/shopping/house-ideas/examples-of-bad-house-ideas/","tags":["messy interiordesign"]}
 ---
+
 # Glossy wooden floors
 
 ![](https://photos.zillowstatic.com/fp/2b00f71ba92b8eb71b07084783ca4ea0-uncropped_scaled_within_1536_1152.webp)
