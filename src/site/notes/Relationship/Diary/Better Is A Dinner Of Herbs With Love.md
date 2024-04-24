@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-dg-created: Mar 27, 2023, 10:50 PM
-dg-updated: 
+{"dg-publish":true,"permalink":"/relationship/diary/better-is-a-dinner-of-herbs-with-love/","created":"Mar 27, 2023, 10:50 PM"}
 ---
+
 
 How did I end up with a girl like Mariana? First of all, Mariana is wonderful. She's sweet, she loves me, she's selfless, she's hard working, she's great. The reason I ended up with her, to be completely honest, is this: I was weak and she was loose. I slept with her after we had been dating a bit.
 
