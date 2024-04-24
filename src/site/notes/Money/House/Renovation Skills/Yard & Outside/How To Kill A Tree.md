@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-dg-created: Aug 28, 2023, 9:59 PM
-cost: $0
-priority: 5
-tags: [oakmore]
+{"dg-publish":true,"permalink":"/money/house/renovation-skills/yard-and-outside/how-to-kill-a-tree/","tags":["oakmore"],"created":"Aug 28, 2023, 9:59 PM"}
 ---
+
 
 
 To get rid of a small tree growing in the cracks of your patio, you can try these steps:
