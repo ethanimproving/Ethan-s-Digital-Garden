@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/health/sick-care/covid-diamond-silk/"}
 ---
+
 
 ### Miraculous Sore Throat or Laryngitis
 
