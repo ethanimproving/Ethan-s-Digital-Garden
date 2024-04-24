@@ -1,12 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jul 08, 2023, 3:46 PM
-cost: $120
-priority: 1
-tags:
-  - oakmore
-bought: true
+{"dg-publish":true,"permalink":"/money/house/renovation-skills/appliences/soap-dispenser/","tags":["oakmore"],"created":"Jul 08, 2023, 3:46 PM"}
 ---
+
 
 [Simple Human sensor pump 14 oz.](https://www.simplehuman.com/products/rechargeable-liquid-sensor-pump-14-fl-oz-with-caddy)
 
