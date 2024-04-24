@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/wiki/home-page/"}
 ---
+
 
 # Most Frequent Notes
 
