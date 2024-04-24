@@ -1,12 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jan 13, 2023, 10:50 PM
-start-date: 2023-01-13
-end-date: 2023-01-16
-type: range
-color: blue
-tags: [timeline, missions]
+{"dg-publish":true,"permalink":"/travel/london/","tags":["timeline","missions"],"created":"Jan 13, 2023, 10:50 PM"}
 ---
+
 
 # Where to Stay
 
