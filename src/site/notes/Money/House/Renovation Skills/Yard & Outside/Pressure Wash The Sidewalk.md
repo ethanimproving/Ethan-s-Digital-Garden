@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jul 05, 2023, 9:44 PM
-priority: 4
-cost: 0
-tags: [oakmore]
+{"dg-publish":true,"permalink":"/money/house/renovation-skills/yard-and-outside/pressure-wash-the-sidewalk/","tags":["oakmore"],"created":"Jul 05, 2023, 9:44 PM"}
 ---
+
 
 
 
