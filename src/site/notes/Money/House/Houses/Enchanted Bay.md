@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jun 12, 2023, 8:28 PM
-tags: [homes2023]
+{"dg-publish":true,"permalink":"/money/house/houses/enchanted-bay/","tags":["homes2023"],"created":"Jun 12, 2023, 8:28 PM"}
 ---
+
 
 # Info
 
