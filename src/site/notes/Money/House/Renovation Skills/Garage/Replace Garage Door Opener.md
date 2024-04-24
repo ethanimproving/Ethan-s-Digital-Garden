@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-dg-created: Nov 25, 2023, 11:05 AM
-priority: 5
-cost: $80
-tags: [oakmore]
+{"dg-publish":true,"permalink":"/money/house/renovation-skills/garage/replace-garage-door-opener/","tags":["oakmore"],"created":"Nov 25, 2023, 11:05 AM"}
 ---
+
 
 Genie is bad. Get a **lift master** or **chamberlain** at Lowe’s or Home Depot.
 
