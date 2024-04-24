@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-dg-created: Apr 21, 2011, 8:00 PM
-author: Ethan Miller
+{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/official-house-rules/","created":"Apr 21, 2011, 8:00 PM"}
 ---
+
 
 # OFFICIAL HOUSE RULES:
 
