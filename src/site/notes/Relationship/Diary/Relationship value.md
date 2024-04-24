@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-dg-created: Feb 17, 2023, 3:30 PM
-dg-updated: 
+{"dg-publish":true,"permalink":"/relationship/diary/relationship-value/","created":"Feb 17, 2023, 3:30 PM"}
 ---
+
 
 Mariana
 - Comfort when times are bad
