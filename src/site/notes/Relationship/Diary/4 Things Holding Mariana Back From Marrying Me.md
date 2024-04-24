@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-dg-created: Apr 9, 2023, 4:43 PM
-dg-updated: 
+{"dg-publish":true,"permalink":"/relationship/diary/4-things-holding-mariana-back-from-marrying-me/","created":"Apr 9, 2023, 4:43 PM"}
 ---
+
 
 - [ ] She is worried I will be **controlling** when we live together.
 - [ ] She is worried she **won’t have time to herself** / she wants to enjoy her time to herself right now.
