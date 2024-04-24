@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jun 03, 2023, 9:34 PM
-cost: $4,000
-priority: 5
-tags: [oakmore]
+{"dg-publish":true,"permalink":"/money/house/renovation-skills/yard-and-outside/fence/","tags":["oakmore"],"created":"Jun 03, 2023, 9:34 PM"}
 ---
+
 
 This is only urgent because the city has already given a citation for the fence.
 
