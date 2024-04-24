@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-dg-created: Mar 7, 2023, 8:39 PM
+{"dg-publish":true,"permalink":"/money/house/house/","created":"Mar 7, 2023, 8:39 PM"}
 ---
+
 
 # Balloon Payment
 
@@ -86,12 +86,12 @@ Weight 1-5, tally Ethan and Mariana
 My two best options are probably [[Money/House/Oakmore/7322 Oakmore Dr, Dallas, TX 75249\|Oakmore]] and [[Money/House/Houses/2719 Hector St Dallas, TX 75210\|Hector]]. Possibly [[Money/House/Houses/Lennar Trinity West, Dallas\|Lennar]] depending on amenities, but it would raise my monthly payment to $2,700.
 | File                                                                                                                                       | Cost    | Sq Ft |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ------- | ----- |
-| [[Money/House/Houses/Stone Creek Community by Starlight Homes\|Stone Creek Community by Starlight Homes]]                               | \-      | \-    |
 | [[Money/House/Houses/Enchanted Bay\|Enchanted Bay]]                                                                                     | \-      | \-    |
+| [[Money/House/Houses/Stone Creek Community by Starlight Homes\|Stone Creek Community by Starlight Homes]]                               | \-      | \-    |
 | [[Money/House/Houses/109 W Mountain Creek Dr Unit 13 Grand Prairie, TX 75052\|109 W Mountain Creek Dr Unit 13 Grand Prairie, TX 75052]] | 210,000 | 1,540 |
 | [[Money/House/Houses/2923 Renaissance Cir, Dallas, TX 75287\|2923 Renaissance Cir, Dallas, TX 75287]]                                   | 225,000 | 1,951 |
-| [[Money/House/Houses/5014 Bartlett Ave, Dallas, TX 75216\|5014 Bartlett Ave, Dallas, TX 75216]]                                         | 230,000 | 1,793 |
 | [[Money/House/Houses/1420 Caravan Trl, Dallas, TX 75241\|1420 Caravan Trl, Dallas, TX 75241]]                                           | 230,000 | 1,650 |
+| [[Money/House/Houses/5014 Bartlett Ave, Dallas, TX 75216\|5014 Bartlett Ave, Dallas, TX 75216]]                                         | 230,000 | 1,793 |
 | [[Money/House/Houses/Easterview\|Easterview]]                                                                                           | 238,900 | 1,176 |
 | [[Money/House/Houses/3707 Spence St Dallas, TX 75215\|3707 Spence St Dallas, TX 75215]]                                                 | 239,900 | 1,933 |
 | [[Money/House/Houses/4601 Owenwood Ave Dallas, TX 75223\|4601 Owenwood Ave Dallas, TX 75223]]                                           | 242,900 | 1,220 |
@@ -99,21 +99,21 @@ My two best options are probably [[Money/House/Oakmore/7322 Oakmore Dr, Dallas, 
 | [[Money/House/Houses/1523 Garza Ave, Dallas, TX 75216\|1523 Garza Ave, Dallas, TX 75216]]                                               | 246,000 | 1,694 |
 | [[Money/House/Houses/3926 Metropolitan Avenue Dallas, TX 75210\|3926 Metropolitan Avenue Dallas, TX 75210]]                             | 249,900 | 2,075 |
 | [[Money/House/Houses/4550 Solar Ln, Dallas, TX 75216\|4550 Solar Ln, Dallas, TX 75216]]                                                 | 249,990 | 1,440 |
-| [[Money/House/Oakmore/7322 Oakmore Dr, Dallas, TX 75249\|7322 Oakmore Dr, Dallas, TX 75249]]                                            | 260,000 | 1,780 |
 | [[Money/House/Houses/1450 Sax Leigh Dr, Dallas, TX 75241\|1450 Sax Leigh Dr, Dallas, TX 75241]]                                         | 260,000 | 1,592 |
+| [[Money/House/Oakmore/7322 Oakmore Dr, Dallas, TX 75249\|7322 Oakmore Dr, Dallas, TX 75249]]                                            | 260,000 | 1,780 |
 | [[Money/House/Houses/Lennar Skyline Estates Watermill\|Lennar Skyline Estates Watermill]]                                               | 271,999 | 1,302 |
 | [[Money/House/Houses/2927 Gospel Dr, Dallas, TX, 75237\|2927 Gospel Dr, Dallas, TX, 75237]]                                             | 274,990 | 1,616 |
 | [[Money/House/Houses/7724 Arkan Pkwy, Dallas, TX, 75241\|7724 Arkan Pkwy, Dallas, TX, 75241]]                                           | 279,900 | 1,672 |
-| [[Money/House/Houses/2325 N Carrier Pkwy, Grand Prairie, TX, 75050\|2325 N Carrier Pkwy, Grand Prairie, TX, 75050]]                     | 289,000 | 1,835 |
 | [[Money/House/Houses/1214 W Ridge Dr, Duncanville, TX 75116\|1214 W Ridge Dr, Duncanville, TX 75116]]                                   | 289,000 | 1,722 |
+| [[Money/House/Houses/2325 N Carrier Pkwy, Grand Prairie, TX, 75050\|2325 N Carrier Pkwy, Grand Prairie, TX, 75050]]                     | 289,000 | 1,835 |
 | [[Money/House/Houses/2719 Hector St Dallas, TX 75210\|2719 Hector St Dallas, TX 75210]]                                                 | 292,000 | 1,578 |
 | [[Money/House/Houses/2704 Lucky St Dallas, TX 75241\|2704 Lucky St Dallas, TX 75241]]                                                   | 295,000 | 1,600 |
 | [[Money/House/Houses/2208 E Kiest Blvd Dallas, TX 75216\|2208 E Kiest Blvd Dallas, TX 75216]]                                           | 304,900 | 1,641 |
 | [[Money/House/Houses/620 Elwayne Ave Dallas, TX 75217\|620 Elwayne Ave Dallas, TX 75217]]                                               | 310,000 | 1,600 |
 | [[Money/House/Houses/Lennar Trinity West, Dallas\|Lennar Trinity West, Dallas]]                                                         | 320,000 | 1,685 |
 | [[Money/House/Houses/7015 Cloverglen Dr, Dallas, TX 75249\|7015 Cloverglen Dr, Dallas, TX 75249]]                                       | 325,000 | 1,855 |
-| [[Money/House/Houses/Lake Ridge Commons by CB JENI Homes\|Lake Ridge Commons by CB JENI Homes]]                                         | 329,990 | 1,567 |
 | [[Money/House/Houses/Heritage Park by Brightland Homes\|Heritage Park by Brightland Homes]]                                             | 329,990 | 1,520 |
+| [[Money/House/Houses/Lake Ridge Commons by CB JENI Homes\|Lake Ridge Commons by CB JENI Homes]]                                         | 329,990 | 1,567 |
 | [[Money/House/Houses/Tenison Village by Ashton Woods\|Tenison Village by Ashton Woods]]                                                 | 366,000 | 2,168 |
 
 { .block-language-dataview}
