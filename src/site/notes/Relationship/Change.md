@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/relationship/change/"}
 ---
+
 
 There is a popular idea that asking someone to change is contrary to the virtue of accepting them as they are.  The term "Virtue" shall mean accepting someone as they are.
 
