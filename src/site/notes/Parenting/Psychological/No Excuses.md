@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-dg-created: Mar 2, 2023, 7:58 AM
-tags: [goals, headway, books]
+{"dg-publish":true,"permalink":"/parenting/psychological/no-excuses/","tags":["goals","headway","books"],"created":"Mar 2, 2023, 7:58 AM"}
 ---
+
 
 A big problem in our society today is that ==most people think that they already have goals. But what they really have are hopes and wishes==. Unfortunately, neither hope nor wish is a strategy for success. In fact, wish has been defined as a goal with no energy behind it.
 
