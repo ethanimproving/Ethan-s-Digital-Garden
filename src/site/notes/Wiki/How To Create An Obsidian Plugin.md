@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/wiki/how-to-create-an-obsidian-plugin/"}
 ---
+
 
 - [Unofficial Plugin Documentation](https://marcus.se.net/obsidian-plugin-docs/)
 - [Unofficial Blogpost](https://phibr0.medium.com/how-to-create-your-own-obsidian-plugin-53f2d5d44046)
