@@ -16,7 +16,25 @@ The [fascia board at Oakmore Dr.](https://photos.app.goo.gl/7dp3ha1gLeo3zXs49) h
 ![](https://images.saymedia-content.com/.image/t_share/MTc0MzUzOTUyODM2NDI5MTYw/tips-for-painting-soffits-and-fascia-boards.jpg)
 
 
-# DIY
+# DIY Uncle Stu
+
+## 1. Remove Old Boards
+
+## 2. Paint New Boars and Drip Edge
+
+## 3. Install New Board
+
+For this step I will be dealing with 16-foot boards that need to be held in place. Uncle Stu suggested a method of creating a bracket screwed into the soffit at the appropriate length that the fascia hangs down. This bracket will providing a stable resting point for the fascia board during installation.
+
+### Temporary Ledge
+
+An adjustable Z bracket could potentially work for this purpose. We could mount the vertical portion of the bracket to the underside of the soffit, and then adjust the horizontal arm to the desired length to provide support for the fascia board. This would effectively create a temporary ledge for the fascia board to rest on while you nail or screw it in place.
+
+### Nail Gun
+
+Once the boards are resting in place, use a nail gun to pop nails into the wood an keep that sucker up.
+
+# DIY YouTube Studio
 
 [Replacing Fascia Boards](https://www.youtube.com/watch?v=9PPUOL5JkdU)
 
