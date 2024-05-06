@@ -22,6 +22,33 @@ The [fascia board at Oakmore Dr.](https://photos.app.goo.gl/7dp3ha1gLeo3zXs49) h
 
 ## 2. Paint New Boars and Drip Edge
 
+### Color Popularity
+
+A Sherman Williams employee told me a common color for trim is Snowbound. This is consistent with the Bridgewater Homes by Lennar which all use [SW7004 Snowbound](https://www.sherwin-williams.com/en-us/color/color-family/white-paint-colors/sw7004-snowbound). I do really like those houses so I will choose that color for my trim as well.
+
+[This video](https://www.youtube.com/watch?app=desktop&v=4Qa18K5ii6k) recommends warmer white like Alabaster [SW 7008](https://www.sherwin-williams.com/en-us/color/color-family/white-paint-colors/sw7008-alabaster) to compliment red brick.
+1. [Alabaster SW 7008](https://www.sherwin-williams.com/en-us/color/color-family/white-paint-colors/sw7008-alabaster)
+2. [Sea Salt SW 6204](https://www.sherwin-williams.com/en-us/color/color-family/green-paint-colors/sw6204-sea-salt)
+3. [Mindful Gray SW 7016](https://www.sherwin-williams.com/en-us/color/color-family/neutral-paint-colors/sw7016-mindful-gray)
+
+ChatGPT estimates the below breakdown of colors by popularity:
+
+| Color           | Estimated Percentage |
+|-----------------|----------------------|
+| Snowbound White | 30%                  |
+| Alabaster       | 20%                  |
+| Pure White      | 15%                  |
+| Extra White     | 10%                  |
+| Navajo White    | 10%                  |
+| Greys           | 20%                  |
+| Browns          | 15%                  |
+| Blues           | 10%                  |
+| Greens          | 5%                   |
+| Beiges          | 5%                   |
+| Black           | 5%                   |
+| Other           | 5%                   |
+
+
 ## 3. Install New Board
 
 For this step I will be dealing with 16-foot boards that need to be held in place. Uncle Stu suggested a method of creating a bracket screwed into the soffit at the appropriate length that the fascia hangs down. This bracket will providing a stable resting point for the fascia board during installation.
