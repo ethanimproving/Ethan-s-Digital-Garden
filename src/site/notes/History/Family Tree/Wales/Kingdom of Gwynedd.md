@@ -13,3 +13,5 @@ Gwynedd played a pivotal role in the conflicts between the Welsh and English dur
 ```timeline
 gwynedd
 ```
+
+In times past my ancestors were Kings and warriors. They occupied their time protecting the Gwynedd kingdom from Viking attacks, and the threat of the Saxons. We are no longer needed for such endeavors. The threat of war is behind us, and strategic battle planning and fighting is a trait wasted on our bloodline. Instead of protecting 30,000 people from destruction, we will create cities and businesses. Our role is now to build rather than protect. The world at large keeps its countries accountable. Vikings would not be tolerated in any country. The US has emerged as the world power, and its forces would quickly obliterate such marauding groups. We recognized the opportunity of a better world when Lodowick Davis moved our bloodline from England into Maryland in 1736, soon to be independent from Great Britain.
