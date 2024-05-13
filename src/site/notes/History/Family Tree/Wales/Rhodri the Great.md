@@ -40,10 +40,43 @@ And as the years passed, Rhodri's legend grew, until he became more than a man; 
 
 ![Capture the legendary status of Rhodri Mawr as his name echoes through the annals of history. Illustrate Rhodri as more than a mere mortal, but a symbol of hope and resilience in a world gripped by chaos. Show his name whispered in awe by bards and minstrels, who gather beneath the starlit sky to sing of his deeds and valor. Despite facing numerous trials and tribulations, depict Rhodri's unwavering commitment to his quest to unite the Welsh tribes and secure their freedom for generations to come. Show him standing tall against the backdrop of a tumultuous landscape, his gaze fixed on a distant horizon where the promise of a brighter future awaits. Emphasize the timeless nature of Rhodri's legacy, portraying him as a beacon of inspiration for all who hear his tale. Whether in song or story, his legend lives on, a testament to the enduring power of courage, determination, and the indomitable spirit of the Welsh people.](https://i.imgur.com/2q6cTdn.png)
 
-
 For Rhodri Mawr was more than a king; he was a lion among men, whose roar echoed across the ages, inspiring all who heard it to stand tall and proud in the face of adversity. And though his journey was long and arduous, he would always be remembered as the one who dared to dream of a better world and made that dream a reality.
 
 ![Illustrate Rhodri Mawr's enduring legacy as a symbol of strength and inspiration. Depict him not just as a king, but as a lion among men, whose roar echoes across the ages, inspiring all who hear it to stand tall and proud in the face of adversity. Show Rhodri's journey as long and arduous, marked by challenges and triumphs alike. Despite the obstacles he faced, portray him as the one who dared to dream of a better world and made that dream a reality through his unwavering courage and determination. Emphasize the timeless nature of Rhodri's legacy, illustrating how his deeds continue to resonate with people throughout the ages. Whether in art or literature, his story lives on as a testament to the power of hope, resilience, and the human spirit.](https://i.imgur.com/fw27VtY.png)
+
+# Biography
+
+[Rhodri ap Merfyn](https://en.wikipedia.org/wiki/Rhodri_Mawr) (c. 820–878), later known as Rhodri the Great (Welsh: Rhodri Mawr), succeeded his father, Merfyn Frych, as King of Gwynedd in 844. Rhodri annexed Powys c. 856 and Seisyllwg c. 871. He is called "King of the Britons" by the Annals of Ulster. In some later histories, he is referred to as "King of Wales", although the title is anachronistic and his realm did not include southern Wales.
+
+## Lineage and inheritance
+
+Rhodri was the son of Merfyn Frych, who had claimed Gwynedd upon the extinction of Cunedda's male line. Rhodri then inherited the realm after his father's death around 844. Merfyn hailed from "Manaw" which may either refer to the Isle of Man or Manau, the ancestral homeland of all Gwynedd's kings since Cunedda.
+
+According to later genealogies, his mother or grandmother was Nest ferch Cadell of the ruling dynasty in Powys. Although surviving texts of Welsh law expressly forbid inheritance along the maternal line, Nest and Rhodri's supposed inheritance was later used to justify Gwynedd's annexation of Powys after the c. 855 death of Cyngen ap Cadell in preference to Cyngen's other heirs.
+
+Similarly, Rhodri's marriage to Angharad ferch Meurig was used to explain his supposed inheritance of her brother Gwgon's kingdom of Ceredigion after that king's death in 872[a] via a principle of jure uxoris that does not survive in our sources for Welsh law.
+
+## Reign 855-878
+Now the master of much of modern Wales, Rhodri faced pressure both from the English and, increasingly, from Vikings, called the "black gentiles"[b] in the Welsh sources. The Danish are recorded ravaging Anglesey in 854. In 856, Rhodri won a notable victory and killed their leader Gorm.
+
+The Chronicle of the Princes records two victories by Rhodri in 872: the first at a place given variously as Bangolau,[1] Bann Guolou,[2] or Bannoleu,[3] where he defeated the Vikings on Anglesey "in a hard battle"[1] and the second at Manegid[1] or Enegyd[4] where the Vikings "were destroyed".
+
+The Chronicle of the Princes records his death occurring at the Battle of Sunday on Anglesey in 873;[1] the Annals of Wales record the two events in different years[2][3] and Phillimore's reconstruction of its dates places Rhodri's death in 877.[2] According to the Chronicle, Rhodri and his brother Gwriad were killed during a Saxon invasion (which probably would have been under Ceolwulf of Mercia, given that the Wessex forces under Alfred the Great were fighting Vikings in East Anglia at the time). The Annals record no great details of the death, but where the B text calls Gwriad Rhodri's brother,[3] the A text has him as Rhodri's son instead.[2] It is likely he was killed in battle given that all the sources call his son Anarawd's victory over the Mercians at the Battle of the Conwy a few years later "God's vengeance for Rhodri".
+
+## Succession
+Rhodri died leaving at least four sons to share his land among themselves. The traditional account is that his eldest, Anarawd, became king of Gwynedd and the head of the subsequent House of Aberffraw which produced Gruffudd ap Cynan and Llywelyn the Great. Another, Cadell, was given Ceredigion and killed his brother Merfyn to claim Powys as well. Cadell's family was later known as the House of Dinefwr, after its base of operations was moved by Hywel the Good to Dyfed following another (supposed) inheritance via his marriage to Elen ferch Llywarch. Hywel's wide domain, later known as Deheubarth, briefly eclipsed Gwynedd under his immediate heirs before fracturing.
+
+A fourth son, possibly too young to have been considered for the first division of Rhodri's lands, took part in Anarawd's 881 revenge against Mercia and, wounded there, became known to history as Tudwal the Lame, a condition disqualifying him from rule under Cyfraith Hywel, Welsh customary law.
+
+## Children
+Anarawd ap Rhodri (died 913)
+Cadell ap Rhodri (854–907)
+Gwriad ap Rhodri
+Tudwal ap Rhodri (born 860)
+
+Cawley states that Rhodri and his wife Angharad had four children, and names Gwriad, Anarawd, Cadell, and Merfyn. Boyer, by contrast, following Bartrum, names six children (Anarawd, Cadell, Merfyn, Aeddan, Meurig, and Nest) by his first wife, two (Tudwal Gloff and Elise) by his second, and an additional four (Gwyddelig, Rhodri Fychan, Gwriad, and a daughter) undetermined.
+https://www.wikitree.com/wiki/Ap_Merfyn-19
+
 
 # AI Art
 
