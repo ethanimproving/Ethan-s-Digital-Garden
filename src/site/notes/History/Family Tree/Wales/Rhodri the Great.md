@@ -4,7 +4,6 @@
 
 <span
 	  class='ob-timelines' 
-	  data-title='Rhodri the Great' 
 	  data-img = 'https://i.imgur.com/0lZvMrI.png'>
 	  Chapter One: The Unifier 
 </span>
