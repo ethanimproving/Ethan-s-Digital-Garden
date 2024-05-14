@@ -5,7 +5,7 @@
 <span
 	  class='ob-timelines' 
 	  data-img = 'https://i.imgur.com/DI3DgZ7.jpeg'>
-	  Chapter Two: Guardian of Gwynedd 
+	  Chapter Nine: Guardian of Gwynedd 
 </span>
 
 ![Depict King Owain ap Gruffydd Of Gwynedd in a 12th century Wales castle, with a helmet and a sword, and a scepter in his other hand. wearing a white robe.](https://i.imgur.com/DI3DgZ7.jpeg)
