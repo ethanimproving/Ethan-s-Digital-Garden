@@ -47,6 +47,18 @@ For Rhodri Mawr was more than a king; he was a lion among men, whose roar echoed
 
 [Rhodri ap Merfyn](https://en.wikipedia.org/wiki/Rhodri_Mawr) (c. 820–878), later known as Rhodri the Great (Welsh: Rhodri Mawr), succeeded his father, Merfyn Frych, as King of Gwynedd in 844. Rhodri annexed Powys c. 856 and Seisyllwg c. 871. He is called "King of the Britons" by the Annals of Ulster. In some later histories, he is referred to as "King of Wales", although the title is anachronistic and his realm did not include southern Wales.
 
+## Religion
+
+During Rhodri's time, Christianity was the dominant religion in Wales, as it had been since the Roman period. While specific details about Rhodri's personal religious beliefs are not extensively documented, it is widely accepted that he was a Christian, as Christianity had become firmly established among the Welsh nobility by his era.
+
+Rhodri's descendants, notably his son Hywel Dda (Hywel the Good), who further consolidated the kingdoms of Wales, were also associated with Christian institutions and were instrumental in the spread of Christianity throughout Wales during the medieval period.
+
+Rhodri the Great, like most of the Welsh nobility of his time, would have likely adhered to Christianity as it was practiced within the Western Church, specifically within **the Latin Rite**, which was the dominant form of Christianity in Western Europe during the medieval period.
+
+The Latin Rite refers to the liturgical and canonical practices associated with the Latin Church, which was **under the authority of the Pope in Rome**. This form of Christianity included sacraments such as baptism, confirmation, Eucharist (communion), confession, marriage, holy orders, and anointing of the sick, all administered according to the customs and regulations of **the Roman Catholic Church**.
+
+It's important to note that during Rhodri's time, there was not yet a significant schism between the Western (Roman Catholic) and Eastern (Orthodox) branches of Christianity, which occurred later in the 11th century. Therefore, Christianity in Wales during Rhodri's reign would have aligned with the practices and beliefs of the wider Western Christian tradition under the authority of the Pope.
+
 ## Lineage and inheritance
 
 Rhodri was the son of Merfyn Frych, who had claimed Gwynedd upon the extinction of Cunedda's male line. Rhodri then inherited the realm after his father's death around 844. Merfyn hailed from "Manaw" which may either refer to the Isle of Man or Manau, the ancestral homeland of all Gwynedd's kings since Cunedda.
