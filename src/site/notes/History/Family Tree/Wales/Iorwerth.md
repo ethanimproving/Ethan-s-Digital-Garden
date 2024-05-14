@@ -5,7 +5,7 @@
 <span
 	  class='ob-timelines' 
 	  data-img = 'https://i.imgur.com/Qzz3Lsc.jpeg'>
-	  Chapter Two: Guardian of Gwynedd 
+	  Chapter Ten: Guardian of Gwynedd 
 </span>
 
 Depict King Iorwerth ab Owain Gwynedd (or Iorwerth Drwyndwn meaning "the flat-nosed"), also called Edward (c. 1130-1174) in medieval Wales, with a sword and a Wales flag.
