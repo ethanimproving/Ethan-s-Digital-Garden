@@ -5,7 +5,7 @@
 <span
 	  class='ob-timelines' 
 	  data-img = 'https://i.imgur.com/fSrXUsO.jpeg'>
-	  Chapter Six: Guardian of Gwynedd 
+	  Chapter Seven: Guardian of Gwynedd 
 </span>
 
 Cynan ab Iago (c. 1014-c. 1063) was a Welsh prince of the House of Aberffraw sometimes credited with briefly reigning as King of Gwynedd. His father, Iago ab Idwal ap Meurig, had been king before him and his son, Gruffudd, was king after him.
