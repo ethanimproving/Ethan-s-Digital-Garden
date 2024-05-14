@@ -145,6 +145,10 @@ My [[Parenting/Social/Diagnostic Statements/Working Memory\|Neuro-Sensory Modula
 
 If I'm at Six Flags engaging in the noise, riding Roller Coasters, talking to my friends, my brain is in a relaxed enough state of mind that my threshold becomes higher and I don't have a problem. But if I'm observing the noise without engaging in it, my brain kicks into overdrive and begins processing everything in working memory, making me fatigued.
 
+# Ethnicity
+
+I am German, English, [[History/Family Tree/Wales/Kingdom of Gwynedd\|Welsh]], Scottish, Irish, and 100% American. 
+
 # Anthropometric Data
 
 | Parameter                             | Calories/Day |
