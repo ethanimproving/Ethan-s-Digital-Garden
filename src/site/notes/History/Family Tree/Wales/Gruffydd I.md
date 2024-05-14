@@ -5,7 +5,7 @@
 <span
 	  class='ob-timelines' 
 	  data-img = 'https://i.imgur.com/9bJHgKb.jpeg'>
-	  Chapter Two: Guardian of Gwynedd 
+	  Chapter Eight: Guardian of Gwynedd 
 </span>
 
 # Biography
