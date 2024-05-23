@@ -3,34 +3,48 @@
 ---
 
 
+# Anatomy
+
+A knot is a muscle that gets stuck gin a contracted state.
+
+![](https://i.imgur.com/DwxunpA.png)
+
+Main 3 Causes:
+1. Poor posture
+2. Muscle Weakness
+3. Lack of activity
+
+[How to get rid of muscle knots in your neck, traps, shoulders, and back](https://www.youtube.com/watch?v=9PC9Mn0VO00)
+
+Can grounding help reset muscle knots?
+
 # Products
 
-[Hand-Held Massager with Hand Grip](https://a.co/d/iCwc4Il)
+[Weighted Heating Pad for Neck and Shoulders](https://www.amazon.com/dp/B09NZC1FZN/ref=twister_B0CLNYYV6X?_encoding=UTF8&th=1)
+![](https://m.media-amazon.com/images/I/61jW0zfk85L._AC_SL1500_.jpg)
 
+![](https://i.imgur.com/8bub5h4.png)
+
+
+[Hand-Held Massager with Hand Grip](https://a.co/d/iCwc4Il)
 ![](https://m.media-amazon.com/images/I/41PzQmU7t1S._AC_SL1000_.jpg)
 
 [Self Massage Hook Cane](https://www.amazon.com/dp/B07P5PFFMZ?ref_=cm_sw_r_apin_dp_9ZT9VTNJY52FJA0GXCH9)
-
 ![](https://m.media-amazon.com/images/I/61bnElCGrdL._AC_SL1500_.jpg)
 
 [Muscle Roller Stick](https://www.amazon.com/dp/B0BMZTM59L?ref_=cm_sw_r_apin_dp_XQ9R6C6P32QBRH2PS1ZW)
-
 ![](https://m.media-amazon.com/images/I/51BHTEjlx6L._AC_SL1200_.jpg)
 
 [Massage Roller Ball with Lavender Massage Oil](https://www.amazon.com/dp/B08LWYTPNB?ref_=cm_sw_r_apin_dp_HTX2DESWNXH85V8X5AZH)
-
 ![](https://m.media-amazon.com/images/I/71N4JNl9MXL._AC_SL1500_.jpg)
 
 [Lacrosse Ball](https://www.amazon.com/dp/B08Y8SQVP4?ref_=cm_sw_r_apin_dp_T4FZWCH02Q0GDGE1QHHN)
-
 ![](https://m.media-amazon.com/images/I/61hFz0z8NyL._AC_SL1500_.jpg)
 
 [3-Legged Massage Knobs](https://www.amazon.com/dp/B0BG42RW59?ref_=cm_sw_r_apin_dp_W6KVD2FYGVR3KTWDWQ4Y)
-
 ![](https://m.media-amazon.com/images/I/51cMEZlkiuL._AC_SL1500_.jpg)
 
 [Massage Ball and Massager Mitt](https://www.amazon.com/dp/B08N5HG2TX?ref_=cm_sw_r_apin_dp_16XZP02D4ADMAGSYRC2N)
-
 ![](https://m.media-amazon.com/images/I/8170T97DeVL._AC_SL1500_.jpg)
 
 
