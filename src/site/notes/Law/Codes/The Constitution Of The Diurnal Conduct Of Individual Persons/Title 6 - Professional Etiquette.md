@@ -510,3 +510,23 @@ Derived from Google's ["10 things"](https://about.google/philosophy/).
 **1.1** Be on time for meetings and appointments.
 
 **1.2** Don’t start the business day until you’re at the office. ~ [Jim Rohn](https://www.facebook.com/reel/791975512402827)
+
+## § 2. Act Professional
+
+**2.1** Don't ever say anything that you would be [[Journal/Don't Say Anything You Will Regret\|embarrassed to explain to a boss]] if it was found out.
+
+> [!bible] [Matthew 12:36 - KJV](https://bible-api.com/Matthew+12:36?translation=kjv)
+> 36. But I say unto you, That every idle word that men shall speak, ==they shall give account thereof in the day of judgment==.
+
+**2.2** Never keep personal files on your laptop. You could lose them in one afternoon if you're fired, or worse, be fired because hosting them was a misuse of company property.
+
+**2.3** Do not pray for someone to lose their job. It might bounce back onto you.
+
+> [!bible] [Numbers 23:8 - KJV](https://bible-api.com/Numbers+23:8?translation=kjv)
+> 8. How shall I curse, whom God hath not cursed? or how shall I defy, whom the LORD hath not defied?
+
+**2.4** Always tell the complete truth. Own your mistakes, confront reality, and take them head on without any secrets.
+
+> [!bible] [John 8:32 - KJV](https://bible-api.com/John+8:32?translation=kjv)
+> 32. And ye shall know the truth, and ==the truth shall make you free==.
+
