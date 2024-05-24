@@ -53,16 +53,13 @@ The acronym DISC stands for the four main personality profiles described in the 
 People with D personalities tend to be confident and place an emphasis on accomplishing bottom-line results.
 
 ## Influence
-
 People with i personalities tend to be more open and place an emphasis on relationships and influencing or persuading others.
 
 ## Steadiness
-
 People with S personalities tend to be dependable and place the emphasis on cooperation and sincerity.
 
 ## Conscientiousness
-
-People with C personalities tend to place the emphasis on quality, accuracy, expertise, and competency..
+People with C personalities tend to place the emphasis on quality, accuracy, expertise, and competency.
 
 ## Sep 11, 2022
 
@@ -148,6 +145,19 @@ If I'm at Six Flags engaging in the noise, riding Roller Coasters, talking to my
 # Ethnicity
 
 I am German, English, [[History/Family Tree/Wales/Kingdom of Gwynedd\|Welsh]], Scottish, Irish, and 100% American. 
+
+| Ethnicity  | Percentage | Source                                                                                  |
+|------------|------------|-----------------------------------------------------------------------------------------|
+| German     | 50.9375%   | Maternal Grandmother (100%), Paternal Grandmother (3/8), Paternal Grandfather (1/2)     |
+| Danish     | 12.5%      | Maternal Grandfather (Mother's side - 50%)                                              |
+| Swedish    | 12.5%      | Maternal Grandfather (Father's side - 50%)                                              |
+| Austrian   | 6.25%      | Paternal Grandmother (1/2)                                                              |
+| Irish      | 6.25%      | Paternal Grandfather (1/4)                                                              |
+| Scottish   | 6.25%      | Paternal Grandfather (1/4)                                                              |
+| French     | 1.5625%    | Paternal Grandmother (1/8)                                                              |
+| Welsh      | <1%        | Paternal Grandfather (minor contribution)                                               |
+| English    | <1%        | Paternal Grandfather (minor contribution)                                               |
+
 
 # Anthropometric Data
 
