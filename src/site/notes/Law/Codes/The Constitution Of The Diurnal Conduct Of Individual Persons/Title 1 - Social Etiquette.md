@@ -92,6 +92,21 @@ Life Lessons On How To Have A Better Life
 
 # Article 3: Parties
 
+# Article 4: Social Skills
+
+## § 1. Leadership Qualities
+
+**1.1** [[Papers/Speed In Decision Making\|Make decisions quickly]]. Don't allocate an unnecessary amount of mental analysis into a decision that does not really matter.
+
+> [!psalterium] [John Piper](https://www.desiringgod.org/messages)
+> One of the ways of defining foolishness is caring little for things that matter much, and caring much for things that matter little.
+
+**1.2** [[Bible Notes/Too Sensitive\|Don't be easily provoked]]. Ignore bad jokes, don't hold people accountable for every word they say, get over false criticism, embrace true criticism, and be slow to anger.
+
+> [!bible] [1 Corinthians 13:4-5 - KJV](https://bible-api.com/1+Corinthians+13:4-5?translation=kjv)
+> 4. Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up,
+> 5. Doth not behave itself unseemly, seeketh not her own, ==is not easily provoked==, thinketh no evil;
+
 # Article 5: Dress Codes
 
 ## § 1. Dressing For Work
