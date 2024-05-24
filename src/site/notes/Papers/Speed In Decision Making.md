@@ -6,7 +6,7 @@
 
 # Order Food Quickly
 
-[Order your food quickly](https://www.youtube.com/watch?v=WpLOoHoPmb0)
+[Order your food quickly](https://www.tiktok.com/@businesssapience/video/7309626845010365739)
 
 Show me how long it takes you to order at a counter and I will show you your bank account. I was at a counter at a coffee shop, and there's always a lady in front of you. The lady in front of you takes four centuries to order a coffee and a muffin. What I quickly realize is that ==if you want to get something done, you give it to a busy person==. That's why they say you should take somebody to dinner before you hire them or take them out to lunch. See how quickly they make decisions. **People who take forever to order when they stand in line are** (1) really comfortable inconveniencing somebody else around them, which means they have limited self-awareness, maybe borderline narcissism. Simultaneously (2) **they're not very efficient at the things that don't really matter**. That coffee order does not *really* matter. So, if we know we are here for a finite amount of time, why spend so much time on that, as opposed to a walk, a sunset, etc.?
 
