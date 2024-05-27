@@ -21,3 +21,17 @@ In this quote John Piper is indicating the Catholic idea that it is by works tha
 
 
 Which is odd because elsewhere Piper says "What is the righteousness in Romans 5:21?? Our lived out righteousness or Christ's righteousness imputed to us on the cross?" And he answers that it's imputed righteousness.
+
+# To get into heaven, faith must bear the fruit of love
+
+My friend Jorge sent me this transcript of a speech John Paper gave called, "[How Do You Get into Heaven](https://www.desiringgod.org/messages/faith-alone/excerpts/how-do-you-get-into-heaven)?"
+
+> How do you get into heaven? ==You don’t get into heaven by faith alone==. You get justified by faith alone. You get into a position where God is one hundred percent for you by faith alone. And ==in order to get into heaven, that faith must bear the fruit of love. Pursue the holiness without which you will not see the Lord. Put to death the deeds of the body, and you will live!==
+
+> We should not speak of getting into heaven at the last day, through the last judgment — when all of our lives are assessed for whether there’s been any transformation confirming the reality of the faith which alone justifies. ==We should not say you can live like the devil and get to heaven. You can’t.==
+
+> There is a holiness without which we will not see the Lord ([Hebrews 12:14](https://biblia.com/bible/esv/Heb%2012.14)). ==Essential to the Christian life and necessary for final salvation is the killing of sin== ([Romans 8:13](https://biblia.com/bible/esv/Rom%208.13)) and the pursuit of holiness ([Hebrews 12:14](https://biblia.com/bible/esv/Heb%2012.14)) — mortification of sin and sanctification in holiness. And what makes that possible and pleasing to God? These next two sentences are absolutely crucial for you living the Christian life in a way that pleases the Lord. What makes it possible for you to kill sin and pursue holiness — which are essential for going to heaven?
+
+> We put sin to death and we pursue holiness from a justified position where God is _already_ one hundred percent for us by faith alone. You are in that position where God is one hundred percent for you by faith alone, and ==from that position, you now put sins to death and you now pursue holiness from that position==.
+
+This is very much like the Catholic teaching that through faith we receive the Holy Ghost which *empowers* us to do good works that *merit* salvation.
