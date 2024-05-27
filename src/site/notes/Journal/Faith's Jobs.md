@@ -21,6 +21,7 @@ Faith is an old soul. She doesn't like too much noise and activity. She like **c
 3. Retirement Home Caretaker
 4. Barber
 5. [[Wiki/Technology/Make Money From Discount Retail Stores\|Retail Arbitrage]]
+6. Online Chat Assistant 
 
 ### Professional Tailor
 
@@ -38,7 +39,7 @@ It's definitely cheaper these days to buy your clothes factory made than spend t
 
 This would allow Faith to stay home like she wants, but her friend Jennine discouraged her from doing it because it's a lot of work finding items with enough sale margin to be profitable, and it takes time waiting for customers to purchase the items. You spend half the day shopping, and half the day packages items up.
 
-It doesn't have to be with Amazon FBA, it could also be eBay, using my 75% off discount with FedEx to ship items when they are sold. The problem with that is you would need enough storage space to keep your inventory until they are sold. Packages and taping can be streamlines well enough. It's the daily trips to FedEx that will become bothersome.
+It doesn't have to be with Amazon FBA, it could also be eBay, using my 75% off discount with FedEx to ship items when they are sold. The problem with that is you would need enough storage space to keep your inventory until they are sold. Packages and taping can be streamlined well enough. It's the daily trips to FedEx that will become bothersome.
 
 # U.S. Bureau of Labor Statistics (BLS)
 
