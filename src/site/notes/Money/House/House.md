@@ -86,8 +86,8 @@ Weight 1-5, tally Ethan and Mariana
 My two best options are probably [[Money/House/Oakmore/7322 Oakmore Dr, Dallas, TX 75249\|Oakmore]] and [[Money/House/Houses/2719 Hector St Dallas, TX 75210\|Hector]]. Possibly [[Money/House/Houses/Lennar Trinity West, Dallas\|Lennar]] depending on amenities, but it would raise my monthly payment to $2,700.
 | File                                                                                                                                       | Cost    | Sq Ft |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ------- | ----- |
-| [[Money/House/Houses/Enchanted Bay\|Enchanted Bay]]                                                                                     | \-      | \-    |
 | [[Money/House/Houses/Stone Creek Community by Starlight Homes\|Stone Creek Community by Starlight Homes]]                               | \-      | \-    |
+| [[Money/House/Houses/Enchanted Bay\|Enchanted Bay]]                                                                                     | \-      | \-    |
 | [[Money/House/Houses/109 W Mountain Creek Dr Unit 13 Grand Prairie, TX 75052\|109 W Mountain Creek Dr Unit 13 Grand Prairie, TX 75052]] | 210,000 | 1,540 |
 | [[Money/House/Houses/2923 Renaissance Cir, Dallas, TX 75287\|2923 Renaissance Cir, Dallas, TX 75287]]                                   | 225,000 | 1,951 |
 | [[Money/House/Houses/5014 Bartlett Ave, Dallas, TX 75216\|5014 Bartlett Ave, Dallas, TX 75216]]                                         | 230,000 | 1,793 |
