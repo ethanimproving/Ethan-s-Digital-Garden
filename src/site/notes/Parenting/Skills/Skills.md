@@ -50,7 +50,7 @@ In a similar way I would like to create a list of skills for myself to learn. Wi
 	- [ ] Transmission
 - [x] [[Money/House/Renovation Skills/Tools/Pressure Washer\|Pressure Washing]]
 - [ ] [Contractor](https://www.bls.gov/ooh/construction-and-extraction/home.htm)
-	- [ ] [[Money/House/Renovation Skills/Kitchen/Plumbing\|Plumbing]]
+	- [ ] [[Plumbing\|Plumbing]]
 	- [ ] Construction
 	- [ ] [Carpentry](https://www.bls.gov/ooh/construction-and-extraction/carpenters.htm)
 	- [ ] [Masonry](https://www.bls.gov/ooh/construction-and-extraction/brickmasons-blockmasons-and-stonemasons.htm)
@@ -143,3 +143,27 @@ In a similar way I would like to create a list of skills for myself to learn. Wi
 - [ ] Grammar (John Piper)
 
 Also see [10 merit badge lessons from a Scout who earned them all](https://blog.scoutingmagazine.org/2019/12/02/10-merit-badge-lessons-from-a-scout-who-earned-them-all/)
+
+# Badges
+
+Use "[Badge Builder](https://chatgpt.com/g/g-gDPBKtcSN-badge-builder?oai-dm=1)" to generate merit badges for each skill, with prompts such as the following:
+- Boy Scout embroidered merit badge of Lord of the Rings
+- Boy Scout embroidered merit badge of electricity
+- Boy Scout embroidered merit badge of budgeting
+
+Alternatively you can useL
+- [Logo Generator](https://deepai.org/machine-learning-model/logo-generator)
+- [Zodiac Design Generator](https://deepai.org/machine-learning-model/zodiac-design-generator)
+- [3D Objects Generator](https://deepai.org/machine-learning-model/3d-objects-generator)
+
+
+![Boy Scout embroidered merit badge of electricity](https://i.imgur.com/7uakIJh.jpeg)
+
+![Boy Scout embroidered merit badge of YNAB budgeting app](https://i.imgur.com/xHvc7eB.jpeg)
+
+![Embroidered merit badge of salsa dancing ](https://i.imgur.com/Zl8jZaH.jpeg)
+
+![Embroidered merit badge of a computer programmer working on his laptop](https://i.imgur.com/SyNl5mI.jpeg)
+
+![Embroidered merit badge of a person picking a safe lock](https://i.imgur.com/EGl5HD6.jpeg)
+
