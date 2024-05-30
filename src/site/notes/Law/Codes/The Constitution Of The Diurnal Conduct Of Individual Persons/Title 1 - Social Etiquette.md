@@ -101,7 +101,7 @@ Life Lessons On How To Have A Better Life
 > [!psalterium] [John Piper](https://www.desiringgod.org/messages)
 > One of the ways of defining foolishness is caring little for things that matter much, and caring much for things that matter little.
 
-**1.2** [[Bible Notes/Too Sensitive\|Don't be easily provoked]]. Ignore bad jokes, don't hold people accountable for every word they say, get over false criticism, embrace true criticism, and be slow to anger.
+**1.2** [[Too Sensitive\|Don't be easily provoked]]. Ignore bad jokes, don't hold people accountable for every word they say, get over false criticism, embrace true criticism, and be slow to anger.
 
 > [!bible] [1 Corinthians 13:4-5 - KJV](https://bible-api.com/1+Corinthians+13:4-5?translation=kjv)
 > 4. Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up,
