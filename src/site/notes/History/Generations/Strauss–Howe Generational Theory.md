@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/history/generations/strauss-howe-generational-theory/","tags":["generations","fourthturning"],"created":"May 27, 2024, 9:32 AM"}
+dg-publish: true
+dg-created: May 27, 2024, 9:32 AM
+tags: [generations, fourthturning]
 ---
-
 
 [We Are In A "FOURTH TURNING," What Does That Mean?](https://www.youtube.com/watch?v=xeVyfiP0cLk)
 
@@ -14,45 +15,67 @@
 </div>
 
 
+---
 
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
 
 # Text Elements
-80 YEARS 
-HISTORY BLOCKS 
-TURNING 
-20 YEARS 
-20 YEARS 
-20 YEARS 
-20 YEARS 
-HIGH 
-AWAKENING 
-UNRAVELLING 
-CRISIS 
-OUR HISTORY BLOCK 
+80 YEARS ^vmCEktEe
+
+HISTORY BLOCKS ^BnUNkwsW
+
+TURNING ^HJ9g9dal
+
+20 YEARS ^u5ghpC2n
+
+20 YEARS ^mzTpMprU
+
+20 YEARS ^4aH9jz2g
+
+20 YEARS ^HXnVC3yz
+
+HIGH ^J5L2htKy
+
+AWAKENING ^3HOEBg8x
+
+UNRAVELLING ^3njGYd6W
+
+CRISIS ^YL38yUcd
+
+OUR HISTORY BLOCK ^EjLeFdoz
+
 HIGH: 1946-1964
 ROCK & ROLL, TV
 SPACE PROGRAM,
 JETS, CORVETTE,
-MUSTANG, BIKINI 
+MUSTANG, BIKINI ^yiH4uOFD
+
 WWII
-VICTORY 
+VICTORY ^nyDA6Ihy
+
 AWAKENING: '64-'84
 BOB DYLAN, BEATLES
 LSD, WOODSTOCK
 KUBRICK, STAR WARS
-COMPUTERS 
+COMPUTERS ^TdeXGfSR
+
 UNRAVELING: '84-'08
 BERLIN WALL
 COBAIN, ODB, NWA, PE
 LA RIOTS, OJ, 911
-GULF/AFGHAN WARS 
+GULF/AFGHAN WARS ^6g22Zh1E
+
 CRISIS: 2008-2028
 '08 FINANCIAL CRISIS
 POLITICAL DIVIDE
 COVID 19
-40 MILLION JOBLESS 
+40 MILLION JOBLESS ^TZUhk7Sw
+
 
 
 </div></div>
