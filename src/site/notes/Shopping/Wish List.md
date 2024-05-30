@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/wish-list/"}
+dg-publish: true
 ---
-
 
 # Wish List
 [Many Millers Gift Lists.xlsx](https://1drv.ms/x/s!AvB3WtANcmKegZNO3qCZ1y3nbAbIgQ?e=LxJjZL)
