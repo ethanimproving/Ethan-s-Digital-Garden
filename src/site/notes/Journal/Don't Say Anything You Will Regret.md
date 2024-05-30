@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/journal/don-t-say-anything-you-will-regret/","tags":["jobhunt"],"created":"May 24, 2024, 4:24 PM"}
+dg-publish: true
+dg-created: May 24, 2024, 4:24 PM
+tags:
+  - jobhunt
 ---
-
 
 I was fired at American airlines for stepping out of line in private chats. An investigation was launched into me because of hidden Easter Egg's I left in the code, innocent and harmless enough. But that opened a door into my private chats, and I knew as soon as I heard that I was doomed.
 
