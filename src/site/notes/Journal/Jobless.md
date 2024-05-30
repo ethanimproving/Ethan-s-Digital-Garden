@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/journal/jobless/","created":"Apr 26, 2024, 3:34 PM"}
+dg-publish: true
+dg-created: Apr 26, 2024, 3:34 PM
 ---
-
 
 I feel outstandingly lazy. I'm not smart enough to memorize these algorithms. I don't have the capacity to carry the state of all the moving parts in my mind long enough to code the solution. I can code. I can debug. And I can find solutions better than 90% of the coders in the industry. But I'm astonishingly bad at technical interview questions. I need a different method.
 
