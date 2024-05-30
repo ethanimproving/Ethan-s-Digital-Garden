@@ -11,7 +11,6 @@
 | ----------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------ | ------- | ---------------------- |
 | [[Goals/Projects/Oakmore Renovation/Utility Room/Replace Light Bulb\|Replace Light Bulb]]                                  | In-Prorgess | Ethan        | 3       | \-                     |
 | [[Goals/Projects/Oakmore Renovation/Install Security Cameras\|Install Security Cameras]]                                   | In-Prorgess | \-           | 240     | \-                     |
-| [[Goals/Projects/Oakmore Renovation/Install Pocket Door In Sunroom\|Install Pocket Door In Sunroom]]                       | In-Prorgess | Ethan        | 240     | \-                     |
 | [[Goals/Projects/Oakmore Renovation/Household/Remove old attic Cat5E cables\|Remove old attic Cat5E cables]]               | In-Prorgess | \-           | 60      | \-                     |
 | [[Goals/Projects/Oakmore Renovation/Garage/Lay Attic Board\|Lay Attic Board]]                                              | In-Prorgess | \-           | 120     | Truck or Van           |
 | [[Goals/Projects/Oakmore Renovation/Backyard/Identify Grass Type\|Identify Grass Type]]                                    | In-Prorgess | Ethan        | 15      | \-                     |
