@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/journal/manipulation/","created":"Mar 09, 2024, 11:58 PM"}
+dg-publish: true
+dg-created: Mar 09, 2024, 11:58 PM
 ---
-
 
 Mariana and I had an argument one day on the way back from the Airport. I didn't like how she was immediately criticizing me for every small thing; the materials in my center car console, licking my fingers at Lushaj's during lunch, etc. She insisted she wasn't' showing disrespect, and I wasn't feeling heard by her. I had seen a lot of videos about women disregarding men, disrespecting them, and how it's men's fault for tolerating it. So I aroused anger within myself and yelled at her, "Yes you were! You were disrespecting me." My raised voice scared her and she became silent. She almost told me to drop her back off at the airport.
 
