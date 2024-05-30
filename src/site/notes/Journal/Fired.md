@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/journal/fired/","tags":["jobhunt","enemylove","forgiveness"],"created":"May 15, 2024, 6:26 PM"}
+dg-publish: true
+dg-created: May 15, 2024, 6:26 PM
+tags: [jobhunt, enemylove, forgiveness]
 ---
-
 
 I need to write about this. I was fired for writing funny comments in the code, and Stacey was a complete hypocrite in letting me go. She told me that she herself used to hide easter eggs in the code. She was used profane language in my presence and created an atmosphere of personability in T&R. I thought I was safe there, but she targeted me for something minor and made it a big deal. She blew it way out of proportion, and opened an investigation into me when all she had to do was tell me, "Stop doing that." I would have said, "Yes ma'am," and that would have been the end of it. I'm not stubborn about hiding easter eggs. I did it to make people chuckle and brighten the work environment. And she accused me of "targeting" individuals for writing in readme files that they were godly, or from Ethiopia, or got saved in 2016. That's spreading positivity and making people feel seen. That's not targeting people. Targeting someone is when you single them out for writing comments in the code, perform weekly "chats" about course correction, make him produce a list of every easter egg hidden, and issue apologies to everyone involved, leading up to getting fired for it. That's targeting someone. You are guilty of the behavior you fired me for, while I am innocent. God will judge. And let judgment come swiftly.
 
