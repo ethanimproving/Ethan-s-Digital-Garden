@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/health/energy-wellness-products/h-wave/","created":"Apr 19, 2024, 9:16 PM"}
+dg-publish: true
+dg-created: Apr 19, 2024, 9:16 PM
 ---
-
 
 _H_-_Wave_ is a multi-functional electrical stimulation device intended to speed recovery, restore function, and manage chronic, acute or post-operative pain.
 
