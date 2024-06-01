@@ -1,7 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/replace-or-paint-doors/","tags":["oakmore-renovation-task"],"created":"Jan 16, 2024, 9:56 PM"}
+dg-publish: true
+dg-created: Jan 16, 2024, 9:56 PM
+date-completed:
+parent: Household
+status: Defined
+minutes: 720
+assigned-to:
+depends-on:
+tags:
+  - oakmore-renovation-task
 ---
-
 
 | **80 x 24**           | **7R (1L)** |
 | --------------------- | ----------- |
