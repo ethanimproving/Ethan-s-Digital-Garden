@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/history/family-tree/wales/kingdom-of-gwynedd/"}
+dg-publish: true
 ---
-
 
 The kingdom of Gwynedd emerged during the early medieval period, likely around the 5th century AD, as the Britons in the region sought to organize themselves in the face of increasing pressure from Anglo-Saxon invaders. It was founded by Cunedda, a legendary figure often associated with the migration of the Celtic Britons from the region of modern-day Scotland to Wales. Cunedda and his descendants established themselves as rulers in northwest Wales, laying the foundation for the kingdom of Gwynedd.
 
