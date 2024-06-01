@@ -1,7 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/the-mother-of-zebedee-s-children/","tags":["mothers","wives","marriage"],"created":"May 14, 2023, 10:37 AM"}
+dg-publish: true
+dg-created: May 14, 2023, 10:37 AM
+author: Pastor Shelley
+note-id: 4
+verse-reference: Matthew 20:20
+date-created: 05/14/2023
+date-updated: 05/14/2023
+icon: pulpit
+tags: [mothers, wives, marriage]
+category: Sermon Notes
 ---
-
 
 - [Rumble](https://rumble.com/v2nqyw4-the-mother-of-zebedees-children-pastor-jonathan-shelley-stedfast-baptist-ch.html)
 - [God Resource](https://new.godresource.com/video/AKjOa7X3yCj)
