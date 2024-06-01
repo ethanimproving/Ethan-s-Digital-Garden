@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/history/family-tree/wales/anarawd/","tags":["timeline","gwynedd"]}
+dg-publish: true
+birth: 857
+line: Gwynedd
+start-date: 857-01-01
+color: orange
+tags: [timeline, gwynedd]
 ---
-
 <span
 	  class='ob-timelines' 
 	  data-img = 'https://i.imgur.com/aKtysIk.jpeg'>
