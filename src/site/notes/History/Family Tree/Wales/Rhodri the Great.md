@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/history/family-tree/wales/rhodri-the-great/","tags":["timeline","gwynedd"]}
+dg-publish: true
+birth: 820
+line: Gwynedd
+start-date: 820-01-01
+color: orange
+tags: [timeline, gwynedd]
 ---
-
 <span
 	  class='ob-timelines' 
 	  data-img = 'https://i.imgur.com/0lZvMrI.png'>
