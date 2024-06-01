@@ -1,18 +1,12 @@
 ---
-dg-publish: true
-dg-created: May 27, 2024, 9:32 AM
-tags: [generations, fourthturning]
+{"dg-publish":true,"permalink":"/history/generations/strauss-howe-generational-theory/","tags":["generations","fourthturning"],"created":"May 27, 2024, 9:32 AM"}
 ---
+
 
 [We Are In A "FOURTH TURNING," What Does That Mean?](https://www.youtube.com/watch?v=xeVyfiP0cLk)
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
-
-# 800
-
-</div>
 
 
 ---
