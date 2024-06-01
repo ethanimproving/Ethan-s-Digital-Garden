@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/history/family-tree/wales/iago/","tags":["timeline","gwynedd"]}
+dg-publish: true
+birth: 974
+line: Gwynedd
+start-date: 974-01-01
+color: orange
+tags: [timeline, gwynedd]
 ---
-
 <span
 	  class='ob-timelines' 
 	  data-img = 'https://i.imgur.com/vLp2tC9.jpeg'>
