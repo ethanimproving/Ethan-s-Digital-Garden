@@ -3,7 +3,7 @@
 ---
 
 
-# Yearly Scedule
+# Yearly Schedule
 
 - **Early October** - Scott's turf builder winterguard fall weed and feed (orange bag) [Home Depot $18.78+]															
 	- Ironite 15 lb. 1-0-1 5M Fertilizer [$18.98+]																			
