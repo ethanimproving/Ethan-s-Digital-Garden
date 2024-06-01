@@ -50,7 +50,7 @@ In a similar way I would like to create a list of skills for myself to learn. Wi
 	- [ ] Transmission
 - [x] [[Money/House/Renovation Skills/Tools/Pressure Washer\|Pressure Washing]]
 - [ ] [Contractor](https://www.bls.gov/ooh/construction-and-extraction/home.htm)
-	- [ ] [[Plumbing\|Plumbing]]
+	- [ ] [[Money/House/Renovation Skills/Kitchen/Plumbing\|Plumbing]]
 	- [ ] Construction
 	- [ ] [Carpentry](https://www.bls.gov/ooh/construction-and-extraction/carpenters.htm)
 	- [ ] [Masonry](https://www.bls.gov/ooh/construction-and-extraction/brickmasons-blockmasons-and-stonemasons.htm)
@@ -61,6 +61,90 @@ In a similar way I would like to create a list of skills for myself to learn. Wi
 	- [ ] Landscaping
 	- [ ] Demolition
 	- [ ] [[Money/House/Renovation Skills/Garage/Finishing Drywall\|Drywall]]
+
+## Social Skills
+
+- [[Parenting/Social/Conversation Ideas\|Conversation Starters]]
+- [[Parenting/Social/Book of Retorts\|Witty Comebacks]] and [[Parenting/Social/Book of Retorts\|Retorts]]
+- [[Parenting/Social/Influence\|Influence]]
+- [[Parenting/Social/Tonal Communication\|Tonal Communication]] and [[Social Skills/Charisma Matrix\|Vocal Power]]
+- [[Parenting/Social/Diagnostic Statements/Ethan Miller\|Diagnostic Statement (Who Am I?)]]
+- [[Goals/Checklist/Hobbies And Skills To Learn\|What Are My Hobbies?]]
+- [[Social Skills/Etiquette\|Etiquette]]
+- [[Social Skills/Flirting\|Flirting]]
+- [[Social Skills/Science Of People\|Conversation Mastery]]
+- [[Social Skills/Conversational Threads\|Conversational Threads]]
+- 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/goals/ethan-s-commitments/#i-am-socially-dexterous" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+# I am socially dexterous
+
+- [ ] I say "Hey there" to everyone
+- [ ] I am not in a bad mood
+- [ ] Strike a "Power Pose" in the restroom
+- [ ] Jump up and down wildly for 10 seconds
+- [ ] Leverage your voice
+- [ ] Head back, posture upright, glad to be here
+
+
+</div></div>
+
+- 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/goals/ethan-s-commitments/#i-am-a-great-conversationalist" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+# I am a great conversationalist
+
+- [ ] I don't put too much importance in an interaction
+- [ ] I do 6 vocal exercises to activate enunciation
+- [ ] I listen more than I talk
+- [ ] I don't always interject my experiences
+- [ ] I admit what I don't know
+- [ ] I look for social cues
+- [ ] I let go of the details
+- [ ] I don't multitask
+- [ ] I go with the flow
+- [ ] I don't correct or disagree about things that don't matter
+- [ ] I am not a braggart
+
+
+</div></div>
+
+- 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/goals/ethan-s-commitments/#i-am-a-servant" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+# I am a servant
+
+- [ ] I am available, not busy
+- [ ] I am faithful, not lazy
+- [ ] I am humble, not too important
+- [ ] I am enterprising, not insecure
+
+
+</div></div>
+
+- 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/goals/ethan-s-commitments/#i-am-a-leader" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+# I am a leader
+
+- [ ] I know what the next step is
+- [ ] I clarify what the objective is
+- [ ] I use a commanding tonality
+- [ ] I'm good at remembering names
+- [ ] I am down to earth
+- [ ] I am high energy
+
+
+</div></div>
+
 
 ## Life Skills
 
