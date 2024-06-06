@@ -5,71 +5,49 @@
 
 [We Are In A "FOURTH TURNING," What Does That Mean?](https://www.youtube.com/watch?v=xeVyfiP0cLk)
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/attachments/drawings/the-four-turnings/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
----
 
-excalidraw-plugin: parsed
-tags: [excalidraw]
-
----
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
 
 # Text Elements
-80 YEARS ^vmCEktEe
-
-HISTORY BLOCKS ^BnUNkwsW
-
-TURNING ^HJ9g9dal
-
-20 YEARS ^u5ghpC2n
-
-20 YEARS ^mzTpMprU
-
-20 YEARS ^4aH9jz2g
-
-20 YEARS ^HXnVC3yz
-
-HIGH ^J5L2htKy
-
-AWAKENING ^3HOEBg8x
-
-UNRAVELLING ^3njGYd6W
-
-CRISIS ^YL38yUcd
-
-OUR HISTORY BLOCK ^EjLeFdoz
-
+80 YEARS 
+HISTORY BLOCKS 
+TURNING 
+20 YEARS 
+20 YEARS 
+20 YEARS 
+20 YEARS 
+HIGH 
+AWAKENING 
+UNRAVELLING 
+CRISIS 
+OUR HISTORY BLOCK 
 HIGH: 1946-1964
 ROCK & ROLL, TV
 SPACE PROGRAM,
 JETS, CORVETTE,
-MUSTANG, BIKINI ^yiH4uOFD
-
+MUSTANG, BIKINI 
 WWII
-VICTORY ^nyDA6Ihy
-
+VICTORY 
 AWAKENING: '64-'84
 BOB DYLAN, BEATLES
 LSD, WOODSTOCK
 KUBRICK, STAR WARS
-COMPUTERS ^TdeXGfSR
-
+COMPUTERS 
 UNRAVELING: '84-'08
 BERLIN WALL
 COBAIN, ODB, NWA, PE
 LA RIOTS, OJ, 911
-GULF/AFGHAN WARS ^6g22Zh1E
-
+GULF/AFGHAN WARS 
 CRISIS: 2008-2028
 '08 FINANCIAL CRISIS
 POLITICAL DIVIDE
 COVID 19
-40 MILLION JOBLESS ^TZUhk7Sw
-
+40 MILLION JOBLESS 
 
 
 </div></div>
