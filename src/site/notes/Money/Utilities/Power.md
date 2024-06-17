@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/money/utilities/power/","created":"Sep 15, 2023, 8:30 PM"}
 ---
 
-
+ESI ID: 10443720003043093
+Octopus Energy account number:  A-E1C213C9
 # Dad: Try a temporary plan
 
 If you get to pick one, then go to https://powertochoose.com/ to find the best rate. Maybe there is a 3-month plan available. Low usage now, more after you move in.

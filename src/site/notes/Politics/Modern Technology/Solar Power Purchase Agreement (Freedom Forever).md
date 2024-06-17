@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-dg-created: Apr 16, 2024, 11:36 AM
-dg-permalink: ppa
+{"dg-publish":true,"dg-permalink":"ppa","permalink":"/ppa/","created":"Apr 16, 2024, 11:36 AM"}
 ---
+
 
 A solar company called [Freedom Forever](https://freedomforever.com/) just visited my door to talk about a new program incentivized by the Texas government. They are offering to put their solar panel on my roof for 25 years (insured by them because they own the panels). They will sell me energy at 12.5 cents per kilowatt. Any excess energy I can sell to my energy provider at 14 cents per kilowatt. Because it’s their solar panel. The installation is free and I don’t pay for the panels. I only pay for the energy. I will pay $85 per month for around 8000 kW per year. I use around 6000 kW per year. So any extra that is generated from their solar panels I actually profit from by selling to my provider.
 
