@@ -27,7 +27,7 @@ For a lost person to be saved they MUST believe:
 
 ## Introduction
 
-**Introduction**: Hey how's it going. I'm Ethan with Stedfast Baptist church, we're out here giving out invitations. Do you have a church you go to?
+**Introduction**: Hey how's it going. I'm Ethan with Stedfast Baptist church, we're out here giving invitations. Do you have a church you go to?
 
 **Examine**: Okay great. Well hey, more important than going to church is going to heaven, right? So we're out here asking everybody this question, it's if you died today, are you 100% sure you would go to heaven? ... If you don't mind me asking, because everyone has different opinions, what do you believe it takes to go to heaven? ... Would you say that it's just by faith alone, or faith plus the way you live your life?
 
@@ -44,7 +44,6 @@ Well the Bible says in Romans 3:23:
 So according to the Bible, nobody is perfect. If it was up to us to be good enough to go to heaven, we would all let ourselves down.
 
 ## 2. The Punishment for Sin is Hell
-
 Because of our sin, the Bible says there's a punishment. In Romans 6:23 the Bible says:
 
 > [!bible] [Romans 6:23 - KJV](https://www.biblegateway.com/passage/?search=Romans+6:23&version=kjv)
@@ -63,7 +62,7 @@ Now what would you call that place? Hell right. That's where people go to pay fo
 > [!bible] [Revelation 21:8 - KJV](https://www.biblegateway.com/passage/?search=Revelation+21:8&version=kjv)
 > 8. But the fearful, and unbelieving, and the abominable, and murderers, and whoremongers, and sorcerers, and idolaters, ==and all liars==, shall have their part in the lake which burneth with fire and brimstone: which is the second death.
 
-That's a pretty big list. You don't look like a murderer or a sorcerer, but notice at the end there it says "and all liars." Have you ever told a lie before? Yeah, we all have. The Bible says, "Let God be true, and every man a liar." But according to the Bible, where are all liars going? Right. But do you think that God wants us to go to hell? No, because he loves us right? So I'm going to show you what God did for us so that we would not have to pay that punishment that we deserve.
+That's a pretty big list. You don't look like a murderer or a sorcerer, but notice at the end there it says "and all liars." Have you ever told a lie before? Yeah, we all have. The Bible says, "Let God be true, and every man a liar." But according to the Bible, where are all liars going? Right. But do you think that God wants us to go to hell? No, because he loves us, right? But do you think he was just kidding when he said that? No way. If it's in the Bible, we know that it's true. But I'm going to show you what God did for us so that we would not have to pay that punishment that we deserve.
 
 (You don't have to spend much time convincing people they deserve hell. People are already acquainted with their sins. They already feel guilty, that's why they're talking to you in the first place. The key here is to move on to the next point as soon as they understand the current point. Once you lose somebody's attention, it's hard to reel them back in, so don't elaborate on something they already understand.)
 
@@ -76,7 +75,7 @@ The Bible says in Romans 5:8,
 > [!bible] [Romans 5:8 - KJV](https://www.biblegateway.com/passage/?search=Romans+5:8&version=kjv)
 > 8. But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.
 
-Now Jesus Christ is God the son. Have you ever heard that Jesus is God? Do you believe that? Yeah. So Jesus Christ was born of the virgin Merry, he did many wonderful works that showed he's from God. Can you think of 3 miracles Jesus did?
+Now Jesus Christ is God the son. Have you ever heard that Jesus is God? Do you believe that? Yeah. So Jesus Christ was born of the virgin Marry, he did many wonderful works that showed he's from God. Can you think of 3 miracles Jesus did?
 
 Yeah, he did many things that proved he is from God. He also preached the word of God, and because of his preaching, the Jews wanted to kill him. You might remember, Judas Iscariot, one of Jesus disciples, betrayed Jesus into the hands of the Pharisees. They mocked him, they spat upon him, they put a crown of thorns on his head, and they nailed him to a cross. A lot of people know that Jesus died on the cross, but why did he die? What did he achieve on the cross? 
 
@@ -91,7 +90,7 @@ What that means when it says he *bear our sins*, that's every sin that you've ev
 
 They took his body, they buried in the tomb his soul spent three days and three nights in hell to pay for our sins, but on the third day, what happened? He rose again. His soul came back into his body, and he appeared to Cephus in over 500 of the brethren.
 
-Do you believe that Jesus died for everybody? Yeah, the Bible says he died not for hours only, but also for the sins of the whole world. but because he died for everybody, do you think that means that everybody is going to heaven? Yeah, probably not. So I wanna show you what is the difference between those who are born to heaven, and those who are going to hell. What does it depend on to make the blood of Jesus count for me?
+Do you believe that Jesus died for everybody? Yeah, the Bible says he died not for ours only, but also for the sins of the whole world. But because he died for everybody, do you think that means that everybody is going to heaven? Yeah, probably not. So I wanna show you what is the difference between those who are going to heaven, and those who are going to hell. What does it depend on to make the blood of Jesus count for me?
 
 ### The Gospel Offer: Faith Alone
 
@@ -118,14 +117,14 @@ Now I'm going to show you the most famous verse in the whole Bible. it's John 3:
 
 So again, what does it take to be saved? Did this say we have to be baptized? No. What's the one thing we must do to be saved? Just believe. And notice the word whosoever. What is whosoever mean? Everybody. So, according to the Bible, every single person who believes in Jesus is going to Heaven. If there's one person who believes in Jesus, and let's say later on, they do a bad sin-- what's a bad sin you can think of? Murder. Let's say someone believes in Jesus and later on, they commit murder and go to hell. That would mean that John 3:16 isn't true. Because Jesus did not say whoever believeth in me **and does not commit murder**. He said, whosoever believeth in me hath everlasting life.
 
-Now here's the thing about that. A lot of people think that believing in Jesus just means to acknowledge that he exists. and I'm sure you acknowledge police officers exist, but does that mean that you trust them to save you? Maybe not. So when the Bible says in verse 18,
+Now here's the thing about that. A lot of people think that believing in Jesus just means to acknowledge that he exists. And I'm sure you acknowledge police officers exist, but does that mean that you trust them to save you? Maybe not. So when the Bible says in verse 18,
 
 > [!bible] [John 3:18 - KJV](https://www.biblegateway.com/passage/?search=John+3:18&version=kjv)
 > 18. He that believeth **on** him is not condemned:
 
 That would be like, if this is Jesus, and this is my faith, my faith has to be resting on Jesus to get me saved. So I'm not going to Heaven because I'm a good person, or because I live right, but because Jesus Christ has died, was buried, and rose again to pay for my sins.
 
-So if you came to me, and what was your name by the way? Joshua. If you came to me Joshua, (my name is Ethan), And you said, "Hey Ethan, are you sure that you're going to heaven?" And I said, well, "Well obviously.  I go to church, and I give tithes of all that I possess, I'm a respectful my parents. I would go to heaven because I leave a pretty clean life." Put a sound to you like my faith is on Jesus or on myself? Right, because who's responsible for me being a good person? So if that's what I'm trusting, would I be saved or unsaved? Because what must I do to be saved?
+So if you came to me, and what was your name by the way? Joshua. If you came to me Joshua, (my name is Ethan), and you said, "Hey Ethan, are you sure that you're going to heaven?" And I said, "Well obviously.  I go to church, I give tithes of all that I possess, I'm respectful my parents. I would go to heaven because I live a pretty clean life." Would that sound to you like my faith is on Jesus or on myself? Right, because who's responsible for me being a good person? So if that's what I'm trusting, would I be saved or unsaved? Because what must I do to be saved?
 
 (This is the part where the lightbulb comes on for people, so don't skip it. Negations are essential for them to discern the difference between believing facts about Jesus and trusting him.)
 
@@ -136,13 +135,13 @@ Now I'm gonna show you another place to talk about how salvation is a free gift,
 > [!bible] [Romans 6:23 - KJV](https://www.biblegateway.com/passage/?search=Romans+6:23&version=kjv)
 > 23. For the wages of sin is death; but the **gift of God** is  eternal life through Jesus Christ our Lord.
 
-Now is a gift something that you have to work for, or is it free? And who pays for the gift, the giver or the receiver? And who is giving us the gift of eternal life? so who has to pay for it? Exactly. That's what Jesus was doing on the cross. He was paying for our gift of eternal life.
+Now is a gift something that you have to work for, or is it free? And who pays for the gift, the giver or the receiver? And who is giving us the gift of eternal life? So who has to pay for it? Exactly. That's what Jesus was doing on the cross. He was paying for our gift of eternal life.
 
-Now, if I came to you, and I said, "Hey Joshua, I'm gonna give you this Bible for free, but you have to give me $5." Is that a gift? What if I say, "This is a $30 Bible, it's good calf skin leather, good font, just give me $1 and it's yours." Is that a gift? Still not a gift. Even if I pay for most of it, if you have to pay for any of it, it's not a gift. It's a good deal, but it's not a gift. But what if I said, "Here, just take this Bible for free." Then is it a gift? Yeah. Who would it belong to now? Let's say 30 days later, I came back and said, "You know Joshua, I gave you that Bible, but you did not read it." So I came into your house and I took it back, and ran away. What would that make me? A thief. I'm taking what belongs to you. So what I'm trying to show you is that, if God is giving us the gift of eternal life, would he ever take it back? No. because God is not a thief. The Bible says the thief cometh to steal, kill, and destroy. That's talking about Satan, not God. So people who say, "Well, yeah, God will give me eternal life, but if I sin too much, he'll take it back," they're really serving a god who is more like Satan than the god of the Bible.
+Now, if I came to you, and I said, "Hey Joshua, I'm gonna give you this Bible for free, but you have to give me $5." Is that a gift? What if I say, "This is a $30 Bible, it's good calf skin leather, good font, just give me $1 and it's yours." Is that a gift? Still not a gift. Even if I pay for most of it, if you have to pay for any of it, it's not a gift. It's a good deal, but it's not a gift. But what if I said, "Here, just take this Bible for free." Then is it a gift? Yeah. Who would it belong to now? Let's say 30 days later, I came back and said, "You know Joshua, I gave you that Bible, but you did not read it." So I came into your house and I took it back, and ran away. What would that make me? A thief. I'm taking what belongs to you. So what I'm trying to show you is that, if God is giving us the gift of eternal life, would he ever take it back? No. Because God is not a thief. The Bible says the thief cometh to steal, kill, and destroy. That's talking about Satan, not God. So people who say, "Well, yeah, God will give me eternal life, but if I sin too much, he'll take it back," they're really serving a god who is more like Satan than the God of the Bible.
 
 ## 5. Eternal Security
 
-I want to take you to one last place to tie up this thought of once saved, always saved, how once you receive salvation, you can never lose it.
+I want to take you to one last place to tie up this thought of **once saved, always saved**, how once you receive salvation, you can never lose it.
 
 > [!bible] [1 John 5:10-11 - KJV](https://www.biblegateway.com/passage/?search=1+John+5:10-11&version=kjv)
 > 10. He that believeth on the Son of God hath the witness in himself: he that believeth not God hath made him a [**what?**] liar; because he believeth not the record that God gave of his Son.
@@ -152,9 +151,9 @@ Now, what does the word eternal mean? Forever. If I said to you, "Hey Joshua, I'
 
 ## Closing
 
-(What we are seeking here is a statement of repentance. We need to know that they have changes their mind.)
+(What we are seeking here is a statement of repentance. We need to know that they have changed their mind.)
 
-So when I first got here, and I asked, "What must you do to be saved?, and you said, "Well, we have to go to church and follow the commandments," what that shows is, was your faith really all on Jesus, or was it partially on yourself? So based on what we just read, would you be saved or unsaved? But is it easy, or is it hard to be saved? Yeah. The hard part is humbling yourself enough to admit that you're not going to heaven because you're such a superstar. Or that you need to be saved in the first place. Once you get over that hump of pride, all you have to do is say, "You know what, Lord? I wanna go to heaven because of what you did on the cross. Not because of what I do, but because of what you did." The Bible says whosoever shall call upon the name of the Lord shall be saved. So if you asked God to save you right now, would he do it? and how long would you be saved for? what if you did something bad? Now God will punish us on this earth, just like if you have kids when they disobey, you would punish them. But would you ever kick them out of the family and toss them into a fire? No. The same way, when we believe we become children of God. He'll never kick us out of the family. So if you've changed your mind, what I'd like to do is word a prayer, and you can repeat after me, and ask God to be saved right now. Do you want to do it?
+So when I first got here, and I asked, "What must you do to be saved?", and you said, "Well, we have to go to church and follow the commandments," it's a super common answer, but what that shows is, was your faith *all* on Jesus, or was it really partially on yourself? So based on what we just read, would you be saved or unsaved? But is it easy, or is it hard to be saved? Yeah. The hard part is humbling yourself enough to admit that you're not going to heaven because you're such a superstar. Or that you need to be saved in the first place. Once you get over that hump of pride, all you have to do is say, "You know what, Lord? I wanna go to heaven because of what you did on the cross. Not because of what I do, but because of what you did." The Bible says whosoever shall call upon the name of the Lord shall be saved. So if you asked God to save you right now, would he do it? And how long would you be saved for? What if you did something bad? Now God will punish us on this earth, just like if you have kids when they disobey, you would punish them. But would you ever kick them out of the family and toss them into a fire? No. In the same way, when we believe we become children of God (quote 1 John 1:12 if you feel like it). He'll never kick us out of the family. So if you've changed your mind, what I'd like to do is word a prayer with you, and you can repeat after me, and ask God to be saved right now. Do you want to do that?
 
 (By this point they're already thinking, "Yeah, I need to get saved." So your invitation to close the deal and get it settled right now is a relief to them.)
 
@@ -170,9 +169,9 @@ And give me the gift of eternal life.
 I'm only trusting in you.
 Amen.
 
-Did you mean it? Congratulations man! If I come back in a year from now and ask, "Are you 100% sure you're going to heaven," what are you going to say? And how do you now?
+Did you mean it? Congratulations man. If I come back in a year from now and ask, "Are you 100% sure you're going to heaven," what are you going to say? And how do you know?
 
-Now before I go, what I'd like to do is get your number, so that as you're reading your Bible, and I hope you do, if you have any questions, you can text me those questions and I'll try to help answer them. So what it is?
+Now before I go, what I'd like to do is get your number, so that as you're reading your Bible--and I hope you do--if you have any questions, you can text me those questions and I'll try to help answer them. So what it is?
 
 # Script: Pastor Anderson
 
