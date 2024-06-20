@@ -3,7 +3,6 @@
 ---
 
 
-
 Ethan Miller
 Engaging The World
 Soul-Winning Guide
@@ -110,7 +109,7 @@ Pretty good question right? So the answer to how to go to heaven, the key to ete
 
 So according to this verse, what must you do to be saved? Did this verse say we had to go to a good church? Go through a 12 step program? No. What's the one thing required to go to heaven?
 
-Now I'm going to show you the most famous person in the whole Bible. it's John 3:16.
+Now I'm going to show you the most famous verse in the whole Bible. it's John 3:16.
 
 (This makes them think it's pretty important because it's the most famous.)
 
@@ -155,7 +154,7 @@ Now, what does the word eternal mean? Forever. If I said to you, "Hey Joshua, I'
 
 (What we are seeking here is a statement of repentance. We need to know that they have changes their mind.)
 
-So when I first got here, and I asked, "What must you do to be saved?, and you said, "Well, we have to go to church and follow the commandments," what that shows is, was your faith really all on Jesus, or was it partially on yourself? So based on what we just read, would you be saved or unsaved? But is it easy, or is it hard to be saved? Yeah. The hard part is humbling yourself enough to admit that you're not going to heaven because you're such a superstar. Or that you need to be saved in the first place. Once you get over that hump of pride, all you have to do is say, "You know what, Lord? I wanna go to heaven because of what you did on the cross. Not because of what I do, but because of what you did." The Bible says whosoever shall call upon the name of the Lord shall be saved. So if you asked God to save you right now, would he do it? and how long would you be saved for? what if you did something bad? Now God will punish us on this earth, just like if you have kids when they disobey, you would punish them. But would you ever kick them out of the family and toss them into a fire? No. The same way, when we believe we become children of God. He'll never kick us out of the family. So if you've changes your mind, what I'd like to do is word a prayer, and you can repeat after me, and ask God to be saved right now. Do you want to do it?
+So when I first got here, and I asked, "What must you do to be saved?, and you said, "Well, we have to go to church and follow the commandments," what that shows is, was your faith really all on Jesus, or was it partially on yourself? So based on what we just read, would you be saved or unsaved? But is it easy, or is it hard to be saved? Yeah. The hard part is humbling yourself enough to admit that you're not going to heaven because you're such a superstar. Or that you need to be saved in the first place. Once you get over that hump of pride, all you have to do is say, "You know what, Lord? I wanna go to heaven because of what you did on the cross. Not because of what I do, but because of what you did." The Bible says whosoever shall call upon the name of the Lord shall be saved. So if you asked God to save you right now, would he do it? and how long would you be saved for? what if you did something bad? Now God will punish us on this earth, just like if you have kids when they disobey, you would punish them. But would you ever kick them out of the family and toss them into a fire? No. The same way, when we believe we become children of God. He'll never kick us out of the family. So if you've changed your mind, what I'd like to do is word a prayer, and you can repeat after me, and ask God to be saved right now. Do you want to do it?
 
 (By this point they're already thinking, "Yeah, I need to get saved." So your invitation to close the deal and get it settled right now is a relief to them.)
 
