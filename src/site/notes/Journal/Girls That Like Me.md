@@ -5,11 +5,11 @@
 
 # Cassia
 
-I think the reason I’m sick is because God saw my heart to sleep with his daughters, and he said, “No. You’re not using your charms to take away their virginity.” Cassia is here this week. She is the girl that Gill was trying ti date, and she rejected him when we flew to Phoenix. But she laughs enthusiastically at my jokes. I noticed her ending up in my groups. First she approached me to ask for the Wi-Fi password, then at the pool, then in the van, soul-winning, at the house. She abandoned her group to be with mine. It was likely due to my group being full of young women. Lucy, Linda, Faith, Aaliyah. But still based on other factors, I believe she likes me. I am not unwilling to admit, however, that I tend to believe most women like me.
+I think the reason I’m sick is because God saw my heart to sleep with his daughters, and he said, “No. You’re not using your charms to take away their virginity.” Cassia is here this week. She is the girl that Gill was trying to date, and she rejected him when we flew to Phoenix. But she laughs enthusiastically at my jokes. I noticed her ending up in my groups. First she approached me to ask for the Wi-Fi password, then at the pool, then in the van, soul-winning, at the house. She abandoned her group to be with mine. It was likely due to my group being full of young women. Lucy, Linda, Faith, Aaliyah. But still based on other factors, I believe she likes me. I am not unwilling to admit, however, that I tend to believe most women like me.
 
 # Nguyen
 
-I just met Nguyen at the picnic last Wednesday and I’m sure she likes me. She kept glancing at me, and when I want to play soccer she was watching me. She laughed at everything I said when I went to play cornhole with her.
+I just met Nguyen at the picnic last Wednesday and I’m sure she likes me. She kept glancing at me, and when I went to play soccer she was watching me. She laughed at everything I said when I went to play cornhole with her.
 
 # Tori
 

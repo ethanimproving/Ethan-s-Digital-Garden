@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-dg-created: Dec 29, 2023, 9:49 AM
-tags: [parenting, relationships]
+{"dg-publish":true,"permalink":"/papers/speed-in-decision-making/","tags":["parenting","relationships"],"created":"Dec 29, 2023, 9:49 AM"}
 ---
+
 
 
 # Order Food Quickly
@@ -27,3 +26,14 @@ He couldn't make fast decisions, and I can make faster decisions. I mean, everyt
 # Answer Phone Calls Fast
 
 I heard a YouTube short either from Patrick Bet-David or Justin Waller where he told a story of someone who reached out to them about a collaboration, and when he responded, the person texted back in minutes. This gave him a positive impression because he thought, "Ah, somebody who works like I do. With speed."
+
+# Leader's Don't Terry Long
+
+[Sheba the Son of Bichri](https://rumble.com/v26zcg8-sheba-the-son-of-bichri-2019-january-9-steven-anderson.html?start=2305)
+
+When you're a leader, you've got to be decisive, you've got to act, you've got to show strength, and you can't delay. People who are doubtful and doubleminded, and they delay, and they're indecisive-- they're bad leaders. A good leader makes decisions, gets things done, and he doesn't just wait for the sake of waiting when there's no reason to wait. This guy is delaying, and that's a negative thing to delay.
+
+> [!bible] [James 4:17 - KJV](https://www.biblegateway.com/passage/?search=James+4:17&version=kjv)
+> 17. Therefore to him that knoweth to do good, and doeth it not, to him it is sin.
+
+If you know the right thing to do, do it today. You don't need to wait until tomorrow. Don't put off to tomorrow what you can do today.

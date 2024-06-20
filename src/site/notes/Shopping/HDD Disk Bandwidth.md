@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/hdd-disk-bandwidth/","created":"Jun 16, 2024, 5:05 PM"}
+{"dg-publish":true,"permalink":"/shopping/hdd-disk-bandwidth/","created":"Jun 16, 2024, 11:35 PM"}
 ---
 
 
@@ -70,6 +70,8 @@ The best course of action is probably to clone the drive to Dad's old 500GB SSD.
     
     - After analyzing the drive, click "Optimize" to start the defragmentation process.
     - This process consolidates fragmented files and rearranges them to occupy contiguous spaces on the disk.
+
+![](https://i.imgur.com/b2tq12j.png)
 
 1. **Scheduled Maintenance:**
     

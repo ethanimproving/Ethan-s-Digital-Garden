@@ -1,15 +1,7 @@
 ---
-dg-publish: true
-dg-created: May 02, 2024, 8:30 PM
-author: Pastor Shelley
-note-id: 4
-verse-reference: Leviticus 25:14
-date-created: 11/06/2022
-date-updated: 11/06/2022
-icon: pulpit
-tags: [mothers, wives, marriage]
-category: Sermon Notes
+{"dg-publish":true,"permalink":"/bible-notes/interest-and-unjust-gain/","tags":["mothers","wives","marriage"],"created":"May 02, 2024, 8:30 PM"}
 ---
+
 
 [The Destruction of the Middle Class](https://new.godresource.com/video/YZeA7PhhmRR)
 
