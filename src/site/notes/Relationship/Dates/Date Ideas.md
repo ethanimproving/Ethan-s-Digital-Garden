@@ -11,8 +11,8 @@
 | [[Relationship/Dates/Date Ideas/Dallas City Pass\|Dallas City Pass]]                                           | $54/adult/9 days                | \-               | \-                                                |
 | [[Relationship/Dates/Date Ideas/Dallas Zoo\|Dallas Zoo]]                                                       | $22/adult/day                   | $99/couple/year  | \-                                                |
 | [[Relationship/Dates/Date Ideas/The Sixth Floor (JFK Museum)\|The Sixth Floor (JFK Museum)]]                   | $18/adult/day                   | \-               | 411 Elm St, Dallas, TX 75202                      |
-| [[Relationship/Dates/Date Ideas/State Fair\|State Fair]]                                                       | $24/adult/day                   | \-               | 3921 Martin Luther King Jr Blvd, Dallas, TX 75210 |
 | [[Relationship/Dates/Date Ideas/National Parks Pass\|National Parks Pass]]                                     | \-                              | \-               | \-                                                |
+| [[Relationship/Dates/Date Ideas/State Fair\|State Fair]]                                                       | $24/adult/day                   | \-               | 3921 Martin Luther King Jr Blvd, Dallas, TX 75210 |
 | [[Relationship/Dates/Date Ideas/Six Flags\|Six Flags]]                                                         | \-                              | $3/adult/month   | 2201 E Road to Six Flags St, Arlington, TX 76011  |
 
 { .block-language-dataview}

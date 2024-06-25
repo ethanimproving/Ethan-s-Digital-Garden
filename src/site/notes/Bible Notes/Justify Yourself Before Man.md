@@ -39,3 +39,11 @@ I thought lying about writing that comment at work would save me, but I heard â€
 ## Bruce Mejia Was Exalted Because He Stepped Down
 
 [Sheba the Son of Bichri](https://rumble.com/v26zcg8-sheba-the-son-of-bichri-2019-january-9-steven-anderson.html?start=3132)
+
+## Obedience Is The Highest Level Of Faith
+
+[[Bible Notes/False Teachers/Obedience is faith, self-reliance is faithlessness\|Obedience is faith, self-reliance is faithlessness]]
+
+## Learn God's Promises
+
+Faith must have a promise associated with it. If I go out in a thunder storm and I say, "I have faith that God will keep me safe from the thunder," you have to ask yourself, "Did God promise to keep me safe from the thunder?" Or maybe God told you to be wise and not make stupid decisions like going out in a thunder storm. Therefore how much faith you have in God depends on how many of his promises you know. ==Learn his promises==. Here are 7: [[Bible Notes/He Will Not Fail Thee - Pastor Shelley#Even When You Fail God, God Will Not Fail You\|Even When You Fail God, God Will Not Fail You]]
