@@ -1,16 +1,7 @@
 ---
-dg-publish: true
-dg-created: Feb 11, 2024, 10:20 PM
-date-completed:
-parent: Garage
-status: Complete
-minutes: 600
-assigned-to: John Ball
-depends-on: Nail Gun
-tags:
-  - oakmore-renovation-task
-cost: "500"
+{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/replace-kitchen-garage-door/","tags":["oakmore-renovation-task"],"created":"Feb 11, 2024, 10:20 PM"}
 ---
+
 [[Goals/Projects/Oakmore Renovation/Garage/R&R (Remove and Replace) Door from Garage to Kitchen Hallway\|R&R (Remove and Replace) Door from Garage to Kitchen Hallway]]
 
 - [x] Swanson Speed Square

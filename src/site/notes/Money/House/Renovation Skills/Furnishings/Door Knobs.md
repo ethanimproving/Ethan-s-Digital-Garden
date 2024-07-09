@@ -21,7 +21,7 @@
     - Use the small screwdriver or Allen wrench to remove this screw.
     - With the screw removed, the lock cylinder should be free to slide out of the door.
 
-For Instructions, visit [[Lever Cylinder Removal.pdf]].
+For Instructions, visit [[Lever Cylinder Removal.pdf\|Lever Cylinder Removal.pdf]].
 
 ![](https://i.imgur.com/pSyCKJE.png)
 

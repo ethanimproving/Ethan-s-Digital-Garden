@@ -90,79 +90,7 @@ In recent years, there has been a growing interest in digital gardening and PKM 
 | [Add cursor below](https://github.com/ethanmiller1/PowerShell/blob/master/Program%20Data/Visual%20Studio%20Community/Shortcuts.md)                        |                    |
 | [Column selection mode](https://forum.obsidian.md/t/column-selection-and-editing-mode/32191)                   |                    |
 
-# Buffer size issue
 
-[This repository currently has approximately 320 loose objects](https://stackoverflow.com/questions/21457407/git-gui-perpetually-getting-this-repository-currently-has-approximately-320-lo).
-
-Prune
-```bash
-# Prune loose objects older than 2 weeks
-$ git gc --prune
-# Prune loose objects regardless of their age
-$ git gc --prune=now
-# Aggressively optimize the repository at the expense of taking much more time. The effects of this optimization are mostly persistent.
-$ git gc --aggressive
-```
-
-[Git GC Docs](https://git-scm.com/docs/git-gc#_options)
-
-Runs a number of housekeeping tasks within the current repository, such as compressing file revisions (to reduce disk space and increase performance) and removing unreachable objects which may have been created from prior invocations of git add.
-
-
-> Even when you removed the files, they are still present in previous revisions. That's the whole point of git, is that even if you delete something, you can still get it back by accessing the history. ([Stackoverflow 2012](https://stackoverflow.com/questions/11050265/remove-large-pack-file-created-by-git))
-
-To rewrite history, it is recommended in [official Github docs](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository) to use [BFS Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/). Download the JAR file into an empty folder and step through the following commands:
-
-```bash
-git clone --mirror https://github.com/ethanimproving/Family-Ideas.git
-java -jar .idea/bfg-1.14.0.jar --delete-files *.png .git
-java -jar .idea/bfg-1.14.0.jar --delete-files *.jpg Family-Ideas.git
-java -jar .idea/bfg-1.14.0.jar --delete-files *.jpeg Family-Ideas.git
-java -jar .idea/bfg-1.14.0.jar --delete-files *.gif Family-Ideas.git
-java -jar .idea/bfg-1.14.0.jar --delete-folders .obsidian\plugins\obsidian-multi-cursor Family-Ideas.git
-git reflog expire --expire=now --all && git gc --prune=now --aggressive
-git push
-```
-
-[Show folder size in Windows 10](https://www.4winkey.com/windows-10/how-to-show-view-folder-size-in-windows-10.html)
-
-![](https://i.imgur.com/RH0b2SV.png)
-
-
-Feb 18
-```
- Filename                                   Git id
-        --------------------------------------------------------------
-        337cde8e-af73-43f6-b05e-6a0ccafb22c9.png | a3bc6e67 (60.0 KB)
-        353a747d-1fa0-4438-8916-52ff26468344.png | cae3b8df (158.3 KB)
-        52001e00-1dfe-497c-b888-67ea10da29c7.png | 1fd33562 (13.3 KB)
-        5357c81d-70f9-43cd-8caa-be9491068044.png | a580a4be (43.7 KB)
-        5a4d9b5f-3b0b-4801-bb3b-fc8a9aba1e9d.png | e49497e0 (82.2 KB)
-        5dcb62e2-d805-4330-b280-92331f41ae98.png | aec5dcae (35.4 KB)
-        Balanced Binary Tree.png                 | 5015186a (51.6 KB)
-        Maximum Depth of Binary Tree.png         | 74709269 (297.3 KB)
-        Pasted image 20221005221241.png          | 3d6447ea (793.3 KB)
-        Pasted image 20221010212804.png          | ea79d9a0 (3.2 MB)
-        Pasted image 20221023174756.png          | e69ff684 (204.5 KB)
-        Pasted image 20221024161400.png          | be234a91 (10.1 KB)
-        Pasted image 20221024161512.png          | f1ede3fa (6.5 KB)
-        Pasted image 20221024161817.png          | 21760046 (291.1 KB)
-        Pasted image 20221024161849.png          | 7fd5a87c (37.6 KB)
-        ...
-
-```
-
-It will output something like this:
-![](https://i.imgur.com/OJvkh2H.png)
-
-Oct 15
-```
- Filename                 Git id
-------------------------------------------------------------------
-Jabber Chat History.md | 92748b4a (6.7 MB), 96f43bab (6.7 MB)
-main.js                | d0b759c3 (4.8 MB), 7dee2034 (4.8 MB), ...
-pdfannots2json.exe     | f7737017 (34.1 MB)
-```
 # Plugin
 
 * Advanced Tables
@@ -182,30 +110,6 @@ pdfannots2json.exe     | f7737017 (34.1 MB)
 * [Heatmap Calendar](obsidian://show-plugin?id=heatmap-calendar)
 * [Search For Selected Text](https://github.com/scambier/obsidian-omnisearch/issues/212)
 * [Option to open in a new tab](https://github.com/scambier/obsidian-omnisearch/issues/213)
-
-# Version Control with Git LFS
-[Introducing and Setting up Git LFS (Large File Storage)](https://www.youtube.com/@CloudwithChris)
-https://git-lfs.github.com/
-
-```bash
-git init
-git lfs track "*.png"
-git lfs track "*.jpg"
-git lfs track "*.gif"
-git lfs track "*.web"
-git add .gitattributes
-git remote add origin https://github.com/ethanimproving/PDF-Library.git
-git push -u origin master
-```
-
-```bash
-$ git push -u origin master
-Uploading LFS objects:   0% (0/95), 0 B | 0 B/s, done.
-batch response: This repository is over its data quota. Account responsible for LFS bandwidth should purchase more data packs to restore access.
-error: failed to push some refs to 'https://github.com/ethanimproving/PDF-Library.git'
-```
-
-[Include Git LFS objects in archives](https://stackoverflow.com/questions/62905325/this-repository-is-over-its-data-quota-account-responsible-for-lfs-bandwidth-sh)
 
 # Plug-in Ideas
 

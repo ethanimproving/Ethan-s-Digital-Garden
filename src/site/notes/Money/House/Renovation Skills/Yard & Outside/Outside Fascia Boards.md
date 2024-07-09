@@ -1,12 +1,11 @@
 ---
-dg-publish: true
-dg-created: Jun 03, 2023, 11:11 AM
-priority: 0
-cost: $2,500
-tags: [oakmore]
+{"dg-publish":true,"permalink":"/money/house/renovation-skills/yard-and-outside/outside-fascia-boards/","tags":["oakmore"],"created":"Jun 03, 2023, 11:11 AM"}
 ---
 
+
 Luckily insurance is covering the roof, which includes the fascia boards. You always replace the fascia boards before the roo
+
+[Google Photos](https://photos.app.goo.gl/v6TXMS2NLy1v1HDXA)
 
 # Oakmore
 

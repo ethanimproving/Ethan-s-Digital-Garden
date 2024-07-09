@@ -3,7 +3,7 @@
 ---
 
 
-# I Didn't Think I Was Eligable
+# I Didn't Think I Was Eligible
 
 Shortly after I lost my job, John Ball said I may need to go to the [Texas Workforce Commission](https://www.twc.texas.gov/) and request unemployment benefits. I wasn't very excited to do that, since I wanted to pour my efforts into getting a new job, and it felt like he wasn't putting confidence in my ability to turn my situation around quickly. I told my dad, and he said, "You're ineligible. You were fired at fault." So I went to the website and it stated, "if you are unemployed or working reduced hours through no fault of your own," so I told John I wasn't eligible.
 

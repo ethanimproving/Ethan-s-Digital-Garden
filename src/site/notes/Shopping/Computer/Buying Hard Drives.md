@@ -124,13 +124,13 @@ These tables should help you compare and choose the best hard drive for your nee
 
 # Amazon Deals
 
-| 12TB HDD                                                                                                                     | Interface | RPM  | Read/Write Speed | Cache | Cost |
-| ---------------------------------------------------------------------------------------------------------------------------- | --------- | ---- | ---------------- | ----- | ---- |
-| [Seagate IronWolf](https://www.amazon.com/Seagate-IronWolf-Internal-3-5-Inch-ST12000VN0007/dp/B07NVSV5KD/ref=sr_1_4)         | SATA      | 7200 | 6Gb/s            | 256MB | 109  |
-| [MDD Surveillance](https://www.amazon.com/MDD-3-5inch-Internal-Surveillance-MD12TBGSA25672DVR/dp/B0BGYV6B9V/ref=sr_1_1_sspa) | SATA      | 7200 | 6Gb/s            | 256MB | 100  |
-| [HGST - WD Ultrastar](https://www.amazon.com/HGST-Ultrastar-HUH721212ALE600-3-5-Inch-Internal/dp/B07Y8GF5M6/ref=sr_1_5)      | SATA      | 7200 | 6Gb/s            | 256MB | 86   |
-| [Seagate Barracuda Pro](https://www.amazon.com/Seagate-BarraCuda-Internal-Drive-Performance/dp/B082YJHBHC/ref=sr_1_7)        | SATA      | 7200 | 6Gb/s            | 256MB | 107  |
-| [Seagate Exos x12](https://www.amazon.com/Seagate-256MB-Enterprise-ST12000NM0007-Renewed/dp/B07JJK7S37/ref=sr_1_8)           | SATA      | 7200 | 6Gb/s            | 256MB | 110  |
+| 12TB HDD                                                                                                                     | Interface | RPM  | Read/Write Speed | Cache | Cost    |
+| ---------------------------------------------------------------------------------------------------------------------------- | --------- | ---- | ---------------- | ----- | ------- |
+| [Seagate IronWolf](https://www.amazon.com/Seagate-IronWolf-Internal-3-5-Inch-ST12000VN0007/dp/B07NVSV5KD/ref=sr_1_4)         | SATA      | 7200 | 6Gb/s            | 256MB | ==109== |
+| [MDD Surveillance](https://www.amazon.com/MDD-3-5inch-Internal-Surveillance-MD12TBGSA25672DVR/dp/B0BGYV6B9V/ref=sr_1_1_sspa) | SATA      | 7200 | 6Gb/s            | 256MB | 100     |
+| [HGST - WD Ultrastar](https://www.amazon.com/HGST-Ultrastar-HUH721212ALE600-3-5-Inch-Internal/dp/B07Y8GF5M6/ref=sr_1_5)      | SATA      | 7200 | 6Gb/s            | 256MB | 86      |
+| [Seagate Barracuda Pro](https://www.amazon.com/Seagate-BarraCuda-Internal-Drive-Performance/dp/B082YJHBHC/ref=sr_1_7)        | SATA      | 7200 | 6Gb/s            | 256MB | 107     |
+| [Seagate Exos x12](https://www.amazon.com/Seagate-256MB-Enterprise-ST12000NM0007-Renewed/dp/B07JJK7S37/ref=sr_1_8)           | SATA      | 7200 | 6Gb/s            | 256MB | 110     |
 
 - **Seagate Barracuda Pro** is best suited for individual users who need high performance and reliability for desktop applications, gaming, and other intensive tasks.
 - **Seagate IronWolf** is optimized for [[Shopping/Computer/Network Attached Storage (NAS)\|NAS environments]], offering features that enhance reliability, performance, and health monitoring in multi-user and ==power efficient 24/7 operational settings== (like a Plex server). Both were first available in 2020.
@@ -141,3 +141,5 @@ These tables should help you compare and choose the best hard drive for your nee
 | [Seagate IronWolf Pro](https://www.amazon.com/Seagate-IronWolf-Enterprise-Internal-ST18000NT001/dp/B0CRHRXYMQ/ref=sr_1_11) | 7200 | 6Gb/s | 256MB | [190](https://www.amazon.com/Seagate-IronWolf-18TB-ST18000NE000-Renewed/dp/B0CZM957F3/ref=sr_1_19) | 2024    | 0 Years  |
 | [Water Panther WP Arsenal](https://www.amazon.com/Water-Panther-Arsenal-7200RPM-3-5-Inch/dp/B0BRQWW4JR/ref=sr_1_13)        | 7200 |       |       | 180                                                                                                | 2023    | 2 Years  |
 | [Seagate Exos X20](https://www.amazon.com/Seagate-ST18000NM003D-3-5in-Enterprise-Renewed/dp/B0BSZL39NH/ref=sr_1_5)         | 7200 | 6Gb/s | 256MB | 190                                                                                                | 2023    | 0 Years  |
+
+
