@@ -13,7 +13,38 @@
 
 **1.3** Dispose of all smoke joints outside; bringing them inside can pollute the house.
 
-**1.4** Purchase fan-attached carbon filters every 3 months to reduce indoor smoke odor and particles.
+**1.4** Purchase [fan-attached carbon filters](https://www.amazon.com/CarbonPur-Activated-Pollutants-Long-Lasting-Performance/dp/B0CP7PLDC9/ref=asc_df_B0CP7PLDC9/) every 3 months to reduce indoor smoke odor and particles.
+
+| Image                                                                    | Description                                                                                                           |
+| ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
+| ![](https://m.media-amazon.com/images/I/7109CpcyRlL._AC_SL1500_.jpg)<br> | Purify Indoor Air: CarbonPur ceiling fan filters effectively remove odors, smoke, VOCs, dust and more from your home. |
+
+Here's a table comparing the effectiveness of various methods for removing smoke smell from your house:
+
+**1.5** If smoking odor is present in the house, use all of the below methods until the smoke odor is eliminated.
+
+| **Method**                                | **Effectiveness** | **Comments**                                                                                    |
+| ----------------------------------------- | ----------------- | ----------------------------------------------------------------------------------------------- |
+| [[Money/House/Renovation Skills/Attic/Remove Smoking Oder\|Ozone Generators]] | Very High         | Extremely effective at removing odors but requires careful use and proper safety precautions.   |
+| Activated Charcoal                        | High              | Highly effective at absorbing odors; can be placed around the house.                            |
+| Ventilation                               | High              | Quickly disperses smoke odor by allowing fresh air to circulate. Best combined with fans.       |
+| Air Purifiers                             | High              | HEPA and activated carbon filters effectively remove smoke particles and odors.                 |
+| Vinegar                                   | High              | Absorbs and neutralizes odors; can be used in bowls or boiled for increased effectiveness.      |
+| Washing Fabrics                           | High              | Removes smoke particles from washable items like curtains, bedding, and clothing.               |
+| Steam Cleaning Upholstery                 | High              | Deep cleans and removes embedded smoke particles from furniture and carpets.                    |
+| Cleaning Hard Surfaces                    | High              | Vinegar and water solution or smoke odor removal products effectively clean walls and ceilings. |
+| Cleaning Windows/Mirrors                  | Medium            | Removes smoke residue from glass surfaces but less impactful overall.                           |
+| Baking Soda                               | Medium            | Absorbs odors from surfaces; effective but requires time to sit and multiple applications.      |
+| Coffee Grounds                            | Medium            | Absorbs and masks odors but less effective than activated charcoal or baking soda.              |
+| Essential Oils                            | Medium            | Masks odors with pleasant scents; less effective at neutralizing smoke odor.                    |
+| Fans                                      | Medium            | Helps move air out of the house but less effective without open windows or doors.               |
+
+### Key:
+
+- **Very High**: Extremely effective, often eliminating the smoke smell entirely.
+- **High**: Very effective, significantly reducing or eliminating the smoke smell.
+- **Medium**: Moderately effective, helpful but may not fully eliminate the smoke smell.
+- **Low**: Less effective, may provide some relief but not sufficient on its own.
 
 ## § 2. Kitchen Etiquette
 
@@ -28,6 +59,41 @@
 **3.1** Keep common areas tidy and free of personal belongings to maintain a clean and welcoming environment for all residents.
 
 **3.2** Take responsibility for personal cleanliness and hygiene to uphold overall house cleanliness standards.
+
+## § 4. Personal Space and Privacy
+
+**4.1** Housemates will respect each other's personal space and privacy, including not entering private rooms without permission.
+
+**4.2** Quiet hours are established between 10pm and 8am to ensure everyone can rest and study without disturbance.
+
+**4.3** Acknowledge and respect different lifestyles, schedules, and habits.
+
+## § 5. Guests and Visitors
+
+**5.1** Housemates will notify each other in advance of having guests over, especially if they will be staying overnight.
+
+**5.2** All guests must receive approval from the House Owner prior to their visit.
+
+**5.3** Guests are welcome but should not remain in the house for more than 6 hours.
+
+> [!bible] [Proverbs 25:17 - KJV](https://www.biblegateway.com/passage/?search=Proverbs+25:17&version=kjv)
+> 17. Withdraw thy foot from thy neighbour’s house; lest he be weary of thee, and so hate thee.
+
+**5.4** Guests of the opposite gender are not permitted to be alone in the house with the host at any time.
+
+## § 6. Anti-Squatting Provisions
+
+**6.1** Temporary residents acknowledge that they have received permission from the property owner to temporarily stay at the property upon compliance with house rules. They recognize that they are not the sole occupants of the property, thus relinquishing any rights to adverse possession as described in the [[Law/Codes/The Constitution Of The Diurnal Conduct Of Individual Persons/Framework Discussions/Adverse Possession\|Texas Property Code]]. The property owner reserves the right to terminate the stay of the temporary resident and request their departure immediately.
+
+**6.2** Personal Belongings: All housemates and guests acknowledge that they are required to keep personal belongings minimal and must remove all their belongings upon departure, as specified in their permission agreement.
+
+**6.3** Acknowledgment of Non-Tenancy: All housemates and guests acknowledge and sign that their stay does not constitute a tenancy and that they do not have tenant rights under Texas Property Code.
+
+**6.4** All housemates and guests acknowledge that the House Owner reserves the right to review and renew or terminate any housemate or guest's stay periodically, at intervals not exceeding 30 days.
+
+**6.5** All housemates and guests acknowledge that any individual who fails to comply with these provisions will be subject to immediate removal from the premises.
+
+**6.6** All housemates and guests acknowledge that in case of any disputes or claims of residency, the House Owner will pursue all legal remedies available to affirm the temporary nature of the occupancy and to remove the individual from the premises.
 
 # Article 2: Guidelines for Temporary Residents Seeking Employment
 
@@ -56,6 +122,9 @@ There is a path you can take to make your life end up fantastic, but it requires
 > 11. For we hear that there are some which walk among you disorderly, working not at all, but are busybodies.
 > 12. Now them that are such we command and exhort by our Lord Jesus Christ, that with quietness they work, and eat their own bread.
 
+## § 4. Regular Check-ins
+
+**4.1** Temporary resident agrees to engage in regular check-ins (weekly or at the discretion of House Owner) to discuss any issues or updates.
 
 # Article 3: Skill Development for Temporary Residents
 
