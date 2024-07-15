@@ -50,6 +50,20 @@ Other correlations exist between [oscillating temperatures](https://lh3.googleus
 
 # How To Reduce NO2 Levels
 
+| Method                   | Description                                                                     | Effectiveness                  |
+|--------------------------|---------------------------------------------------------------------------------|--------------------------------|
+| Avoid Combustion Sources | Minimize the use of gas stoves, heaters, and tobacco smoking indoors.           | High                           |
+| Air Purifiers            | Use air purifiers with HEPA and activated carbon filters.                       | High                           |
+| Activated Carbon Filters | Use standalone activated carbon filters to adsorb NO₂ from the air.             | High                           |
+| Ventilation              | Increase outdoor air ventilation by opening windows and using exhaust fans.     | High (if outdoor air is clean) |
+| Use of HVAC Systems      | Use HVAC systems with good filtration.                                          | High                           |
+| Seal Cracks and Leaks    | Seal cracks and gaps in windows and doors to prevent outdoor NO₂ from entering. | Moderate to High               |
+| Reduce Vehicle Idling    | Ensure vehicles are not idling near windows or air intakes.                     | Moderate                       |
+| Houseplants              | Incorporate plants that are known to absorb NO₂.                                | Moderate                       |
+| Regular Cleaning         | Clean surfaces and vacuum regularly to reduce particulate matter.               | Low to Moderate                |
+| Cooking Practices        | Use electric stoves instead of gas stoves.                                      | High                           |
+| Humidity Control         | Maintain optimal indoor humidity levels to reduce particulate matter.           | Low                            |
+
 ## Use Carbon Filter
 
 To reduce nitrogen dioxide in your room, place an air purifier near the air intake to capture any pollutants. Air purifiers with HEPA filters can capture particles, but they might not effectively filter out gases like nitrogen dioxide. For gas removal, activated carbon filters are more suitable. Look for an air purifier with both HEPA and activated carbon filters for comprehensive air cleaning.

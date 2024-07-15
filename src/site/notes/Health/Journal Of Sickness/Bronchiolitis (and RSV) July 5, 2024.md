@@ -7,6 +7,9 @@
 
 Friday morning after staying the night at Caleb's, I woke up with a dry throat. It feels irritated, and by Sunday I was coughing up green phlegm. My dad suggested it might be from staining the raised garden bed on July 4, which does appear plausible, but Faith, John Ball, and Tony all appear to have the same symptoms, so it may be something in the air.
 
+On Thursday the 11th I finally woke-up without my throat feeling scratchy. I was sweaty in bed, and my scratchy throat was replaced with a tedious cough.
+
+I woke up Friday the 
 # Symptom
 
 The patient reports experiencing a dry and scratchy throat, occasional green phlegm production, and difficulty breathing without wheezing. These symptoms have been present for three days, since July 5, and remain consistent. The patient does not have a fever, nasal congestion, runny nose, body aches, or headaches, but does experience slight nausea when coughing hard. The cough is primarily dry and most noticeable in the morning. The patient has a history of bronchial hypersensitivity following a COVID-19 infection, resulting in asthmatic symptoms managed with Breo, which has not been used for the past two months. The patient was exposed to an oil-based stain on July 4 while staining wood for a new raised garden. There are no changes in taste or smell, and no ear or sinus pain. The patient also inhaled VBM guard, which helped mitigate the urge to cough. The patient is allergic to ragweed.

@@ -67,7 +67,7 @@ Here are 25 example questions for the EPA Section 608 Type II exam along with th
 
 ### Record Keeping
 
-24. **What records must be kept when servicing equipment with more than 50 pounds of refrigerant?** Records of the amount of refrigerant added and recovered, and details of any leaks and repairs.
+24. **What records must be kept when servicing equipment with more than 50 pounds of refrigerant?** Records of the *amount* of refrigerant added and recovered, and details of any *leaks* and *repairs*.
 25. **How long must these records be maintained?** For at least three years.
 
 These example questions cover a broad range of topics that you'll need to understand for the Type II certification exam. Studying these areas in detail will help you prepare effectively.
