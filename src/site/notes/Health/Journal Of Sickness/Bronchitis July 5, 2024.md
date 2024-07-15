@@ -9,7 +9,12 @@ Friday morning after staying the night at Caleb's, I woke up with a dry throat. 
 
 On Thursday the 11th I finally woke-up without my throat feeling scratchy. I was sweaty in bed, and my scratchy throat was replaced with a tedious cough.
 
-Monday the 15th I woke up very sweaty, and my room stank horribly. My right first rib felt a sharp pain and appeared red on the skin. Abs had previously hurt from all the coughing, but this was something new. It felt easier to talk, and Mariana convinced me to make a doctor appointment, so I made a Doctor on Demand appointment. [[Health/Journal Of Sickness/Ragweed Allergies Sep 19-Oct 19\|Last time]] they prescribed antibiotics. 
+Monday the 15th I woke up very sweaty, and my room stank horribly. My right first rib felt a sharp pain and appeared red on the skin. Abs had previously hurt from all the coughing, but this was something new. It felt easier to talk, and Mariana convinced me to make a doctor appointment, so I made a Doctor on Demand appointment. [[Health/Journal Of Sickness/Ragweed Allergies Sep 19-Oct 19\|Last time]] they prescribed antibiotics.
+
+My apple watch alerted me that in the last 5 days my average respiratory rate was 21 breather per minute, up from 17 breaths per minute the previous 21 days.
+
+He said I have a viral infection, he is not convinced it is bacterial in nature. He said my best bet is inhaling albuterol. When I mentioned I am between jobs without insurance, he told me to look at [goodrx](https://www.goodrx.com/) for coupons. I am contagious until I'm not coughing anymore. When I breathe in heavily, there is an asthmatic bronchial spasm. Before we did that test, he had me touch above my eye brows and my cheekbones, then massage my throat to find any tender lungs. 
+
 # Symptom
 
 The patient reports experiencing a dry and scratchy throat, occasional green phlegm production, and difficulty breathing without wheezing. These symptoms have been present for three days, since July 5, and remain consistent. The patient does not have a fever, nasal congestion, runny nose, body aches, or headaches, but does experience slight nausea when coughing hard. The cough is primarily dry and most noticeable in the morning. The patient has a history of bronchial hypersensitivity following a COVID-19 infection, resulting in asthmatic symptoms managed with Breo, which has not been used for the past two months. The patient was exposed to an oil-based stain on July 4 while staining wood for a new raised garden. There are no changes in taste or smell, and no ear or sinus pain. The patient also inhaled VBM guard, which helped mitigate the urge to cough. The patient is allergic to ragweed.
