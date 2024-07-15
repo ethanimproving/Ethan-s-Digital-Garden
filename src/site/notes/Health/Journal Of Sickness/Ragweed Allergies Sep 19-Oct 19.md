@@ -69,7 +69,7 @@ Doctors may recommend additional measures to manage the cough, such as adjusting
 ## 5. Treatment
 10/22/2023
 
-On Oct 22 I finally took a ZPack that was prescribed by [Dr. J.J. Andrick, MD](https://patient.doctorondemand.com/patient/#/visits/visit-result/7010180) using [Doctor on Demand](https://doctorondemand.com/). The call took about 3 minutes after an hour and a half waiting time whille watching 27 Dresses with Anna and Mariana. It cost me $0 which I was happy about. I took the first two pills at Texas Road House with Mariana on our way home from the [[Relationship/Dates/2023-10-20 DFW\|TCU volleyball game]].
+On Oct 22 I finally took a ZPack that was prescribed by [Dr. J.J. Andrick, MD](https://patient.doctorondemand.com/patient/#/visits/visit-result/7010180) using [Doctor on Demand](https://doctorondemand.com/). The call took about 3 minutes after an hour and a half waiting time while watching 27 Dresses with Anna and Mariana. It cost me $0 which I was happy about. I took the first two pills at Texas Road House with Mariana on our way home from the [[Relationship/Dates/2023-10-20 DFW\|TCU volleyball game]].
 # Motivation
 #quotes
 If you have the will to breath, the suffering becomes irrelevant.
