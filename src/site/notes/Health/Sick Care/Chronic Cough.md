@@ -4,9 +4,9 @@
 
 
 [Dr. Chestnut Telavisit, pulmonologist](https://www.youtube.com/watch?v=oMxOwI3T8OA)
-[Ask Me Anything! Live with Dr. Rita Ellithorpe](https://www.youtube.com/live/dIExI9DFeuk?si=7kg620-CRogfzB3-&t=782)
+# Vitamin C
 
-Dr. Ellithorpe suggested taking a [500mg Orthomolecular Buffer Vitamin C Capsule](https://www.orthomolecularproducts.com/product/buffered-c-capsules) every 30 minutes. You can submit other questions on the [YouTube Question Submission Page](https://www.tlcdoctors.com/pages/youtubeqa). You can purchase the capsules from [Tustin Longevity Center](https://www.tlcdoctors.com/products/buffered-c-capsules), but you need an account verification.
+See [[Health/Respiratory/Vitamin C\|Vitamin C]].
 
 # Breo
 

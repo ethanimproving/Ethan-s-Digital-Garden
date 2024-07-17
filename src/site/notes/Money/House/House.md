@@ -99,8 +99,8 @@ My two best options are probably [[Money/House/Oakmore/7322 Oakmore Dr, Dallas, 
 | [[Money/House/Houses/1523 Garza Ave, Dallas, TX 75216\|1523 Garza Ave, Dallas, TX 75216]]                                               | 246,000 | 1,694 |
 | [[Money/House/Houses/3926 Metropolitan Avenue Dallas, TX 75210\|3926 Metropolitan Avenue Dallas, TX 75210]]                             | 249,900 | 2,075 |
 | [[Money/House/Houses/4550 Solar Ln, Dallas, TX 75216\|4550 Solar Ln, Dallas, TX 75216]]                                                 | 249,990 | 1,440 |
-| [[Money/House/Oakmore/7322 Oakmore Dr, Dallas, TX 75249\|7322 Oakmore Dr, Dallas, TX 75249]]                                            | 260,000 | 1,780 |
 | [[Money/House/Houses/1450 Sax Leigh Dr, Dallas, TX 75241\|1450 Sax Leigh Dr, Dallas, TX 75241]]                                         | 260,000 | 1,592 |
+| [[Money/House/Oakmore/7322 Oakmore Dr, Dallas, TX 75249\|7322 Oakmore Dr, Dallas, TX 75249]]                                            | 260,000 | 1,780 |
 | [[Money/House/Houses/Lennar Skyline Estates Watermill\|Lennar Skyline Estates Watermill]]                                               | 271,999 | 1,302 |
 | [[Money/House/Houses/2927 Gospel Dr, Dallas, TX, 75237\|2927 Gospel Dr, Dallas, TX, 75237]]                                             | 274,990 | 1,616 |
 | [[Money/House/Houses/7724 Arkan Pkwy, Dallas, TX, 75241\|7724 Arkan Pkwy, Dallas, TX, 75241]]                                           | 279,900 | 1,672 |
@@ -112,8 +112,8 @@ My two best options are probably [[Money/House/Oakmore/7322 Oakmore Dr, Dallas, 
 | [[Money/House/Houses/620 Elwayne Ave Dallas, TX 75217\|620 Elwayne Ave Dallas, TX 75217]]                                               | 310,000 | 1,600 |
 | [[Money/House/Houses/Lennar Trinity West, Dallas\|Lennar Trinity West, Dallas]]                                                         | 320,000 | 1,685 |
 | [[Money/House/Houses/7015 Cloverglen Dr, Dallas, TX 75249\|7015 Cloverglen Dr, Dallas, TX 75249]]                                       | 325,000 | 1,855 |
-| [[Money/House/Houses/Lake Ridge Commons by CB JENI Homes\|Lake Ridge Commons by CB JENI Homes]]                                         | 329,990 | 1,567 |
 | [[Money/House/Houses/Heritage Park by Brightland Homes\|Heritage Park by Brightland Homes]]                                             | 329,990 | 1,520 |
+| [[Money/House/Houses/Lake Ridge Commons by CB JENI Homes\|Lake Ridge Commons by CB JENI Homes]]                                         | 329,990 | 1,567 |
 | [[Money/House/Houses/Tenison Village by Ashton Woods\|Tenison Village by Ashton Woods]]                                                 | 366,000 | 2,168 |
 
 { .block-language-dataview}
