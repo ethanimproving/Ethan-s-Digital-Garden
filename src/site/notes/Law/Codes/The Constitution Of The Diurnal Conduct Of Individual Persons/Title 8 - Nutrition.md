@@ -273,7 +273,7 @@ Antibiotics are medications designed to kill or inhibit the growth of bacteria, 
 
 Animals in agriculture are often given antibiotics for various reasons, including disease prevention and growth promotion. Unfortunately a human will likely have more antibiotics in him from eating meat than taking antibiotics when he is sick. The good news is that if you stop eating animals, you'll lose those antibiotics.
 
-Is it worth giving up mean? Hard pass. That's a risk that doesn't outweigh the benefits of enjoying meat for me. But I will seek to be somewhat cognizant about finding meat that is not given antibiotics.
+Is it worth giving up meat? Hard pass. That's a risk that doesn't outweigh the benefits of enjoying meat for me. But I will seek to be somewhat cognizant about finding meat that is not given antibiotics.
 
 **1.3** Eat prebiotic foods to induce microbiome diversity
 
@@ -297,9 +297,14 @@ Blueberries, strawberries, raspberries, and blackberries are rich in polyphenols
 **1.7** Eat foods seasonally to adapt your microbiome to [the needs of the season](https://youtu.be/ZemkG6Vj7hc?si=AtEs_v0lGnKzLIkw&t=4525).
 
 Caution: Research has not been not on this. Take with a grain of salt until this can be medically demonstrated with the hierarchy of evidence.
+
+**1.8** To heal your body, you have to eat a certain way, sleep a lot, not be stressed out, have a good social network, exercise, stretch ([Dr. Gooby](https://www.youtube.com/watch?v=25LUF8GmbFU&t=1460s)).
+
 # Article 7: Autoimmune Diseases
 
 ## § 1. Leaky Gut
+
+Eat during a 6 hour window to give your digestive system time to rest.  If you eat before bed, your sleep will be less restorative because your digestive system is still working at night.
 
 # Article 8: Energy and Vitality
 

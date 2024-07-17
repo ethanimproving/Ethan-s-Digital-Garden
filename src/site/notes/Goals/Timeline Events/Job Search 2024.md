@@ -307,7 +307,7 @@ tag:
 | [[Journal/Study\|Study]]                                                           | May 14, 2024, 1:37 PM  | <ul><li>jobhunt</li><li>algorithmtraining</li></ul>             |
 | [[Journal/Memorization\|Memorization]]                                             | May 15, 2024, 10:57 AM | <ul><li>jobhunt</li><li>algorithmtraining</li></ul>             |
 | [[Journal/Hopeless\|Hopeless]]                                                     | May 16, 2024, 2:01 PM  | <ul><li>jobhunt</li><li>algorithmtraining</li></ul>             |
-| [[Journal/Fired\|Fired]]                                                           | May 15, 2024, 6:26 PM  | <ul><li>jobhunt</li><li>enemylove</li><li>forgiveness</li></ul> |
 | [[Journal/Don't Say Anything You Will Regret\|Don't Say Anything You Will Regret]] | May 24, 2024, 4:24 PM  | <ul><li>jobhunt</li></ul>                                       |
+| [[Journal/Fired\|Fired]]                                                           | May 15, 2024, 6:26 PM  | <ul><li>jobhunt</li><li>enemylove</li><li>forgiveness</li></ul> |
 
 { .block-language-dataview}
