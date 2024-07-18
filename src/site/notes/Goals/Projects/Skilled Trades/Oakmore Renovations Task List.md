@@ -27,9 +27,9 @@
 | [[Goals/Projects/Oakmore Renovation/Guest Bathroom/Install new shower head\|Install new shower head]]                             | Defined     | \-           | 120     | Buying New Shower Head |
 | [[Goals/Projects/Oakmore Renovation/Backyard/Install Retractable Garden Hose\|Install Retractable Garden Hose]]                   | Defined     | \-           | 120     | Buying Hose Reel       |
 | [[Goals/Projects/Oakmore Renovation/Backyard/Fix Backyard Ground Cable\|Fix Backyard Ground Cable]]                               | Defined     | John Ball    | 15      | \-                     |
-| [[Goals/Projects/Oakmore Renovation/AC/Replace AC Control Board\|Replace AC Control Board]]                                       | Defined     | Ethan Miller | 600     | \-                     |
 | [[Goals/Projects/Oakmore Renovation/AC/Diagnose AC Reversing Valve Capillary Tubes\|Diagnose AC Reversing Valve Capillary Tubes]] | Defined     | Ethan Miller | 600     | \-                     |
 | [[Goals/Projects/Oakmore Renovation/AC/Unclog AC Discharge Pipe\|Unclog AC Discharge Pipe]]                                       | Defined     | Ethan Miller | 30      | Buy Air Compressor     |
+| [[Goals/Projects/Oakmore Renovation/AC/Replace AC Control Board\|Replace AC Control Board]]                                       | Defined     | Ethan Miller | 600     | \-                     |
 | [[Goals/Projects/Oakmore Renovation/AC/Check AC Refrigerant Levels\|Check AC Refrigerant Levels]]                                 | Defined     | Ethan Miller | 600     | \-                     |
 
 { .block-language-dataview}

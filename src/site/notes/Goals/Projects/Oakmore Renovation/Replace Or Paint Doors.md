@@ -29,6 +29,7 @@
 - [32 in. x 80 in. 6-Panel Textured Hollow Core](https://www.homedepot.com/p/Steves-Sons-32-in-x-80-in-6-Panel-Textured-Hollow-Core-White-Primed-Composite-Interior-Door-Slab-N626WFADLC99/204609485) ($72)
 - [24 in. x 80 in. 6-Panel Textured Hollow Core](https://www.homedepot.com/p/Steves-Sons-24-in-x-80-in-6-Panel-Textured-Hollow-Core-White-Primed-Composite-Interior-Door-Slab-J626WFADLC99/204609482) ($57)
 - [24 in. x 80 in. Flush Hollow Core](https://www.homedepot.com/p/Steves-Sons-24-in-x-80-in-Flush-Hollow-Core-White-Primed-Pre-Bored-Composite-Interior-Door-Slab-J62H1FADBC99/204609493) ($66)
+- [24 in. x 80 in. 2-Panel Square Hollow Core](https://www.homedepot.com/p/Steves-Sons-24-in-x-80-in-2-Panel-Square-Top-Right-Hand-White-Primed-Composite-Smooth-Hollow-Core-Single-Prehung-Interior-Door-J62-2KWADAE-RH/302742586) ($151)
 
 
 
