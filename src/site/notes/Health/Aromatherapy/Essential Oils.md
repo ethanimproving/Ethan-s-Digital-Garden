@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/health/aromatherapy/essential-oils/"}
+dg-publish: true
 ---
-
 
 Ethan Miller
 Research Papers

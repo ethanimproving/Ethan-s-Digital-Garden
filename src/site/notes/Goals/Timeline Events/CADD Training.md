@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/cadd-training/","tags":["timeline","personal","laborhours"]}
+dg-publish: true
+start-date: 2018-01-18
+end-date: 2018-03-02
+type: range
+color: yellow
+date-limit: year
+importance: 50
+tags: [timeline, personal, laborhours]
 ---
-
 
 The Lord will not give me this job. Lose your anxiety, Ethan. This is my rod. A forfeited opportunity because of my sin. Nevertheless, perhaps the Lord will be gracious with me. I will be as Jonathan and not Saul. I will work hard to get this job, and if the Lord be pleased, then I will have success, and if not, then I will be edified.  
 

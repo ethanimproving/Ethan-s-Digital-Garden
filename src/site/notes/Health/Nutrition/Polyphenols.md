@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/health/nutrition/polyphenols/","created":"Jan 07, 2024, 1:01 AM"}
+dg-publish: true
+dg-created: Jan 07, 2024, 1:01 AM
 ---
-
 
 Polyphenols are a large and diverse group of naturally occurring compounds found in plants. They are characterized by the presence of multiple phenol (aromatic alcohol) groups in their chemical structure. Polyphenols are abundant in fruits, vegetables, whole grains, tea, coffee, red wine, and various plant-based foods. They contribute to the vibrant colors of many fruits and vegetables and serve a variety of functions in plants, including defense against pathogens and protection from UV radiation.
 

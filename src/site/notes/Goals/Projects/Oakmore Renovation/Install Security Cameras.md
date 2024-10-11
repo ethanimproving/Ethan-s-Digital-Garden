@@ -1,7 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/install-security-cameras/","tags":["oakmore-renovation-task"],"created":"Jan 12, 2024, 6:40 PM"}
+dg-publish: true
+dg-created: Jan 12, 2024, 6:40 PM
+date-completed:
+parent: Attic
+status: In-Prorgess
+minutes: 240
+assigned-to:
+depends-on:
+tags:
+  - oakmore-renovation-task
 ---
-
 
 # How to Run Security Camera Wires
 

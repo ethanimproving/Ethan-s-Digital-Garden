@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/dependency-tree-of-doctrines/","tags":["website"],"created":"Oct 22, 2022, 9:10 AM"}
+dg-publish: true
+dg-created: Oct 22, 2022, 9:10 AM
+dg-updated: Apr 22, 2023, 11:04 PM
+tags: [website]
 ---
-
 
 Some ideas are dependent on other ideas. The more ideas that are dependent on a given idea, the more fundamental that idea is.
 <https://youtu.be/Z9UJ-kJYLsQ?t=3m58s>

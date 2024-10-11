@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/journal/john-piper-false-teachings/","created":"Jun 27, 2018, 7:23 AM"}
+dg-publish: true
+dg-created: Jun 27, 2018, 7:23 AM
 ---
-
 
 - PIPER, The Liberating Law of the Spirit of Life
 

@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/asking-mariana-to-be-my-girlfriend/","tags":["timeline","crush"],"created":"Jul 23, 2022, 9:08 AM"}
+dg-publish: true
+dg-created: Jul 23, 2022, 9:08 AM
+start-date: 2022-07-26
+color: green
+tags: [timeline, crush]
 ---
-
 
 Hey I want to tell you something. Before I met you I thought I was going to be with someone ...
 

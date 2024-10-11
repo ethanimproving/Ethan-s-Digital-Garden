@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/fun-with-friends/","tags":["timeline","personal"]}
+dg-publish: true
+start-date: 2021-05-01
+end-date: 2022-11-06
+type: range
+color: blue
+tags:
+  - timeline
+  - personal
 ---
-
 
 Google Photos: [Popular Phase](https://photos.app.goo.gl/D6He62RUL9Qxwcxs5)
 

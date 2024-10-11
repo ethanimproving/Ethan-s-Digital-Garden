@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/health/nutrition/lectins/","created":"Jan 07, 2024, 1:21 AM"}
+dg-publish: true
+dg-created: Jan 07, 2024, 1:21 AM
 ---
-
 
 Lectins are a class of proteins that can bind to carbohydrates. They are found in a variety of foods, particularly in plant-based foods, where they play a role in plant defense mechanisms. Lectins have the ability to recognize and bind to specific carbohydrate structures, and their primary function in plants is thought to be related to protection against pests and pathogens.
 

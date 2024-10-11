@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/health/aromatherapy/n02-from-central-heating/","created":"Jan 15, 2024, 5:29 PM"}
+dg-publish: true
+dg-created: Jan 15, 2024, 5:29 PM
 ---
-
 
 There seems to be nitrogen dioxide increasing in my room with heater use.
 

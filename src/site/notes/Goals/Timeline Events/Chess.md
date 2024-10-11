@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/chess/","tags":["timeline","personal"]}
+dg-publish: true
+start-date: 2022-12-30
+end-date: 2023-03-14
+type: range
+color: blue
+tags:
+  - timeline
+  - personal
 ---
-
 
 I listened to a clip from Andrew Tate on the Pierce Morgan show outlining the benefits of chess, one such being that it teaches complete self-accountability, because if you lose, you made a mistake. Convinced by this argument I decided to start learning Chess.
 

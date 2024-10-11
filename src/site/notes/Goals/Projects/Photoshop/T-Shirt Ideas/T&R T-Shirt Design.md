@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/photoshop/t-shirt-ideas/t-and-r-t-shirt-design/","created":"Jun 16, 2023, 9:20 PM"}
+dg-publish: true
+dg-created: Jun 16, 2023, 9:20 PM
 ---
-
 
 # Logo SVG
 

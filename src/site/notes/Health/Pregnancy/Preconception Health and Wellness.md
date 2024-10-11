@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/health/pregnancy/preconception-health-and-wellness/","created":"Sep 08, 2023, 4:18 PM"}
+dg-publish: true
+dg-created: Sep 08, 2023, 4:18 PM
 ---
-
 
 My girlfriends sister is a doctor in Mexico, and she said that if you want your baby to be healthy with the best genes, the parents need to get into shape at least 3 months before conceiving. No drinking, no junk food, plenty of exercise.
 

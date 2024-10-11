@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/health/homeopathic/thesis/"}
+dg-publish: true
 ---
-
 
 # Essay 1
 

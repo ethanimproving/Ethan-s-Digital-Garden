@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/health/homeopathic/oscillococcinum/"}
+dg-publish: true
 ---
-
 
 # Support Sources
 
