@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/journal/liar/","tags":["phychology","adam"],"created":"Jun 20, 2024, 2:32 PM"}
+dg-publish: true
+dg-created: Jun 20, 2024, 2:32 PM
+tags: [phychology, adam]
 ---
-
 
 I think this nigger is lying to me. He told me he biked to a Walmart 10 minutes away, and applied at multiple places on the way back. What he doesn't know is that I have motion detection on my cameras that records events of people coming in and out of my house. On that day, he was only gone for 20 minutes. That's not enough time to even talk to the manager at Walmart.
 

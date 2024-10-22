@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/journal/they-think/"}
+dg-publish: true
+dg-creted: Jun 13, 2024, 4:34 PM
 ---
-
 
 People in the world don't judge me for being IFB. They love me. They like triggering me to rant about the Mormons.
 

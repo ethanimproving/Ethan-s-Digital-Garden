@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/doctrine/music/untitled-note-7/","created":"May 01, 2019, 3:32 PM"}
----
+dg-publish: true
+dg-created: May 01, 2019, 3:32 PM
+dg-updated: May 01, 2019, 3:32 PM
 
+---
 
 There are demonic influences in psychedelics and mind altering substances, and those same inch influences are present in music.
 

@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/houses/2704-lucky-st-dallas-tx-75241/","tags":["homes2023"],"created":"Jun 12, 2023, 8:32 PM"}
+dg-publish: true
+cost: 295,000
+sq-ft: 1,600
+dg-created: Jun 12, 2023, 8:32 PM
+tags: [homes2023]
 ---
-
 
 [2704 Lucky St, Dallas, TX 75241](https://www.homes.com/property/2704-lucky-st-dallas-tx/9z0lf5kezx8cx/)
 

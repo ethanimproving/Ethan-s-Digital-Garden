@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/journal/the-battle-for-peace/","created":"Jan 12, 2024, 6:30 PM"}
+dg-publish: true
+dg-created: Jan 12, 2024, 6:30 PM
 ---
-
 
 # Seek God's Presence 
 

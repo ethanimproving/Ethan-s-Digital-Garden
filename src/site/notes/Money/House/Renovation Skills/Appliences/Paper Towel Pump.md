@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/renovation-skills/appliences/paper-towel-pump/","tags":["oakmore"],"created":"Jul 08, 2023, 3:51 PM"}
+dg-publish: true
+dg-created: Jul 08, 2023, 3:51 PM
+cost: $80
+priority: 1
+tags:
+  - oakmore
+bought: true
 ---
-
 
 [paper towel pump](https://www.simplehuman.com/products/paper-towel-pump?variant=43107808870531)
 

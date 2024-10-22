@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/money/cars/vehicle-registration/","created":"Jul 07, 2023, 8:58 PM"}
+dg-publish: true
+dg-created: Jul 07, 2023, 8:58 PM
 ---
-
 
 # Inspection
 

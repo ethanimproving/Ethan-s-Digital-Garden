@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/parenting/skills/plastic-welding/","created":"Oct 14, 2023, 10:37 AM"}
+dg-publish: true
+dg-created: Oct 14, 2023, 10:37 AM
 ---
-
 
 
 Yes, you can get official plastic welding education for free online. The [American Welding Society](https://www.aws.org/education/OnlineCourses) provides a comprehensive list of online courses that are available to anyone, anywhere, anytime. These courses are designed to be engaging and easy to understand, with content developed and updated by senior AWS instructors and staff. You can learn at your own pace with the modular format and access the courses on the internet day or night, seven days a week.

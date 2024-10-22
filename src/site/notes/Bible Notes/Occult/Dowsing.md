@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/occult/dowsing/","created":"Jun 22, 2024, 1:39 PM"}
+dg-publish: true
+dg-created: Jun 22, 2024, 1:39 PM
 ---
-
 
 Before delving into learning about occult practices out of interest, or because you are seeking something exciting to talk about, consider the following warning that we ought to avoid the pursuit of knowledge about evil practices. Your time is better spent knowing God, reading the Bible, and pursuing purity than pursuing knowledge about this topic.
 

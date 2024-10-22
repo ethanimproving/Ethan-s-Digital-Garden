@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/loan/","created":"Jun 09, 2023, 10:35 AM"}
+dg-publish: true
+dg-created: Jun 09, 2023, 10:35 AM
 ---
-
 
 # Mortgage Companies
 

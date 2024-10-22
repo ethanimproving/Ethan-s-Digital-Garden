@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/money/cars/optimal-time-to-buy-a-car/","created":"Aug 2, 2021, 9:46 AM"}
+dg-publish: true
+dg-created: Aug 2, 2021, 9:46 AM
 ---
-
 
 The best time to buy a car is when it's about 8 years old. The purchase value goes down in a logarithm the most quickly when it's new. It usually has 2/3 of it's life left after the purchase price depreciates 70%.
 

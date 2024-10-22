@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/framework-discussions/nudity-in-movies/deadlock-questions/","created":"Jun 12, 2022, 9:39 PM"}
+dg-publish: true
+dg-created: Jun 12, 2022, 9:39 PM
 ---
-
 
 - Felipe as the background of her phone.
 - Her close male friends.

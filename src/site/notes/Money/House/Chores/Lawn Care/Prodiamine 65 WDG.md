@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/chores/lawn-care/prodiamine-65-wdg/"}
+dg-publish: true
+dg-created:
 ---
-
 # Application Process
 
 To ensure that you spray the right amount over your lawn, Caleb recommends chunking your application into 1000 square feet segments. **1 Gallon of Spray Mix covers 1,000 Sq Ft**. My [[Money/House/Chores/Lawn Care/7322 Oakmore Lawn\|yard]] is split up into roughly two 1,500 Sq Ft segments of different grass, so I will apply 1.5 gallons at a time.

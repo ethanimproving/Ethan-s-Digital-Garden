@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/journal/i-m-doubting-john-piper-s-salvation/","created":"Oct 27, 2023, 2:10 PM"}
+dg-publish: true
+dg-created: Oct 27, 2023, 2:10 PM
 ---
-
 
 The other day I defended John Piper to Faith, and then on the morning of Oct 19 I listened to an episode of Light + Truth called "[Everyday Gospel](https://www.youtube.com/watch?v=Go8IHi3BsoQ)" where John Piper said some heretical things. 
 

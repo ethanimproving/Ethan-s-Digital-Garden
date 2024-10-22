@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/houses/2208-e-kiest-blvd-dallas-tx-75216/","tags":["homes2023"],"created":"Jun 12, 2023, 8:29 PM"}
+dg-publish: true
+cost: 304,900
+sq-ft: 1,641
+dg-created: Jun 12, 2023, 8:29 PM
+tags: [homes2023]
 ---
-
 
 [2208 E Kiest Blvd, Dallas, TX 75216](https://www.homes.com/property/2208-e-kiest-blvd-dallas-tx/9bz8mw0zcts4z/)
 

@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/parenting/skills/drawing/","created":"Oct 22, 2022, 10:24 PM"}
+dg-publish: true
+dg-created: Oct 22, 2022, 10:24 PM
 ---
-
 
 Drawing is said to be a good way to acquire knowledge because the act of drawing adds another layer of memory encoding in your brain. Just like singing, drawing is a skill we effectively left behind as children that continues to occasionally haunt us.
 ​

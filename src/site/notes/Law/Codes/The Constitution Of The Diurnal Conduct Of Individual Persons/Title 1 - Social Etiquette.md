@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/title-1-social-etiquette/","created":"Nov 22, 2023, 2:01 PM"}
+dg-publish: true
+dg-created: Nov 22, 2023, 2:01 PM
+author: Ethan Miller
 ---
-
 Miller Creed: The Principles I Live By
 Life Lessons On How To Have A Better Life
 # Article 1: General Etiquette:

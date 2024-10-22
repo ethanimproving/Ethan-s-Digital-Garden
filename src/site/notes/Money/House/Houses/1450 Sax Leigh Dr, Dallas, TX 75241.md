@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/houses/1450-sax-leigh-dr-dallas-tx-75241/","tags":["homes2023"],"created":"Jun 17, 2023, 8:24 PM"}
+dg-publish: true
+dg-created: Jun 17, 2023, 8:24 PM
+cost: 260,000
+sq-ft: 1,592
+year: 2006
+tags: [homes2023]
 ---
-
 
 [1450 Sax Leigh Dr, Dallas, TX 75241](https://www.zillow.com/homedetails/1450-Sax-Leigh-Dr-Dallas-TX-75241/80219618_zpid/?utm_source=email&utm_medium=email&utm_campaign=emo-SendToFriendHDP-image&rtoken=738da70f-e768-49c1-b720-e326f8071bc9~X1-ZUrg8jyg9x8fex_2uji6)
 

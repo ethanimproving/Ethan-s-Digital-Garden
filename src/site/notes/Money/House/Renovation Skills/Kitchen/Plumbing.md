@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/renovation-skills/kitchen/plumbing/","created":"Mar 15, 2024, 7:50 PM"}
+dg-publish: true
+dg-created: Mar 15, 2024, 7:50 PM
 ---
-
 
 There is one plumber per 688 people in the United States. That means on average you would call the plumber once every 0.7 years. ChatGPT estimates a typically person needs to call the plumber 1-3 times per year, meaning there is a slight shortage of plumbers for the amount of work needed. It's a good skill to have. ([U.S. BLS](https://www.bls.gov/ooh/construction-and-extraction/plumbers-pipefitters-and-steamfitters.htm))
 

@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/doctrine/music/whiney-sounding-music/","created":"Oct 26, 2018, 10:39 AM"}
----
+dg-publish: true
+dg-created: Oct 26, 2018, 10:39 AM
+dg-updated: Oct 26, 2018, 2:43 PM
 
+---
 
 [How Great Thou Art](https://www.youtube.com/watch?time_continue=69&v=2ly4FptrScQ&t=3m21s) by Shane & Shane is just terrible. Why in the world would you use that whiney tone to declare the greatness of God? Look, it's fine if you want to sing about affliction, and trials and tribulations, and in "Lord of Hosts," that's perfectly appropriate, but that tone completely betrays the worship of this song. It isn't just artistic liberty. I'm mad about this. This is strange fire before the Lord. You don't get to make love to the microphone and sound like this every song.
 

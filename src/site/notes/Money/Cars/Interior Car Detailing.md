@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/money/cars/interior-car-detailing/","created":"Feb 02, 2024, 11:34 PM"}
+dg-publish: true
+dg-created: Feb 02, 2024, 11:34 PM
 ---
-
 
 # Chris Fix
 

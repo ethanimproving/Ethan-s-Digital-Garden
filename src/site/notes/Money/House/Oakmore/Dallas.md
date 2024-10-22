@@ -91,3 +91,9 @@ This artwork was inspired by the [Desiring God 2014 Conference for Pastors](http
 ![](https://i.imgur.com/qGD7sd6.jpg)
 
 This artwork was inspired by J Will$ album.
+
+## Dallas Logos
+
+![https://logovectorseek.com/city-of-dallas-logo-vector-svg/](https://logovectorseek.com/wp-content/uploads/2021/05/city-of-dallas-logo-vector.png)
+
+![](https://i.etsystatic.com/43256338/r/il/de34ca/4960819630/il_1588xN.4960819630_3ixh.jpg)

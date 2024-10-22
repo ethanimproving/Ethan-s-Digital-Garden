@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/houses/lennar-skyline-estates-watermill/","tags":["homes2023"],"created":"Jun 14, 2023, 11:30 PM"}
+dg-publish: true
+dg-created: Jun 14, 2023, 11:30 PM
+cost: 271,999
+sq-ft: 1,302
+tags: [homes2023]
 ---
-
 
 [Skyline Estates Watermill](https://www.lennar.com/new-homes/texas/dallas-ft-worth/hutchins/skyline-estates-watermill)  is a little far south to be an ideal living location, but it's not terrible. The price range of $271,999 - $316,999 is within my budget.
 

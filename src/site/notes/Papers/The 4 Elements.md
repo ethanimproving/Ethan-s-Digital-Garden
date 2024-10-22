@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/papers/the-4-elements/","tags":["research"],"created":"Dec 26, 2023, 2:12 PM"}
+dg-publish: true
+dg-created: Dec 26, 2023, 2:12 PM
+tags: [research]
 ---
-
 
 The concept of the four elements—earth, water, air, and fire—originated in ancient Greek philosophy and was later adopted and adapted by other cultures. The earliest known use of this idea is attributed to the ancient Greek philosopher **Empedocles (c. 490–430 BCE)**. ==He proposed that these four elements were the basic building blocks of all matter==, and different combinations of these elements gave rise to the variety of substances in the world.
 

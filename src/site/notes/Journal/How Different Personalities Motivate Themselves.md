@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/journal/how-different-personalities-motivate-themselves/","tags":["phsychology"],"created":"Jul 26, 2020, 10:13 PM"}
+dg-publish: true
+dg-created: Jul 26, 2020, 10:13 PM
+dg-updated: 
+tags: [phsychology]
 ---
-
 
 Deborah motivates herself by saying, "I'm worthwhile." It makes her happy, and [[Relationship/Men Are Motivated By Challenge, Women Are Motivated By Praise\|happiness gets her moving]].
 

@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/chores/lawn-care/lawn-care/","created":"Feb 26, 2024, 10:21 AM"}
+dg-publish: true
+dg-created: Feb 26, 2024, 10:21 AM
 ---
-
 
 Ethan,
 

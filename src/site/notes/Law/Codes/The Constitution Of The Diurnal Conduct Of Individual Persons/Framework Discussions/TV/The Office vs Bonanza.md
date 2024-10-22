@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/framework-discussions/tv/the-office-vs-bonanza/","created":"Jun 20, 2019, 3:19 PM"}
+dg-publish: true
+dg-created: Jun 20, 2019, 3:19 PM
+tage: [television]
 ---
-
 
 I've noticed a lot of Christians flocking to The Office, and I don't want my kids watching it. Watch Bonanza. You can learn a lot of wisdom from Ben Cartwright. But **what you learn from The Office is how to appreciate humor that's dumb, dorky, and stupid**. And I think the reason Christians embrace this show is because there's a mentality that fostering a culture where nobody is pressured to be cool is a virtue, and we aim to make our group a little quirky. I don't remember anybody who was "cool" in youth group. There were those who spoke more in discussions, but they were also the same people to look out for everybody else and make sure the less outgoing kids had a place to sit in the group and fit in. So we were a quirky group, but we all felt safe there as a consequence. And I understand that mentality. And I think there is a very real redeeming quality to it, but there's also a problem with it, and the problem is that ==it has allowed us to disregard parts of the Bible that teach against being foolish==. God gave us our brains, and he expects us to use it circumspectly, and think wisely about things. I'm not against humor. I'm against stupidity. There is an incredibly sophisticated yet simple version of humor that takes wit and work, and you can't be lazy, but it's 10,000 times more funny than a gag real. The Bible says the thought of foolishness is sin, and so it's the same mentality that fosters a culture that I agree has virtue that also encourages behaviors that are less than virtuous.

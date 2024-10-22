@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/computer/buying-hard-drives/","created":"Jun 25, 2024, 11:45 AM"}
+dg-publish: true
+dg-created: Jun 25, 2024, 11:45 AM
 ---
-
 
 
 When buying a hard drive, there are several important considerations and metrics to pay attention to in order to ensure it meets your needs. Here's a comprehensive list:

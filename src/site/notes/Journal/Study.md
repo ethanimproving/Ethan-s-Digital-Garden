@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/journal/study/","tags":["jobhunt","algorithmtraining"],"created":"May 14, 2024, 1:37 PM"}
+dg-publish: true
+dg-created: May 14, 2024, 1:37 PM
+tags: [jobhunt, algorithmtraining]
 ---
-
 
 The rest of my life depends on whether or not I continue studying when I don't feel like it. I don't feel like it now. These algorithms are boring to me. I want to watch TV in the background. I want to go for a run. I want to study my ancestors. Why are these algorithms important?
 

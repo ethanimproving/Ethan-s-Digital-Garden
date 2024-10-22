@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/renovation-skills/appliences/under-desk-treadmill/","tags":["oakmore"]}
+dg-publish: true
+cost: $250
+priority: 1
+tags: [oakmore]
+bought: true
 ---
-
 
 | Rank | Brand                 | Description                                               |
 |------|-----------------------|-----------------------------------------------------------|

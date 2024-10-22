@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/chores/lawn-care/7322-oakmore-lawn/","created":"Feb 26, 2024, 8:40 PM"}
+dg-publish: true
+dg-created: Feb 26, 2024, 8:40 PM
 ---
-
 
 | Yard Segment | Area          |
 | ------------ | ------------- |

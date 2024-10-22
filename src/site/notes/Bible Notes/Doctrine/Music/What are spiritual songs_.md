@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/doctrine/music/what-are-spiritual-songs/","created":"Jul 29, 2018, 3:10 PM"}
----
+dg-publish: true
+dg-created: Jul 29, 2018, 3:10 PM
+dg-updated: Jul 29, 2018, 3:11 PM
 
+---
 
 I think it's a mistake for Christians to automatically assume that when Paul said "spiritual songs," he was talking about Chris Tomlin. He was talking about David Crowder. Phil Wickem. We need to be careful in understanding what it means, and it surprises me how carelessly we throw taht around and say, "See? New song. There are no restrictions on how God wants praise to be offered." You're right. God doesn't give us a big list of restrictions about how not to do music. Instead he gives us a model of how he does want it done. There are at least 3.  In Spirit and in Truth, in Psalms, and hymns, and spiritual songs, and in skillfully with a new song. We know the psalms, most of us don't sing it. We know what hymns are. Most churches don't sing it. (And by the way, don't tell me our modern hymns were the old equivalent of rock and roll. We're not making the argument from cultural taste. We're making the argument from the intrinsic qualities of music over and against what the Bible commands.)
 

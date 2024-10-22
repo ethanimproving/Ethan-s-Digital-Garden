@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/journal/stop-making-assumptions/","tags":["journal"],"created":"Oct 27, 2023, 2:30 PM"}
+dg-publish: true
+dg-created: Oct 27, 2023, 2:30 PM
+tags: [journal]
 ---
-
 
 The other day we were driving in the car and I saw white and blue flags on a car, and I said, "Speaking of [[Politics/History/Wars#Israeli-Palestinian War\|Israel...]]" And as we moved passed it I realized, "Oh, those are Cowboys flags." Mariana said, "See? You make assumptions."
 

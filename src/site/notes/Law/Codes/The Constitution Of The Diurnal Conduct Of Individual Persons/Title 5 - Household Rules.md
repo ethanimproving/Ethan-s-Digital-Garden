@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/title-5-household-rules/","created":"Nov 22, 2023, 7:01 PM"}
+dg-publish: true
+dg-created: Nov 22, 2023, 7:01 PM
+author: Ethan Miller
 ---
-
 
 
 

@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/journal/striving-against-being-purely-rational-and-heartless/","tags":["sanctification","speech"],"created":"Dec 28, 2018, 9:40 AM"}
+dg-publish: true
+dg-created: Dec 28, 2018, 9:40 AM
+tags: [sanctification, speech]
 ---
-
 
 Someone made me realize recently that I come across as purely rational and heartless, without feeling. God has shown me over the years how that strives against the grain of scripture, and I've vowed to myself that I would walk in his Spirit which is in me. What that looks like is hard to tell. Maybe it looks like Ephesians 4. Maybe it looks like Galatians 5. For me, right now it looked like writing a letter, so this is my start.
 

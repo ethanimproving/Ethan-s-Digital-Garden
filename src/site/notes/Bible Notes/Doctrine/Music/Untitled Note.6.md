@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/doctrine/music/untitled-note-6/","created":"Jul 16, 2019, 7:25 AM"}
----
+dg-publish: true
+dg-created: Jul 16, 2019, 7:25 AM
+dg-updated: Jul 16, 2019, 7:27 AM
 
+---
 
 A big shift I've noticed in worship music from 500-2004 to 2010 is the old songs declared the majesty and power and holiness of God, and songs after 2010 are mostly about his love as it relates to me (Your Love Never Fails, He Loves Us), what I'm going to do (Oceans), etc. It's focused on me, not God.
 

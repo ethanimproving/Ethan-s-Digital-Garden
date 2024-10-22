@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/houses/tenison-village-by-ashton-woods/","tags":["homes2023","expensive"],"created":"Jun 14, 2023, 11:57 PM"}
+dg-publish: true
+dg-created: Jun 14, 2023, 11:57 PM
+cost: 366,000
+sq-ft: 2,168
+tags: [homes2023, expensive]
 ---
-
 
 [Tenison Village](https://www.ashtonwoods.com/dallas/tenison) is in an ideal location, balanced between church, home, and work. It is a bit expensive, but possibly wroth the high price.
 

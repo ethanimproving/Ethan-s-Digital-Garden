@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/doctrine/music/untitled-note-8/","created":"Jan 17, 2019, 4:26 PM"}
----
+dg-publish: true
+dg-created: Jan 17, 2019, 4:26 PM
+dg-updated: Jan 17, 2019, 4:29 PM
 
+---
 
 That was needed.
 

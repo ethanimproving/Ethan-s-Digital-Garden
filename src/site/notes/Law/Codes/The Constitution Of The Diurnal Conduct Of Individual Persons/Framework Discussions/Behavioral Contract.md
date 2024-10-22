@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/framework-discussions/behavioral-contract/","created":"Jan 30, 2012, 7:30 PM"}
+dg-publish: true
+dg-created: Jan 30, 2012, 7:30 PM
 ---
-
 
 # Theo/Jeanne Miller ♦ Brian Dewberry
 *(January 30, 2012)*

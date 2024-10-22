@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/money/cars/2021-toyota-corolla/guides/remove-car-oder/","created":"Feb 02, 2024, 3:07 PM"}
+dg-publish: true
+dg-created: Feb 02, 2024, 3:07 PM
 ---
-
 
 # Aerosol Antibacterial Spray Disinfectant
 

@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/journal/memories-of-home-and-dishwashing/","created":"Jun 14, 2023, 8:46 PM"}
+dg-publish: true
+dg-created: Jun 14, 2023, 8:46 PM
 ---
-
 
 Father, teach me to be righteous. I'm going to miss my parent's house. I'm going to miss the times in high school and college when I would wash the dishes while watching a TV show. Eventually it morphed into watching sermons instead. Every lunch time I turned on Pastor Anderson. My mother didn't like him, my sisters were appalled. It didn't matter to me. I was hungry for knowledge. I was hungry for the word of God and for righteousness. I was hungry to know you. Against all resistance it didn't matter. I wasn't in it to gain somebody's approval. I was in it to gain righteousness and relationship.
 

@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/money/cars/2021-toyota-corolla/guides/check-car-s-history-and-value/","created":"Jan 26, 2024, 1:11 PM"}
+dg-publish: true
+dg-created: Jan 26, 2024, 1:11 PM
 ---
-
 With a free [Carfax](https://www.carfax.com/vehicle-history-reports/) account you can add up to 8 vehicles to [your garage](https://www.carfax.com/Service/garage) and see the history, remove cars and add new ones as needed.
 
 - [nada.org](https://www.nada.org/)

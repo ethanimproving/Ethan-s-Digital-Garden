@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/oakmore/duncanville/","created":"Jun 24, 2023, 6:37 PM"}
+dg-publish: true
+dg-created: Jun 24, 2023, 6:37 PM
 ---
-
 
 To find the official neighborhood divisions for Duncanville, Texas, you can follow these steps:
 
