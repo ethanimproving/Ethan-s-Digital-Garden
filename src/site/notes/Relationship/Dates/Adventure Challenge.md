@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/dates/adventure-challenge/"}
+dg-publish: true
 ---
-
 
 # Couples Edition
 

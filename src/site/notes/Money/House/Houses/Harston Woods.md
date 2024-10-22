@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/houses/harston-woods/","created":"Jun 14, 2023, 11:20 PM"}
+dg-publish: true
+dg-created: Jun 14, 2023, 11:20 PM
 ---
-
 
 # Info
 

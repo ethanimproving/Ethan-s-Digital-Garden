@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/signs-she-s-not-girlfriend-material/","tags":["diary","breakup","parenting"],"created":"Apr 19, 2023, 8:36 PM"}
+dg-publish: true
+dg-created: Apr 19, 2023, 8:36 PM
+tags: [diary, breakup, parenting]
 ---
-
 
 [She’s not girlfriend material](https://www.youtube.com/watch?v=bPOl2PUoUlw)
 

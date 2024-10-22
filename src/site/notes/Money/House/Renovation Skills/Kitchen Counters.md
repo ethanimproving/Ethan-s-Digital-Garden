@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/renovation-skills/kitchen-counters/","tags":["oakmore"],"created":"Jun 05, 2023, 2:16 PM"}
+dg-publish: true
+dg-created: Jun 05, 2023, 2:16 PM
+priority: 3
+cost: $3,500
+tags: [oakmore]
 ---
-
 
 Carlos has a granite guy who will add a granite top for $3,500. Brian found some cabinets for 200 per cabinet at the restore. 
 

@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/parenting/social/influence/","tags":["goals","headway","books"],"created":"Mar 8, 2023, 6:59 AM"}
+dg-publish: true
+dg-created: Mar 8, 2023, 6:59 AM
+tags: [goals, headway, books]
 ---
-
 
 # Make A Clear Goal
 

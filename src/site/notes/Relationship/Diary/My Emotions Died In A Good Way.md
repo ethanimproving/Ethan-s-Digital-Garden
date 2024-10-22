@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/my-emotions-died-in-a-good-way/","tags":["crush","diary","amy","mariana","mounika","siri","jasleen"],"created":"Jul 28, 2020, 8:02 PM"}
+dg-publish: true
+dg-created: Jul 28, 2020, 8:02 PM
+dg-updated: 
+tags: [crush, diary, amy, mariana, mounika, siri, jasleen]
 ---
-
 
 Oddly I'm not thinking about Mariana anymore. If she can come here and prove to me that she can love Jesus, than I'll marry her, but if she's just a normal girl with a kind heart who posts memes with vulgar words, bye bye. 
 

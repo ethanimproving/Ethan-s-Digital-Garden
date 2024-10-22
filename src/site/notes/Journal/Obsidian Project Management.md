@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/journal/obsidian-project-management/","created":"Dec 30, 2023, 9:11 AM"}
+dg-publish: true
+dg-created: Dec 30, 2023, 9:11 AM
 ---
-
 
 # Lack of Structure
 

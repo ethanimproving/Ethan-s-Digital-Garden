@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/history/family-tree/wales/gruffydd-i/","tags":["timeline","gwynedd"]}
+dg-publish: true
+birth: 1055
+line: Gwynedd
+start-date: 1055-01-01
+color: orange
+tags: [timeline, gwynedd]
 ---
-
 <span
 	  class='ob-timelines' 
 	  data-img = 'https://i.imgur.com/9bJHgKb.jpeg'>

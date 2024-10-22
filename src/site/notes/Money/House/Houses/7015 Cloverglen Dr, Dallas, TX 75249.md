@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/houses/7015-cloverglen-dr-dallas-tx-75249/","tags":["homes2023"],"created":"Jul 03, 2023, 10:44 PM"}
+dg-publish: true
+dg-created: Jul 03, 2023, 10:44 PM
+cost: 325,000
+sq-ft: 1,855
+year: 1979
+tags: [homes2023]
 ---
-
 
 [7015 Cloverglen Dr, Dallas, TX 75249](https://www.zillow.com/homes/7015-Cloverglen-Dr-Dallas,-TX-75249_rb/26892594_zpid/)
 

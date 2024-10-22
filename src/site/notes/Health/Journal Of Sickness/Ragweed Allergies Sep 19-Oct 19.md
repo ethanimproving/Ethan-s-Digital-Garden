@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/health/journal-of-sickness/ragweed-allergies-sep-19-oct-19/","tags":["timeline","sick"]}
+dg-publish: true
+start-date: 2023-09-19
+end-date: 2023-10-19
+type: range
+color: gray
+tags: [timeline, sick]
 ---
-
 
 I haven't had seasonal allergies until this year. Carol and Kritika suggested [[Health/Sick Care/Sore Throat Treatment#Allergies\|medication for allergies]].
 

@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/politics/freemasonry/conspiracy-theories/","created":"Jul 04, 2023, 9:46 AM"}
+dg-publish: true
+dg-created: Jul 04, 2023, 9:46 AM
 ---
-
 
 The phrase "conspiracy theory" emerged in the mid-20th century and was coined to describe a particular type of explanation or belief. Its origin can be traced back to the United States in the 1950s during the Cold War era.
 

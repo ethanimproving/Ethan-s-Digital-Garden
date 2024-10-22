@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/the-accusor-has-no-accusation/","created":"May 19, 2018, 5:46 PM"}
+dg-publish: true
+dg-created: May 19, 2018, 5:46 PM
 ---
-
 
 # The Despair Of Sin
 

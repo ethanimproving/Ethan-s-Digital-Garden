@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/houses/4550-solar-ln-dallas-tx-75216/","tags":["homes2023","nixed"],"created":"Jun 29, 2023, 7:49 PM"}
+dg-publish: true
+dg-created: Jun 29, 2023, 7:49 PM
+cost: 249,990
+sq-ft: 1,440
+year: 2016
+tags: [homes2023, nixed]
 ---
-
 
 [4550 Solar Ln, Dallas, TX 75216](https://www.zillow.com/homedetails/4550-Solar-Ln-Dallas-TX-75216/26857252_zpid/?)
 

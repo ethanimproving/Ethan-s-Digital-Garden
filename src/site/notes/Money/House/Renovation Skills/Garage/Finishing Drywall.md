@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/renovation-skills/garage/finishing-drywall/","created":"Dec 21, 2023, 11:52 PM"}
+dg-publish: true
+dg-created: Dec 21, 2023, 11:52 PM
 ---
-
 
 # Replacing Bowing Drywall
 

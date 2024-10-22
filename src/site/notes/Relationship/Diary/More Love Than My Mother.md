@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/more-love-than-my-mother/","tags":["diary","poetry"],"created":"Apr 2, 2023, 6:04 PM"}
+dg-publish: true
+dg-created: Apr 2, 2023, 6:04 PM
+dg-updated: 
+tags: [diary, poetry]
 ---
-
 
 You are the princess I needed to build my kingdom. You are the strength I needed to climb higher. The mist in the cool of the day that refreshes my soul could not compare with how you heal me when my head is resting in your lap, caressed by your love. Your laughter brings me to life, and your smile awakens my dreams. Your kiss is the kiss of love. Your voice is the chorus of heaven, reminding me how strong I am. I am capable of anything as long as you stand behind me. I will take the stars from the skies and make them into an ornament around your neck. I will build you a home if we build it together.
 

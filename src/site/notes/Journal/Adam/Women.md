@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/journal/adam/women/","created":"Jun 26, 2024, 4:29 PM"}
+dg-publish: true
+dg-created: Jun 26, 2024, 4:29 PM
 ---
-
 
 Bro, all throughout the Bible women were the downfall of great men.
 - David's downfall was Bathsheba.

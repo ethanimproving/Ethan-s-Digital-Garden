@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/renovation-skills/garage/epoxy-in-garage/","tags":["oakmore"],"created":"Jul 06, 2023, 11:07 PM"}
+dg-publish: true
+dg-created: Jul 06, 2023, 11:07 PM
+priority: 5
+cost: $0
+tags: [oakmore]
 ---
-
 
 # Current Condition
 

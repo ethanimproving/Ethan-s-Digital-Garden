@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/renovation-skills/lvl-beam/","tags":["oakmore"],"created":"Jun 03, 2023, 11:05 AM"}
+dg-publish: true
+dg-created: Jun 03, 2023, 11:05 AM
+priority: 0
+cost: $1,400
+tags: [oakmore]
 ---
-
 
 I am wanting to knock down this wall and insert a longer LVL beam. You can see the existing one in [this video](https://photos.google.com/share/AF1QipP4FoH7k1BFiC72ZbeET5wZrM_KLbxgea7MyXqawah7Ng65-BXAc-TCBHZfo7tzEw/photo/AF1QipPBeFsr2ersU9UwQgN79lJvNOFb2_2vdKuZgvYL?key=V0VqVzg5S2N5aklwSDJvSGd3S3hLNmtWQWpGTnhB).
 

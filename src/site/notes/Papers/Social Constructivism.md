@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/papers/social-constructivism/","created":"Jan 07, 2024, 9:17 AM"}
+dg-publish: true
+dg-created: Jan 07, 2024, 9:17 AM
 ---
-
 
 For some reason I learn the best through watching debates. I learned plenty science watching theist vs atheist debates, partially through listening to the debaters, and partially because it made it have a use to learn science, so it became interesting to me. Same with nutrition. I learn best watching doctors debate with other doctors and they seem to make everything make more sense in debate style than in lecture style. Is there academic research into my style of learning? A term for it? What implications does it have on me?
 

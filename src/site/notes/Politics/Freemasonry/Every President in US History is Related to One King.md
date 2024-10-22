@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/politics/freemasonry/every-president-in-us-history-is-related-to-one-king/","created":"Jul 09, 2023, 9:11 PM"}
+dg-publish: true
+dg-created: Jul 09, 2023, 9:11 PM
 ---
-
 
 [Every president in US history is related to one king](https://youtube.com/shorts/8epsI5-3HRo?feature=share)
 

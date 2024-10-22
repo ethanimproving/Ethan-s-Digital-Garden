@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/health/journal-of-sickness/bronchitis-july-5-2024/","tags":["timeline","sick"]}
+dg-publish: true
+start-date: 2024-05-08
+end-date: 2024-11-08
+type: range
+color: gray
+tags:
+  - timeline
+  - sick
 ---
-
 
 [What's Going Around?](https://kesslerpediatrics.com/Resources/Medical-Library/What-s-Going-Around)
 

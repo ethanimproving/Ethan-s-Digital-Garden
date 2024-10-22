@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/my-first-time-rebuking-pastor-anderson/","title":"My first time rebuking Pastor Anderson","tags":["timeline","salvation"]}
+dg-publish: true
+start-date: 2016-04-21
+title: My first time rebuking Pastor Anderson
+date-limit: year
+importance: 30
+tags: [timeline, salvation]
 ---
-
 
 Apr 21, 2016 at 12:50 AM  
 Ethan Miller

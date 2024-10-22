@@ -1,7 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/ethan-s-room/fix-halogen-lamp/","tags":["oakmore-renovation-task"],"created":"Jan 01, 2024, 7:36 PM"}
+dg-publish: true
+dg-created: Jan 01, 2024, 7:36 PM
+date-completed: Jan 01, 2024, 4:03 PM
+parent: Ethan's Room
+status: Complete
+minutes: 120
+assigned-to: Ethan
+depends-on:
+tags:
+  - oakmore-renovation-task
 ---
-
 
 ![](https://lh3.googleusercontent.com/pw/ABLVV8722q48SbzXGubSC_yaKbTPgijJdKkPBfeBqKi59TjPoZcTP45ILxEBVsc_jUk9qA2iL2tk_ki4gMebKugIPigdnxkH2PNwCQExaKTYH42gEuJPAdAT5W0RZrNn5MJBEJtXHh270FeGjci4ZKnmd7RYmw=w701-h1245-s-no-gm?authuser=0)
 

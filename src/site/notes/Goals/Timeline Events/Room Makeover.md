@@ -1,7 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/room-makeover/","tags":["timeline","personal"]}
+dg-publish: true
+start-date: 2022-12-26
+end-date: 2023-03-03
+type: range
+color: gray
+date-limit: year
+importance: 50
+tags:
+  - timeline
+  - personal
 ---
-
 
 Google Photos: [Reorganizing Room](https://photos.app.goo.gl/sWAMAj4ds5kxzsGeA)
 

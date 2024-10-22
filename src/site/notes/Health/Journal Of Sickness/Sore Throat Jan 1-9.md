@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/health/journal-of-sickness/sore-throat-jan-1-9/","tags":["timeline","sick"]}
+dg-publish: true
+start-date: 2024-01-01
+end-date: 2024-01-09
+type: range
+color: gray
+tags:
+  - timeline
+  - sick
 ---
-
 
 Last night I was sitting in the living room talking to Faith, and I suddenly felt uncomfortable in my throat. My the time I went to bed I realized I had a sore throat. I woke up the next day feeling worse.
 

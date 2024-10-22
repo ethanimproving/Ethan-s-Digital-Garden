@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/deeper-than-skin/","tags":["diary","letters","crush"],"created":"Mar 14, 2020, 10:28 PM"}
+dg-publish: true
+dg-created: Mar 14, 2020, 10:28 PM
+dg-updated: 
+tags: [diary, letters, crush]
 ---
-
 
 You are beautiful. You are so beautiful. I didn't think anything of you when I first met you. I approached you because I thought you were pretty and I wanted to impress my friends by talking to you. They think I'm the kind of guy that goes on a lot of dates and has a lot of courage with girls, so I try to fit into that frame and keep that perception of me alive. That's the reason I talked to you.
 

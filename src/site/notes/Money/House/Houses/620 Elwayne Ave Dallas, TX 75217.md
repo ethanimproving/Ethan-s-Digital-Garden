@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/houses/620-elwayne-ave-dallas-tx-75217/","tags":["homes2023"],"created":"Jun 12, 2023, 8:29 PM"}
+dg-publish: true
+cost: 310,000
+sq-ft: 1,600
+dg-created: Jun 12, 2023, 8:29 PM
+tags: [homes2023]
 ---
-
 
 [620 Elwayne Ave, Dallas, TX 75217](https://www.homes.com/property/620-elwayne-ave-dallas-tx/fwj81wjntlwpd/)
 

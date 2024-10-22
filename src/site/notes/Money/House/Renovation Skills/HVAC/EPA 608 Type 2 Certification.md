@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/renovation-skills/hvac/epa-608-type-2-certification/","created":"Jul 02, 2024, 10:17 PM"}
+dg-publish: true
+dg-created: Jul 02, 2024, 10:17 PM
 ---
-
 
 To purchase R22 Freon and service your personal AC unit, you need to obtain an [EPA Section 608 Type II](https://www.epa.gov/section608/section-608-technician-certification-requirements) or Universal certification. These certifications allow you to handle high-pressure refrigerants, including R22. Type II Certification: Allows you to work on high-pressure systems such as residential air conditioning and heat pumps, which is all I need for personal use. Universal would be overkill, designed for all types of equipment, including low-pressure, high-pressure, and very high-pressure appliances. Type I certification only allows you to work on small appliances containing five pounds or less of refrigerant, such as window air conditioners, refrigerators, and freezers.
 

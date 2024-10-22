@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/the-price-of-a-virgin/","created":"Oct 22, 2022, 12:23 PM"}
+dg-publish: true
+dg-created: Oct 22, 2022, 12:23 PM
+dg-updated: 
 ---
-
 
 For all this technology, for every king like pleasure this generation offers, I would trade it for the blessing of virginity. I would go back in time and give up cars and roads and air conditioner for a woman who is mine and mine alone. Mariana is no virgin, and I will never love her as much as I would if she were a virgin. I would see her smile differently. When I imagine her as a virgin, I’m filled with unwavering love without second thought. But with the yoke of her sins I see her as worth less. With her fornications she is not valuable like a virgin is. She is used and wasted. She is not new neither pure. She is the desolate leftovers of other men. She has been used and tossed aside, and is now mine. What a difference it would make if she were a virgin.
 

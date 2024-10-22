@@ -1,10 +1,16 @@
 ---
-dg-publish: true
-dg-created: Jan 08, 2024, 7:44 PM
+{"dg-publish":true,"permalink":"/health/nutrition/ideal-female-physique/","created":"Jan 08, 2024, 7:44 PM"}
 ---
+
+
+![](https://i.imgur.com/xLTWME3.png)
+
+![](https://external-preview.redd.it/slcurmuw3H7L6lkw10XLwiiMxGLzKbYBBqVDukxu_YQ.jpg?auto=webp&s=e1ecefd01099de3e48f32a14775e725d0126ecf0)
+
+![](https://i.imgur.com/yG5DeAY.png)
+
 
 ![](https://lh3.googleusercontent.com/pw/ABLVV867O7j5QZZrZ7BEPIwfVRwKFIYeaAmGErOf5TgT0aw_BgNX5jf8rdHlXrtQDF0yvjL-5DKWx0dl8xBS1qbW5GbFqZEHSx-gwCfmVV6IC-1vUMP2Cfth59_fOrPDdvFOLgYSfSKSwCbErkzpbgTZ0xgpkA=w1033-h1377-s-no-gm?authuser=0)
 
 ![](https://lh3.googleusercontent.com/pw/ABLVV87eH5eriPINAH4ReAMhGs3Nh1EoEdLIaVlUlJy6YR_AWT5MZyw3b59zXwIjpu_L5alqZT6fRDynf61kJYuiIgIR9viiRJ-TMmor_YICwGbdi1lm-0SVkTKXFNaMuyMVa82K3LJgHK7ObT7lBOShtM1UyQ=w1033-h1291-s-no-gm?authuser=0)
 
-![](https://i.imgur.com/xLTWME3.png)

@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/parenting/social/soul-winning-guide/","created":"Aug 22, 2017, 1:28 AM"}
+dg-publish: true
+dg-created: Aug 22, 2017, 1:28 AM
 ---
-
 
 Ethan Miller
 Engaging The World

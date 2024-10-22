@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/health/smoking/smoking-and-polyphenols/","created":"Jan 05, 2024, 8:03 PM"}
+dg-publish: true
+dg-created: Jan 05, 2024, 8:03 PM
 ---
-
 
 - Oxidative Stress
 - Cancer

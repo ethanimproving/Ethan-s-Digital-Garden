@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/renovation-skills/appliences/washer-dryer/","tags":["oakmore"],"created":"Jun 01, 2023, 12:02 PM"}
+dg-publish: true
+dg-created: Jun 01, 2023, 12:02 PM
+cost: $1,300
+priority: 2
+tags:
+  - oakmore
+bought: true
 ---
-
 
 [LG 4.5 cu. ft. Combination ELECTRIC Front Load Washer/Dryer with Allergiene Cycle](https://www.costco.com/lg-4.5-cu.-ft.-combination-electric-front-load-washer/dryer-with-allergiene-cycle.product.100660040.html)
 

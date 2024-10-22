@@ -1,7 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/money/cars/2021-toyota-corolla/2024-car-replacement/","tags":["timeline","personal"],"created":"Jan 23, 2024, 6:12 PM"}
+dg-publish: true
+dg-created: Jan 23, 2024, 6:12 PM
+start-date: 2024-01-23
+end-date: 2024-01-27
+type: range
+color: blue
+tags:
+  - timeline
+  - personal
 ---
-
 This morning at 9:25 on my way to work, my [[Journal/Car Crash\|car hydroplaned]] a couple of miles before my exit near Gateway church and spun out of control. It hit a wall and activated the airbags. The IntelliDrive app automatically called 911 and an officer arrived several minutes later.
 
 Caleb was nice enough to drive me around Thursday evening, Friday evening, and all day Saturday. After messaging 28 listings on Facebook market place, seeing 6 cars all around DFW (one of them twice), making 4 offers, I finally ended up purchasing a [[Money/Cars/2021 Toyota Corolla/2021 Toyota Corolla LE\|2021 Toyota Corolla LE]] with some hail damage for $12,500 out the door, including TTL.

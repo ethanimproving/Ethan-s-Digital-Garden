@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/journal/are-plug-ins-worth-writing/","title":"Are plug-ins worth writing?","tags":["timemanagement"],"created":"Apr 15, 2023, 8:46 AM"}
+dg-publish: true
+title: Are plug-ins worth writing?
+dg-created: Apr 15, 2023, 8:46 AM
+tags: [timemanagement]
 ---
-
 
 # Knowledge Will Cease
 Create a payoff chart that shows what value it is to write these plugins for Obsidian. If I spend my life gathering information, and then I die, and then ==in 100 years another catastrophe happens on earth and technology is wiped out, all of that knowledge perishes==. What is the value of the knowledge? Which knowledge should I seek? Are the plugins worth it? Do they have eternal value or temporal value?

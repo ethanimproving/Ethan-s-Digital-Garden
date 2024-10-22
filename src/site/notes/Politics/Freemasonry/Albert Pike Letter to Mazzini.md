@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/politics/freemasonry/albert-pike-letter-to-mazzini/","created":"Jul 04, 2023, 9:23 AM"}
+dg-publish: true
+dg-created: Jul 04, 2023, 9:23 AM
 ---
-
 
 [The Illuminati Plan for 3 World Wars, August 15, 1871](https://ia601900.us.archive.org/16/items/albert-pike-letter-to-mazzini/Albert%20Pike%20Letter%20to%20Mazzini.pdf) is a letter that Albert Pike wrote to Giuseppe Mazzini in 1871 regarding a conspiracy involving three world wars, that were planned in an attempt to take over the world. However, there is no evidence that this letter was actually written by Albert Pike. The letter was first published by William Guy Carr in his book “[Pawns in the Game](https://freemasonry.bcy.ca/anti-masonry/pike_mazzini.html)” in 1958. The [British Museum Library](https://www.academia.edu/74355381/Albert_Pike_Letter_to_Mazzini) in London had the Pike letter to Giuseppe Mazzini on display until 1977.
 

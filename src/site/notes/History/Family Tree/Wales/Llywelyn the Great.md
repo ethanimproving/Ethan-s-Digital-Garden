@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/history/family-tree/wales/llywelyn-the-great/","tags":["timeline","gwynedd"]}
+dg-publish: true
+birth: 1174
+line: Gwynedd
+start-date: 1174-01-01
+color: orange
+tags: [timeline, gwynedd]
 ---
-
 <span
 	  class='ob-timelines' 
 	  data-img = 'https://i.imgur.com/tuSwaXB.jpeg'>

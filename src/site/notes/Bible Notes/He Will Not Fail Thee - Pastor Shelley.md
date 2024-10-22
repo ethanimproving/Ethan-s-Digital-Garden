@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/he-will-not-fail-thee-pastor-shelley/","tags":["mothers","wives","marriage"],"created":"Jun 23, 2024, 10:30 PM"}
+dg-publish: true
+dg-created: Jun 23, 2024, 10:30 PM
+author: Pastor Shelley
+verse-reference: Leviticus 25:14
+tags: [mothers, wives, marriage]
 ---
-
 
 
 This may be a difficult task, yet be strong and of good courage because God will not fail you. 

@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/health/sick-care/montezuma-s-revenge/","created":"Sep 08, 2023, 3:53 PM"}
+dg-publish: true
+dg-created: Sep 08, 2023, 3:53 PM
 ---
-
 
 The term "Montezuma's Revenge" is often associated with Mexico, as it is named after the Aztec emperor Montezuma II. The idea is that travelers to Mexico might experience gastrointestinal discomfort due to the adjustment to local cuisine and water sources, and according to local folklore it is linked to Montezuma II taking symbolic revenge against foreign invaders after Spanish conquistadors invaded Mexico. This folklore adds a humorous twist to the discomfort travelers may face when trying new foods and water sources in unfamiliar regions.
 

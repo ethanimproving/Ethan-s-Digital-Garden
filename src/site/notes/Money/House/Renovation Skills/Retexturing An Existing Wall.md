@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/renovation-skills/retexturing-an-existing-wall/","tags":["oakmore"]}
+dg-publish: true
+gd-created: Jun 03, 2023, 9:33 PM
+priority: 1
+cost: $200
+tags: [oakmore]
 ---
-
 
 1. Scrape
 2. Sand

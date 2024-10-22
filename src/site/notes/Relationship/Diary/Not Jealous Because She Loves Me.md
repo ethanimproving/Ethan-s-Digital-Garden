@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/not-jealous-because-she-loves-me/","created":"Sep 1, 2022, 10:07 AM"}
+dg-publish: true
+dg-created: Sep 1, 2022, 10:07 AM
+dg-updated: 
 ---
-
 
 When a guy offers your girlfriend help, there's no need to get jealous. If he's doing it to be friendly, great. If he's going it with intentions to steal her, nothing is going to come to fruition. Helping Mariana setup screen monitors is the exact kind of thing Dustin would do for Bri or Carol or Kritika or anyone. Not all guys are out there to steal your woman. We are problem solvers, and we like to be helpful.
 

@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/chores/lawn-care/1310-leeward-fertilizer-history/","created":"Feb 26, 2024, 11:13 AM"}
+dg-publish: true
+dg-created: Feb 26, 2024, 11:13 AM
 ---
-
 
 
 | Date       | Description                             | Type        | Cost                 | Comments                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                 |

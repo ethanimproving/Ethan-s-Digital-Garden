@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/health/journal-of-sickness/sore-throat-dec-16-21/","tags":["timeline","sick"]}
+dg-publish: true
+start-date: 2023-12-16
+end-date: 2023-12-21
+type: range
+color: gray
+tags:
+  - timeline
+  - sick
 ---
-
 
 I've had a dry throat the last few days, but in a more severe way than just dry. I feel the constant need to clear it, and the need for warm drinks to comfort it. It isn't as severe as a sore throat to where it's painful to talk or drink, but the constant need to clear it is annoying, and there's a sharp cut feeling at the bottom base of my tongue.
 
