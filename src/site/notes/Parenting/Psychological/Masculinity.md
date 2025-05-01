@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/parenting/psychological/masculinity/"}
+dg-publish: true
 ---
-
 
 * [Journal: God Will Withhold The Wrong Girlfriend](https://youtu.be/yiFUJb9Ynr0?t=525)
 * [Steven Anderson: The Warrior Spirit](https://www.youtube.com/watch?v=cQ_Q3krqA0g&t=13s)

@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/virtue/","created":"Feb 19, 2023, 9:53 AM"}
+dg-publish: true
+dg-created: Feb 19, 2023, 9:53 AM
 ---
-
 
 “You don’t want to finish?” “No.” “You didn’t want to do that at all, did you?” “Not really. But I don’t have a choice apparently.”
 

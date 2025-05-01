@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/what-i-ll-give-up-for-mariana/","tags":["diary","letters","crush"],"created":"Aug 30, 2020, 10:50 PM"}
+dg-publish: true
+dg-created: Aug 30, 2020, 10:50 PM
+dg-updated: 
+tags: [diary, letters, crush]
 ---
-
 
 Dear Mariana, 
 

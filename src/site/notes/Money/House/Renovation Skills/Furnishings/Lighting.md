@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/renovation-skills/furnishings/lighting/","tags":["oakmore"],"created":"Jul 21, 2023, 4:39 PM"}
+dg-publish: true
+dg-created: Jul 21, 2023, 4:39 PM
+cost: $241.55
+priority: 1
+tags: [oakmore]
 ---
-
 
 # Dinning Room
 

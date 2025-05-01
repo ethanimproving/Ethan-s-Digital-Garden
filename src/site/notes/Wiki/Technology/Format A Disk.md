@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jul 02, 2024, 10:41 AM
+{"dg-publish":true,"permalink":"/wiki/technology/format-a-disk/","created":"Jul 02, 2024, 10:41 AM"}
 ---
+
 
 # How To Format A Disk
 

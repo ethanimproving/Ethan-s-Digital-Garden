@@ -1,6 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/a-poetic-reflection-on-devotion-and-longing/","created":"Nov 11, 2022, 7:03 AM"}
+dg-publish: true
+dg-created: Nov 11, 2022, 7:03 AM
 ---
-
 
 If the depth ceased from falling, it would be too small to measure my love for you. I long for your embrace every morning, to roll over and take you into my arms, your right breast in my right hand, until you turn to me with your wakening eyes, the most angelic face any daughter of man has been given by God. How beautiful, how stunning is my beloved, full of grace and truth. Her kindness is as the dew upon the morning grass, refreshing all the birds and beasts of the field. ==Her due benevolence is surging and passionate, as she fills me with kisses never known by kings==. She withdraws her hands from the back of my head as her garments are received by the ground. There are trading routes for ships, and tunnels for trains, and even I enter into the chambers of love. She moves about me, on top as her sensual pleasures surge through my body, and even as at the climax of the cross, it is finished. Her breasts are covered in my offspring, and I gaze at her naked body as a man gazes at the sculptures of great artists. I long for her day after day, to receive my manhood in exchange for love.

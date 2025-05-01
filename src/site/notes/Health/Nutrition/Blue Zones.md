@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/health/nutrition/blue-zones/","created":"Jan 05, 2024, 6:59 PM"}
+dg-publish: true
+dg-created: Jan 05, 2024, 6:59 PM
 ---
-
 
 Blue Zones are regions around the world where people tend to live longer, healthier lives. These areas have been identified based on studies of communities with high percentages of centenarians. The concept originated from the work of demographer and researcher Dan Buettner, who identified five Blue Zones:
 

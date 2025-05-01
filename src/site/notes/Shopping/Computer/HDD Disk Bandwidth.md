@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/computer/hdd-disk-bandwidth/","created":"Jun 16, 2024, 11:35 PM"}
+dg-publish: true
+dg-created: Jun 16, 2024, 11:35 PM
 ---
-
 
 Dad just upgraded his desktop for Father's Day, and as a result offered his old components to upgrade Faith's desktop in the hallway. The last time she used it was November 2021. Her Google Chrome History was of a book she made for Aunt Edith titled, "The Bible Way To Heaven." She illustrated pictured for her book using Gimp, but her computer kept beeping while it was on, indicating a component failure.
 
@@ -14,10 +14,9 @@ Fast forward to 2024, and now she has a new computer thanks to dad's upgrades. H
 # Monitoring Tools
 
 - **Resource Monitor:**
-    
     - Provides a more detailed view of what’s using the disk. Open it by typing `resmon` in the Run dialog (`Win + R`).
+
 - **Performance Monitor:**
-    
     - Open it by typing `perfmon` in the Run dialog (`Win + R`). This tool provides more granular details on system performance.
 
 It looks like her system is being bogged down by system tasks. However, it's only 8MB per second. That's not a lot.

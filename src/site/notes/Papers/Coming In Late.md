@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/papers/coming-in-late/","tags":["job","negociation","persuasion"],"created":"Apr 4, 2023, 11:11 PM"}
+dg-publish: true
+dg-created: Apr 4, 2023, 11:11 PM
+tags: [job, negociation, persuasion]
 ---
-
 
 # Ride Inspiration Until It Ends
 

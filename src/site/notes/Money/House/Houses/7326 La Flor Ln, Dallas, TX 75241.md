@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/houses/7326-la-flor-ln-dallas-tx-75241/","tags":["homes2023"],"created":"Jun 29, 2023, 9:45 PM"}
+dg-publish: true
+dg-created: Jun 29, 2023, 9:45 PM
+cost: 245,000
+sq-ft: 3,244
+year: 1986
+tags: [homes2023]
 ---
-
 
 [7326 La Flor Ln, Dallas, TX 75241](https://www.zillow.com/homedetails/7326-La-Flor-Ln-Dallas-TX-75241/26856267_zpid/)
 

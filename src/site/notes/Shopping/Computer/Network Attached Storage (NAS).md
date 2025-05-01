@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/computer/network-attached-storage-nas/","created":"Jun 25, 2024, 12:37 PM"}
+dg-publish: true
+dg-created: Jun 25, 2024, 12:37 PM
 ---
-
 
 
 Network Attached Storage (NAS) is a dedicated file storage device that provides local area network (LAN) users with centralized, consolidated disk storage through a standard Ethernet connection. NAS devices are flexible and scalable, allowing users to easily add more storage space as needed.

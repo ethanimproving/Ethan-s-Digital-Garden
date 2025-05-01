@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/relationship/diary/culture-shock/","created":"Dec 6, 2022, 6:11 PM"}
+dg-publish: true
+dg-created: Dec 6, 2022, 6:11 PM
+dg-updated: 
 ---
-
 
 Mariana is going to experience culture shock when she moves here. To alleviate that, I want to understand what are the pillars of her life in Mexico.
 

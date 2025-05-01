@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/health/exercise/8-week-fitness-plan/","created":"Oct 21, 2024, 9:42 PM"}
+dg-publish: true
+dg-created: Oct 21, 2024, 9:42 PM
 ---
-
 
 # Goal Breakdown
 

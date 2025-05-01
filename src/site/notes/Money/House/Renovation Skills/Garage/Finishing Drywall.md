@@ -1,7 +1,78 @@
 ---
-dg-publish: true
-dg-created: Dec 21, 2023, 11:52 PM
+{"dg-publish":true,"permalink":"/money/house/renovation-skills/garage/finishing-drywall/","created":"Dec 21, 2023, 11:52 PM"}
 ---
+
+
+# All Tools
+
+- [x] [BoardMate](https://www.amazon.com/BoardMate-Drywall-Fitting-Supports-Installing/dp/B00PH72GI0/ref=pd_lutyp_sim_d_sccl_1_1/134-3562437-0686944) 
+- [ ] [Telescoping Rod](https://www.amazon.com/Telescopic-Adjustable-Supports-Construction-Drywalls/dp/B09VGJQS81/ref=sr_1_1_sspa)
+- [x] [Drywall Screwgun](https://www.amazon.com/DEWALT-Drywall-Screwgun-Tool-DCF630B/dp/B0BPY8L57P/ref=sr_1_5) ($119)
+- [x] [Screw Magazine Collated Attachment](https://www.amazon.com/Dewalt-DCF6202-Collated-Drywall-Attachment/dp/B085B4WSBP/ref=pd_bxgy_d_sccl_1/141-4436595-8315527) ($87)
+- [x] [Drywall to Wood Collated Screws](https://www.amazon.com/Senco-06A125P-DuraSpin-Drywall-Collated/dp/B000051WTW/ref=pd_bxgy_d_sccl_1/141-4436595-8315527)
+- [x] [Drywall Cut-Out Tool](https://www.amazon.com/DEWALT-Brushless-Drywall-Cut-Out-DCE555B/dp/B0BFJJV95V/ref=pd_bxgy_d_sccl_2/141-4436595-8315527) ($122)
+- [x] [Multi Mark Drywall Cutout Locator Tool](https://www.amazon.com/Calculated-Industries-8115-Drywall-Locator/dp/B00XUY9F5E/ref=sr_1_2)
+- [x] [SDS-Plus Mixing Paddle](https://www.amazon.com/dp/B0BFT7FQ7M/ref=twister_B07R2NFFDH?_encoding=UTF8&th=1)
+- [x] [Drywall Rasp](https://www.amazon.com/ToolPro-Pocket-Rasp/dp/B00W4ABNMI/ref=sr_1_9)
+- [x] [Drywall Panel Lifter](https://www.amazon.com/gp/product/B0968GG27T/ref=ppx_yo_dt_b_asin_title_o04_s01)
+- [ ] [Sanding Block](https://www.amazon.com/Sanding-Block-Sandpaper-Sponge-Wood/dp/B0DFH51NP2/ref=sr_1_1_sspa)
+- [ ] Bullnose Bead
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/money/house/renovation-skills/drywall/retexturing-an-existing-wall/#tools" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+## Tools
+
+- [LEVEL5 24-Inch Skimming Blade](https://www.amazon.com/dp/B07H9K3P1J)
+- [Level 5 Offset Taping Knife](https://www.level5tools.com/16-stiff-offset-knife-medium-handle/)
+- [Level 5 32" Skimming Blade](https://www.level5tools.com/32-composite-skimming-blade/)
+- [Level 5 24" Skimming Blade](https://www.level5tools.com/24-composite-skimming-blade/)
+- [Drywall Compound Roller + Handle Combos](https://www.level5tools.com/12-roller-combo/)
+- [24 in. Blue Steel Knock-Down Knife](https://www.homedepot.com/p/Anvil-24-in-Blue-Steel-Knock-Down-Knife-82132/308729481)
+- [Drywall Sander](https://www.amazon.com/Prostormer-Polishing-Automatic-Collection-Sandpapers/dp/B09K3WDL27)
+
+Final Blades:
+- [12" Drywall Compound Roller + Handle + 24" Skimming Blade](https://www.level5tools.com/12-roller-24-skimming-combo/)
+- [12" Compound Roller Cover Replacement](https://www.level5tools.com/12-compound-roller-cover/?searchid=95220)
+- [Heavy Duty 5 gal. Metal Bucket Grid](https://www.homedepot.com/p/Linzer-Heavy-Duty-5-gal-Metal-Bucket-Grid-HD-RM-416-H/309628524)
+
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/money/house/renovation-skills/garage/finishing-drywall/#products" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+## Products
+
+1. [Expansion Foam](https://www.homedepot.com/p/GREAT-STUFF-12-oz-Gaps-and-Cracks-Insulating-Spray-Foam-Sealant-227112/202893728#overlay) (If needed)
+2. [Blind Mark Drywall Electrical Box Locating Tool Kit](https://www.homedepot.com/p/Calculated-Industries-Blind-Mark-Drywall-Electrical-Box-Locating-Tool-Kit-4-Pieces-BMWK/100529468)
+3. [Wireless Endoscope](https://www.amazon.com/dp/B01MYTHWK4/ref=cm_sw_r_as_gl_api_glt_i_N1AWFMP5BM2HNW20M5D0?linkCode=ml1&tag=genevo902-20&th=1)
+
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/money/house/renovation-skills/garage/finishing-drywall/#tools" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+### Tools:
+
+ 1. [Taping Knife](https://www.homedepot.com/p/Wal-Board-Tools-12-in-Stainless-Steel-Blade-Taping-Knife-020-042-HD/100660210) and [Mud Pan](https://www.homedepot.com/p/ToolPro-12-in-Stainless-Steel-Mud-Pan-with-Non-Slip-Grip-and-Rounded-Edges-TP03076/300176178)
+	 - Or the [Grip and Go Mud Pan](https://www.lowes.com/pd/Warner-Grip-and-Go-Mud-Pan/5001993023)
+ 2. [Joint Compound](https://www.homedepot.com/p/USG-Sheetrock-Brand-4-5-gal-All-Purpose-Ready-Mixed-Joint-Compound-380501/100321605)
+ 3. [Putty Knife](https://www.homedepot.com/p/Hyde-6-in-Black-and-Silver-Flex-Joint-Knife-Hammer-Head-17250/315657795)
+ 4. [Trowel and Hawk Set](https://www.homedepot.com/p/DEWALT-0-5-mm-Flex-Curved-Trowel-and-Hawk-Set-DXTT-3-471/319972523)
+
+
+</div></div>
+
 
 # Replacing Bowing Drywall
 
@@ -19,6 +90,10 @@ dg-created: Dec 21, 2023, 11:52 PM
 
 ## Hanging Drywall Panels 
 
+### How To Carry Drywall
+
+[How to Carry Drywall | Beginners Tip! | The Fixer Clips](https://www.youtube.com/watch?v=783J1ur6IuI)
+
 ### Sides
 
 - [ ] [Use laser level to keep screws in line with studs](https://www.tiktok.com/@vaughanhandyman/video/7165141665982713094?q=drywall%20hanging%20hack&t=1703633870525)
@@ -29,14 +104,58 @@ dg-created: Dec 21, 2023, 11:52 PM
 
 ### Ceiling
 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+# Overview
+
 This is one of my [[Goals/Checklist/Life's Goals\|life mission]]
 - [BoardMate](https://www.amazon.com/BoardMate-Drywall-Fitting-Supports-Installing/dp/B00PH72GI0/ref=pd_lutyp_sim_d_sccl_1_1/134-3562437-0686944) 
-- [Telescoping Rod](https://www.amazon.com/Telescopic-Adjustable-Supports-Construction-Drywalls/dp/B09VGJQS81/ref=sr_1_1_sspa)
-	1. [cfhfarm](https://www.tiktok.com/@cfhfarm/video/7195278592312446213?q=drywall%20hanging%20hack&t=1703633870525) 
-	2. [cfhfarm](https://www.tiktok.com/@cfhfarm/video/7206782662692965638?q=drywall%20hanging%20hack&t=1703633870525)
-- [Drywall Lift](https://www.homedepot.com/p/Troy-Professional-Drywall-and-Panel-Hoist-DPH11/203900041) [](https://www.youtube.com/shorts/fiZCjdVm09w)
-- [2 x 4 Blocks](https://youtube.com/shorts/s12xs1nwBDY?si=lH30cgoiEgxX9Hj2) [hdhandyman](https://www.tiktok.com/@hghandyman/video/7232099323616480554?q=drywall%20hanging%20hack&t=1703633870525) [Drywall cleats](https://www.tiktok.com/@energyrising/video/7099556377730960686?q=drywall%20hanging%20hack&t=1703633870525) 
-- [Homemade Panel Lift](https://www.youtube.com/watch?v=E6EGEMzJ5I8)
+- [Telescoping Rod](https://www.amazon.com/Telescopic-Adjustable-Supports-Construction-Drywalls/dp/B09VGJQS81/ref=sr_1_1_sspa) [^2] [^3]
+- [Drywall Lift](https://www.homedepot.com/p/Troy-Professional-Drywall-and-Panel-Hoist-DPH11/203900041) [^4]
+- 2 x 4 Blocks [^5] [^6] [^7]
+- Homemade Panel Lift [^8]
+- Build a T-brace if you’ll be working alone [^10]
+
+## Telescoping Rods
+
+![](https://image.made-in-china.com/2f0j00fDkcNsQPYIqG/Adjustable-160-290cm-Extension-Support-Rod-Telescopic-Ceiling-Support-Rod-OEM-Drywall-Support-Lift-Tool.webp)
+
+
+## Boardmate / Drywall Cleats
+
+![](https://m.media-amazon.com/images/I/61ps-fFSLLL._AC_UF894,1000_QL80_.jpg)
+
+![](https://www.wikihow.com/images/thumb/a/a8/Hang-Drywall-by-Yourself-Step-9.jpg/v4-460px-Hang-Drywall-by-Yourself-Step-9.jpg.webp)
+
+---
+[^1]: The Fixer. “[How to Hang Drywall by Yourself](https://www.youtube.com/watch?v=f_70XO2iY_U).” _YouTube_, 25 Nov. 2022. Accessed 4 Jan. 2025.
+
+[^2]: Emily Lane. “[Getting a taste of hanging drywall on our DIY renovation](https://www.tiktok.com/@cfhfarm/video/7195278592312446213).” _Tiktok.com_, 2023. Accessed 4 Jan. 2025.
+
+[^3]: Emily Lane. “[Sometimes solo drywall doesn't go as planned](https://www.tiktok.com/@cfhfarm/video/7206782662692965638).” _Tiktok.com_, 2025. Accessed 4 Jan. 2025.
+
+[^4]: Calzada Drywall Company. “[Even with Lift Panel Is Still Hard to Hang Drywall on Ceiling](https://www.youtube.com/shorts/fiZCjdVm09w).” _YouTube_, 2024. Accessed 4 Jan. 2025.
+
+[^5]: The Fixer. “[2 X 4 Blocks Are Cheaper than Drywall Lifts](https://www.youtube.com/shorts/s12xs1nwBDY).” _YouTube_, 2024. Accessed 4 Jan. 2025.
+
+[^6]: HG Handyman. “[Do it alone](https://www.tiktok.com/@hghandyman/video/7232099323616480554).” _Tiktok.com_, 11 May. 2023. Accessed 4 Jan. 2025.
+
+[^7]: HG Handyman. “[Pivoting Drywall Cleats](https://www.tiktok.com/@28covesconstruction/video/7099556377730960686).” _Tiktok.com_, 19 May. 2022. Accessed 4 Jan. 2025. 
+
+[^8]: G Bear's Off Grid Ways-A Homestead In The Desert. “[Hanging Drywall with a Homemade Panel Lift](https://www.youtube.com/watch?v=E6EGEMzJ5I8).” _YouTube_, 10 May 2020, . Accessed 4 Jan. 2025.
+
+[^9]: Tuttle, Ryaan. “[3 Ways to Hang Drywall by Yourself - WikiHow](https://www.wikihow.com/Hang-Drywall-by-Yourself).” _WikiHow_, 11 Aug. 2019. Accessed 5 Jan. 2025.
+
+[10]: Agustin Renoj. “[How to Install Ceiling Drywall: 12 Steps (with Pictures)](https://www.wikihow.com/Install-Ceiling-Drywall).” _WikiHow_, 13 June 2024.
+
+‌
+
+</div></div>
+
 
 ## Fill In Gaps
 
@@ -86,6 +205,8 @@ This is one of my [[Goals/Checklist/Life's Goals\|life mission]]
 
 ## Taping
 
+- [Beginner's Guide To Drywall Taping | A to Z](https://www.youtube.com/watch?v=naBal346_9c)
+
 ### Tools:
 
  1. [Taping Knife](https://www.homedepot.com/p/Wal-Board-Tools-12-in-Stainless-Steel-Blade-Taping-Knife-020-042-HD/100660210) and [Mud Pan](https://www.homedepot.com/p/ToolPro-12-in-Stainless-Steel-Mud-Pan-with-Non-Slip-Grip-and-Rounded-Edges-TP03076/300176178)
@@ -93,6 +214,16 @@ This is one of my [[Goals/Checklist/Life's Goals\|life mission]]
  2. [Joint Compound](https://www.homedepot.com/p/USG-Sheetrock-Brand-4-5-gal-All-Purpose-Ready-Mixed-Joint-Compound-380501/100321605)
  3. [Putty Knife](https://www.homedepot.com/p/Hyde-6-in-Black-and-Silver-Flex-Joint-Knife-Hammer-Head-17250/315657795)
  4. [Trowel and Hawk Set](https://www.homedepot.com/p/DEWALT-0-5-mm-Flex-Curved-Trowel-and-Hawk-Set-DXTT-3-471/319972523)
+
+### Guides
+
+- [[Money/House/Renovation Skills/Drywall/Taping And Mudding/Which Tape To Choose\|Which Tape To Choose]]
+- [[Money/House/Renovation Skills/Drywall/Taping And Mudding/Taping And Mudding Butt Joints\|Taping And Mudding Butt Joints]]
+- [[Money/House/Renovation Skills/Drywall/Taping And Mudding/Taping Flat Joints\|Taping Flat Joints]]
+- [[Money/House/Renovation Skills/Drywall/Taping And Mudding/Taping Ceilings\|Taping Ceilings]]
+- [[Money/House/Renovation Skills/Drywall/Taping And Mudding/Taping Inside Corners\|Taping Inside Corners]]
+
+
 
 ### Drywall Taping Knife
 
@@ -113,36 +244,10 @@ This is one of my [[Goals/Checklist/Life's Goals\|life mission]]
 
 1. [Use a side swipe to apply the mud](https://youtu.be/EASP7bIkk0k?si=q64cBlBheX-rNX4j&t=716).
 
-### Taping Inside Corners
-
-1. [Side swipe with a putty knife](https://youtu.be/EASP7bIkk0k?si=4JS1qwGpyJmBeO4U).
-2. [Use a lambs wool corner roller](https://youtu.be/EASP7bIkk0k?si=efBcvFA3MP8UjMH6&t=1065).
-
 ### Coating Screws
 
 1. [Apply in one direction and take it off in the opposite direction](https://youtu.be/EASP7bIkk0k?si=oh_Bjb2DoWKhXloZ&t=1463).
 
-### Mesh Tape
-
-- [FibaTape Standard](https://www.homedepot.com/p/Saint-Gobain-ADFORS-FibaTape-Standard-White-1-7-8-in-x-500-ft-Self-Adhesive-Mesh-Drywall-Joint-Tape-FDW8662-U/100401004)
-
-1. [Apply mesh tape to seems](https://youtu.be/zQcwlD-SmrI?si=Ojfu1gL1oDhAs-_l&t=42) before the compound.
-2. Press into place with your taping knife to make sure it's embedded tightly.
-3. Apply thin layer of joint compound.
-
-### Paper Tape
-
-1. [Wet your tape before applying](https://www.tiktok.com/@welcome2thewoods/video/7179021045460962603?q=drywall%20taping%20trick&t=1703192360720).
-2. [Paper is better than  mesh because it hides cracks in the drywall](https://www.youtube.com/watch?v=VhsbU6lTrnM).
-
-
-### Fiberglass Tape
-
-### Metal Corner Bead
-
-### Synthetic Tape
-
-### Composite Tapes
 
 ## Mudding
 
@@ -158,6 +263,11 @@ This is one of my [[Goals/Checklist/Life's Goals\|life mission]]
 8. [Skim the mud after application if applying to painted surface](https://www.youtube.com/watch?v=S9KdiAx3S10&t=2s)
 9. [Use a Hawkmate to carry all your knives with you as you're working](https://www.youtube.com/shorts/V3x16_GXhQQ).
 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
 ### Unipatching
 
 [3 Passes](https://www.youtube.com/shorts/XUikCql3_Yg):
@@ -165,10 +275,10 @@ This is one of my [[Goals/Checklist/Life's Goals\|life mission]]
 2. **Feather:** [Feather your outside edges](https://youtu.be/ExrlG2c2KtI?si=KmN7OU3eCkdxXRri&t=386). You don't want to be left with some hard buildup on the edges when it starts drying out.
 3. **Finish:** Move the trowel across the surface of the patches, [tilting it slightly in alternating directions with each pass](https://youtu.be/ExrlG2c2KtI?si=GA0EpN6et9ICyQYP&t=428). Ensure that the leading edge of the trowel is angled towards the outer edges during one pass and then switch to angling it the opposite way on the next pass. This technique helps feather the edges smoothly for a more even finish
 
-### Finishing Corners
+</div></div>
 
-- [Corner tool](https://youtube.com/shorts/DOEMvVUgYok?feature=share)
-- [Use the lambs wool corner roller](https://youtube.com/shorts/BhZdwy5xEck?feature=share)
+
+
 ## Sanding
 
 - [3 Methods of Sanding](https://www.youtube.com/watch?v=Op0rlKfTbig)
@@ -207,50 +317,50 @@ This is one of my [[Goals/Checklist/Life's Goals\|life mission]]
 
 # Vocabulary
 
-| Term                   | Definition                                                                                                      |
-|------------------------|-----------------------------------------------------------------------------------------------------------------|
-| **Drywall**            | A construction material, also known as gypsum board or plasterboard, used to create interior walls and ceilings. |
-| **Joint Compound**     | A paste used to cover and smooth joints between drywall sheets.                                                  |
-| **Tape (Drywall)**     | Material applied to seams before joint compound to reinforce and prevent cracking.                               |
-| **Mudding**            | The process of applying joint compound to seams and corners in drywall installation.                              |
-| **Taping Knife**       | A flat, wide knife used for applying tape and joint compound to drywall seams.                                    |
-| **Corner Knife**       | A specialized knife with a unique shape for applying joint compound to inside corners.                            |
-| **Putty Knife**        | A flexible knife used for applying spackle and patching small holes or cracks in drywall.                         |
-| **Drywall Saw**        | A tool with a serrated blade designed for cutting openings in drywall.                                            |
-| **Drywall Square**     | A tool used for measuring and marking drywall sheets for accurate cuts.                                          |
-| **Utility Knife**      | A versatile cutting tool used for trimming and cutting drywall sheets.                                            |
-| **Drywall Screws**     | Specialized screws designed for attaching drywall to framing members.                                             |
-| **Mud Pan**            | A shallow, flat-bottomed container used to hold and carry joint compound during mudding.                          |
-| **Tape Measure**       | A measuring tool used for obtaining accurate dimensions for drywall cuts and placement.                           |
-| **Sandpaper**          | Abrasive paper used for smoothing joint compound surfaces during the finishing process.                           |
-| **Sanding Block**      | A tool used for smoothing the surface of joint compound after it has dried.                                       |
-| **Sanding Pole**       | An extendable pole with an attached sanding pad, used for sanding high or hard-to-reach areas on walls and ceilings.|
-| **Texture (Drywall)**  | A decorative finish applied to drywall surfaces for visual interest.                                              |
-| **Texture Sprayer**    | A tool used for applying textured finishes to drywall surfaces.                                                   |
-| **Skim Coat**          | A thin layer of joint compound applied over an entire surface for a smooth finish.                                 |
-| **Backing Strip**      | A piece of material used to support joints between drywall sheets.                                                |
-| **Drywall Anchor**     | Hardware used to secure objects to drywall.                                                                    |
-| **Backing Board**      | A material, often wood or another rigid substance, used to provide support for drywall installations.            |
-| **Drywall Lift**       | A mechanical device used to lift and hold drywall sheets in place during installation.                           |
-| **Rasp**               | A tool used for shaping and smoothing the cut edges of drywall.                                                   |
-| **Texture Roller**     | A roller used to apply textured finishes to drywall surfaces.                                                     |
-| **Drywall Adhesive**   | An adhesive used in addition to screws for attaching drywall to framing.                                           |
-| **Backing Rod**        | A flexible rod inserted into joints to provide support for joint compound.                                         |
-| **Drywall Router**     | A tool used to cut openings and create precise edges in drywall.                                                  |
-| **Laser Level**        | A leveling device that uses laser beams for accurately aligning and installing drywall.                           |
-| **Bullnose Bead**      | A rounded corner bead used for a soft, rounded finish on outside corners.                                          |
-| **Base Coat**          | The initial layer of joint compound applied over drywall tape.                                                    |
-| **Top Coat**           | The final layer of joint compound applied to achieve a smooth, finished surface.                                  |
-| **Setting Compound**   | Quick-setting joint compound used for speeding up the drying time.                                                |
-| **Corner Bead**        | A material applied to outside corners for reinforcement and a straight edge.                                      |
-| **Spackle**            | A lightweight, quick-drying compound used for patching small holes and cracks.                                   |
-| **Texture Brush**      | A brush used for creating textured finishes on drywall surfaces.                                                   |
-| **Drywall Panel Lift** | A device designed to lift and hold large drywall panels in place during installation.                             |
-| **Drywall Cart**       | A wheeled cart used for transporting and moving sheets of drywall.                                                |
-| **Dust Mask**          | Personal protective equipment worn to prevent inhalation of dust particles during sanding.                        |
-| **Primer**             | A preparatory coating applied to drywall before painting.                                                       |
-| **Drywall Tape Dispenser** | A tool used to dispense and apply drywall tape more efficiently.                                                |
-| **Sandpaper Holder**   | A tool that holds sandpaper securely, facilitating sanding of joints and seams.                                   |
+| Term                       | Definition                                                                                                           |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| **Drywall**                | A construction material, also known as gypsum board or plasterboard, used to create interior walls and ceilings.     |
+| **Joint Compound**         | A paste used to cover and smooth joints between drywall sheets.                                                      |
+| **Tape (Drywall)**         | Material applied to seams before joint compound to reinforce and prevent cracking.                                   |
+| **Mudding**                | The process of applying joint compound to seams and corners in drywall installation.                                 |
+| **Taping Knife**           | A flat, wide knife used for applying tape and joint compound to drywall seams.                                       |
+| **Corner Knife**           | A specialized knife with a unique shape for applying joint compound to inside corners.                               |
+| **Putty Knife**            | A flexible knife used for applying spackle and patching small holes or cracks in drywall.                            |
+| **Drywall Saw**            | A tool with a serrated blade designed for cutting openings in drywall.                                               |
+| **Drywall Square**         | A tool used for measuring and marking drywall sheets for accurate cuts.                                              |
+| **Utility Knife**          | A versatile cutting tool used for trimming and cutting drywall sheets.                                               |
+| **Drywall Screws**         | Specialized screws designed for attaching drywall to framing members.                                                |
+| **Mud Pan**                | A shallow, flat-bottomed container used to hold and carry joint compound during mudding.                             |
+| **Tape Measure**           | A measuring tool used for obtaining accurate dimensions for drywall cuts and placement.                              |
+| **Sandpaper**              | Abrasive paper used for smoothing joint compound surfaces during the finishing process.                              |
+| **Sanding Block**          | A tool used for smoothing the surface of joint compound after it has dried.                                          |
+| **Sanding Pole**           | An extendable pole with an attached sanding pad, used for sanding high or hard-to-reach areas on walls and ceilings. |
+| **Texture (Drywall)**      | A decorative finish applied to drywall surfaces for visual interest.                                                 |
+| **Texture Sprayer**        | A tool used for applying textured finishes to drywall surfaces.                                                      |
+| **Skim Coat**              | A thin layer of joint compound applied over an entire surface for a smooth finish.                                   |
+| **Backing Strip**          | A piece of material used to support joints between drywall sheets.                                                   |
+| **Drywall Anchor**         | Hardware used to secure objects to drywall.                                                                          |
+| **Backing Board**          | A material, often wood or another rigid substance, used to provide support for drywall installations.                |
+| **Drywall Lift**           | A mechanical device used to lift and hold drywall sheets in place during installation.                               |
+| **Rasp**                   | A tool used for shaping and smoothing the cut edges of drywall.                                                      |
+| **Texture Roller**         | A roller used to apply textured finishes to drywall surfaces.                                                        |
+| **Drywall Adhesive**       | An adhesive used in addition to screws for attaching drywall to framing.                                             |
+| **Backing Rod**            | A flexible rod inserted into joints to provide support for joint compound.                                           |
+| **Drywall Router**         | A tool used to cut openings and create precise edges in drywall.                                                     |
+| **Laser Level**            | A leveling device that uses laser beams for accurately aligning and installing drywall.                              |
+| **Bullnose Bead**          | A rounded corner bead used for a soft, rounded finish on outside corners.                                            |
+| **Base Coat**              | The initial layer of joint compound applied over drywall tape.                                                       |
+| **Top Coat**               | The final layer of joint compound applied to achieve a smooth, finished surface.                                     |
+| **Setting Compound**       | Quick-setting joint compound used for speeding up the drying time.                                                   |
+| **Corner Bead**            | A material applied to outside corners for reinforcement and a straight edge.                                         |
+| **Spackle**                | A lightweight, quick-drying compound used for patching small holes and cracks.                                       |
+| **Texture Brush**          | A brush used for creating textured finishes on drywall surfaces.                                                     |
+| **Drywall Panel Lift**     | A device designed to lift and hold large drywall panels in place during installation.                                |
+| **Drywall Cart**           | A wheeled cart used for transporting and moving sheets of drywall.                                                   |
+| **Dust Mask**              | Personal protective equipment worn to prevent inhalation of dust particles during sanding.                           |
+| **Primer**                 | A preparatory coating applied to drywall before painting.                                                            |
+| **Drywall Tape Dispenser** | A tool used to dispense and apply drywall tape more efficiently.                                                     |
+| **Sandpaper Holder**       | A tool that holds sandpaper securely, facilitating sanding of joints and seams.                                      |
 
 | Term                   | Definition                                                                                                      |
 |------------------------|-----------------------------------------------------------------------------------------------------------------|

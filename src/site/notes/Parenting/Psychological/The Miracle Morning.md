@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/parenting/psychological/the-miracle-morning/","tags":["goals","headway","books"],"created":"Mar 3, 2023, 7:58 AM"}
+dg-publish: true
+dg-created: Mar 3, 2023, 7:58 AM
+tags: [goals, headway, books]
 ---
-
 
 The problem is always deeper than just getting another 15 minutes of sleep. The life you are living might not be the one you want. Therefore, your subconscious sees no point in letting you torture yourself. When you postpone getting up until you have to — meaning you wait until the last possible moment to get out of bed and start your day — what you are actually doing is resisting your life. Why wake up to something meaningless?
 

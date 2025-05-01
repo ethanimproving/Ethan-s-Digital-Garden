@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/technology/cloning-a-disk/","created":"Jun 17, 2024, 7:46 PM"}
+dg-publish: true
+dg-created: Jun 17, 2024, 7:46 PM
 ---
-
 
 # Software
 

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/computer/laptops/"}
+dg-publish: true
 ---
-
 
 Laptops should have the following capabilities:
 - [ ] Connect to 4 external monitors through a single docking station (requires Thunderbolt port).

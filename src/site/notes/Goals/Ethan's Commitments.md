@@ -21,6 +21,7 @@ dg-publish: true
 - [ ] Code
 - [ ] Duolingo
 - [ ] Dance
+- [ ] [[Goals/Commitment Items/I establish relevance\|I establish relevance]]
 
 # I am a type 1 worker
 

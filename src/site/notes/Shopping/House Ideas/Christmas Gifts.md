@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/house-ideas/christmas-gifts/"}
+dg-publish: true
 ---
-
 
 # Dad
 

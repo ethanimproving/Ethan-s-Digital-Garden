@@ -1,22 +1,29 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/computer/monitors/"}
+dg-publish: true
 ---
 
-
-| Brand    | Model              | Refresh Rate | Price  | List Price | Brightness     | Color Gamut      |
-|----------|--------------------|--------------|--------|------------|----------------|------------------|
-| LG       | [27" 27UL500-W](https://www.amazon.com/LG-27UL500-W-27-Inch-Freesync-Technology/dp/B07PGL2WVS/ref=sr_1_3?keywords=4k+27%22+monitor&qid=1677366759&sr=8-3)      | 60 Hz        | 246.99 | 349.99     | HDR10          | sRGB 98%         |
-| Dell     | [27" S2721QS](https://www.amazon.com/Dell-S2721QS-Ultra-Thin-DisplayPort-Certified/dp/B08DQWG3JG/ref=sr_1_4?keywords=4k%2B27%22%2Bmonitor&qid=1677366759&sr=8-4&th=1)        | 60 Hz        | 249.99 | 329.99     | HDR?           | 99% sRGB         |
-| SAMSUNG  | [27" S80A](https://www.amazon.com/SAMSUNG-3840x2160-Computer-Adjustable-LS27A800UNNXZA/dp/B09FRCXSJK/ref=sr_1_5?keywords=4k+27%22+monitor&qid=1677366759&sr=8-5)           | 60 Hz        | 268.14 | 399.99     | HDR10          | 1 Billion Colors |
-| LG       | [27" 27UK500-B](https://www.amazon.com/LG-27UK500-B-FreeSync-Technology-Compatibility/dp/B08C2HRGG6/ref=sr_1_6?keywords=4k%2B27%22%2Bmonitor&qid=1677366759&sr=8-6&th=1)      | 60 Hz        | 329.9  | 349.99     | HDR10          | SRGB 98%         |
-| SAMSUNG  | [32" UR59](https://www.amazon.com/Samsung-Class-Curved-Monitor-LU32R591CWNXZA/dp/B082321Z23/ref=sxin_17_pa_sp_search_thematic_sspa)           | 60 Hz        | 289.99 | 389.99     |                |                  |
-| LG       | [27UP600-W](https://www.amazon.com/LG-27UP600-W-DisplayHDR-FreeSync-Stabilizer/dp/B09S1YR46Y/ref=sr_1_3?crid=1PBO1DDVAIXRW&keywords=4k+monitor+27up600&qid=1677366998&sprefix=4k+monitor+27up600%2Caps%2C117&sr=8-3)          |              | 209.99 | 219.99     | DisplayHDR 400 | DCI-P3 95%       |
-| SAMSUNG  | [34" SJ55W](https://www.amazon.com/Samsung-S34J55W-34-Inch-Ultrawide-LS34J550WQNXZA/dp/B07FBS36W2/ref=sr_1_3?crid=1ZOJ14ONSRENY&keywords=4k%2Bmonitor%2Bsj55w&qid=1677367029&sprefix=4k%2Bmonitor%2Bsj55w%2Caps%2C97&sr=8-3&th=1)          | 75 Hz        | 208.48 | 329.99     |                |                  |
+| Brand   | Model                                                                                                                                                                                                                             | Refresh Rate | Price  | List Price | Brightness     | Color Gamut      |
+| ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------ | ---------- | -------------- | ---------------- |
+| LG      | [27" 27UL500-W](https://www.amazon.com/LG-27UL500-W-27-Inch-Freesync-Technology/dp/B07PGL2WVS/ref=sr_1_3?keywords=4k+27%22+monitor&qid=1677366759&sr=8-3)                                                                         | 60 Hz        | 246.99 | 349.99     | HDR10          | sRGB 98%         |
+| Dell    | [27" S2721QS](https://www.amazon.com/Dell-S2721QS-Ultra-Thin-DisplayPort-Certified/dp/B08DQWG3JG/ref=sr_1_4?keywords=4k%2B27%22%2Bmonitor&qid=1677366759&sr=8-4&th=1)                                                             | 60 Hz        | 249.99 | 329.99     | HDR?           | 99% sRGB         |
+| SAMSUNG | [27" S80A](https://www.amazon.com/SAMSUNG-3840x2160-Computer-Adjustable-LS27A800UNNXZA/dp/B09FRCXSJK/ref=sr_1_5?keywords=4k+27%22+monitor&qid=1677366759&sr=8-5)                                                                  | 60 Hz        | 268.14 | 399.99     | HDR10          | 1 Billion Colors |
+| LG      | [27" 27UK500-B](https://www.amazon.com/LG-27UK500-B-FreeSync-Technology-Compatibility/dp/B08C2HRGG6/ref=sr_1_6?keywords=4k%2B27%22%2Bmonitor&qid=1677366759&sr=8-6&th=1)                                                          | 60 Hz        | 329.9  | 349.99     | HDR10          | SRGB 98%         |
+| SAMSUNG | [32" UR59](https://www.amazon.com/Samsung-Class-Curved-Monitor-LU32R591CWNXZA/dp/B082321Z23/ref=sxin_17_pa_sp_search_thematic_sspa)                                                                                               | 60 Hz        | 289.99 | 389.99     |                |                  |
+| LG      | [27UP600-W](https://www.amazon.com/LG-27UP600-W-DisplayHDR-FreeSync-Stabilizer/dp/B09S1YR46Y/ref=sr_1_3?crid=1PBO1DDVAIXRW&keywords=4k+monitor+27up600&qid=1677366998&sprefix=4k+monitor+27up600%2Caps%2C117&sr=8-3)              |              | 209.99 | 219.99     | DisplayHDR 400 | DCI-P3 95%       |
+| SAMSUNG | [34" SJ55W](https://www.amazon.com/Samsung-S34J55W-34-Inch-Ultrawide-LS34J550WQNXZA/dp/B07FBS36W2/ref=sr_1_3?crid=1ZOJ14ONSRENY&keywords=4k%2Bmonitor%2Bsj55w&qid=1677367029&sprefix=4k%2Bmonitor%2Bsj55w%2Caps%2C97&sr=8-3&th=1) | 75 Hz        | 208.48 | 329.99     |                |                  |
 
 
 Check Reddit for monitor deals.
 
 [r/buildapcsales](https://www.reddit.com/r/buildapcsales/search/?q=Monitor&restrict_sr=1&sr_nsfw=&sort=new)
+
+
+| Brand   | Model                                                                                                                                                                                                                                                                                                          | Refresh Rate | Price | List Price | Brightness | Color Gamut | Resolution | Curve |
+| ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ----- | ---------- | ---------- | ----------- | ---------- | ----- |
+| Samsung | [Odyssey G5 34-Inch Ultrawide Gaming Monitor (LC34G55TWWNXZA, 2020 Model)](https://www.amazon.com.mx/dp/B08MVBYWGQ?ref=cm_sw_r_cso_wa_apan_dp_AZJWDN6REFABZYHDKR5J&ref_=cm_sw_r_cso_wa_apan_dp_AZJWDN6REFABZYHDKR5J&skipTwisterOG=1&social_share=cm_sw_r_cso_wa_apan_dp_AZJWDN6REFABZYHDKR5J&starsLeft=1&th=1) | 165Hz        | ~$390 | $500       | 250 nits   | 95% sRGB    | WQHD       | 1000R |
+| Samsung | [Thunderbolt 3 Curved High Resolution Monitor (LC34J791WTLXZX)](https://www.amazon.com.mx/dp/B0CS5T6YXZ?ref=cm_sw_r_cso_wa_apin_dp_GY21DC165KNNQE98X1Y6&ref_=cm_sw_r_cso_wa_apin_dp_GY21DC165KNNQE98X1Y6&social_share=cm_sw_r_cso_wa_apin_dp_GY21DC165KNNQE98X1Y6&starsLeft=1&skipTwisterOG=1)                 | 100Hz        | ~$700 | $900       | 300 nits   | 99% sRGB    | UWQHD      | 1000R |
+| LG      | [UltraWide Gaming Monitor 34" (34GP63A-B)](https://www.amazon.com.mx/dp/B0BRYVKW7F?ref=cm_sw_r_cso_wa_apin_dp_PH7YC93074R1QPV23ZRV&ref_=cm_sw_r_cso_wa_apin_dp_PH7YC93074R1QPV23ZRV&social_share=cm_sw_r_cso_wa_apin_dp_PH7YC93074R1QPV23ZRV&starsLeft=1&skipTwisterOG=1)                                      | 160Hz        | ~$450 | $500       | 300 nits   | 99% DCI-P3  | WQHD       | 1800R |
+
 
 # Samsung UR59
 

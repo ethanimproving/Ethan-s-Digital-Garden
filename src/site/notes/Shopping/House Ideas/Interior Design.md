@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/house-ideas/interior-design/","created":"Jul 04, 2023, 1:09 PM"}
+dg-publish: true
+dg-created: Jul 04, 2023, 1:09 PM
 ---
-
 
 # Open Source Interior Design Courses
 

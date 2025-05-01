@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/technology/ai/ai-as-an-investment-advisor/","tags":["technology","artificialintelligence"],"created":"Apr 18, 2023, 11:27 PM"}
+dg-publish: true
+dg-created: Apr 18, 2023, 11:27 PM
+tags: [technology, artificialintelligence]
 ---
-
 
 I have two friends to make money simply by having automated a set of [[Parenting/Social/Diagnostic Statements/Technical Analysis\|trading rules]] that get executed by systems they maintain. Market action triggers their entry rules and exit rules, and they make money. He sent me the code as an attachment in [an email](https://mail.google.com/mail/u/0/?ik=e8fcb44b62&view=om&permmsgid=msg-f:1716256394683914834), 
 

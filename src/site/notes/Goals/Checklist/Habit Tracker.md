@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-dg-created: Apr 22, 2024, 11:48 AM
+{"dg-publish":true,"permalink":"/goals/checklist/habit-tracker/","created":"Apr 22, 2024, 11:48 AM"}
 ---
+
 
 
 To track habits, see [[Goals/Checklist/Habits/Habit Database\|Habit Database]]. For documentation, visit [obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker/blob/master/examples/TestDateFormats.md#relative-date-input-for-startdate-and-enddate).

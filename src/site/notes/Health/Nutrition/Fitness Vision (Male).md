@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/health/nutrition/fitness-vision-male/","created":"Jan 08, 2024, 7:31 PM"}
+dg-publish: true
+dg-created: Jan 08, 2024, 7:31 PM
 ---
-
 
 
 [Six Packs](https://photos.app.goo.gl/gQxTTnLGjM39hTcp9)
@@ -21,7 +21,10 @@
 
 
 
-
+---
+dg-publish: true
+dg-created: Jan 08, 2024, 7:44 PM
+---
 
 ![](https://i.imgur.com/xLTWME3.png)
 

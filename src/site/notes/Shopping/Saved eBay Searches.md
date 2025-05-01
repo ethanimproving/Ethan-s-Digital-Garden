@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/shopping/saved-e-bay-searches/"}
+dg-publish: true
 ---
-
 
 -   [Medium cardigan](https://www.ebay.com/sch/i.html?_nkw=mens+medium+cardigan&_fcid=1&_sop=15)
 -   [Bose 700](https://www.ebay.com/sch/i.html?_nkw=bose+700&_sacat=112529&_fcid=1&_sop=15)

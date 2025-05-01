@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/title-8-nutrition/","created":"Jan 07, 2024, 1:02 AM"}
+dg-publish: true
+dg-created: Jan 07, 2024, 1:02 AM
 ---
-
 
 # Article 1: Fat Loss
 
@@ -103,7 +103,7 @@ Daily intake: 15% - 35% of your daily calories
 
 Dietary fat is essential for your body because it needs some fatty acids to survive and cannot produce them from other foods. You also need fat to regulate hormone production and to keep your skin and hair healthy. Fats also help you absorb vitamins a, d, e and k, the so-called fat soluble vitamins. And lastly, fat cells insulate your body and help you to keep warm.
 
-[[Health/Nutrition/Quality Fat Sources\|Healthy Saturated Fats]]: 
+[[Health/Nutrition/Macro Nutrients/Quality Fat Sources\|Healthy Saturated Fats]]: 
 - Butter 
 - Grass Fed Beef 
 - Eggs 

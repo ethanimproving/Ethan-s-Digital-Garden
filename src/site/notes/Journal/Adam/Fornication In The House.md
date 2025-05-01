@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jun 20, 2024, 3:39 PM
+{"dg-publish":true,"permalink":"/journal/adam/fornication-in-the-house/","created":"Jun 20, 2024, 3:39 PM"}
 ---
+
 
 Look, obviously you want to smash her. I have no personal feelings about that disrespecting the house, like, “Oh no, now the spirit of fornication is here. My walls are tainted with mystical sin dust.” BUT I don’t want God mad at me for enabling you to commit fornication without a proper warning that God WILL punish us for it.
 

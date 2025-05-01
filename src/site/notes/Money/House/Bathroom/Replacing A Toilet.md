@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/bathroom/replacing-a-toilet/","tags":["oakmore","masterbath","guestbath"],"created":"Aug 08, 2023, 7:18 PM"}
+dg-publish: true
+dg-created: Aug 08, 2023, 7:18 PM
+cost: $0
+priority: 5
+masterbath: true
+tags: [oakmore, masterbath, guestbath]
 ---
-
 
 ![](https://www.thespruce.com/thmb/nOr8F37zXk6X5sv3JL36ReNvzO4=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc()/the-parts-of-a-toilet-4145300-V5-491e55af08a9455fac49e313c03d100a.jpg)
 

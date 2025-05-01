@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jun 05, 2023, 1:49 PM
-priority: 3
-cost: $8,000
-tags: [oakmore]
+{"dg-publish":true,"permalink":"/money/house/renovation-skills/kitchen/kitchen-cabinets/","tags":["oakmore"],"created":"Jun 05, 2023, 1:49 PM"}
 ---
+
 
 1. Remove Kitchen Window
 2. Hang New cabinets

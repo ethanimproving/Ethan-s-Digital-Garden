@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/parenting/skills/skills/","created":"Oct 11, 2023, 4:23 PM"}
+dg-publish: true
+dg-created: Oct 11, 2023, 4:23 PM
 ---
-
 
 # Video Game Inspiration
 

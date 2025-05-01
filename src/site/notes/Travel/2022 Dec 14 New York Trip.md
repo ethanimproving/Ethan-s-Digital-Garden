@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/travel/2022-dec-14-new-york-trip/","title":"New York","tags":["timeline","crush"]}
+dg-publish: true
+start-date: 2022-12-18
+end-date: 2022-12-20
+title: New York
+type: range
+color: gray
+tags: [timeline, crush]
 ---
-
 
 # Getting Around
 

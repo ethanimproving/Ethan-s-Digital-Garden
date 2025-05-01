@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/parenting/psychological/laziness/","created":"May 15, 2023, 10:56 AM"}
+dg-publish: true
+dg-created: May 15, 2023, 10:56 AM
 ---
-
 
 - ["Till" by Various Pastors](https://music.youtube.com/browse/FEmusic_library_privately_owned_release_detailb_po_COuhrvuQyYWsFxIEdGlsbBoPdmFyaW91cyBwYXN0b3JzIgNncG0)
 - [Laziness Playlist](https://www.youtube.com/watch?v=PE0u7-SX2hs&list=PLYAz1Lwo4O5_jERcfptQKAu36JhWmxzYA)

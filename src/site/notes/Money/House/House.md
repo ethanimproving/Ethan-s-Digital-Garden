@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-dg-created: Mar 7, 2023, 8:39 PM
+{"dg-publish":true,"permalink":"/money/house/house/","created":"Mar 7, 2023, 8:39 PM"}
 ---
+
 
 # Balloon Payment
 
