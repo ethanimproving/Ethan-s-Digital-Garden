@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/everything-i-know-about/everything-i-know-about-mp3tag/","created":"Jan 19, 2022, 11:46 PM"}
+dg-publish: true
+dg-created: Jan 19, 2022, 11:46 PM
 ---
-
 
 # Pastor Anderson Sermons
 

@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/everything-i-know-about/everything-i-know-about-youtube-dl/","created":"Mar 13, 2021, 4:47 PM"}
+dg-publish: true
+dg-created: Mar 13, 2021, 4:47 PM
 ---
-
 
 # youtube-dl Instructions
 

@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/oakmore/project-timelines/","created":"Dec 20, 2023, 11:00 PM"}
+dg-publish: true
+dg-created: Dec 20, 2023, 11:00 PM
 ---
-
 
 [Project Timelines.xlsx](https://mysite.aa.com/:x:/g/personal/242924_corpaa_aa_com/EQeNqxk1nAZEl_KnXAcRf8gBM1KbNua8-TXHSMP81jstkA?e=aTcmrR)
 
@@ -95,20 +95,19 @@
 ## Garage Renovation
 
 | Task                        | Hours |
-| --------------------------- | ----- |
-| R&D                         | 20    |
+|-----------------------------|-------|
 | Replace drwall              | 8     |
 | Tape drywall                | 4     |
 | Apply mud                   | 4     |
 | Prime                       | 4     |
 | Paint                       | 8     |
 | Add concrete tiles or epoxy | 16    |
-| Total                       | 64    |
+| Total                       | 44    |
 
 
 ## Vinyl Installation
 
-| Task                     | Hours |
+ | Task                     | Hours |
 |--------------------------|-------|
 | Preparation              | 2     |
 | Measuring and Cutting    | 4     |
@@ -116,4 +115,3 @@
 | Trimming and Detail Work | 4     |
 | Clean-up                 | 2     |
 | Total                    | 24    |
-

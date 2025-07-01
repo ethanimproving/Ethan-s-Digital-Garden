@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/papers/psychological-concepts/the-habituation-effect/","created":"Feb 12, 2024, 8:06 PM"}
+dg-publish: true
+dg-created: Feb 12, 2024, 8:06 PM
 ---
-
 
 Yes, there is a psychological principle known as habituation or **the habituation effect** that could help explain why compliments might lose their impact over time. Habituation refers to ==the tendency of individuals to become less responsive or attentive to stimuli that are presented repeatedly over time==.
 

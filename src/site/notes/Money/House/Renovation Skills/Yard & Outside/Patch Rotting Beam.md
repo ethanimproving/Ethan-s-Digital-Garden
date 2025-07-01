@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/renovation-skills/yard-and-outside/patch-rotting-beam/","tags":["oakmore"],"created":"Jun 03, 2023, 5:03 PM"}
+dg-publish: true
+dg-created: Jun 03, 2023, 5:03 PM
+priority: 0
+cost: $150
+tags: [oakmore]
 ---
-
 
 There is a small amount of water damage visible in [this video](https://photos.app.goo.gl/7dp3ha1gLeo3zXs49).
 

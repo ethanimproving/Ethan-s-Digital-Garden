@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/skilled-trades/oakmore-renovations-task-list/","created":"Dec 22, 2023, 2:40 PM"}
+dg-publish: true
+dg-created: Dec 22, 2023, 2:40 PM
 ---
-
 
 # Backlog
 
@@ -13,24 +13,24 @@
 | [[Goals/Projects/Oakmore Renovation/Install Security Cameras\|Install Security Cameras]]                                          | In-Prorgess | \-           | 240     | \-                     |
 | [[Goals/Projects/Oakmore Renovation/Install Pocket Door In Sunroom\|Install Pocket Door In Sunroom]]                              | In-Prorgess | Ethan        | 240     | \-                     |
 | [[Goals/Projects/Oakmore Renovation/Household/Remove old attic Cat5E cables\|Remove old attic Cat5E cables]]                      | In-Prorgess | \-           | 60      | \-                     |
-| [[Goals/Projects/Oakmore Renovation/Garage/Lay Attic Board\|Lay Attic Board]]                                                     | In-Prorgess | \-           | 120     | Truck or Van           |
 | [[Goals/Projects/Oakmore Renovation/Backyard/Identify Grass Type\|Identify Grass Type]]                                           | In-Prorgess | Ethan        | 15      | \-                     |
+| [[Goals/Projects/Oakmore Renovation/Garage/Lay Attic Board\|Lay Attic Board]]                                                     | In-Prorgess | \-           | 120     | Truck or Van           |
 | [[Money/House/Renovation Skills/Yard & Outside/Fix Cracks In Sidewalk\|Fix Cracks In Sidewalk]]                                   | Defined     | \-           | 60      | \-                     |
 | [[Money/House/Bathroom/Remove Shower Soffit (Furr Down)\|Remove Shower Soffit (Furr Down)]]                                       | Defined     | \-           | 240     | \-                     |
 | [[Goals/Projects/Oakmore Renovation/Replace exhaust fan\|Replace exhaust fan]]                                                    | Defined     | \-           | 120     | \-                     |
 | [[Goals/Projects/Oakmore Renovation/Replace Or Paint Doors\|Replace Or Paint Doors]]                                              | Defined     | \-           | 720     | \-                     |
 | [[Goals/Projects/Oakmore Renovation/Replace Baseboard Trim (Moulding, Casing)\|Replace Baseboard Trim (Moulding, Casing)]]        | Defined     | Ethan        | 240     | \-                     |
-| [[Goals/Projects/Oakmore Renovation/Inspect Heating Unit\|Inspect Heating Unit]]                                                  | Defined     | Ethan        | 120     | \-                     |
 | [[Goals/Projects/Oakmore Renovation/Guest Bathroom/Setup new mirror\|Setup new mirror]]                                           | Defined     | \-           | 60      | \-                     |
-| [[Goals/Projects/Oakmore Renovation/Guest Bathroom/Replace Vanity\|Replace Vanity]]                                               | Defined     | \-           | 60      | \-                     |
 | [[Goals/Projects/Oakmore Renovation/Guest Bathroom/Replace Toilet\|Replace Toilet]]                                               | Defined     | \-           | 120     | \-                     |
+| [[Goals/Projects/Oakmore Renovation/Guest Bathroom/Replace Vanity\|Replace Vanity]]                                               | Defined     | \-           | 60      | \-                     |
 | [[Goals/Projects/Oakmore Renovation/Guest Bathroom/Install new shower head\|Install new shower head]]                             | Defined     | \-           | 120     | Buying New Shower Head |
-| [[Goals/Projects/Oakmore Renovation/Backyard/Install Retractable Garden Hose\|Install Retractable Garden Hose]]                   | Defined     | \-           | 120     | Buying Hose Reel       |
+| [[Goals/Projects/Oakmore Renovation/Inspect Heating Unit\|Inspect Heating Unit]]                                                  | Defined     | Ethan        | 120     | \-                     |
 | [[Goals/Projects/Oakmore Renovation/Backyard/Fix Backyard Ground Cable\|Fix Backyard Ground Cable]]                               | Defined     | John Ball    | 15      | \-                     |
-| [[Goals/Projects/Oakmore Renovation/AC/Check AC Refrigerant Levels\|Check AC Refrigerant Levels]]                                 | Defined     | Ethan Miller | 600     | \-                     |
+| [[Goals/Projects/Oakmore Renovation/Backyard/Install Retractable Garden Hose\|Install Retractable Garden Hose]]                   | Defined     | \-           | 120     | Buying Hose Reel       |
+| [[Goals/Projects/Oakmore Renovation/AC/Diagnose AC Reversing Valve Capillary Tubes\|Diagnose AC Reversing Valve Capillary Tubes]] | Defined     | Ethan Miller | 600     | \-                     |
 | [[Goals/Projects/Oakmore Renovation/AC/Unclog AC Discharge Pipe\|Unclog AC Discharge Pipe]]                                       | Defined     | Ethan Miller | 30      | Buy Air Compressor     |
 | [[Goals/Projects/Oakmore Renovation/AC/Replace AC Control Board\|Replace AC Control Board]]                                       | Defined     | Ethan Miller | 600     | \-                     |
-| [[Goals/Projects/Oakmore Renovation/AC/Diagnose AC Reversing Valve Capillary Tubes\|Diagnose AC Reversing Valve Capillary Tubes]] | Defined     | Ethan Miller | 600     | \-                     |
+| [[Goals/Projects/Oakmore Renovation/AC/Check AC Refrigerant Levels\|Check AC Refrigerant Levels]]                                 | Defined     | Ethan Miller | 600     | \-                     |
 
 { .block-language-dataview}
 
@@ -74,15 +74,14 @@
 ## Garage Renovation
 
 | Task                        | Hours |
-| --------------------------- | ----- |
-| R&D                         | 20    |
+|-----------------------------|-------|
 | Replace drwall              | 8     |
 | Tape drywall                | 4     |
 | Apply mud                   | 4     |
 | Prime                       | 4     |
 | Paint                       | 8     |
 | Add concrete tiles or epoxy | 16    |
-| Total                       | 64    |
+| Total                       | 44    |
 
 
 
@@ -114,7 +113,7 @@
 - [ ] **4.** Wire and mount 4 indoor security cameras
 
 # Retexture Walls
-- [ ] [[Money/House/Renovation Skills/Drywall/Retexturing An Existing Wall\|Retexturing An Existing Wall]]
+- [ ] [[Money/House/Renovation Skills/Retexturing An Existing Wall\|Retexturing An Existing Wall]]
 
 # Sunroom
 - [ ] Grind Sunroom Floor
@@ -160,7 +159,7 @@
 
 ## Vinyl Installation
 
-| Task                     | Hours |
+ | Task                     | Hours |
 |--------------------------|-------|
 | Preparation              | 2     |
 | Measuring and Cutting    | 4     |
@@ -168,7 +167,6 @@
 | Trimming and Detail Work | 4     |
 | Clean-up                 | 2     |
 | Total                    | 24    |
-
 
 
 </div></div>

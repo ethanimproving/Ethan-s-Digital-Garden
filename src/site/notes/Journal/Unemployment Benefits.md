@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/journal/unemployment-benefits/","created":"Jun 25, 2024, 10:16 AM"}
+dg-publish: true
+dg-created: Jun 25, 2024, 10:16 AM
 ---
-
 
 # I Didn't Think I Was Eligible
 

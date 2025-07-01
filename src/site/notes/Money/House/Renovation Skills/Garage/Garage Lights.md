@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-dg-created: Oct 26, 2024, 1:23 PM
+{"dg-publish":true,"permalink":"/money/house/renovation-skills/garage/garage-lights/","created":"Oct 26, 2024, 1:23 PM"}
 ---
+
 
 # Lighting Levels and Spacing
 

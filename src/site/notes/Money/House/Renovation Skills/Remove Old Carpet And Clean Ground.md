@@ -35,7 +35,7 @@ tags: [oakmore]
 - [Roberts Wall Scraper and Stripper](https://www.homedepot.com/p/Roberts-4-in-Wide-Floor-and-Wall-Scraper-and-Stripper-with-12-in-Handle-10-187/303068677)
 - [QEP Floor Scraper and Stripper](https://www.homedepot.com/p/QEP-8-in-Wide-Adjustable-Razor-Floor-Scraper-and-Stripper-62909Q/100067461)
 
-Also see [[Money/House/Renovation Skills/Drywall/Retexturing An Existing Wall#Scraping\|Retexturing An Existing Wall#Scraping]]
+Also see [[Money/House/Renovation Skills/Retexturing An Existing Wall#Scraping\|Retexturing An Existing Wall#Scraping]]
 
 ![](https://www.youtube.com/watch?v=vAvl7wGa0FA)
 

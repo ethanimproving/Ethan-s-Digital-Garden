@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/everything-i-know-about/everything-i-know-about-exiftool/","created":"Jun 13, 2024, 10:36 AM"}
+dg-publish: true
+dg-created: Jun 13, 2024, 10:36 AM
 ---
-
 
 # Add "Media created" Tag
 

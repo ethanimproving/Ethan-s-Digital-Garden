@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/money/house/renovation-skills/tools/vacuum-sander/","created":"Jul 30, 2023, 5:54 PM"}
+dg-publish: true
+dg-created: Jul 30, 2023, 5:54 PM
+cost: $135
 ---
-
 
 # Products
 

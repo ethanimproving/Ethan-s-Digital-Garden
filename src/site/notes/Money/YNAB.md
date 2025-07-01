@@ -22,7 +22,3 @@ The best budgeting app I have found is YNAB. My dad bought a [lifetime license](
 - Download Transactions from Wealthfront
 
 It takes about 15 minutes to review / categorize 40 transactions.
-
-# Migrating
-
-See [How to Migrate from YNAB 4 Classic](https://support.ynab.com/en_us/how-to-migrate-from-ynab-4-classic-SknCxaj82)

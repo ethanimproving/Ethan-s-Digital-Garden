@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/everything-i-know-about/everything-i-know-about-mac/","created":"Jun 29, 2024, 5:04 PM"}
+dg-publish: true
+dg-created: Jun 29, 2024, 5:04 PM
 ---
-
 
 # Change Display Ratio
 

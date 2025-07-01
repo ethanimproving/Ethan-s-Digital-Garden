@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/everything-i-know-about/everything-i-know-about-f-fmpeg/","created":"Sep 06, 2021, 3:39 PM"}
+dg-publish: true
+dg-created: Sep 06, 2021, 3:39 PM
 ---
-
 
 ## Convert FLAC to (320 kbps) mp3 with metadata
 ```powershell

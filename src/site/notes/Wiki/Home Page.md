@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/home-page/"}
+dg-publish: true
 ---
-
 
 # Most Frequent Notes
 
@@ -12,7 +11,7 @@
 - [[Goals/Checklist/2023\|Tasks]]
 - [[Goals/Timeline of my Life\|Timeline]]
 - [[Health/Nutrition/Saladmaster Recipes\|Saladmaster Recipes]]
-- [[Health/Nutrition/Grocery List/Inventory\|Ingredient Inventory]]
+- [[Health/Nutrition/Grocery List/Ingredients Inventory\|Ingredient Inventory]]
 
 # Journal
 
@@ -29,7 +28,9 @@
 
 
 
-
+---
+dg-publish: true
+---
 
 [Schedule.xlsx](https://mysite.aa.com/:x:/g/personal/242924_corpaa_aa_com/EaegniBqw9BDlnabirNaFX4Bc_0aIEk9u1Y2AEit1STe2A?e=MjGIda)
 
@@ -64,7 +65,9 @@
 
 
 
-
+---
+dg-publish: true
+---
 
 # I am filled with the Holy Spirit
 

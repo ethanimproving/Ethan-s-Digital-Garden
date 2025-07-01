@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-dg-created: false
+{"dg-publish":true,"permalink":"/journal/public-challenge/"}
 ---
+
 
 The discussion I had with Mariana resulted in the conclusion that in public, she agrees to follow my lead when I nudge her or indicate to her to do something (such as put her hand over her heart for the national anthem). If she has an issue with it, she will do it in the short term and challenge it in private after the fact. If she urgently disagrees with it, she can say, "Babe can I talk to you outside for a minute?"
 
