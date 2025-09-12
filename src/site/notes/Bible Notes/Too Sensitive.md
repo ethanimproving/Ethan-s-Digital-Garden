@@ -1,11 +1,7 @@
 ---
-dg-publish: true
-dg-created: May 19, 2024, 10:40 AM
-verse-reference: 1 Corinthians 13:6
-icon: pulpit
-tags: [character]
-category: Growth
+{"dg-publish":true,"permalink":"/bible-notes/too-sensitive/","tags":["character"],"created":"May 19, 2024, 10:40 AM"}
 ---
+
 
 [Too Sensitive - Pastor Jonathan Shelley](https://rumble.com/v4w5bv6-too-sensitive-pastor-jonathan-shelley-stedfast-baptist-church.html?start=1795)
 

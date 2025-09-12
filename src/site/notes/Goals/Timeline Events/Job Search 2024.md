@@ -1,14 +1,7 @@
 ---
-dg-publish: true
-dg-created: Apr 11, 2024, 6:12 PM
-start-date: 2024-04-11
-end-date: 2024-06-11
-type: range
-color: pink
-tags:
-  - timeline
-  - personal
+{"dg-publish":true,"permalink":"/goals/timeline-events/job-search-2024/","tags":["timeline","personal"],"created":"Apr 11, 2024, 6:12 PM"}
 ---
+
 
 Apparently you're not allowed to date within the company. 😂 I was fired for a conglomerate of unprofessional behavior. I wrote jokes in enterprise code, took advantage of the recreation on campus a lot, had a few too many calls with a particular coworker (😍). In the end I asked what I was being fired for, and my senior manager just said, "All of it. The amount of stuff we found was too overwhelming not to do anything." And you know what? No hard feelings. Stacey always took care of me. She promoted me 3 times in 4 years. She doubled my salary in 2 years. And we always had fun conversations in the office. I don't have any disposition towards her whatsoever, she was great. I violated some rules, and she treated fairly. Lesson learned, time to move on. I have nothing but gratitude looking back.
 

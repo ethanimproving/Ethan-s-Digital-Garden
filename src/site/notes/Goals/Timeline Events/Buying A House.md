@@ -1,12 +1,7 @@
 ---
-dg-publish: true
-dg-created: Oct 20, 2023, 2:18 PM
-start-date: 2023-03-07
-end-date: 2023-12-29
-type: range
-color: orange
-tags: [timeline, personal]
+{"dg-publish":true,"permalink":"/goals/timeline-events/buying-a-house/","tags":["timeline","personal"],"created":"Oct 20, 2023, 2:18 PM"}
 ---
+
 
 - [[Money/House/House\|House]]
 - [[Money/House/Oakmore/7322 Oakmore Dr, Dallas, TX 75249\|7322 Oakmore Dr, Dallas, TX 75249]]

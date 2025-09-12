@@ -1,16 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jan 22, 2024, 9:58 PM
-date-completed:
-parent: Utility Room
-status: Complete
-minutes: 60
-assigned-to: Ethan Miller
-depends-on: Buying Google Nest
-tags:
-  - oakmore-renovation-task
-cost: $90
+{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/install-google-nest-thermostat/","tags":["oakmore-renovation-task"],"created":"Jan 22, 2024, 9:58 PM"}
 ---
+
 
 - [ ] Check if current Heater [System is Compatible](https://store.google.com/intl/en_us/widget/compatibility/thermostat/) 
 

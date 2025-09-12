@@ -1,16 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jun 29, 2024, 9:53 AM
-date-completed:
-parent: Outside
-status: Defined
-minutes: 600
-assigned-to: Ethan Miller
-tags:
-  - oakmore-renovation-task
-cost: "25"
-priority: 1
+{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/ac/replace-ac-control-board/","tags":["oakmore-renovation-task"],"created":"Jun 29, 2024, 9:53 AM"}
 ---
+
 
 The AC unit isn’t turning on when the thermostat is calling for cold air through the yellow wire. We tested the compressor was good, and the contractor is good. If we plug the yellow wire directly into the contactor, bypassing the control board, the unit turns on when the thermostat calls for air. So we thought it was a faulty control board and replaced it with another used one we bought on eBay. But then that control board isn’t sending 24 V to the contractor either so we are guessing the control board is stopping the signal due to some safety features like low refrigerant pressure or some such.
 

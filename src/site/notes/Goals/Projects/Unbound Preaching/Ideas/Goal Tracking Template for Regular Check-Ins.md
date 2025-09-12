@@ -1,9 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jul 11, 2020, 7:07 AM
-dg-updated: Jul 11, 2020, 7:07 AM
-tags: [website]
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/goal-tracking-template-for-regular-check-ins/","tags":["website"],"created":"Jul 11, 2020, 7:07 AM"}
 ---
+
 
 * * *
 

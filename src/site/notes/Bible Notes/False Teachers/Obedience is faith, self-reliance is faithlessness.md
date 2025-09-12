@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-dg-created: Aug 03, 2018, 7:35 AM
+{"dg-publish":true,"permalink":"/bible-notes/false-teachers/obedience-is-faith-self-reliance-is-faithlessness/","created":"Aug 03, 2018, 7:35 AM"}
 ---
+
 
 For God so loved the world that he gave his only begotton Son, and whosoever believeth on him **and repents from their sins** shall not perish, but have everlasting life? Why do you add that?
 

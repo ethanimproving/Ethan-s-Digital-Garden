@@ -1,9 +1,7 @@
 ---
-dg-publish: true
-price: 
-aisle: 
-inventory: 
+{"dg-publish":true,"permalink":"/attachments/templates/ingredient-template/"}
 ---
+
 
 store:: Walmart
 image:: ![]

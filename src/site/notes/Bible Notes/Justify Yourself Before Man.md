@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jun 16, 2024, 10:00 AM
-author: Eric Coombs
-verse-reference: Genesis 22
-tags: [faith]
+{"dg-publish":true,"permalink":"/bible-notes/justify-yourself-before-man/","tags":["faith"],"created":"Jun 16, 2024, 10:00 AM"}
 ---
+
 
 [Welcome to Sunday School! (16 Jul 2024)](https://fb.watch/sO726jIUXC/) - Pastor Coombs
 

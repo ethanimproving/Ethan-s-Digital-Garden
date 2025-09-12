@@ -1,16 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jul 02, 2024, 10:09 PM
-date-completed:
-parent: Outside
-status: Defined
-minutes: 600
-assigned-to: Ethan Miller
-tags:
-  - oakmore-renovation-task
-cost: "109"
-priority: 1
+{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/ac/diagnose-ac-reversing-valve-capillary-tubes/","tags":["oakmore-renovation-task"],"created":"Jul 02, 2024, 10:09 PM"}
 ---
+
 
 It was a pinhole leak in the reversing valve [capillary tubes](https://theengineeringmindset.com/reversing-valves/) that leaked all 11 pounds of my R22 Freon. Years of rubbing against another pipe caused the tube to wear down until there was a tiny hole created.
 

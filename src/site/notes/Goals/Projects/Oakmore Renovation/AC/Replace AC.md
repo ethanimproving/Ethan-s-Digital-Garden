@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jul 18, 2024, 3:50 PM
+{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/ac/replace-ac/","created":"Jul 18, 2024, 3:50 PM"}
 ---
+
 
 [Google Photos](https://photos.app.goo.gl/moJJ81FjhgpLVhQSA)
 

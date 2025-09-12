@@ -1,9 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jul 29, 2018, 2:47 PM
-dg-updated: Jul 29, 2018, 2:47 PM
-tags: [quotes]
+{"dg-publish":true,"permalink":"/bible-notes/doctrine/music/music-affects-behavior/","tags":["quotes"],"created":"Jul 29, 2018, 2:47 PM"}
 ---
+
 
 "Let me write the songs of a nation, I don't care who writes its laws."
 

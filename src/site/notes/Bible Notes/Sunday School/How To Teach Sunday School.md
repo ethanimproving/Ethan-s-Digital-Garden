@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-dg-created: May 27, 2024, 8:47 PM
+{"dg-publish":true,"permalink":"/bible-notes/sunday-school/how-to-teach-sunday-school/","created":"May 27, 2024, 8:47 PM"}
 ---
+
 
 # Why I Care About Sunday School At All
 

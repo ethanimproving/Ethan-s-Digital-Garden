@@ -1,9 +1,7 @@
 ---
-dg-publish: true
-dg-created: Aug 23, 2018, 8:08 AM
-dg-updated: Aug 23, 2018, 8:08 AM
-tags: [website]
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/example-of-doctrinal-hierarchy/","tags":["website"],"created":"Aug 23, 2018, 8:08 AM"}
 ---
+
 
 Doctrine collection: Nature of God
 Doctrine: Trinity
