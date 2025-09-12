@@ -1,7 +1,9 @@
 <script src=" https://fastly.jsdelivr.net/npm/luxon@3.2.1/build/global/luxon.min.js "></script>
 <script defer>
-    TIMESTAMP_FORMAT = "{{meta.timestampSettings.timestampFormat}}";
-    document.querySelectorAll('.human-date').forEach(function (el) {
-        el.innerHTML = luxon.DateTime.fromFormat(el.getAttribute('data-date') || el.innerText, 'MMM d, yyyy, h:mm a').toFormat(TIMESTAMP_FORMAT);
-      });
+  TIMESTAMP_FORMAT = "{{meta.timestampSettings.timestampFormat}}";
+  document.querySelectorAll('.human-date').forEach(function (el) {
+    var date = el.getAttribute('data-date') || el.innerText;
+    var parsed_date = luxon.DateTime.fromFormat(date, 'MMM d, yyyy, h:mm a');
+    el.innerHTML = parsed_date.toFormat(TIMESTAMP_FORMAT);
+  })
 </script>
