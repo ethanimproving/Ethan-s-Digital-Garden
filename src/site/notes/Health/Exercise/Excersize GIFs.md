@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/health/exercise/excersize-gi-fs/"}
 ---
+
 
 https://fitnessprogramer.com/exercise-primary-muscle/triceps/
 
@@ -48,7 +49,7 @@ https://fitnessprogramer.com/exercise-primary-muscle/triceps/
 
 # Barbell Bent Over Row
 
-Alternative(s): [[Health/Exercise/Excersize GIFs#Bent Over Dumbbell Row\|#Bent Over Dumbbell Row]]
+Alternative(s): [[#Bent Over Dumbbell Row]]
 
 ![](https://hips.hearstapps.com/hmg-prod/images/workouts/2016/03/barbellrow-1457038583.gif)
 
@@ -145,7 +146,7 @@ Alternatives: Shoulder Press
 
 ### Barbell Bench Press
 
-Alternatives: [[Health/Exercise/Excersize GIFs#Dumbbell Incline Press\|#Dumbbell Incline Press]] [[Health/Exercise/Excersize GIFs#Dumbbell Press\|#Dumbbell Press]]
+Alternatives: [[#Dumbbell Incline Press]] [[#Dumbbell Press]]
 
 ![](https://hips.hearstapps.com/ame-prod-menshealth-assets.s3.amazonaws.com/main/assets/wideB.gif)
 
@@ -174,7 +175,7 @@ Barbell Overhead Press
 
 #triceps
 
-Alternatives: [[Health/Exercise/Excersize GIFs#Dumbbell Single Arm Tricep Extension\|#Dumbbell Single Arm Tricep Extension]]
+Alternatives: [[#Dumbbell Single Arm Tricep Extension]]
 
 #### Cable Side Triceps Extension
 
@@ -194,7 +195,7 @@ Alternatives: [[Health/Exercise/Excersize GIFs#Dumbbell Single Arm Tricep Extens
 
 #chest
 
-Alternatives: [[Health/Exercise/Excersize GIFs#Dumbbell Fly\|#Dumbbell Fly]]
+Alternatives: [[#Dumbbell Fly]]
 
 #### Standing Cable Fly
 
@@ -226,7 +227,7 @@ https://www.nickhallbodytransformations.com/chest-exercises/
 
 ### Laying Leg Curl
 
-Alternatives: [[Health/Exercise/Excersize GIFs#Leg Curl\|#Leg Curl]]
+Alternatives: [[#Leg Curl]]
 
 ![](https://fitnessprogramer.com/wp-content/uploads/2022/04/Lying-Dumbbell-Leg-Curl.gif)
 
@@ -267,41 +268,17 @@ Alternatives: [[Health/Exercise/Excersize GIFs#Leg Curl\|#Leg Curl]]
 
 ### Leg Curl
 
-Alternatives: [[Health/Exercise/Excersize GIFs#Laying Leg Curl\|#Laying Leg Curl]]
+Alternatives: [[#Laying Leg Curl]]
 
 ![](https://fitnessprogramer.com/wp-content/uploads/2021/08/Seated-Leg-Curl.gif)
 
 ### Single-leg leg extension
 
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/health/exercise/excersize-gi-fs/#leg-extension" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-### Leg Extension
-
-![](https://fitnessprogramer.com/wp-content/uploads/2021/02/LEG-EXTENSION.gif)
-
-
-</div></div>
-
+![[#Leg Extension]]
 
 ### Single-leg lying leg curl
 
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/health/exercise/excersize-gi-fs/#leg-curl" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-### Leg Curl
-
-Alternatives: [[Health/Exercise/Excersize GIFs#Laying Leg Curl\|#Laying Leg Curl]]
-
-![](https://fitnessprogramer.com/wp-content/uploads/2021/08/Seated-Leg-Curl.gif)
-
-
-</div></div>
-
+![[#Leg Curl]]
 
 ### Plank
 
@@ -311,6 +288,6 @@ Alternatives: [[Health/Exercise/Excersize GIFs#Laying Leg Curl\|#Laying Leg Curl
 
 ### Standing Calf Raise
 
-Alternatives: [[Health/Exercise/Excersize GIFs#Dumbbell Standing Calf Raise\|#Dumbbell Standing Calf Raise]]
+Alternatives: [[#Dumbbell Standing Calf Raise]]
 
 ![](https://d38ty1ecdjk742.cloudfront.net/wp-content/uploads/Lever-Standing-Calf-Raise-Calf.gif)

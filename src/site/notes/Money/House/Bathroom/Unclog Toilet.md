@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-dg-created: Aug 19, 2023, 6:00 PM
-cost: $0
-priority: 5
-tags: [oakmore]
+{"dg-publish":true,"permalink":"/money/house/bathroom/unclog-toilet/","tags":["oakmore"],"created":"Aug 19, 2023, 6:00 PM"}
 ---
+
 
 [Unclog A Toilet-3 Different Ways Guaranteed!](https://www.youtube.com/watch?v=3eA2JkZbtng)
 ## How to Unclog a Toilet - Methods and Steps

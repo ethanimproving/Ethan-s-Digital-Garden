@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jul 17, 2023, 9:21 PM
-cost: $300
-priority: 1
-tags: [oakmore]
+{"dg-publish":true,"permalink":"/money/house/renovation-skills/tools/pressure-washer/","tags":["oakmore"],"created":"Jul 17, 2023, 9:21 PM"}
 ---
+
 
 [Ryobi RY31SC01 15 in. 3300 PSI Surface Cleaner](https://a.co/d/6thlRrS)
 

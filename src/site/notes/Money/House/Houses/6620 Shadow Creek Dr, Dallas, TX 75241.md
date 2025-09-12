@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/money/house/houses/6620-shadow-creek-dr-dallas-tx-75241/"}
 ---
+
 
 ![](https://photos.zillowstatic.com/fp/ca4d652e218b2d043bb10b74c7bd5a4b-cc_ft_1536.webp)
 

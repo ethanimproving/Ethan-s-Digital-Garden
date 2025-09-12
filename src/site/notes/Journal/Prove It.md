@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-dg-created: Apr 29, 2024, 10:11 AM
-tags: [prayer]
+{"dg-publish":true,"permalink":"/journal/prove-it/","tags":["prayer"],"created":"Apr 29, 2024, 10:11 AM"}
 ---
+
 
 For [[Goals/Timeline of my Life\|a long time]] I needed to prove myself. From 2017-2019 I woke up at 5:30AM every day to study my Bible, pray, and then work all day on something productive. My Sunday School wrote a date on a board for me to get a job by, and I felt that I needed to figure something out. I worked hard, prayed hard, and fought hard. But now I feel like I've already proven myself. I've received praise from my father. I've been recognized as smart because of the job God gave me, and the money I've earned. Now that I've lost it, I don't feel the same drive as before to wake up. I feel accomplished. I feel I deserve the next position. And that might be the most dangerous thing.
 

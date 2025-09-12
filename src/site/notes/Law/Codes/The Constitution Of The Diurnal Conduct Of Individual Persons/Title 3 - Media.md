@@ -14,7 +14,7 @@
 
 **1.2** Before watching a movie, always check the rating.
 
-**1.3** If a movie is rated R, always check [rottentomatos.com](https://www.rottentomatoes.com/) (or a comparable website). Navigate to the Movie Info section and check the details of the Rating. If nudity is included, the movie falls under the criteria of [[Law/Codes/The Constitution Of The Diurnal Conduct Of Individual Persons/Title 3 - Media#Article 1 Movies\|3 MHC A. 1: § 1.1]]
+**1.3** If a movie is rated R, always check [rottentomatos.com](https://www.rottentomatoes.com/) (or a comparable website). Navigate to the Movie Info section and check the details of the Rating. If nudity is included, the movie falls under the criteria of [[#Article 1 Movies|3 MHC A. 1: § 1.1]]
 
 ![](https://i.imgur.com/VelEVhp.png)
 

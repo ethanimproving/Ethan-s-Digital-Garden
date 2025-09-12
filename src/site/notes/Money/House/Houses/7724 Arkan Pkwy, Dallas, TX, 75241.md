@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-cost: 279,900
-sq-ft: 1,672
-dg-created: Jun 15, 2023, 1:07 PM
-tags: [homes2023]
+{"dg-publish":true,"permalink":"/money/house/houses/7724-arkan-pkwy-dallas-tx-75241/","tags":["homes2023"],"created":"Jun 15, 2023, 1:07 PM"}
 ---
+
 
 [7724 Arkan Pkwy, Dallas, TX, 75241](https://www.realtor.com/realestateandhomes-detail/7724-Arkan-Pkwy_Dallas_TX_75241_M86417-48106?cid=eml_saf_property_photo)
 

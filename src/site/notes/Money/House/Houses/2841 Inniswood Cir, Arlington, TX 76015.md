@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/money/house/houses/2841-inniswood-cir-arlington-tx-76015/"}
 ---
+
 
 ![](https://photos.zillowstatic.com/fp/8d7021c6e1cc0ee2550d9852096decab-cc_ft_1536.webp)
 

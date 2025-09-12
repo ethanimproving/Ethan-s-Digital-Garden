@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-dg-created: May 15, 2024, 10:57 AM
-tags: [jobhunt, algorithmtraining]
+{"dg-publish":true,"permalink":"/journal/memorization/","tags":["jobhunt","algorithmtraining"],"created":"May 15, 2024, 10:57 AM"}
 ---
+
 
 I am at a crossroads now, not knowing weather I should devote my time to reading, thinking, and solving Leetcode problems, or quickly finding the solutions and memorizing the patterns. It would be better for me if I could sharpen my critical thinking skills, and logically think through the solutions.
 

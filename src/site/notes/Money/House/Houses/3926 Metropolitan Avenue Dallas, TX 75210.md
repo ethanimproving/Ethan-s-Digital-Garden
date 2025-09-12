@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-cost: 249,900
-sq-ft: 2,075
-dg-created: Jun 12, 2023, 8:33 PM
-tags: [homes2023, pending]
+{"dg-publish":true,"permalink":"/money/house/houses/3926-metropolitan-avenue-dallas-tx-75210/","tags":["homes2023","pending"],"created":"Jun 12, 2023, 8:33 PM"}
 ---
+
 
 [3926 Metropolitan Avenue, Dallas, TX 75210](https://www.ebby.com/ListingDetails/3926-Metropolitan-Avenue-Dallas-TX-75210/14734120)
 

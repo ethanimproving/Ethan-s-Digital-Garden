@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jul 14, 2023, 3:08 PM
-cost: $50
-priority: 5
-tags: [oakmore]
+{"dg-publish":true,"permalink":"/money/house/renovation-skills/attic/remove-smoking-oder/","tags":["oakmore"],"created":"Jul 14, 2023, 3:08 PM"}
 ---
+
 
 # Ozone Machine
 

@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-dg-created: Dec 30, 2019, 10:52 PM
+{"dg-publish":true,"permalink":"/journal/letters/dear-jasleen/","created":"Dec 30, 2019, 10:52 PM"}
 ---
+
 
 Dear Jasleen,
 

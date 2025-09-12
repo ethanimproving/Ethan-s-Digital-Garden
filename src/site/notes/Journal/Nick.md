@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jul 05, 2024, 3:59 PM
+{"dg-publish":true,"permalink":"/journal/nick/","created":"Jul 05, 2024, 3:59 PM"}
 ---
+
 
 I invited Nick to come stay at my house while he is working on some IT certifications. Mariana doesn't like it because we won't get the opportunity to be alone together in the house, but I don't want to make big life decisions based on the lusts of the flesh. That's such a carnal reason to block this opportunity that the Lord is opening up for him and for me. With his help I can get my house done sooner. With Kenneth's help he can get into IT sooner. And all around I will be able to propose to Mariana sooner. So this is a good idea.
 

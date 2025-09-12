@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jul 08, 2024, 7:57 PM
+{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/framework-discussions/adverse-possession/","created":"Jul 08, 2024, 7:57 PM"}
 ---
+
 
 # Squatter's Rights
 

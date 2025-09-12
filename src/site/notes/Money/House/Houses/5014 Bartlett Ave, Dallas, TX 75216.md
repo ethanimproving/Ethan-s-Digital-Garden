@@ -1,12 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jun 29, 2023, 7:49 PM
-cost: 230,000
-sq-ft: 1,793
-year: 2018
-subdivision: Glendale Acres Add 01
-tags: [homes2023]
+{"dg-publish":true,"permalink":"/money/house/houses/5014-bartlett-ave-dallas-tx-75216/","tags":["homes2023"],"created":"Jun 29, 2023, 7:49 PM"}
 ---
+
 
 [5014 Bartlett Ave, Dallas, TX 75216](https://www.zillow.com/homedetails/5014-Bartlett-Ave-Dallas-TX-75216/26725174_zpid/)
 

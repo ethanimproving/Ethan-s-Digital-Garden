@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-dg-date: Jun 05, 2023, 12:36 PM
-cost: $300
-priority: 1
-tags: [oakmore]
+{"dg-publish":true,"permalink":"/money/house/renovation-skills/new-doors/","tags":["oakmore"]}
 ---
+
 
 # Oakmore Family Photos
 

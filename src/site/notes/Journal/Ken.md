@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/journal/ken/"}
 ---
+
 
 I don't want to go to Ken's party today. Why? Because I feel like I should be working. I feel like there is a gravity pulling me to be productive today. I should be putting my time towards building something. Learning something. Or even just hiking a trail with Caleb, because then the conversation is meaningful. Party conversations are just for killing time.
 

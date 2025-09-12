@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-dg-created: Dec 21, 2023, 10:28 AM
-tags: [journal]
+{"dg-publish":true,"permalink":"/journal/stress-can-make-you-more-godly/","tags":["journal"],"created":"Dec 21, 2023, 10:28 AM"}
 ---
+
 
 A man should have a certain amount of stress in his life, where he works hard and lays everything on the line but can't control the outcome, because it will force him to remember that his success is determined by God, not how hard he works.
 

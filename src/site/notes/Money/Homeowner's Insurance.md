@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-dg-created: Dec 08, 2023, 10:45 AM
-cost: $3000
+{"dg-publish":true,"permalink":"/money/homeowner-s-insurance/","created":"Dec 08, 2023, 10:45 AM"}
 ---
+
 
 # Companies
 

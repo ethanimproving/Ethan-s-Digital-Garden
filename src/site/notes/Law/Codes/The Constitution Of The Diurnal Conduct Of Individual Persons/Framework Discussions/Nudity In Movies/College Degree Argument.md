@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-dg-created: May 06, 2024, 4:19 PM
-tags: [breakup, arguments]
+{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/framework-discussions/nudity-in-movies/college-degree-argument/","tags":["breakup","arguments"],"created":"May 06, 2024, 4:19 PM"}
 ---
+
 
 What were you saying I’m wrong about? My opinion from the beginning is that it is a waste of time and money to spend 4 years and $150,000 for a degree when I can get hired without it. And you are telling me that is wrong. When I brought up the fact that I was able to get a good job without it, you still think I’m wrong. Which means you think it would be worth it for me to get a degree.
 

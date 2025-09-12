@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jul 08, 2024, 5:43 PM
-author: Ethan Miller
+{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/title-9-temporary-residency/","created":"Jul 08, 2024, 5:43 PM"}
 ---
+
 
 # Article 1: House Rules for Temporary Residents
 

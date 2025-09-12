@@ -1,8 +1,5 @@
 ---
-dg-publish: true
-dg-created: Jul 08, 2023, 2:13 PM
-priority: 1
-cost: 
-tags: [oakmore]
+{"dg-publish":true,"permalink":"/money/house/renovation-skills/appliences/sprinkler-system/","tags":["oakmore"],"created":"Jul 08, 2023, 2:13 PM"}
 ---
+
 

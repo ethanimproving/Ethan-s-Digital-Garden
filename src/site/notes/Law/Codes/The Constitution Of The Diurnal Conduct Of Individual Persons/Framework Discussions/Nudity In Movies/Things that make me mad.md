@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-dg-created: Mar 19, 2022, 10:03 PM
-tags: [breakup]
+{"dg-publish":true,"permalink":"/law/codes/the-constitution-of-the-diurnal-conduct-of-individual-persons/framework-discussions/nudity-in-movies/things-that-make-me-mad/","tags":["breakup"],"created":"Mar 19, 2022, 10:03 PM"}
 ---
+
 
 # 03-19-2022
 
