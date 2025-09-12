@@ -14,10 +14,9 @@ Fast forward to 2024, and now she has a new computer thanks to dad's upgrades. H
 # Monitoring Tools
 
 - **Resource Monitor:**
-    
     - Provides a more detailed view of what’s using the disk. Open it by typing `resmon` in the Run dialog (`Win + R`).
+
 - **Performance Monitor:**
-    
     - Open it by typing `perfmon` in the Run dialog (`Win + R`). This tool provides more granular details on system performance.
 
 It looks like her system is being bogged down by system tasks. However, it's only 8MB per second. That's not a lot.

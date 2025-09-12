@@ -18,6 +18,9 @@ I broke up when my ex-boyfriend, who wanted to marry me, because there was a pow
 
 He couldn't make fast decisions, and I can make faster decisions. I mean, everything we did, ==he was going to get his real estate license. He couldn't even pick the date for the test==. Like, I'm sorry, I have two real estate licenses. I can pick dates for tests.
 
+# Outsource Thinking
+
+The reason somebody hires you is to [outsource thinking to you](https://www.facebook.com/reel/596233009991164?fs=e&s=TIeQ9V&fs=e&mibextid=wwXIfr&fs=e). Don’t ask for opinions about something you specializing in.
 # Car Ride Thoughts
 
 [Closing on the house - who am I apart from my family?](https://www.youtube.com/watch?v=_79NEDTo018)

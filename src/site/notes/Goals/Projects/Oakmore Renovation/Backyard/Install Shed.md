@@ -58,9 +58,6 @@ Your friend has shared a link to a Home Depot product they think you would be in
     Your friend has shared a link to a Home Depot product they think you would be interested in seeing.
 
 
-
-Your friend has shared a link to a Home Depot product they think you would be interested in seeing.
-
 - [ ] [Rebar chairs](https://www.homedepot.com/p/Grip-Rite-2-1-4-in-Rebar-High-Chair-20-Piece-IHCP21420R/202090708) or bricks (to keep rebar elevated in center of slab)
 - [ ] [Form oil](https://www.homedepot.com/p/Kleen-Kote-32-oz-Water-Based-Industrial-Concrete-Release-and-Anti-Corrosion-Coating-Spray-Bottle-30820/206965027) or cooking spray (optional; helps forms release)
 - [ ] [Concrete sealer](https://www.homedepot.com/p/BEHR-PREMIUM-1-gal-White-Self-Priming-1-Part-Epoxy-Satin-Interior-Exterior-Concrete-and-Garage-Floor-Paint-90001/308800270) (optional but recommended)

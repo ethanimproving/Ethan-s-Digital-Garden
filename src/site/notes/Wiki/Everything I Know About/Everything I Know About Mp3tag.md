@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jan 19, 2022, 11:46 PM
+{"dg-publish":true,"permalink":"/wiki/everything-i-know-about/everything-i-know-about-mp3tag/","created":"Jan 19, 2022, 11:46 PM"}
 ---
+
 
 # Pastor Anderson Sermons
 
@@ -36,7 +36,7 @@ Tag - Filename: `$num(%_counter%,3) - %_filename%`
 
 Plex will pickup metadata that is written to the properties of MP4 files, such as Title, Date, Comment, etc.
 
-HOWEVER. The process of tagging MP4s can be [very slow if they exist on a NAS](https://community.mp3tag.de/t/an-observation-regarding-tag-values-and-performance-speeds/61562) or external drive. I moved them from the NAS to local drive and voilà, it's as fast as mp3 tagging. So the difference is the NAS vs. local drive.
+	HOWEVER. The process of tagging MP4s can be [very slow if they exist on a NAS](https://community.mp3tag.de/t/an-observation-regarding-tag-values-and-performance-speeds/61562) or external drive. I moved them from the NAS to local drive and voilà, it's as fast as mp3 tagging. So the difference is the NAS vs. local drive.
 
 | Operation      | Field         | Pattern                                                                                                              |
 | -------------- | ------------- | -------------------------------------------------------------------------------------------------------------------- |
@@ -55,19 +55,50 @@ Author URL: http://www.faithfulwordbaptist.org/page5.html
 %1 - %2 (%3) %4
 ```
 Old filename: 001 - 01-05-2014 AM - Love One Another.mp4
-Old filename pattern: %1 - %2 %3 - %4
+Old filename pattern: %1 - %2-%3-%4 %5 - %6
  
-New filename pattern: %1 - %4 (%2)
-New filename: 001 - Love One Another (01-05-2014).mp4
+New filename pattern: s%4e%1 - %6 (%4-%2-%3)
+New filename: s2014e001 - Love One Another (2014-01-05).mp4
 
 ```
-
+[^1]
 ## Add Spirit Sheets
 
 Being able to mouseover the timeline is awesome. To do that, generate spirit sheets using [[Wiki/Everything I Know About/Everything I Know About FFmpeg#Generate Sprite Sheet (Filmstrip/Montage) From Multiple MP4s\|FFmpeg]].
 
-
-
 # Add track numbers
 
 Tag - Tag: `$num(%_counter%,)`
+
+
+# Plex Format
+
+```
+/Sermons
+   /Faithful Word Baptist Church
+   poster.jpg
+   season2014-poster
+      /Season 2014
+         s2014e001 - Love One Another (2014-01-05).mp4
+         Season01.jpg (optional instead of season2014-poster)
+```
+
+![](https://i.imgur.com/ZsrXO5V.png)
+
+![](https://i.imgur.com/BSjX2HL.png)
+
+
+[Local Media Assets - TV Shows | Plex Support](https://support.plex.tv/articles/200220717-local-media-assets-tv-shows/)
+
+
+# Regex
+
+Go to Actions (Alt + 6) → Quick Actions → Replace with regular expression
+
+![](https://i.imgur.com/uTJuBOj.png)
+
+
+---
+[^1]: “[Naming and Organizing Your TV Show Files](https://support.plex.tv/articles/naming-and-organizing-your-tv-show-files/).” _Plex Support_, Plex, 3 Dec. 2024. Accessed 11 Feb. 2025.
+
+‌

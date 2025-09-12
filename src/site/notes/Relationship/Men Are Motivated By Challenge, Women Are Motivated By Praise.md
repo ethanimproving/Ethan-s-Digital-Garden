@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-dg-created: Apr 19, 2023, 8:46 PM
-tags: [relationshipinsights]
+{"dg-publish":true,"permalink":"/relationship/men-are-motivated-by-challenge-women-are-motivated-by-praise/","tags":["relationshipinsights"],"created":"Apr 19, 2023, 8:46 PM"}
 ---
+
 
 [Andrew Tate is massively missunderstood](https://www.youtube.com/watch?v=rPx6rAAUAZU)
 

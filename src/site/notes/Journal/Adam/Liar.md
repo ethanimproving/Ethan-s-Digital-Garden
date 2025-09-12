@@ -1,9 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/journal/adam/liar/","tags":["phychology","adam"],"created":"Jun 20, 2024, 2:32 PM"}
+dg-publish: true
+dg-created: Jun 20, 2024, 2:32 PM
+tags: [phychology, adam]
 ---
 
+# Job Applications
 
 I think this nigger is lying to me. He told me he biked to a Walmart 10 minutes away, and applied at multiple places on the way back. What he doesn't know is that I have motion detection on my cameras that records events of people coming in and out of my house. On that day, he was only gone for 20 minutes. That's not enough time to even talk to the manager at Walmart.
+
+# Kimberly
 
 Today he told me a girl named Kimberly came by the house on Saturday and they went to the lake. She asked him on a date because they had been talking awhile. When I checked the cameras, he never left the house. So why would he lie to be about that? He feels like such a loser that he needs to pretend like a girl is pursuing him to protect his ego? To give himself a good name? Okay. If that's what he needs, then I'll believe him. It doesn't cost me anything. Maybe my cameras didn't pickup the motion. Despite my hesitations, I will choose to give him the benefit of the doubt because charity believeth all things.
 

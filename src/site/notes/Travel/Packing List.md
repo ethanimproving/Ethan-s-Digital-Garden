@@ -69,6 +69,26 @@ tags: [travel]
 - [ ] Buff
 - [ ] Gloves
 
+# Disneyland \ All Day Theme Parks
+
+- [ ] Fan
+- [ ] Clothes for neck or backwards hat
+- [ ] Umbrella
+- [ ] Hat
+- [ ] Sun screen
+- [ ] Star Wars cup
+- [ ] Lightsabers
+- [ ] Roku Stick
+
+## Footware
+
+- [ ] Wear broken-in, cushioned sneakers (like HOKA, Brooks, Asics, or On Cloud)
+- [ ] Compression socks
+- [ ] Orthotic insoles (like Superfeet or Dr. Schollâ€™s Active)
+- [ ] Yoda backpack
+- [ ] Electrolyte packs
+- [ ] Collapsible foot roller or massage ball
+- [ ] Epsom salt (for bath at hotel)
 
 # 2020 Jan 24 Rosendall Weekend
 [[Travel/Packing List#Default\|Extend Default List]]

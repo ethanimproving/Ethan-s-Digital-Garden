@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jun 05, 2023, 12:28 PM
-priority: 4
-cost: $3,500
-tags: [oakmore]
+{"dg-publish":true,"permalink":"/money/house/renovation-skills/kitchen/open-up-the-kitchen/","tags":["oakmore"],"created":"Jun 05, 2023, 12:28 PM"}
 ---
+
 
 1. Break down partition wall between **Living Room and Kitchen**
 2. Break **down doors / wall** for laundry room

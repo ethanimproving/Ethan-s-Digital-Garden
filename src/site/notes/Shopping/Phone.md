@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/shopping/phone/"}
 ---
+
 
 # iPhone 13 Pro
 
@@ -13,6 +14,7 @@ dg-publish: true
 I assume I will upgrade every 2 years a most, and every 3 years at least.
 
 After 6 years:
+
 | Buying Period | Total cost after 6 years | Cost After selling for 70% value |
 | ------------- | ------------------------ | -------------------------------- |
 | $1300/2 years | $3,900                   | <mark class="hltr-yellow">$2,730</mark>                          |

@@ -1,12 +1,7 @@
 ---
-dg-publish: true
-start-date: 2022-12-9
-end-date: 2022-12-17
-title: Switzerland
-type: range
-color: gray
-tags: [timeline, crush]
+{"dg-publish":true,"permalink":"/travel/2022-dec-9-vacation/","title":"Switzerland","tags":["timeline","crush"]}
 ---
+
 
 There are 3 destinations we are thinking about traveling to:
 

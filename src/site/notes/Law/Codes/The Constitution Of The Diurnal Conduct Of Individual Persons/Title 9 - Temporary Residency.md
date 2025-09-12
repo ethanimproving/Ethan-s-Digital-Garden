@@ -42,7 +42,7 @@ Here's a table comparing the effectiveness of various methods for removing smoke
 | Essential Oils                                                                                                                                       | Medium            | Masks odors with pleasant scents; less effective at neutralizing smoke odor.                                                                                                                |
 | Fans                                                                                                                                                 | Medium            | Helps move air out of the house but less effective without open windows or doors.                                                                                                           |
 
-### Key:
+### Effectiveness:
 
 - **Very High**: Extremely effective, often eliminating the smoke smell entirely.
 - **High**: Very effective, significantly reducing or eliminating the smoke smell.
@@ -71,6 +71,8 @@ Here's a table comparing the effectiveness of various methods for removing smoke
 
 **3.2** Take responsibility for personal cleanliness and hygiene to uphold overall house cleanliness standards.
 
+**3.3** Do not leave perishable or [[Journal/Adam/Rotting Meat\|strong-smelling foods]] in your room for longer than one hour to prevent odors and maintain sanitary conditions.
+
 ## § 4. Personal Space and Privacy
 
 **4.1** Housemates will respect each other's personal space and privacy, including not entering private rooms without permission.
@@ -79,11 +81,13 @@ Here's a table comparing the effectiveness of various methods for removing smoke
 
 **4.3** Acknowledge and respect different lifestyles, schedules, and habits.
 
+**4.4** To maintain accountability and cleanliness, residents must keep their bedroom doors open for at least two hours daily and while away from home, allowing for periodic inspections and ensuring assigned chores are completed as tracked in the Sweepy app.
+
 ## § 5. Guests and Visitors
 
 **5.1** Housemates will notify each other in advance of having guests over, especially if they will be staying overnight.
 
-**5.2** All guests must receive approval from the House Owner prior to their visit.
+**5.2** All guests must receive approval from the Home Leader prior to their visit.
 
 **5.3** Guests are welcome but should not remain in the house for more than 6 hours.
 
@@ -100,11 +104,11 @@ Here's a table comparing the effectiveness of various methods for removing smoke
 
 **6.3** Acknowledgment of Non-Tenancy: All housemates and guests acknowledge and sign that their stay does not constitute a tenancy and that they do not have tenant rights under Texas Property Code.
 
-**6.4** All housemates and guests acknowledge that the House Owner reserves the right to review and renew or terminate any housemate or guest's stay periodically, at intervals not exceeding 30 days.
+**6.4** All housemates and guests acknowledge that the Home Leader reserves the right to review and renew or terminate any housemate or guest's stay periodically, at intervals not exceeding 30 days.
 
 **6.5** All housemates and guests acknowledge that any individual who fails to comply with these provisions will be subject to immediate removal from the premises.
 
-**6.6** All housemates and guests acknowledge that in case of any disputes or claims of residency, the House Owner will pursue all legal remedies available to affirm the temporary nature of the occupancy and to remove the individual from the premises.
+**6.6** All housemates and guests acknowledge that in case of any disputes or claims of residency, the Home Leader will pursue all legal remedies available to affirm the temporary nature of the occupancy and to remove the individual from the premises.
 
 # Article 2: Guidelines for Temporary Residents Seeking Employment
 
@@ -116,7 +120,7 @@ Here's a table comparing the effectiveness of various methods for removing smoke
 
 **2.1** Treat job hunting as your primary responsibility. Allocate time for 8 hours of job applications daily; use remaining hours for skill development to enhance employability.
 
-**2.2** Send pictures of job applications to the House Owner daily for transparency and accountability in job search efforts. Openness is a better virtue than trust.
+**2.2** Send pictures of job applications to the Home Leader daily for transparency and accountability in job search efforts. Openness is a better virtue than trust.
 
 There is a path you can take to make your life end up fantastic, but it requires accountability. 
 
@@ -137,7 +141,7 @@ Related: [[Papers/Region Beta Paradox\|Region Beta Paradox]]
 
 ## § 4. Regular Check-ins
 
-**4.1** Temporary resident agrees to engage in regular check-ins (weekly or at the discretion of House Owner) to discuss any issues or updates.
+**4.1** Temporary resident agrees to engage in regular check-ins (weekly or at the discretion of Home Leader) to discuss any issues or updates.
 
 # Article 3: Skill Development for Temporary Residents
 
@@ -149,7 +153,7 @@ Somebody might be trying to increase the value of their labor hour by taking cou
 
 **1.1** Residents focusing on skill development must demonstrate progress or completion of online courses or relevant educational activities.
 
-**1.2** Any non-job-seeking period is limited to a maximum of 6 months without substantial progress in skill development, after which employment efforts must resume.
+**1.2** Any non-job-seeking period is limited to a maximum of 1 month without substantial progress in skill development, after which employment efforts must resume.
 
 # Article 4: Spiritual and Personal Responsibilities
 
@@ -189,3 +193,97 @@ This verse indicates that rising up before a person of age is a show of respect.
 **1.1** Abstain from [[Journal/Adam/Fornication In The House\|engaging in fornication]] to uphold biblical teachings and maintain spiritual purity within the household.
 
 **1.2** Maintain discretion in personal conduct to avoid jeopardizing relationships and spiritual standing within the church community.
+
+# Article 7: Exit Provisions
+
+**Purpose**  
+While living in this home, all residents should prepare for future housing stability in case they are required to leave. Government assistance programs often have waitlists or lottery-based selection processes, so applying early ensures access to resources when needed.
+
+## § 1. Section 8 Housing Choice Vouchers
+
+**1.1** All residents must immediately apply for a **[[Journal/Adam/Government Help for Homelessness#Apply for Section 8 Voucher\|Section 8 Housing Choice Voucher]]**, even if they have no plans to move. The program operates through a lottery-based system, and securing a spot early increases the chances of receiving assistance.
+
+- **Apply Here:** [DHA RentCafe Portal](https://dhantx.com/applicants/housing-choice-voucher-program/how-to-apply/)
+- **How It Works:** If selected, a Section 8 voucher helps pay a portion of rent at participating properties.
+
+## § 2. Affordable Housing Options
+
+**2.1** The [[Journal/Adam/Government Help for Homelessness#Low Income Housing Tax Credit (LIHTC)\|Low-Income Housing Tax Credit (LIHTC) Program]] provides affordable housing by requiring certain properties to set aside units for low-income tenants.
+
+- **Find Eligible Properties:** [HUD Rental Assistance](https://www.hud.gov/topics/rental_assistance)
+- **Example:**
+    - **Center Ridge Apartments** (Duncanville, TX) participates in LIHTC and must accept Section 8 vouchers.
+
+**2.2** **[PadSplit](https://www.padsplit.com/)** – Affordable, furnished co-living spaces with weekly payments.
+
+**2.3** **[SpareRoom](https://www.spareroom.com/)** – Shared housing listings for renting rooms month-to-month.
+
+## § 3. Emergency and Homeless Prevention Programs
+
+Residents should also be aware of emergency assistance programs in case of unexpected housing instability:
+
+**3.1** The **[Emergency Solutions Grants (ESG) Program](https://www.tdhca.texas.gov/programs/emergency-solutions-grants-esg-program?utm_source=chatgpt.com)** provides **rapid re-housing, emergency shelter**, and homelessness prevention services.
+
+**3.2** The [Homeless Housing and Services Program (HHSP)](https://www.tdhca.texas.gov/homeless-housing-services-program-hhsp?utm_source=chatgpt.com) funds services in major Texas cities, including Dallas, for those experiencing homelessness.
+
+**3.3** The [Texas Health and Human Services (HHS) Programs](https://www.hhs.texas.gov/services/mental-health-substance-use/mental-health-crisis-services/programs-people-who-are-homeless-or-risk-becoming-homeless?utm_source=chatgpt.com) includes rental assistance, move-in cost support, and help for those with mental health conditions.
+
+## § 4. Additional Resources
+
+**4.1** [2-1-1 Texas](https://www.211texas.org/) – A statewide directory of housing, food, and financial aid programs.
+
+ **4.2** SNAP (Food Stamps) – Apply for food assistance to supplement grocery costs.
+
+By taking these steps proactively, all residents ensure they have options for stable housing if circumstances change.
+
+# Article 8: Environmental Standards
+
+## § 1. Noise Management
+
+**1.01 — Quiet Hours:**  
+Quiet hours are from **10:00 PM to 8:00 AM**, during which time residents shall not create noise that could reasonably disturb others, including but not limited to:
+- Loud or repeated nose blowing,
+- Use of noisy appliances (e.g., blenders, coffee makers),
+- Cooking with loud utensils (e.g., egg cracking on hard surfaces),
+- Playing music, videos, or phone calls on speaker or without headphones.
+
+**1.02 — Speaker Use:**  
+Speakers, including Bluetooth or TV audio, must not be used without headphones if it is likely to disturb another resident.
+
+**1.03 — Phone and Conversation Volume:**  
+Phone calls and conversations shall be conducted at a respectful volume, particularly in shared spaces or during quiet hours.
+
+**1.04 — Vehicles and Alarms:**  
+Residents shall take care to avoid triggering car alarms and loud engine revs near the property, especially during quiet hours.
+
+---
+
+## § 2. Odor Management
+
+**2.01 — Slow Cooker Usage**
+**Slow cookers must be used in the garage** to minimize odor impact on the shared living spaces. **No slow cooking should occur inside the house** to ensure that food odors do not disturb other residents.
+
+**2.02 — Odor Control During Cooking**  
+Residents must prioritize **odor control** when preparing food, especially foods with strong smells such as meat, fish, or certain spices. This includes:
+- Using the **kitchen vent or range hood** while cooking to circulate air.
+- Opening **windows** or using **fans** for additional ventilation.
+- **Sealing and storing cooked food immediately** after preparation to avoid lingering smells.
+
+**2.03 — Persistent Odor Complaints**  
+If another resident reports persistent or overpowering odors from cooking, the **Home Leader will review the situation**. If necessary, the Home Leader may impose **restrictions on slow cooker usage** or other cooking methods to maintain a harmonious living environment.
+
+**2.04 — Door Open Policy for Ventilation**  
+When privacy is not a concern, residents should keep their **bedroom doors open** to encourage airflow and prevent the buildup of dust and stagnant air. This is particularly important if fans are running in a closed room, as this can cause excessive dust accumulation.
+
+---
+
+## § 3. Food Storage and Sanitation
+
+**3.01 — Raw Meat Storage**  
+All **raw meat** must be stored inside a **leak-proof container** or **sealed bin** specifically designed for raw meat (e.g., a dedicated meat container), rather than simply using bags or basic wrapping. This is to prevent **leakage** or **cross-contamination** with other foods. Double bagging or wrapping (including using retail bags, such as those from stores like Walmart) is not sufficient for proper containment of raw meat.
+
+**3.02 — Responsibility for Spillage or Contamination**  
+In the event of any **spillage**, **leakage**, or **cross-contamination** resulting from improper storage, the **resident responsible** for placing the item in the fridge is fully liable for the cleanup or part replacement if unable to be restored to original condition. The resident must **clean and sanitize** the affected area **within 24 hours** of discovery or notification.
+
+**3.03 — General Food Storage and Sanitation**  
+All food items must be stored in **sealed containers** and placed properly within the refrigerator or pantry to maintain cleanliness and prevent contamination. Residents are responsible for **maintaining cleanliness** in shared food storage spaces and **removing expired** or **spoiled food** promptly.

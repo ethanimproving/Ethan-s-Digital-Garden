@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-dg-created: Apr 24, 2014, 1:30 PM
-tags: [journal]
+{"dg-publish":true,"permalink":"/journal/doctrine-to-ponder/doctrine-to-ponder/","tags":["journal"],"created":"Apr 24, 2014, 1:30 PM"}
 ---
+
 
 Ethan Miller
 Nightstand Notes

@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-dg-created: May 27, 2024, 9:32 AM
-tags: [generations, fourthturning]
+{"dg-publish":true,"permalink":"/history/generations/strauss-howe-generational-theory/","tags":["generations","fourthturning"],"created":"May 27, 2024, 9:32 AM"}
 ---
+
 
 [Stand Against Baby Boomers](https://photos.app.goo.gl/KUfEAt2Ernw2Ehxg8)
 

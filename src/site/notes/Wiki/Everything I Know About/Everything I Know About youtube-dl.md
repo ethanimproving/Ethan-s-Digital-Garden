@@ -5,6 +5,14 @@ dg-created: Mar 13, 2021, 4:47 PM
 
 # youtube-dl Instructions
 
+## Installation
+
+### Linux
+
+```bash
+sudo apt update && sudo apt install yt-dlp
+```
+
 ## Sermon Notation
 
 ```powershell
@@ -30,6 +38,8 @@ youtube-dl -cio '%(playlist_index)s - %(title)s.%(ext)s' 'https://www.youtube.co
 youtube-dl --format mp4 -cio '%(playlist_index)s - %(title)s.%(ext)s' 'https://www.youtube.com/playlist?list=PLd8VdbWP8YWvhutGlKH6881oTJpNS5mt6'
 ```
 
+
+
 ## Download as MP3
 
 ```powershell
@@ -46,7 +56,11 @@ youtube-dl --download-archive downloaded.txt --audio-quality 0 -ciwx --audio-for
 
 ```powershell
 youtube-dl --recode-video mp4 url
+
+# Example
+yt-dlp --recode-video mp4 https://www.youtube.com/watch?v=yONN5pholyA
 ```
+
 
 ### Example
 

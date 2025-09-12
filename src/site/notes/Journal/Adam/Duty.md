@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jun 30, 2024, 6:07 AM
+{"dg-publish":true,"permalink":"/journal/adam/duty/","created":"Jun 30, 2024, 6:07 AM"}
 ---
+
 
 # Come To Church
 

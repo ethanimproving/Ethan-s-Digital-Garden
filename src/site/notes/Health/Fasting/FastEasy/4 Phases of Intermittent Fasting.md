@@ -27,7 +27,7 @@ This phase starts immediately after you eat and lasts for about 4 hours.
 
 Leptin is responsible for turning off your appetite, while ghrelin turns it on. During the anabolic phase, your **leptin levels go down**, and your brain gets a signal that you're full.
 
-![](https://myacare.com/uploads/CKEditorImages/75d5f5dfd02a402fad732e1cc9047185.jpg)
+![](https://i.imgur.com/RIt4XT7.png)
 
 ## Anabolic Zone and Muscle
 

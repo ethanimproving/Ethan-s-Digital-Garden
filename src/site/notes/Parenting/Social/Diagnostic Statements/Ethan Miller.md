@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-dg-created: Sep 22, 2023, 7:10 PM
+{"dg-publish":true,"permalink":"/parenting/social/diagnostic-statements/ethan-miller/","created":"Sep 22, 2023, 7:10 PM"}
 ---
+
 
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczN13ftYHdShtOoOKrsr0ZPsdoc2A0pF_2RF0tpJi3eFOZ7f40_eAKDQ7juKFUBLYBhszZzP3DoFesUXRj-fBON-FMrlT4FREtZflLulY36AseknPfXLoy92XTCBKU7GIZBkqX13rirqds3tA2a2wyKcDg=w894-h423-s-no-gm?authuser=0)

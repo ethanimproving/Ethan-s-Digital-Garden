@@ -1,9 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jun 29, 2024, 8:31 AM
-tags:
-  - laborhours
+{"dg-publish":true,"permalink":"/journal/adam/adam-s-jobs/","tags":["laborhours"],"created":"Jun 29, 2024, 8:31 AM"}
 ---
+
 
 Adam has charisma and has always been logical. His earning potential is very high, but he has never had the structure in his life to tap into it. I want to help accelerate his path to reaching a higher salary from a skill-based job. To do this, he needs to spend some time thinking about what kind of job he wants to train for. 
 
