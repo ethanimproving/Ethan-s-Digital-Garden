@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-dg-created: 10:40 pm
+{"dg-publish":true,"permalink":"/health/exercise/profiles/mariana-tdee-profile/","created":"10:40 pm"}
 ---
+
 
 # Negative Calorie Balance
 

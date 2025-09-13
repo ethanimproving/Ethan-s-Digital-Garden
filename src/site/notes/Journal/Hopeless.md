@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-dg-created: May 16, 2024, 2:01 PM
-tags: [jobhunt, algorithmtraining]
+{"dg-publish":true,"permalink":"/journal/hopeless/","tags":["jobhunt","algorithmtraining"],"created":"May 16, 2024, 2:01 PM"}
 ---
+
 
 It is utterly unthinkable that I will stumble upon by happenstance the exact algorithms that will challenge me in a technical interview. I can scarcely demand of my mind how to comprehend the solutions before me, much less fabricate them of my own thinking. I do not have peace in my bones, but anxiety. I need rest from the Lord. The rest of knowing I am working the right way. Rest from the fears that I am wasting my days and will run out of time.
 

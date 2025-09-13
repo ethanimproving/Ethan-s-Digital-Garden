@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jul 13, 2023, 5:23 PM
-cost: $30
-priority: 5
-tags: [oakmore]
+{"dg-publish":true,"permalink":"/money/house/renovation-skills/living-room/remove-concrete-patch-from-slab/","tags":["oakmore"],"created":"Jul 13, 2023, 5:23 PM"}
 ---
+
 
 I just removed the carpet from my floor and there appears to be patches of concrete on top of the slab. It must have splattered there during construction. Is it possible to remove it so that the slab is smooth again?
 

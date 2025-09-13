@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-dg-created: May 22, 2024, 7:53 PM
-tags: [parentingmotivation]
+{"dg-publish":true,"permalink":"/journal/i-ve-disappointed-mom/","tags":["parentingmotivation"],"created":"May 22, 2024, 7:53 PM"}
 ---
+
 
 # Mom
 

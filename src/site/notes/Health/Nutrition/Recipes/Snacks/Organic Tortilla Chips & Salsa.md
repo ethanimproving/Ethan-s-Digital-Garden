@@ -1,19 +1,7 @@
 ---
-dg-publish: true
-dg-date: May 03, 2023, 11:07 PM
-author: 
-source: 
-image:
-description: 
-preparation-time: 2
-cook-time:
-yield: 
-category: ML Core Plan
-meal: snack
-rating: 5
-calories: 600
-tags: [cookmate]
+{"dg-publish":true,"permalink":"/health/nutrition/recipes/snacks/organic-tortilla-chips-and-salsa/","tags":["cookmate"]}
 ---
+
 
 
 # Ingredients

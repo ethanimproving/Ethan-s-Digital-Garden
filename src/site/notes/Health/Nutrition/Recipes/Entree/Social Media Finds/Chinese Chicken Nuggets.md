@@ -1,17 +1,7 @@
 ---
-dg-publish: true
-dg-date: January 2, 2025, 10:30 AM
-author: foodiechina888
-source: https://www.facebook.com/reel/1304290900921750
-description: Simple homemade chicken nuggets made with chicken breasts, potatoes, and a few pantry ingredients.
-preparation-time: 
-cook-time: 20 minutes
-yield: 
-category: Snack
-meal: entree
-rating: 
-tags: [chicken nuggets, air fry, easy]
+{"dg-publish":true,"permalink":"/health/nutrition/recipes/entree/social-media-finds/chinese-chicken-nuggets/","tags":["chicken nuggets","air fry","easy"]}
 ---
+
 
 ![](https://i.imgur.com/yhOjuep.png)
 

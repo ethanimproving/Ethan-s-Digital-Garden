@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/health/sick-care/chronic-cough/"}
 ---
+
 
 [Dr. Chestnut Telavisit, pulmonologist](https://www.youtube.com/watch?v=oMxOwI3T8OA)
 # Vitamin C

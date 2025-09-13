@@ -42,37 +42,9 @@ Final Blades:
 </div></div>
 
 
+![[#Products]]
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/money/house/renovation-skills/garage/finishing-drywall/#products" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-## Products
-
-1. [Expansion Foam](https://www.homedepot.com/p/GREAT-STUFF-12-oz-Gaps-and-Cracks-Insulating-Spray-Foam-Sealant-227112/202893728#overlay) (If needed)
-2. [Blind Mark Drywall Electrical Box Locating Tool Kit](https://www.homedepot.com/p/Calculated-Industries-Blind-Mark-Drywall-Electrical-Box-Locating-Tool-Kit-4-Pieces-BMWK/100529468)
-3. [Wireless Endoscope](https://www.amazon.com/dp/B01MYTHWK4/ref=cm_sw_r_as_gl_api_glt_i_N1AWFMP5BM2HNW20M5D0?linkCode=ml1&tag=genevo902-20&th=1)
-
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/money/house/renovation-skills/garage/finishing-drywall/#tools" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-### Tools:
-
- 1. [Taping Knife](https://www.homedepot.com/p/Wal-Board-Tools-12-in-Stainless-Steel-Blade-Taping-Knife-020-042-HD/100660210) and [Mud Pan](https://www.homedepot.com/p/ToolPro-12-in-Stainless-Steel-Mud-Pan-with-Non-Slip-Grip-and-Rounded-Edges-TP03076/300176178)
-	 - Or the [Grip and Go Mud Pan](https://www.lowes.com/pd/Warner-Grip-and-Go-Mud-Pan/5001993023)
- 2. [Joint Compound](https://www.homedepot.com/p/USG-Sheetrock-Brand-4-5-gal-All-Purpose-Ready-Mixed-Joint-Compound-380501/100321605)
- 3. [Putty Knife](https://www.homedepot.com/p/Hyde-6-in-Black-and-Silver-Flex-Joint-Knife-Hammer-Head-17250/315657795)
- 4. [Trowel and Hawk Set](https://www.homedepot.com/p/DEWALT-0-5-mm-Flex-Curved-Trowel-and-Hawk-Set-DXTT-3-471/319972523)
-
-
-</div></div>
-
+![[#Tools]]
 
 # Replacing Bowing Drywall
 

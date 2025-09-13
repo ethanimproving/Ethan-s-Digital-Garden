@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jul 16, 2024, 9:55 PM
+{"dg-publish":true,"permalink":"/health/respiratory/vitamin-c/","created":"Jul 16, 2024, 9:55 PM"}
 ---
+
 
 [Ask Me Anything! Live with Dr. Rita Ellithorpe](https://www.youtube.com/live/dIExI9DFeuk?si=7kg620-CRogfzB3-&t=782)
 

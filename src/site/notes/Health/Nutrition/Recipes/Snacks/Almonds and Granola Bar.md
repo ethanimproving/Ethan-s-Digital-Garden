@@ -1,19 +1,7 @@
 ---
-dg-publish: true
-dg-date: 
-author: 
-source: 
-image:
-description: 
-preparation-time:
-cook-time:
-yield: 
-category: Gains
-meal: snack
-rating: 
-calories: 470
-tags: [cookmate]
+{"dg-publish":true,"permalink":"/health/nutrition/recipes/snacks/almonds-and-granola-bar/","tags":["cookmate"]}
 ---
+
 
 
 # Ingredients

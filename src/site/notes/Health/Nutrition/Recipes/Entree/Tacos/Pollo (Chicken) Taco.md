@@ -1,19 +1,7 @@
 ---
-dg-publish: true
-dg-date: May 04, 2023, 9:28 PM
-author: 
-source: 
-image:
-description: 
-preparation-time:
-cook-time:
-yield: 
-category: 
-meal: 
-rating: 
-calories: 
-tags: [cookmate]
+{"dg-publish":true,"permalink":"/health/nutrition/recipes/entree/tacos/pollo-chicken-taco/","tags":["cookmate"]}
 ---
+
 
 
 # Ingredients

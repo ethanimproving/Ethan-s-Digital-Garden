@@ -1,19 +1,7 @@
 ---
-dg-publish: true
-dg-date: May 03, 2023, 11:33 PM
-author: 
-source: 
-image:
-description: 
-preparation-time:
-cook-time:
-yield: 
-category: Fun
-meal: entree
-rating: 
-calories: 
-tags: [cookmate]
+{"dg-publish":true,"permalink":"/health/nutrition/recipes/entree/tuna-paddies/","tags":["cookmate"]}
 ---
+
 
 ![](https://unsophisticook.com/wp-content/uploads/2017/10/Fried-Tuna-Patties.jpg)
 

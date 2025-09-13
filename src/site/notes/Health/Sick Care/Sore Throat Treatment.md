@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/health/sick-care/sore-throat-treatment/"}
 ---
+
 
 1. Gargle Listerine
 2. Gargle Thieves

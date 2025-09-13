@@ -1,11 +1,7 @@
 ---
-dg-publish: true
-birth: 945
-line: Gwynedd
-start-date: 945-01-01
-color: orange
-tags: [timeline, gwynedd]
+{"dg-publish":true,"permalink":"/history/family-tree/wales/idwal/","tags":["timeline","gwynedd"]}
 ---
+
 <span
 	  class='ob-timelines' 
 	  data-img = 'https://i.imgur.com/zOAPywY.jpeg'>

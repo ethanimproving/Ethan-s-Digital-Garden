@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-dg-created: Mar 3, 2023, 7:58 AM
-tags: [goals, headway, books]
+{"dg-publish":true,"permalink":"/parenting/psychological/thinking-fast-and-slow/","tags":["goals","headway","books"],"created":"Mar 3, 2023, 7:58 AM"}
 ---
+
 
 > We are prone to overestimate how much we understand about the world and to underestimate the role of chance in events. ~ Daniel Kahneman
 

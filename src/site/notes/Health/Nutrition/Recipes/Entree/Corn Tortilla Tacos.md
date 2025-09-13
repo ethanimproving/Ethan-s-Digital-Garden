@@ -1,18 +1,7 @@
 ---
-dg-publish: true
-dg-date: May 03, 2023, 8:36 PM
-author: Millers
-source: 
-image:
-description: 
-preparation-time: 10
-cook-time: 10
-yield: 
-category: ML Core Plan
-meal: entree
-rating: 5
-tags: [cookmate]
+{"dg-publish":true,"permalink":"/health/nutrition/recipes/entree/corn-tortilla-tacos/","tags":["cookmate"]}
 ---
+
 
 ![](https://www.loveandoliveoil.com/wp-content/uploads/2022/01/black-bean-tacos-2-600x900.jpg)
 

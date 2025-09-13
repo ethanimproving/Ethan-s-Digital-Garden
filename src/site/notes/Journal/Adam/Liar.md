@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jun 20, 2024, 2:32 PM
-tags: [phychology, adam]
+{"dg-publish":true,"permalink":"/journal/adam/liar/","tags":["phychology","adam"],"created":"Jun 20, 2024, 2:32 PM"}
 ---
+
 
 # Job Applications
 

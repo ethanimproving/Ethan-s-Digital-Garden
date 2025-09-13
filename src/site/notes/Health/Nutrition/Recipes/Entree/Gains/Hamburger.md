@@ -1,20 +1,7 @@
 ---
-dg-publish: true
-dg-date: 
-author: 
-source: 
-image: 
-description: 
-preparation-time: 
-cook-time: 
-yield: 
-category: 
-meal: 
-rating: 
-calories: 
-tags:
-  - cookmate
+{"dg-publish":true,"permalink":"/health/nutrition/recipes/entree/gains/hamburger/","tags":["cookmate"]}
 ---
+
 
 
 # Ingredients

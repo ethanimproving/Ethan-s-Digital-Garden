@@ -1,12 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jul 06, 2023, 9:57 PM
-priority: 3
-cost: $1000
-tags:
-  - oakmore
-bought: true
+{"dg-publish":true,"permalink":"/money/house/renovation-skills/appliences/security-cameras/","tags":["oakmore"],"created":"Jul 06, 2023, 9:57 PM"}
 ---
+
 
 # How Many Cameras Do I Need?
 

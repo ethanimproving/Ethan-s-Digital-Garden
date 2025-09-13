@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-dg-created: Friday, Apr 28, 2023, 1:03 PM
-tags: [journal, delusions]
+{"dg-publish":true,"permalink":"/journal/girls-that-like-me/","tags":["journal","delusions"],"created":"Friday, Apr 28, 2023, 1:03 PM"}
 ---
+
 
 # Cassia
 

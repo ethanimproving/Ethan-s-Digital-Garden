@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-dg-created: Dec 08, 2023, 9:46 AM
-priority: 5
-cost: $150
-tags: [oakmore]
+{"dg-publish":true,"permalink":"/money/house/renovation-skills/yard-and-outside/install-chimney-cap/","tags":["oakmore"],"created":"Dec 08, 2023, 9:46 AM"}
 ---
+
 
 - [x] [[Goals/Checklist/Habits/2023-08-05\|Measure Chimney]]
 

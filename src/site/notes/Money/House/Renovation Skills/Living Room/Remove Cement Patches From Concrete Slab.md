@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jul 13, 2023, 5:23 PM
-cost: $30
-priority: 5
-tags: [oakmore]
+{"dg-publish":true,"permalink":"/money/house/renovation-skills/living-room/remove-cement-patches-from-concrete-slab/","tags":["oakmore"],"created":"Jul 13, 2023, 5:23 PM"}
 ---
+
 
 # Equipment
 

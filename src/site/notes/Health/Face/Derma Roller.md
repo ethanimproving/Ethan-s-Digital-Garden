@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-dg-created: Nov 25, 2018, 3:32 PM
-dg-updated: Jun 09, 2023, 9:37 AM
+{"dg-publish":true,"permalink":"/health/face/derma-roller/","created":"Nov 25, 2018, 3:32 PM"}
 ---
+
 
 Microneedling is a minimally invasive skin rejuvenation technique that involves creating tiny punctures in the skin using a roller covered in numerous small needles.
 

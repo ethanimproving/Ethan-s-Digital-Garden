@@ -1,20 +1,7 @@
 ---
-dg-publish: true
-dg-date: May 03, 2023, 11:14 PM
-author: 
-source: 
-image:
-description: 
-preparation-time: 5
-cook-time: 5
-yield:
-serving: 3 cups
-category: ML Core Plan
-meal: snack
-rating: 5
-calories: 200
-tags: [cookmate]
+{"dg-publish":true,"permalink":"/health/nutrition/recipes/snacks/popcorn/","tags":["cookmate"]}
 ---
+
 
 
 # Ingredients

@@ -1,11 +1,7 @@
 ---
-dg-publish: true
-dg-created: Nov 25, 2023, 11:33 PM
-cost: $30
-priority: 1
-tags: [oakmore]
-bought: true
+{"dg-publish":true,"permalink":"/money/house/renovation-skills/appliences/compressed-air-dusters/","tags":["oakmore"],"created":"Nov 25, 2023, 11:33 PM"}
 ---
+
 
 [Amazon Best Sellers](https://www.amazon.com/Best-Sellers-Compressed-Air-Dusters/zgbs/pc/3012916011)
 
@@ -25,7 +21,7 @@ Black Friday Sale: [$21.99](https://www.amazon.com/gogonova-Compressed-60000RPM-
 
 # MECO Electric Air Blower
 
-Vacuum/blower combo. It's usually more expensive which makes me believe it must be better than the [[Money/House/Renovation Skills/Appliences/Compressed Air Dusters#Electric Air Duster & Vacuum Cleaner 2 in 1\|VFEMEIYE]].
+Vacuum/blower combo. It's usually more expensive which makes me believe it must be better than the [[#Electric Air Duster & Vacuum Cleaner 2 in 1|VFEMEIYE]].
 Black Friday Sale: [$49.99](https://www.amazon.com/dp/B0B63GQYZQ)
 Average Price: [$69.37](https://camelcamelcamel.com/product/B0B63GQYZQ)
 Rating: 4.2 (1,566)

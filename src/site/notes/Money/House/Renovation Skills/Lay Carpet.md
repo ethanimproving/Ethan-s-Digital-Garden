@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jul 19, 2023, 5:36 PM
-priority: 3
-cost: $1 / sq ft
-tags: [oakmore]
+{"dg-publish":true,"permalink":"/money/house/renovation-skills/lay-carpet/","tags":["oakmore"],"created":"Jul 19, 2023, 5:36 PM"}
 ---
+
 
 # Choosing Carpet
 

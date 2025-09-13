@@ -1,19 +1,7 @@
 ---
-dg-publish: true
-dg-date: May 03, 2023, 11:30 PM
-author: Strawberry Shortcake Berry Yummy Cookbook pg. 46
-source: 
-image:
-description: 
-preparation-time: 10
-cook-time: 60
-yield: 4
-category: Fun
-meal: entree
-rating: 5
-calories: 
-tags: [cookmate]
+{"dg-publish":true,"permalink":"/health/nutrition/recipes/entree/twice-baked-potatoes/","tags":["cookmate"]}
 ---
+
 
 ![](https://food.fnr.sndimg.com/content/dam/images/food/fullset/2012/8/13/1/WU-0106_cheesy-baked-potatoes_s4x3.jpg.rend.hgtvcom.616.462.suffix/1382375911904.jpeg)
 

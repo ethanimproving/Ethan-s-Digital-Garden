@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-dg-created: Jul 17, 2024, 11:10 AM
+{"dg-publish":true,"permalink":"/health/fasting/fast-easy/4-phases-of-intermittent-fasting/","created":"Jul 17, 2024, 11:10 AM"}
 ---
+
 
 There are **4 phases** that your body goes through during intermittent fasting (IF). Each phase varies based on the source of energy affecting your metabolism and hormones differently.
 

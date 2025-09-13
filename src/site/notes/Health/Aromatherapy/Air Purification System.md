@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/health/aromatherapy/air-purification-system/"}
 ---
+
 
 - [Reme HALO-LED Air Purification System](https://app.oncallair.com/#/view/consultation/0cc5903fd6522391faf5c24bdd55ea5d646a9057e90f29b8ed63bfa2a4167513/1442/752892)
 

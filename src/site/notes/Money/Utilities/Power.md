@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-dg-created: Sep 15, 2023, 8:30 PM
+{"dg-publish":true,"permalink":"/money/utilities/power/","created":"Sep 15, 2023, 8:30 PM"}
 ---
+
 ESI ID: 10443720003043093
 Octopus Energy account number:  A-E1C213C9
 # Dad: Try a temporary plan

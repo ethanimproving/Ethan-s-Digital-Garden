@@ -1,9 +1,7 @@
 ---
-dg-publish: true
-dg-created: Feb 12, 2024, 9:04 PM
-tags:
-  - laborhours
+{"dg-publish":true,"permalink":"/journal/faith-s-jobs/","tags":["laborhours"],"created":"Feb 12, 2024, 9:04 PM"}
 ---
+
 # Ikigai
 
 There is an ancient Japanese principle that states your job ought to be a combination of **(1)** what you're good at, **(2)** what you like, **(3)** what the world needs, and **(4)** what you can be paid for.

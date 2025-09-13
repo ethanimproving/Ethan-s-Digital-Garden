@@ -1,19 +1,7 @@
 ---
-dg-publish: true
-dg-date: 
-author: 
-source: 
-image:
-description: 
-preparation-time:
-cook-time:
-yield: 
-category: Gains
-meal: snack
-rating: 
-calories: 220
-tags: [cookmate]
+{"dg-publish":true,"permalink":"/health/nutrition/recipes/snacks/cliff-bar/","tags":["cookmate"]}
 ---
+
 
 
 # Ingredients

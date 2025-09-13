@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-dg-created: Aug 08, 2023, 7:31 PM
-cost: $0
-priority: 5
-tags: [oakmore]
+{"dg-publish":true,"permalink":"/money/house/renovation-skills/kitchen/fix-sink-pipes/","tags":["oakmore"],"created":"Aug 08, 2023, 7:31 PM"}
 ---
+
 
 # Equipment
 

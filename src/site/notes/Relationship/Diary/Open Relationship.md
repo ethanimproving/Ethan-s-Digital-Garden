@@ -1,9 +1,7 @@
 ---
-dg-publish: true
-dg-created: Apr 10, 2023, 5:59 PM
-dg-updated: 
-tags: [breakup]
+{"dg-publish":true,"permalink":"/relationship/diary/open-relationship/","tags":["breakup"],"created":"Apr 10, 2023, 5:59 PM"}
 ---
+
 
 Over the weekend we drove home late from a movie at Caleb’s and I asked Mariana what was holding her back from wanting to move to Dallas and marry me. She gave [[Relationship/Diary/4 Things Holding Mariana Back From Marrying Me\|4 answers]], and then we talked about what it would take to make her ready.
 

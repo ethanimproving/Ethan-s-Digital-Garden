@@ -1,19 +1,7 @@
 ---
-dg-publish: true
-dg-date: May 03, 2023, 9:13 PM
-author: 
-source: 
-image:
-description: 
-preparation-time:
-cook-time:
-yield: 
-category: Fun
-meal: snack
-rating: 
-calories: 198
-tags: [cookmate]
+{"dg-publish":true,"permalink":"/health/nutrition/recipes/snacks/bacon-wrapped-jalapeno-popper/","tags":["cookmate"]}
 ---
+
 
 link:: [[Bacon Wrapped Jalapeno Popper.cook|Directions]]
 

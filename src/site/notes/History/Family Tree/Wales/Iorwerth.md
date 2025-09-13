@@ -1,11 +1,7 @@
 ---
-dg-publish: true
-birth: 1130
-line: Gwynedd
-start-date: 1130-01-01
-color: orange
-tags: [timeline, gwynedd]
+{"dg-publish":true,"permalink":"/history/family-tree/wales/iorwerth/","tags":["timeline","gwynedd"]}
 ---
+
 <span
 	  class='ob-timelines' 
 	  data-img = 'https://i.imgur.com/Qzz3Lsc.jpeg'>

@@ -1,18 +1,7 @@
 ---
-dg-publish: true
-dg-date: January 2, 2025, 10:22 AM
-author: Chef Boyd Brown III
-source: https://www.facebook.com/reel/779376227534611
-image:
-description: Craving something crispy, juicy, and full of flavor? Arayes are the perfect Middle Eastern street food—grilled pita stuffed with spiced ground lamb, bursting with bold herbs and spices.
-preparation-time: 
-cook-time: 
-yield: 
-category: Middle Eastern Cuisine
-meal: entree
-rating: 
-tags: [street food, lamb, grilled]
+{"dg-publish":true,"permalink":"/health/nutrition/recipes/entree/social-media-finds/stuffed-meat-pockets/","tags":["street food","lamb","grilled"]}
 ---
+
 ![](https://i.imgur.com/96XcBeo.png)
 
 # Ingredients
