@@ -40,6 +40,8 @@ Optional:
 
 # Installation
 
+Refer to these [Google Photos](https://photos.app.goo.gl/Vx52NfW5QbGQdq2C7) and videos.
+
 ## 1. Place Indoor Unit
 
 ## 2. Cut, Flare, and Connect
