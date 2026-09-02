@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/fired/","tags":["jobhunt","enemylove","forgiveness"],"created":"May 15, 2024, 6:26 PM"}
+{"dg-publish":true,"permalink":"/journal/fired/","tags":["jobhunt","enemylove","forgiveness"],"created":"May 15, 2024, 6:26 PM","dg-note-properties":{"tags":["jobhunt","enemylove","forgiveness"]}}
 ---
 
 

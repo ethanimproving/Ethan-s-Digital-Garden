@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/sick-care/covid-diamond-silk/"}
+{"dg-publish":true,"permalink":"/health/sick-care/covid-diamond-silk/","dg-note-properties":{}}
 ---
 
 

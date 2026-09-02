@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/nutrition/grocery-list/ingredients/proteins/ground-beef/"}
+{"dg-publish":true,"permalink":"/health/nutrition/grocery-list/ingredients/proteins/ground-beef/","dg-note-properties":{"price":4.64,"aisle":"A27","inventory":0}}
 ---
 
 

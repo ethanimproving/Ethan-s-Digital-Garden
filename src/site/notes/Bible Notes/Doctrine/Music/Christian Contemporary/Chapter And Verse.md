@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/doctrine/music/christian-contemporary/chapter-and-verse/","created":"Jan 09, 2021, 11:42 AM"}
+{"dg-publish":true,"permalink":"/bible-notes/doctrine/music/christian-contemporary/chapter-and-verse/","created":"Jan 09, 2021, 11:42 AM","dg-note-properties":{}}
 ---
 
 

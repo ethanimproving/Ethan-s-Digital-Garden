@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/crush-on-kayleigh-forbes/","title":"Crush on Kayleigh Forbes","tags":["timeline","crush"]}
+{"dg-publish":true,"permalink":"/goals/timeline-events/crush-on-kayleigh-forbes/","title":"Crush on Kayleigh Forbes","tags":["timeline","crush"],"dg-note-properties":{"start-date":"2009-07-05","end-date":"2013-01-28","type":"range","color":"pink","title":"Crush on Kayleigh Forbes","date-limit":"year","importance":30,"tags":["timeline","crush"]}}
 ---
 
 

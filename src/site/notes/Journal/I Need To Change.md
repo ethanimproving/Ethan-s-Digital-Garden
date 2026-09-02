@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/i-need-to-change/","tags":["journal"],"created":"Jun 8, 2023, 10:41 AM"}
+{"dg-publish":true,"permalink":"/journal/i-need-to-change/","tags":["journal"],"created":"Jun 8, 2023, 10:41 AM","dg-note-properties":{"tags":["journal"]}}
 ---
 
 

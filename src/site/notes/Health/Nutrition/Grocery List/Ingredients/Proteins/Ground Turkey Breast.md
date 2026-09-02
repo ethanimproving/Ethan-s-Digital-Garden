@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/nutrition/grocery-list/ingredients/proteins/ground-turkey-breast/"}
+{"dg-publish":true,"permalink":"/health/nutrition/grocery-list/ingredients/proteins/ground-turkey-breast/","dg-note-properties":{"price":null,"aisle":null,"inventory":null}}
 ---
 
 

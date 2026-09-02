@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/fun-with-friends/","tags":["timeline","personal"]}
+{"dg-publish":true,"permalink":"/goals/timeline-events/fun-with-friends/","tags":["timeline","personal"],"dg-note-properties":{"start-date":"2021-05-01","end-date":"2022-11-06","type":"range","color":"blue","tags":["timeline","personal"]}}
 ---
 
 

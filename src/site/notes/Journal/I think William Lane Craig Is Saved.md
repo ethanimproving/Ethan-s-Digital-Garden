@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/i-think-william-lane-craig-is-saved/","tags":["journal"],"created":"Monday, Jan 21, 2019, 10:16 PM"}
+{"dg-publish":true,"permalink":"/journal/i-think-william-lane-craig-is-saved/","tags":["journal"],"created":"Monday, Jan 21, 2019, 10:16 PM","dg-note-properties":{"tags":["journal"]}}
 ---
 
 

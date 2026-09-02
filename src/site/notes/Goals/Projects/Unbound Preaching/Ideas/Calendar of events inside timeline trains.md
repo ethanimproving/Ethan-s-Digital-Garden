@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/calendar-of-events-inside-timeline-trains/","tags":["website"],"created":"Oct 30, 2018, 12:10 PM"}
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/calendar-of-events-inside-timeline-trains/","tags":["website"],"created":"Oct 30, 2018, 12:10 PM","dg-note-properties":{"tags":["website"]}}
 ---
 
 

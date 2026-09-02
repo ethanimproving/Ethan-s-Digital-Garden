@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/nutrition/recipes/entree/rice/","tags":["cookmate"]}
+{"dg-publish":true,"permalink":"/health/nutrition/recipes/entree/rice/","tags":["cookmate"],"dg-note-properties":{"author":null,"source":null,"image":null,"description":null,"preparation-time":3,"cook-time":10,"yield":null,"category":null,"meal":null,"rating":null,"calories":null,"tags":["cookmate"]}}
 ---
 
 
@@ -21,4 +21,4 @@ Garlic Powder
 4. Wait until lid dings
 5. Turn heat off and wait another 15 minutes
 
-![](https://www.youtube.com/watch?v=v2DdZyvWtJc)
+<div class="youtube-embed"><iframe src="https://www.youtube.com/embed/v2DdZyvWtJc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

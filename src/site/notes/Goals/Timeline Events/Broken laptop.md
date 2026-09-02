@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/broken-laptop/","title":"Broken laptop","tags":["timeline","personal"]}
+{"dg-publish":true,"permalink":"/goals/timeline-events/broken-laptop/","title":"Broken laptop","tags":["timeline","personal"],"dg-note-properties":{"start-date":"2008-09-19","title":"Broken laptop","date-limit":"week","importance":30,"tags":["timeline","personal"]}}
 ---
 
 

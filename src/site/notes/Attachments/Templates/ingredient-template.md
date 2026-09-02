@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/attachments/templates/ingredient-template/"}
+{"dg-publish":true,"permalink":"/attachments/templates/ingredient-template/","dg-note-properties":{"price":null,"aisle":null,"inventory":null}}
 ---
 
 

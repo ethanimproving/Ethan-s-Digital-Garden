@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/doctrine/music/christian-contemporary/mercy-me-concert/","created":"Sep 05, 2018, 4:56 PM"}
+{"dg-publish":true,"permalink":"/bible-notes/doctrine/music/christian-contemporary/mercy-me-concert/","created":"Sep 05, 2018, 4:56 PM","dg-note-properties":{}}
 ---
 
 

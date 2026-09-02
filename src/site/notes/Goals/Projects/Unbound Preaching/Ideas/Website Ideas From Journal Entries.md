@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/website-ideas-from-journal-entries/","tags":["website"],"created":"Aug 22, 2018, 5:08 PM"}
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/website-ideas-from-journal-entries/","tags":["website"],"created":"Aug 22, 2018, 5:08 PM","dg-note-properties":{"tags":["website"]}}
 ---
 
 

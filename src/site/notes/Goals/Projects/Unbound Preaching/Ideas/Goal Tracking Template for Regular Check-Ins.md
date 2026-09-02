@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/goal-tracking-template-for-regular-check-ins/","tags":["website"],"created":"Jul 11, 2020, 7:07 AM"}
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/goal-tracking-template-for-regular-check-ins/","tags":["website"],"created":"Jul 11, 2020, 7:07 AM","dg-note-properties":{"tags":["website"]}}
 ---
 
 

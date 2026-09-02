@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/structured-arguments/","tags":["website"],"created":"Jul 18, 2018, 6:07 AM"}
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/structured-arguments/","tags":["website"],"created":"Jul 18, 2018, 6:07 AM","dg-note-properties":{"tags":["website"]}}
 ---
 
 

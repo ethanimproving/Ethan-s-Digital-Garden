@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/respiratory/breo-ellipta/","created":"May 29, 2024, 8:50 PM"}
+{"dg-publish":true,"permalink":"/health/respiratory/breo-ellipta/","created":"May 29, 2024, 8:50 PM","dg-note-properties":{}}
 ---
 
 

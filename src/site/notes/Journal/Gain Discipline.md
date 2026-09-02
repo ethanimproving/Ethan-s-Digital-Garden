@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/gain-discipline/","created":"Jan 15, 2024, 8:57 AM"}
+{"dg-publish":true,"permalink":"/journal/gain-discipline/","created":"Jan 15, 2024, 8:57 AM","dg-note-properties":{}}
 ---
 
 

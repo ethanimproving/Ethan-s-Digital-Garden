@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/ethan-s-commitments/"}
+{"dg-publish":true,"permalink":"/goals/ethan-s-commitments/","dg-note-properties":{}}
 ---
 
 
@@ -114,9 +114,13 @@
 - [ ] I notice and verbally praise the sacrifices she makes for God
 - [ ] I don’t get mad at anything that I don’t have a verse in mind for
 - [ ] When she is trying to tell me something, I spend more energy trying to understand it than answering it
+- [ ] I don’t get upset when we have to repeat a Bible lesson
+- [ ] I let her finish her thought before interjecting. English is not her first language. Help her communicate.
+- [ ] I don’t threaten to breakup as a reaction to an emotion
 
 # I am fully devoted to the Lord
 
+- [ ] **I don’t make choices that I will feel the need to lie about**
 - [ ] I rejoice always
 - [ ] I entrust to God my cause
 - [ ] I am not easily offended

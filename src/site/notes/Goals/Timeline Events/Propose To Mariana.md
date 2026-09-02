@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/propose-to-mariana/","tags":["timeline","personal"]}
+{"dg-publish":true,"permalink":"/goals/timeline-events/propose-to-mariana/","tags":["timeline","personal"],"dg-note-properties":{"start-date":"2024-02-05","end-date":"2024-03-05","type":"range","color":"pink","tags":["timeline","personal"]}}
 ---
 
 

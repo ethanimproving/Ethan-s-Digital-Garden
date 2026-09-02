@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/resolving-course-conflicts-by-setting-as-official-course/","tags":["website"],"created":"Nov 27, 2018, 9:11 AM"}
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/resolving-course-conflicts-by-setting-as-official-course/","tags":["website"],"created":"Nov 27, 2018, 9:11 AM","dg-note-properties":{"tags":["website"]}}
 ---
 
 

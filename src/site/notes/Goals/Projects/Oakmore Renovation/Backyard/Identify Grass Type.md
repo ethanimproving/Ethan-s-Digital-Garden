@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/backyard/identify-grass-type/","tags":["oakmore-renovation-task"],"created":"Jan 01, 2024, 3:32 PM"}
+{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/backyard/identify-grass-type/","tags":["oakmore-renovation-task"],"created":"Jan 01, 2024, 3:32 PM","dg-note-properties":{"date-completed":null,"parent":"Backyard","status":"In-Prorgess","minutes":15,"assigned-to":"Ethan","depends-on":null,"tags":["oakmore-renovation-task"]}}
 ---
 
 

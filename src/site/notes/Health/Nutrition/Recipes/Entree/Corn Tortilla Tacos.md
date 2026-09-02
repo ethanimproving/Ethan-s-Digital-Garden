@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/nutrition/recipes/entree/corn-tortilla-tacos/","tags":["cookmate"]}
+{"dg-publish":true,"permalink":"/health/nutrition/recipes/entree/corn-tortilla-tacos/","tags":["cookmate"],"dg-note-properties":{"author":"Millers","source":null,"image":null,"description":null,"preparation-time":10,"cook-time":10,"yield":null,"category":"ML Core Plan","meal":"entree","rating":5,"tags":["cookmate"]}}
 ---
 
 

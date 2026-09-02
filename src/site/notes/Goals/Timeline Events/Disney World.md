@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/disney-world/","tags":["timeline"]}
+{"dg-publish":true,"permalink":"/goals/timeline-events/disney-world/","tags":["timeline"],"dg-note-properties":{"start-date":"2018-08-23","end-date":"2018-09-23","type":"range","color":"blue","date-limit":"year","importance":50,"tags":["timeline"]}}
 ---
 
 

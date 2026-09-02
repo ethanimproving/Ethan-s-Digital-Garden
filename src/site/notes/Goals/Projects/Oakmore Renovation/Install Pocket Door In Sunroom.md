@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/install-pocket-door-in-sunroom/","tags":["oakmore-renovation-task"],"created":"Mar 01, 2024, 4:41 PM"}
+{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/install-pocket-door-in-sunroom/","tags":["oakmore-renovation-task"],"created":"Mar 01, 2024, 4:41 PM","dg-note-properties":{"date-completed":null,"parent":"Sunroom","status":"In-Prorgess","minutes":240,"assigned-to":"Ethan","depends-on":null,"tags":["oakmore-renovation-task"],"cost":"300"}}
 ---
 
 

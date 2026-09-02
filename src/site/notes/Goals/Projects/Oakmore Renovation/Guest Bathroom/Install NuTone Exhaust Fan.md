@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/guest-bathroom/install-nu-tone-exhaust-fan/","tags":["oakmore-renovation-task"],"created":"Jan 01, 2024, 8:35 PM"}
+{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/guest-bathroom/install-nu-tone-exhaust-fan/","tags":["oakmore-renovation-task"],"created":"Jan 01, 2024, 8:35 PM","dg-note-properties":{"date-completed":null,"parent":"Guest Bathroom","status":"Complete","minutes":180,"assigned-to":null,"depends-on":null,"tags":["oakmore-renovation-task"]}}
 ---
 
 

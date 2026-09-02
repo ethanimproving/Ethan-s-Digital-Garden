@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/take-a-deep-breath-circle/","tags":["website"],"created":"Jul 18, 2018, 1:07 PM"}
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/take-a-deep-breath-circle/","tags":["website"],"created":"Jul 18, 2018, 1:07 PM","dg-note-properties":{"tags":["website"]}}
 ---
 
 

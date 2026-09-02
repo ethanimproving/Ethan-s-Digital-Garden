@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/doctrine/music/hymns/other-music/","created":"Sep 07, 2018, 10:15 PM"}
+{"dg-publish":true,"permalink":"/bible-notes/doctrine/music/hymns/other-music/","created":"Sep 07, 2018, 10:15 PM","dg-note-properties":{}}
 ---
 
 

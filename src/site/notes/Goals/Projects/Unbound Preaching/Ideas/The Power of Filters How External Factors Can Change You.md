@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/the-power-of-filters-how-external-factors-can-change-you/","created":"Jul 12, 2020, 9:07 AM"}
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/the-power-of-filters-how-external-factors-can-change-you/","created":"Jul 12, 2020, 9:07 AM","dg-note-properties":{}}
 ---
 
 

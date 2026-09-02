@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/website-names/","tags":["website"],"created":"Jul 19, 2018, 8:07 AM"}
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/website-names/","tags":["website"],"created":"Jul 19, 2018, 8:07 AM","dg-note-properties":{"tags":["website"]}}
 ---
 
 

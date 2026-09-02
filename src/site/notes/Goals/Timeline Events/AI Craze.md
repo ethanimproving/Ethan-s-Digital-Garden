@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/ai-craze/","tags":["timeline","personal"]}
+{"dg-publish":true,"permalink":"/goals/timeline-events/ai-craze/","tags":["timeline","personal"],"dg-note-properties":{"start-date":"2023-04-18","end-date":"2023-07-10","type":"range","color":"blue","date-limit":"year","importance":50,"tags":["timeline","personal"]}}
 ---
 
 

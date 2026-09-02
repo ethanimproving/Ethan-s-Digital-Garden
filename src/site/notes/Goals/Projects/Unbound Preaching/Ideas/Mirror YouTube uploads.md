@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/mirror-you-tube-uploads/","tags":["website"],"created":"Jul 27, 2018, 10:07 AM"}
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/mirror-you-tube-uploads/","tags":["website"],"created":"Jul 27, 2018, 10:07 AM","dg-note-properties":{"tags":["website"]}}
 ---
 
 

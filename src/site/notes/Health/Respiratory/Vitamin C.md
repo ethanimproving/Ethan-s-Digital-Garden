@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/respiratory/vitamin-c/","created":"Jul 16, 2024, 9:55 PM"}
+{"dg-publish":true,"permalink":"/health/respiratory/vitamin-c/","created":"Jul 16, 2024, 9:55 PM","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/chess/","tags":["timeline","personal"]}
+{"dg-publish":true,"permalink":"/goals/timeline-events/chess/","tags":["timeline","personal"],"dg-note-properties":{"start-date":"2022-12-30","end-date":"2023-03-14","type":"range","color":"blue","tags":["timeline","personal"]}}
 ---
 
 

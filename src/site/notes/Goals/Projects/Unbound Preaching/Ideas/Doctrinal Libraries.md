@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/doctrinal-libraries/","tags":["website"],"created":"Aug 23, 2018, 1:08 PM"}
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/doctrinal-libraries/","tags":["website"],"created":"Aug 23, 2018, 1:08 PM","dg-note-properties":{"tags":["website"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/improving-bootcamp/","tags":["timeline","personal"]}
+{"dg-publish":true,"permalink":"/goals/timeline-events/improving-bootcamp/","tags":["timeline","personal"],"dg-note-properties":{"start-date":"2019-09-16","end-date":"2019-12-12","type":"range","color":"gray","tags":["timeline","personal"]}}
 ---
 
 

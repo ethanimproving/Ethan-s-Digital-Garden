@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/sick-care/sore-throat-treatment/"}
+{"dg-publish":true,"permalink":"/health/sick-care/sore-throat-treatment/","dg-note-properties":{}}
 ---
 
 

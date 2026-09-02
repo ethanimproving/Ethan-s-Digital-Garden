@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/plugins/kanban-chores/","created":"Dec 15, 2023, 12:16 PM"}
+{"dg-publish":true,"permalink":"/goals/projects/plugins/kanban-chores/","created":"Dec 15, 2023, 12:16 PM","dg-note-properties":{}}
 ---
 
 

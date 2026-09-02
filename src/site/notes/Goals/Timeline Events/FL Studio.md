@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/fl-studio/","tags":["timeline","personal"]}
+{"dg-publish":true,"permalink":"/goals/timeline-events/fl-studio/","tags":["timeline","personal"],"dg-note-properties":{"start-date":"2012-08-02","end-date":"2013-05-03","type":"range","color":"yellow","date-limit":"year","importance":30,"tags":["timeline","personal"]}}
 ---
 
 

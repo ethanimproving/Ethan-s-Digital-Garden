@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/topic-doctrine-proposition-s-argument-s-category-tags/","tags":["website"],"created":"Nov 12, 2018, 10:11 AM"}
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/topic-doctrine-proposition-s-argument-s-category-tags/","tags":["website"],"created":"Nov 12, 2018, 10:11 AM","dg-note-properties":{"tags":["website"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/backyard/install-retractable-garden-hose/","tags":["oakmore-renovation-task"],"created":"Jan 01, 2024, 7:29 PM"}
+{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/backyard/install-retractable-garden-hose/","tags":["oakmore-renovation-task"],"created":"Jan 01, 2024, 7:29 PM","dg-note-properties":{"date-completed":null,"parent":"Backyard","status":"Defined","minutes":120,"assigned-to":null,"depends-on":"Buying Hose Reel","tags":["oakmore-renovation-task"],"cost":"200"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/install-security-cameras/","tags":["oakmore-renovation-task"],"created":"Jan 12, 2024, 6:40 PM"}
+{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/install-security-cameras/","tags":["oakmore-renovation-task"],"created":"Jan 12, 2024, 6:40 PM","dg-note-properties":{"date-completed":null,"parent":"Attic","status":"In-Prorgess","minutes":240,"assigned-to":null,"depends-on":null,"tags":["oakmore-renovation-task"]}}
 ---
 
 

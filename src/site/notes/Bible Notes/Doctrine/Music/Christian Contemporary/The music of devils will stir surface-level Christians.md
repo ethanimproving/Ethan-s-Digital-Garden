@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/doctrine/music/christian-contemporary/the-music-of-devils-will-stir-surface-level-christians/","created":"Jul 30, 2018, 7:37 AM"}
+{"dg-publish":true,"permalink":"/bible-notes/doctrine/music/christian-contemporary/the-music-of-devils-will-stir-surface-level-christians/","created":"Jul 30, 2018, 7:37 AM","dg-note-properties":{}}
 ---
 
 

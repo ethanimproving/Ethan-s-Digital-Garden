@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/replace-exhaust-fan/","tags":["oakmore-renovation-task"],"created":"Jan 01, 2024, 8:49 PM"}
+{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/replace-exhaust-fan/","tags":["oakmore-renovation-task"],"created":"Jan 01, 2024, 8:49 PM","dg-note-properties":{"date-completed":null,"parent":"Master Bathroom","status":"Defined","minutes":120,"assigned-to":null,"depends-on":null,"tags":["oakmore-renovation-task"]}}
 ---
 
 

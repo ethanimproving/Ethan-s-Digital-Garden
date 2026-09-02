@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/buying-a-house/","tags":["timeline","personal"],"created":"Oct 20, 2023, 2:18 PM"}
+{"dg-publish":true,"permalink":"/goals/timeline-events/buying-a-house/","tags":["timeline","personal"],"created":"Oct 20, 2023, 2:18 PM","dg-note-properties":{"start-date":"2023-03-07","end-date":"2023-12-29","type":"range","color":"orange","tags":["timeline","personal"]}}
 ---
 
 

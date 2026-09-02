@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/don-t-be-a-lazy-jerk-bro-dillon-awes/","tags":["laziness"],"created":"Jan 28, 2024, 10:40 PM"}
+{"dg-publish":true,"permalink":"/bible-notes/don-t-be-a-lazy-jerk-bro-dillon-awes/","tags":["laziness"],"created":"Jan 28, 2024, 10:40 PM","dg-note-properties":{"note-id":1,"verse-reference":"Proverbs 10:26","date-created":"1/28/2024","date-updated":"1/28/2024","icon":"pulpit","tags":["laziness"],"category":"Laziness"}}
 ---
 
 

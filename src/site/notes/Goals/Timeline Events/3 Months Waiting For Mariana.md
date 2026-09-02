@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/3-months-waiting-for-mariana/","tags":["timeline","crush","breakup"]}
+{"dg-publish":true,"permalink":"/goals/timeline-events/3-months-waiting-for-mariana/","tags":["timeline","crush","breakup"],"dg-note-properties":{"start-date":"2023-04-10","end-date":"2023-07-10","type":"range","color":"orange","tags":["timeline","crush","breakup"]}}
 ---
 
 

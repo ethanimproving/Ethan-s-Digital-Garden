@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/backyard/install-shed/"}
+{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/backyard/install-shed/","dg-note-properties":{}}
 ---
 
 

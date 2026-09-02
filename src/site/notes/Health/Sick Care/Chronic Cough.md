@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/sick-care/chronic-cough/"}
+{"dg-publish":true,"permalink":"/health/sick-care/chronic-cough/","dg-note-properties":{}}
 ---
 
 

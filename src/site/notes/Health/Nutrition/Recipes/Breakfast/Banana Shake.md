@@ -1,18 +1,7 @@
 ---
-dg-publish: true
-dg-date: May 03, 2023, 8:20 PM
-author: Millers
-source: 
-image:
-description: 
-preparation-time: 5 minutes
-cook-time: 1 minutes
-yield: 1 glass
-category: ML Core Plan
-meal: breakfast
-rating: 5
-tags: [cookmate]
+{"dg-publish":true,"permalink":"/health/nutrition/recipes/breakfast/banana-shake/","tags":["cookmate"],"dg-note-properties":{"author":"Millers","source":null,"image":null,"description":null,"preparation-time":"5 minutes","cook-time":"1 minutes","yield":"1 glass","category":"ML Core Plan","meal":"breakfast","rating":5,"tags":["cookmate"]}}
 ---
+
 ![]()
 
 # Ingredients

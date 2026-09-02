@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/ac/unclog-ac-discharge-pipe/","tags":["oakmore-renovation-task"],"created":"Jan 20, 2024, 9:28 AM"}
+{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/ac/unclog-ac-discharge-pipe/","tags":["oakmore-renovation-task"],"created":"Jan 20, 2024, 9:28 AM","dg-note-properties":{"date-completed":null,"parent":"Utility Room","status":"Defined","minutes":30,"assigned-to":"Ethan Miller","depends-on":"Buy Air Compressor","tags":["oakmore-renovation-task"],"cost":"200","priority":1}}
 ---
 
 [How to Unclog an AC Drain Line in an Attic](https://www.wikihow.com/Unclog-an-AC-Drain-Line-in-an-Attic)

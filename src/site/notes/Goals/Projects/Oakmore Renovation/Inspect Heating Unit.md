@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/inspect-heating-unit/","tags":["oakmore-renovation-task"],"created":"Jan 16, 2024, 9:48 PM"}
+{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/inspect-heating-unit/","tags":["oakmore-renovation-task"],"created":"Jan 16, 2024, 9:48 PM","dg-note-properties":{"date-completed":null,"parent":"Utility Room","status":"Defined","minutes":120,"assigned-to":"Ethan","depends-on":null,"tags":["oakmore-renovation-task"],"cost":"300"}}
 ---
 
 Today while I visited Oakmore after work I noticed the thermostat reported indoor temperatures at 62F while it was 23F outside. Caleb's and Anna's houses were at at 68F, a 6 degree difference.

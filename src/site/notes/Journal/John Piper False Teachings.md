@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/john-piper-false-teachings/","created":"Jun 27, 2018, 7:23 AM"}
+{"dg-publish":true,"permalink":"/journal/john-piper-false-teachings/","created":"Jun 27, 2018, 7:23 AM","dg-note-properties":{}}
 ---
 
 

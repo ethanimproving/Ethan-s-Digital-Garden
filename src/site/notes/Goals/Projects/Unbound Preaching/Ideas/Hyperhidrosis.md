@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/hyperhidrosis/","created":"Jul 23, 2018, 9:07 PM"}
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/hyperhidrosis/","created":"Jul 23, 2018, 9:07 PM","dg-note-properties":{}}
 ---
 
 

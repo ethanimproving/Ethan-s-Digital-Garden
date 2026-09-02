@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/doctrine/music/christian-contemporary/dc-talk-first-album/","created":"Aug 04, 2019, 9:21 AM"}
+{"dg-publish":true,"permalink":"/bible-notes/doctrine/music/christian-contemporary/dc-talk-first-album/","created":"Aug 04, 2019, 9:21 AM","dg-note-properties":{}}
 ---
 
 

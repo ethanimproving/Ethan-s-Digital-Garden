@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/plugins/timeline-plugin/","created":"Apr 14, 2023, 9:25 AM"}
+{"dg-publish":true,"permalink":"/goals/projects/plugins/timeline-plugin/","created":"Apr 14, 2023, 9:25 AM","dg-note-properties":{}}
 ---
 
 

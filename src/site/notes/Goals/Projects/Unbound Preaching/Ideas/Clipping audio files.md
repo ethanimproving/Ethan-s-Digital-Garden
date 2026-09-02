@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/clipping-audio-files/","tags":["website"],"created":"Jul 23, 2018, 7:07 AM"}
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/clipping-audio-files/","tags":["website"],"created":"Jul 23, 2018, 7:07 AM","dg-note-properties":{"tags":["website"]}}
 ---
 
 

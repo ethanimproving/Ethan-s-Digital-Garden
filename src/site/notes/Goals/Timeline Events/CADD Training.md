@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/cadd-training/","tags":["timeline","personal","laborhours"]}
+{"dg-publish":true,"permalink":"/goals/timeline-events/cadd-training/","tags":["timeline","personal","laborhours"],"dg-note-properties":{"start-date":"2018-01-18","end-date":"2018-03-02","type":"range","color":"yellow","date-limit":"year","importance":50,"tags":["timeline","personal","laborhours"]}}
 ---
 
 

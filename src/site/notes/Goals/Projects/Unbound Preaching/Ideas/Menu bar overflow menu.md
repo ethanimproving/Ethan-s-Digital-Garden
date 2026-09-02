@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/menu-bar-overflow-menu/","created":"Dec 31, 2018, 9:12 AM"}
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/menu-bar-overflow-menu/","created":"Dec 31, 2018, 9:12 AM","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/timeline-content-box/","tags":["website"],"created":"Jul 19, 2018, 3:07 PM"}
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/timeline-content-box/","tags":["website"],"created":"Jul 19, 2018, 3:07 PM","dg-note-properties":{"tags":["website"]}}
 ---
 
 

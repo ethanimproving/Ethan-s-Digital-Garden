@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/lasik/","tags":["timeline","personal"]}
+{"dg-publish":true,"permalink":"/goals/timeline-events/lasik/","tags":["timeline","personal"],"dg-note-properties":{"start-date":"2022-03-25","color":"green","tags":["timeline","personal"]}}
 ---
 
 

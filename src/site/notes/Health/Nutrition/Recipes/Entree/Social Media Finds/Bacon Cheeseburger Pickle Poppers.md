@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/nutrition/recipes/entree/social-media-finds/bacon-cheeseburger-pickle-poppers/","tags":["pickles","bacon","cheeseburger","keto"]}
+{"dg-publish":true,"permalink":"/health/nutrition/recipes/entree/social-media-finds/bacon-cheeseburger-pickle-poppers/","tags":["pickles","bacon","cheeseburger","keto"],"dg-note-properties":{"author":"Cookingintheyard","source":"https://www.facebook.com/watch/?mibextid=wwXIfr&v=1135913380829174&rdid=uH5zcqhqFANV3Jsb","description":"A savory and crispy snack combining juicy cheeseburger flavors, bacon, cheese, and tangy pickles—perfect for any occasion.","preparation-time":"10 minutes","cook-time":"1 hour","yield":null,"category":"Appetizers","meal":"snack","rating":null,"tags":["pickles","bacon","cheeseburger","keto"]}}
 ---
 
 

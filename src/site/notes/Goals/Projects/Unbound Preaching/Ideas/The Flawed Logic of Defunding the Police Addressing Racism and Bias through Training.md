@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/the-flawed-logic-of-defunding-the-police-addressing-racism-and-bias-through-training/","created":"Jul 11, 2020, 11:07 PM"}
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/the-flawed-logic-of-defunding-the-police-addressing-racism-and-bias-through-training/","created":"Jul 11, 2020, 11:07 PM","dg-note-properties":{}}
 ---
 
 

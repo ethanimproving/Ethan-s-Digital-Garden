@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/first-impression-of-steven-anderson/","title":"First impression of Steven Anderson","tags":["timeline","salvation"]}
+{"dg-publish":true,"permalink":"/goals/timeline-events/first-impression-of-steven-anderson/","title":"First impression of Steven Anderson","tags":["timeline","salvation"],"dg-note-properties":{"start-date":"2016-03-07","title":"First impression of Steven Anderson","date-limit":"year","importance":30,"tags":["timeline","salvation"]}}
 ---
 
 

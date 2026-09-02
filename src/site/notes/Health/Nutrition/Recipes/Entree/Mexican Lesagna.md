@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/nutrition/recipes/entree/mexican-lesagna/","tags":["cookmate"]}
+{"dg-publish":true,"permalink":"/health/nutrition/recipes/entree/mexican-lesagna/","tags":["cookmate"],"dg-note-properties":{"author":null,"source":null,"image":null,"description":null,"preparation-time":30,"cook-time":20,"yield":null,"category":"Fun","meal":"entree","rating":5,"calories":null,"tags":["cookmate"]}}
 ---
 
 

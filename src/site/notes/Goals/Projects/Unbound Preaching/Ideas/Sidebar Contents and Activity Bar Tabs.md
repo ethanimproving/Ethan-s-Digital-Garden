@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/sidebar-contents-and-activity-bar-tabs/","tags":["website"],"created":"Nov 26, 2018, 10:11 AM"}
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/sidebar-contents-and-activity-bar-tabs/","tags":["website"],"created":"Nov 26, 2018, 10:11 AM","dg-note-properties":{"tags":["website"]}}
 ---
 
 

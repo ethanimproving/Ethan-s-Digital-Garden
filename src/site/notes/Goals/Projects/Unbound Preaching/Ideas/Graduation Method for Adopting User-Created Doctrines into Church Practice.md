@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/graduation-method-for-adopting-user-created-doctrines-into-church-practice/","tags":["website"],"created":"Sep 12, 2019, 9:09 AM"}
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/graduation-method-for-adopting-user-created-doctrines-into-church-practice/","tags":["website"],"created":"Sep 12, 2019, 9:09 AM","dg-note-properties":{"tags":["website"]}}
 ---
 
 

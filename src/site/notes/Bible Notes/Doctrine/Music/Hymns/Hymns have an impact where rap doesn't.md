@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/doctrine/music/hymns/hymns-have-an-impact-where-rap-doesn-t/","created":"Aug 25, 2018, 1:45 PM"}
+{"dg-publish":true,"permalink":"/bible-notes/doctrine/music/hymns/hymns-have-an-impact-where-rap-doesn-t/","created":"Aug 25, 2018, 1:45 PM","dg-note-properties":{}}
 ---
 
 

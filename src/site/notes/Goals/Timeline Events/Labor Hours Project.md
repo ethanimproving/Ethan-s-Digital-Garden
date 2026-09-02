@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/labor-hours-project/","tags":["timeline","personal","laborhours"]}
+{"dg-publish":true,"permalink":"/goals/timeline-events/labor-hours-project/","tags":["timeline","personal","laborhours"],"dg-note-properties":{"start-date":"2018-03-03","end-date":"2018-04-13","type":"range","color":"gray","date-limit":"year","importance":50,"tags":["timeline","personal","laborhours"]}}
 ---
 
 

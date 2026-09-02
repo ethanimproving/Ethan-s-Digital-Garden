@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/garage/trim-attic-stairs-to-fit/","tags":["oakmore-renovation-task"],"created":"Jan 01, 2024, 10:20 AM"}
+{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/garage/trim-attic-stairs-to-fit/","tags":["oakmore-renovation-task"],"created":"Jan 01, 2024, 10:20 AM","dg-note-properties":{"date-completed":null,"parent":"Garage","status":"Complete","minutes":30,"assigned-to":"Ethan","depends-on":"Buying a Straight Edge","tags":["oakmore-renovation-task"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/backyard/fix-backyard-ground-cable/","tags":["oakmore-renovation-task"],"created":"Jan 01, 2024, 3:29 PM"}
+{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/backyard/fix-backyard-ground-cable/","tags":["oakmore-renovation-task"],"created":"Jan 01, 2024, 3:29 PM","dg-note-properties":{"date-completed":null,"parent":"Backyard","status":"Defined","minutes":15,"assigned-to":"John Ball","depends-on":null,"tags":["oakmore-renovation-task"]}}
 ---
 
 

@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/replace-or-paint-doors/","tags":["oakmore-renovation-task"],"created":"Jan 16, 2024, 9:56 PM"}
+{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/replace-or-paint-doors/","tags":["oakmore-renovation-task"],"created":"Jan 16, 2024, 9:56 PM","dg-note-properties":{"date-completed":null,"parent":"Household","status":"Defined","minutes":720,"assigned-to":null,"depends-on":null,"tags":["oakmore-renovation-task"]}}
 ---
 
+
+[[Goals/Projects/Oakmore Renovation/Install Door Hardware\|Install Door Hardware]]
 
 | **80 x 24**           | **7R (1L)** |
 | --------------------- | ----------- |
@@ -43,3 +45,6 @@
 
 [32 in. x 80 in. 2-Panel Round Top Smooth Hollow Core Primed White Composite Pre-Bored Interior Door Slab](https://www.homedepot.com/p/Steves-Sons-32-in-x-80-in-2-Panel-Round-Top-Smooth-Hollow-Core-Primed-White-Composite-Pre-Bored-Interior-Door-Slab-N6223FADBC99/204609504) - $101
 ![](https://images.thdstatic.com/productImages/ebac99c5-65e7-4331-acc4-0075679cd994/svn/white-steves-sons-slab-doors-n6223fadbc99-64_1000.jpg)
+
+
+https://youtube.com/shorts/TaaR3WlBzsA?is=wM8SnrXgB8LsXqHX

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/replace-windows/","created":"Oct 11, 2024, 2:33 PM"}
+{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/replace-windows/","created":"Oct 11, 2024, 2:33 PM","dg-note-properties":{}}
 ---
 
 

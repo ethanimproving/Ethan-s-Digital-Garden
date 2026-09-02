@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/unbound/","created":"Jul 07, 2020, 6:07 PM"}
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/unbound/","created":"Jul 07, 2020, 6:07 PM","dg-note-properties":{}}
 ---
 
 

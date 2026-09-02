@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/doctrine/music/christian-contemporary/don-t-bring-sappy-music-into-church/","tags":["godlyapparel complimentarianism"],"created":"Aug 21, 2018, 11:08 AM"}
+{"dg-publish":true,"permalink":"/bible-notes/doctrine/music/christian-contemporary/don-t-bring-sappy-music-into-church/","tags":["godlyapparel complimentarianism"],"created":"Aug 21, 2018, 11:08 AM","dg-note-properties":{"tags":["godlyapparel complimentarianism"]}}
 ---
 
 

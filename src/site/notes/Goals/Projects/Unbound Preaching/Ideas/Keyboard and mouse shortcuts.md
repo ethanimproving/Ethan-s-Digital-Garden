@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/keyboard-and-mouse-shortcuts/","tags":["website"],"created":"Aug 01, 2018, 10:08 AM"}
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/keyboard-and-mouse-shortcuts/","tags":["website"],"created":"Aug 01, 2018, 10:08 AM","dg-note-properties":{"tags":["website"]}}
 ---
 
 

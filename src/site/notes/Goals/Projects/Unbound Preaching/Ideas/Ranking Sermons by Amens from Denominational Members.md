@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/ranking-sermons-by-amens-from-denominational-members/","created":"Jul 27, 2020, 8:07 AM"}
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/ranking-sermons-by-amens-from-denominational-members/","created":"Jul 27, 2020, 8:07 AM","dg-note-properties":{}}
 ---
 
 

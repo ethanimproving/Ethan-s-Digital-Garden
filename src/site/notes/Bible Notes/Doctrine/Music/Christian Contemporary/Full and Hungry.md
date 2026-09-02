@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/doctrine/music/christian-contemporary/full-and-hungry/","created":"Feb 24, 2021, 8:20 AM"}
+{"dg-publish":true,"permalink":"/bible-notes/doctrine/music/christian-contemporary/full-and-hungry/","created":"Feb 24, 2021, 8:20 AM","dg-note-properties":{}}
 ---
 
 

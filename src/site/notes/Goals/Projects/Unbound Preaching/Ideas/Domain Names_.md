@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/domain-names/","created":"May 08, 2020, 9:05 AM"}
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/domain-names/","created":"May 08, 2020, 9:05 AM","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/visualization-canvas-to-substitute-video/","tags":["website"],"created":"Aug 20, 2018, 10:08 PM"}
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/visualization-canvas-to-substitute-video/","tags":["website"],"created":"Aug 20, 2018, 10:08 PM","dg-note-properties":{"tags":["website"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/ethan-s-commitment-notes/"}
+{"dg-publish":true,"permalink":"/goals/ethan-s-commitment-notes/","dg-note-properties":{}}
 ---
 
 
@@ -118,6 +118,9 @@ Did you see that? He turned it around on them. You're allowed to be firm against
 
 "Be ye angry, and sin not. Let not the sun go down on your anger, and give not the devil an opportunity."
 
+# I don’t make choices that I’ll feel the need to lie about
+
+There’s a special way you breathe when you make choices that don’t condemn your conscience. You are the most free in your chest when your past isn’t tangled up with actions that you feel the need to lie about. Always looking over your shoulder wondering if someone will find out. And how you will defend yourself if they do. That’s too much clutter for the human mind. You were meant to be free. To put your thoughts on something new, something creative, not something to cover your mistakes.
 # I Follow The Example Of Great Men
 
  ![748A43B1-402F-44AE-AF3D-621D085EF578](https://i.imgur.com/OPVEVha.jpg)

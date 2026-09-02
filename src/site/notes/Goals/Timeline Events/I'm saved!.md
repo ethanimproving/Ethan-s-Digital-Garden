@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/i-m-saved/","tags":["timeline","personal"]}
+{"dg-publish":true,"permalink":"/goals/timeline-events/i-m-saved/","tags":["timeline","personal"],"dg-note-properties":{"start-date":"2017-08-23","color":"blue","date-limit":"year","importance":50,"tags":["timeline","personal"]}}
 ---
 
 

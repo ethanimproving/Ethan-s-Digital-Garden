@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/photoshop/t-shirt-ideas/house-of-the-lord/"}
+{"dg-publish":true,"permalink":"/goals/projects/photoshop/t-shirt-ideas/house-of-the-lord/","dg-note-properties":{}}
 ---
 
 

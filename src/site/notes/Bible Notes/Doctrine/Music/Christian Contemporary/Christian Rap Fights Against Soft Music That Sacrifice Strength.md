@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/doctrine/music/christian-contemporary/christian-rap-fights-against-soft-music-that-sacrifice-strength/","created":"Jan 07, 2021, 7:34 PM"}
+{"dg-publish":true,"permalink":"/bible-notes/doctrine/music/christian-contemporary/christian-rap-fights-against-soft-music-that-sacrifice-strength/","created":"Jan 07, 2021, 7:34 PM","dg-note-properties":{}}
 ---
 
 

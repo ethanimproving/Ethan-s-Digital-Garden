@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/app-ideas/","created":"Apr 2, 2020, 9:23 PM"}
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/app-ideas/","created":"Apr 2, 2020, 9:23 PM","dg-note-properties":{}}
 ---
 
 
@@ -30,39 +30,39 @@ The strategy of Unbound Preaching is to provide uncensored access to the preachi
 [ReactPlayer](https://github.com/cookpete/react-player)
 | File                                                                                                                                                                                                                     | Date                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------- |
+| [[Goals/Projects/Unbound Preaching/Ideas/Why make Bible Academy oriented towards fundamentalist doctrines_\|Why make Bible Academy oriented towards fundamentalist doctrines_]]                                       | Nov 07, 2018, 11:11 AM |
 | [[Goals/Projects/Unbound Preaching/Ideas/Website names\|Website names]]                                                                                                                                               | Jul 19, 2018, 8:07 AM  |
 | [[Goals/Projects/Unbound Preaching/Ideas/Visualization canvas to substitute video\|Visualization canvas to substitute video]]                                                                                         | Aug 20, 2018, 10:08 PM |
 | [[Goals/Projects/Unbound Preaching/Ideas/Website Ideas From Journal Entries\|Website Ideas From Journal Entries]]                                                                                                     | Aug 22, 2018, 5:08 PM  |
-| [[Goals/Projects/Unbound Preaching/Ideas/Topic _ Doctrine _ proposition(s) _ argument(s) -- category tags\|Topic _ Doctrine _ proposition(s) _ argument(s) -- category tags]]                                         | Nov 12, 2018, 10:11 AM |
 | [[Goals/Projects/Unbound Preaching/Ideas/Toggle background music in sermon jams\|Toggle background music in sermon jams]]                                                                                             | Aug 01, 2018, 9:08 AM  |
+| [[Goals/Projects/Unbound Preaching/Ideas/Topic _ Doctrine _ proposition(s) _ argument(s) -- category tags\|Topic _ Doctrine _ proposition(s) _ argument(s) -- category tags]]                                         | Nov 12, 2018, 10:11 AM |
 | [[Goals/Projects/Unbound Preaching/Ideas/Timeline content box\|Timeline content box]]                                                                                                                                 | Jul 19, 2018, 3:07 PM  |
 | [[Goals/Projects/Unbound Preaching/Ideas/Take a deep breath circle\|Take a deep breath circle]]                                                                                                                       | Jul 18, 2018, 1:07 PM  |
-| [[Goals/Projects/Unbound Preaching/Ideas/Sidebar Contents and Activity Bar Tabs\|Sidebar Contents and Activity Bar Tabs]]                                                                                             | Nov 26, 2018, 10:11 AM |
 | [[Goals/Projects/Unbound Preaching/Ideas/Structured arguments\|Structured arguments]]                                                                                                                                 | Jul 18, 2018, 6:07 AM  |
+| [[Goals/Projects/Unbound Preaching/Ideas/Sidebar Contents and Activity Bar Tabs\|Sidebar Contents and Activity Bar Tabs]]                                                                                             | Nov 26, 2018, 10:11 AM |
 | [[Goals/Projects/Unbound Preaching/Ideas/Serving local files to website\|Serving local files to website]]                                                                                                             | Jan 09, 2019, 4:01 PM  |
 | [[Goals/Projects/Unbound Preaching/Ideas/Resource Tags\|Resource Tags]]                                                                                                                                               | Nov 09, 2018, 9:11 AM  |
-| [[Goals/Projects/Unbound Preaching/Ideas/Resolving Course Conflicts by Setting as Official Course\|Resolving Course Conflicts by Setting as Official Course]]                                                         | Nov 27, 2018, 9:11 AM  |
 | [[Goals/Projects/Unbound Preaching/Ideas/Mirror YouTube uploads\|Mirror YouTube uploads]]                                                                                                                             | Jul 27, 2018, 10:07 AM |
+| [[Goals/Projects/Unbound Preaching/Ideas/Resolving Course Conflicts by Setting as Official Course\|Resolving Course Conflicts by Setting as Official Course]]                                                         | Nov 27, 2018, 9:11 AM  |
 | [[Goals/Projects/Unbound Preaching/Ideas/Keyboard and mouse shortcuts\|Keyboard and mouse shortcuts]]                                                                                                                 | Aug 01, 2018, 10:08 AM |
-| [[Goals/Projects/Unbound Preaching/Ideas/Estimated reading time_ X minutes\|Estimated reading time_ X minutes]]                                                                                                       | Jul 28, 2018, 5:07 PM  |
+| [[Goals/Projects/Unbound Preaching/Ideas/Doctrinal Libraries\|Doctrinal Libraries]]                                                                                                                                   | Aug 23, 2018, 1:08 PM  |
+| [[Goals/Projects/Unbound Preaching/Ideas/Fast and slow speakers\|Fast and slow speakers]]                                                                                                                             | Dec 23, 2018, 8:12 AM  |
 | [[Goals/Projects/Unbound Preaching/Ideas/Graduation Method for Adopting User-Created Doctrines into Church Practice\|Graduation Method for Adopting User-Created Doctrines into Church Practice]]                     | Sep 12, 2019, 9:09 AM  |
 | [[Goals/Projects/Unbound Preaching/Ideas/Goal Tracking Template for Regular Check-Ins\|Goal Tracking Template for Regular Check-Ins]]                                                                                 | Jul 11, 2020, 7:07 AM  |
-| [[Goals/Projects/Unbound Preaching/Ideas/Fast and slow speakers\|Fast and slow speakers]]                                                                                                                             | Dec 23, 2018, 8:12 AM  |
 | [[Goals/Projects/Unbound Preaching/Ideas/Example of doctrinal hierarchy\|Example of doctrinal hierarchy]]                                                                                                             | Aug 23, 2018, 8:08 AM  |
-| [[Goals/Projects/Unbound Preaching/Ideas/Embracing the Spirit A Guide to Engaging with Spirit-Filled Preaching\|Embracing the Spirit A Guide to Engaging with Spirit-Filled Preaching]]                               | Jul 25, 2020, 11:07 AM |
+| [[Goals/Projects/Unbound Preaching/Ideas/Estimated reading time_ X minutes\|Estimated reading time_ X minutes]]                                                                                                       | Jul 28, 2018, 5:07 PM  |
 | [[Goals/Projects/Unbound Preaching/Ideas/Enabling Word Definitions on Hover\|Enabling Word Definitions on Hover]]                                                                                                     | Jul 22, 2019, 5:07 PM  |
+| [[Goals/Projects/Unbound Preaching/Ideas/Embracing the Spirit A Guide to Engaging with Spirit-Filled Preaching\|Embracing the Spirit A Guide to Engaging with Spirit-Filled Preaching]]                               | Jul 25, 2020, 11:07 AM |
 | [[Goals/Projects/Unbound Preaching/Ideas/Efficient Note-Taking and Resource Organization Techniques for Enhanced Productivity\|Efficient Note-Taking and Resource Organization Techniques for Enhanced Productivity]] | Jul 06, 2019, 10:07 PM |
-| [[Goals/Projects/Unbound Preaching/Ideas/Doctrinal Libraries\|Doctrinal Libraries]]                                                                                                                                   | Aug 23, 2018, 1:08 PM  |
 | [[Goals/Projects/Unbound Preaching/Ideas/Dependency Tree Of Doctrines\|Dependency Tree Of Doctrines]]                                                                                                                 | Oct 22, 2022, 9:10 AM  |
 | [[Goals/Projects/Unbound Preaching/Ideas/Daily Listening Plan\|Daily Listening Plan]]                                                                                                                                 | Jul 25, 2018, 9:07 AM  |
-| [[Goals/Projects/Unbound Preaching/Ideas/Amen button on website\|Amen button on website]]                                                                                                                             | Oct 15, 2018, 4:10 PM  |
-| [[Goals/Projects/Unbound Preaching/Ideas/Clipping audio files\|Clipping audio files]]                                                                                                                                 | Jul 23, 2018, 7:07 AM  |
 | [[Goals/Projects/Unbound Preaching/Ideas/Calendar of events inside timeline trains\|Calendar of events inside timeline trains]]                                                                                       | Oct 30, 2018, 12:10 PM |
-| [[Goals/Projects/Unbound Preaching/Ideas/Audio waveform behind time rails\|Audio waveform behind time rails]]                                                                                                         | Aug 09, 2018, 7:08 PM  |
-| [[Attachments/Templates/up-app-idea\|up-app-idea]]                                                                                                                                                                    | Jul 25, 2018, 9:20 AM  |
-| [[Goals/Projects/Unbound Preaching/Ideas/Audio Bible text scroll\|Audio Bible text scroll]]                                                                                                                           | Aug 02, 2018, 7:08 AM  |
+| [[Goals/Projects/Unbound Preaching/Ideas/Clipping audio files\|Clipping audio files]]                                                                                                                                 | Jul 23, 2018, 7:07 AM  |
 | [[Goals/Projects/Unbound Preaching/Ideas/Audio visualizer slider\|Audio visualizer slider]]                                                                                                                           | Aug 10, 2018, 7:08 PM  |
-| [[Goals/Projects/Unbound Preaching/Ideas/Why make Bible Academy oriented towards fundamentalist doctrines_\|Why make Bible Academy oriented towards fundamentalist doctrines_]]                                       | Nov 07, 2018, 11:11 AM |
+| [[Goals/Projects/Unbound Preaching/Ideas/Amen button on website\|Amen button on website]]                                                                                                                             | Oct 15, 2018, 4:10 PM  |
+| [[Goals/Projects/Unbound Preaching/Ideas/Audio Bible text scroll\|Audio Bible text scroll]]                                                                                                                           | Aug 02, 2018, 7:08 AM  |
+| [[Attachments/Templates/up-app-idea\|up-app-idea]]                                                                                                                                                                    | Jul 25, 2018, 9:20 AM  |
+| [[Goals/Projects/Unbound Preaching/Ideas/Audio waveform behind time rails\|Audio waveform behind time rails]]                                                                                                         | Aug 09, 2018, 7:08 PM  |
 
 { .block-language-dataview}
 
@@ -119,46 +119,46 @@ The largest dot is on the bottom. That's because in order to be great in the Kin
 
 | Feature                                                              | App Inspiration                                   |
 |----------------------------------------------------------------------|---------------------------------------------------|
-| [[#Dwell#Playback Controls]]                                          | Playback Controls                                 |
-| [[#Dwell#Dwell Coding Libraries]]                                     | Dwell Coding Libraries                            |
-| [[#Google Play Music#Notification Controls]]                          | Notification Controls                             |
-| [[#Google Play Music#Podcasts Page]]                                  | Podcasts Page                                     |
-| [[#Google Play Music#What's Next?]]                                   | What's Next?                                      |
-| [[#Google Play Music#Audio Player]]                                   | Audio Player                                      |
-| [[#YouTube Music#Audio Player]]                                       | Audio Player                                      |
-| [[#YouTube Music#Swipe Up Menu]]                                      | Swipe Up Menu                                     |
-| [[#YouTube Music#Swipe Up Menu#Up Next]]                              | Up Next                                           |
-| [[#YouTube Music#Swipe Up Menu#Lyrics/Transcript]]                    | Lyrics/Transcript                                 |
-| [[#YouTube Music#Audio Page Menu]]                                    | Audio Page Menu                                   |
-| [[#YouTube#Video Page]]                                               | Video Page                                        |
-| [[#YouTube#Video Page#Double Tap Seek]]                               | Double Tap Seek                                   |
-| [[#Faithful Word App (Subsplash)]]                                    | Faithful Word App (Subsplash)                     |
-| [[#Faithful Word App (Subsplash)#Audio Player]]                       | Audio Player                                      |
-| [[#Faithful Word App (Subsplash)#Playback Speed]]                     | Playback Speed                                    |
-| [[#Faithful Word App (Subsplash)#Notes]]                              | Notes                                             |
-| [[#Faithful Word App (Subsplash)#Sermon Page]]                        | Sermon Page                                       |
-| [[#OliveTree#Highlight Text]]                                         | Highlight Text                                    |
-| [[#OliveTree#Playback Speed]]                                         | Playback Speed                                    |
-| [[#Samsung Voice Recorder]]                                           | Samsung Voice Recorder                            |
-| [[#Samsung Voice Recorder#Audio Waves / Seeker]]                      | Audio Waves / Seeker                              |
-| [[#Samsung Voice Recorder#Bookmarks]]                                 | Bookmarks                                         |
-| [[#Udemy#Video Player]]                                               | Video Player                                      |
-| [[#Udemy#Lectures/Series]]                                            | Lectures/Series                                   |
-| [[#Udemy#Notes]]                                                      | Notes                                             |
-| [[#Disney+#Landing Page]]                                             | Landing Page                                      |
-| [[#Amazon Prime Video]]                                               | Amazon Prime Video                                |
-| [[#Amazon Prime Video#Video Details Page]]                            | Video Details Page                                |
-| [[#Amazon Prime Video#My Stuff Page]]                                 | My Stuff Page                                     |
-| [[#Amazon Prime Video#Landing Page (Home)]]                           | Landing Page (Home)                               |
-| [[#Netflix]]                                                          | Netflix                                           |
-| [[#Realm#Giving]]                                                     | Giving                                            |
-| [[#Read Scripture#Your Journey]]                                      | Your Journey                                      |
-| [[#Read Scripture#Breathe Deeply (Interactive Prompts to Slow Down)]] | Breathe Deeply (Interactive Prompts to Slow Down) |
-| [[#ADO Mobile#Organization]]                                          | Organization                                      |
-| [[#ADO Mobile#Story Boards]]                                          | Story Boards                                      |
-| [[#ADO Mobile#Backlogs]]                                              | Backlogs                                          |
-| [[#ADO Mobile#Side Navigation Menu]]                                  | Side Navigation Menu                              |
-| [[#The TVDB#Community Submitted Art]]                                 | Community Submitted Art                           |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Dwell\|#Dwell#Playback Controls]]                                          | Playback Controls                                 |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Dwell\|#Dwell#Dwell Coding Libraries]]                                     | Dwell Coding Libraries                            |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Google Play Music\|#Google Play Music#Notification Controls]]                          | Notification Controls                             |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Google Play Music\|#Google Play Music#Podcasts Page]]                                  | Podcasts Page                                     |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Google Play Music\|#Google Play Music#What's Next?]]                                   | What's Next?                                      |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Google Play Music\|#Google Play Music#Audio Player]]                                   | Audio Player                                      |
+| [[Goals/Projects/Unbound Preaching/App Ideas#YouTube Music\|#YouTube Music#Audio Player]]                                       | Audio Player                                      |
+| [[Goals/Projects/Unbound Preaching/App Ideas#YouTube Music\|#YouTube Music#Swipe Up Menu]]                                      | Swipe Up Menu                                     |
+| [[Goals/Projects/Unbound Preaching/App Ideas#YouTube Music\|#YouTube Music#Swipe Up Menu#Up Next]]                              | Up Next                                           |
+| [[Goals/Projects/Unbound Preaching/App Ideas#YouTube Music\|#YouTube Music#Swipe Up Menu#Lyrics/Transcript]]                    | Lyrics/Transcript                                 |
+| [[Goals/Projects/Unbound Preaching/App Ideas#YouTube Music\|#YouTube Music#Audio Page Menu]]                                    | Audio Page Menu                                   |
+| [[Goals/Projects/Unbound Preaching/App Ideas#YouTube\|#YouTube#Video Page]]                                               | Video Page                                        |
+| [[Goals/Projects/Unbound Preaching/App Ideas#YouTube\|#YouTube#Video Page#Double Tap Seek]]                               | Double Tap Seek                                   |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Faithful Word App (Subsplash)\|#Faithful Word App (Subsplash)]]                                    | Faithful Word App (Subsplash)                     |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Faithful Word App (Subsplash)\|#Faithful Word App (Subsplash)#Audio Player]]                       | Audio Player                                      |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Faithful Word App (Subsplash)\|#Faithful Word App (Subsplash)#Playback Speed]]                     | Playback Speed                                    |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Faithful Word App (Subsplash)\|#Faithful Word App (Subsplash)#Notes]]                              | Notes                                             |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Faithful Word App (Subsplash)\|#Faithful Word App (Subsplash)#Sermon Page]]                        | Sermon Page                                       |
+| [[Goals/Projects/Unbound Preaching/App Ideas#OliveTree\|#OliveTree#Highlight Text]]                                         | Highlight Text                                    |
+| [[Goals/Projects/Unbound Preaching/App Ideas#OliveTree\|#OliveTree#Playback Speed]]                                         | Playback Speed                                    |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Samsung Voice Recorder\|#Samsung Voice Recorder]]                                           | Samsung Voice Recorder                            |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Samsung Voice Recorder\|#Samsung Voice Recorder#Audio Waves / Seeker]]                      | Audio Waves / Seeker                              |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Samsung Voice Recorder\|#Samsung Voice Recorder#Bookmarks]]                                 | Bookmarks                                         |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Udemy\|#Udemy#Video Player]]                                               | Video Player                                      |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Udemy\|#Udemy#Lectures/Series]]                                            | Lectures/Series                                   |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Udemy\|#Udemy#Notes]]                                                      | Notes                                             |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Disney+\|#Disney+#Landing Page]]                                             | Landing Page                                      |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Amazon Prime Video\|#Amazon Prime Video]]                                               | Amazon Prime Video                                |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Amazon Prime Video\|#Amazon Prime Video#Video Details Page]]                            | Video Details Page                                |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Amazon Prime Video\|#Amazon Prime Video#My Stuff Page]]                                 | My Stuff Page                                     |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Amazon Prime Video\|#Amazon Prime Video#Landing Page (Home)]]                           | Landing Page (Home)                               |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Netflix\|#Netflix]]                                                          | Netflix                                           |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Realm\|#Realm#Giving]]                                                     | Giving                                            |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Read Scripture\|#Read Scripture#Your Journey]]                                      | Your Journey                                      |
+| [[Goals/Projects/Unbound Preaching/App Ideas#Read Scripture\|#Read Scripture#Breathe Deeply (Interactive Prompts to Slow Down)]] | Breathe Deeply (Interactive Prompts to Slow Down) |
+| [[Goals/Projects/Unbound Preaching/App Ideas#ADO Mobile\|#ADO Mobile#Organization]]                                          | Organization                                      |
+| [[Goals/Projects/Unbound Preaching/App Ideas#ADO Mobile\|#ADO Mobile#Story Boards]]                                          | Story Boards                                      |
+| [[Goals/Projects/Unbound Preaching/App Ideas#ADO Mobile\|#ADO Mobile#Backlogs]]                                              | Backlogs                                          |
+| [[Goals/Projects/Unbound Preaching/App Ideas#ADO Mobile\|#ADO Mobile#Side Navigation Menu]]                                  | Side Navigation Menu                              |
+| [[Goals/Projects/Unbound Preaching/App Ideas#The TVDB\|#The TVDB#Community Submitted Art]]                                 | Community Submitted Art                           |
 
 
 ## Dwell
@@ -204,7 +204,7 @@ Notice the Video/Audio toggle.
 
 #### Up Next
 
-This page could potentially be integrated with something like a [[#Lectures/Series|Courses]] page.
+This page could potentially be integrated with something like a [[Goals/Projects/Unbound Preaching/App Ideas#Lectures/Series\|Courses]] page.
 
 ![](https://lh3.googleusercontent.com/CRt4MnV9Gc-ZeM96i7KgwQciS2zoDLJbnuLrVlZxxytvCshaKdVlJO-xp8bbB5tUbE-nqWSnpQwEzAQwp3SxtIvGyIGyZCck5LIE5R6V4YS3c2ZGnvq5cpcmzvx2jmXYtEftcKq30WyAD7TowrFjGx5yrwvBDYJ6uHmcBmGO9zWzqVU7xpTnN7g2HZzsaeZ55SkXGMHLbtvyWcfKUmx3aAK-IMZfY4QgXfpDKtwhAaqSgjApsk16jUQjz6lgF0T1VNg45mEt7SLtca53y01lytjzV1s75swhUqJsuiSTQVN6HXr7OQYoBFkER7t7vrk_1hEEBajSXt5s1HtgrfM36BcSzL4SaJ3JXYavCl_Y20Uh95yMBIMSOancd_qCkTu9O-Cj8Fd5PdIWKtiZY7MrC910AVaonbcPm5HvlyZHmv4SO4Qb-4AywpdHti_NHkKv9IhUp_iyVgTf-i_IsAaOl0nYV53NEBL0RgtvoyL3r5mMgUOSNJSag6S2bpahdyaYRnTAD-t6wJPwONiKcmt4RExHW4yrkGcbPTEOJ7M_1_8FgtnKaD8GWnTRdZxQiZci-n8s7jnJetyp6IxootGb-4JVmMAnrkL3q40USyESrCO_dYO-V6mGAUuyJrJ2lRMBiRbbWLJbvPjoQAlLbZctew8X8k7gurNvkN8imfxqHJ_JZA86fFCYF3hB7Rqv8e0y2uiuEo8KcWj14bHk3gYEA3I8POK3d2IYiGxZ0MVkeien2qBZVXoZaX0v8EPQlb7zrhh_V-uqAI9D2wMhIFjTQz17D9kY7hnA1qOVQ0Ub67B1-qu76YkGla0DuJlda7WnwYN3p1nFoHfdUDeovCOVcTDsuYlx8EpBTsc0HuqxQOGMAYeE6aIVWzVNZ7mYrFEf4pvq2vwyT--jd4KPuJzMnyvZQRN5KGAhSycE90k1mdtO=w567-h1198-s-no?authuser=0)
 
@@ -294,7 +294,7 @@ Maybe allow churches to define sermon series that have a list of sermons. Users 
 
 The really nice aspect of Udemy notes is that they are linked to the timestamp or time range of a video.
 
-See also: [[#Faithful Word App (Subsplash)#Notes|Subsplash Notes]], 
+See also: [[Goals/Projects/Unbound Preaching/App Ideas#Faithful Word App (Subsplash)\|Subsplash Notes]], 
 
 ![](https://lh3.googleusercontent.com/4nvc-Rtx1WJe7BdzupcOdjamGuCSYMcXXZpy1fi9-Fu17FmfO-aN5zTDNrP0XRY8YSAJyGSMLzqMle0I3RX_U4kP8yGAKB64h1QtBcHS9lAjM-MWiIjdyMISuczkv7k5gjBOlqoN0cMef4payxJ31VFY8BRApteUNza-ioylgwXau6D6pPsaBRm21BoTCqDAAxZEcedHNjOem6xPTgkdLItEQRWlXdzZopAICp2EGkqil8691VGL9FQPKuYSfsIMzfKhh80-G1ja5cOcQVi5Oubi9HnsDeNiBt3A99FiWKRY9kyQuw7gPTzqv5gaVfXgWUJgdPa1n_oua7vahpjZXf9GQ6gcAQA2sxjOWmEXpWZnaa1IyUW-PAsSTus1DjbEvHkcNWEEfwQuAqrBxvyHmYgAxhx_flGvY40OZzdZDznM2T2nNCKaTBxSGANMmC1D-WuOyXGkjSgNlPG_I5TWk2QOHNfLi2Hp9nEPAzQW4hFo6daR_Oc0mRQgwIWQMN-NO2m9quo5pMuhVoUNVd6VRXB8YpFDx5pLI2M8Ddggafl0wlGtgo5d5a_TgQDC9DNr6QpwN3x60Yt6kfpbn5oFDtl4X8Z6QP3lsz0I5U9OO5Pd6GxRGrAYsJsMgObSw0UuC33kubKsttk0O6nPTtmhHby9UUD4wdEHvbtIOG75ruR_7AO4wgtJ-xIeZc-7kGZo4hgwBCHFUg37dXD5kPkLxBhtFVxIRZ0bipACzMldmKF4Vc3vYf3_p4uclY9GIe-kmn7qouJVl7HRIbN_tyiOkPvvH9lar3y6hAmEtW5WQJBeyy5tBXFqMKJIIXLB6FjfvNVv9aPNqfTbDy4qlG8y0EHU18QDm9-SeDZpO5GN_uXE96-ldoh8ugtbYc-G94AdTvCsreMg3hVFgRwO2WP9Hi7s0IH1tBeizcXTNbc61KxN=w567-h1198-s-no?authuser=0)
 

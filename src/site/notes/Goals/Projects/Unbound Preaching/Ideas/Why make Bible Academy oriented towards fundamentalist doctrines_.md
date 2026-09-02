@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/why-make-bible-academy-oriented-towards-fundamentalist-doctrines/","tags":["website"],"created":"Nov 07, 2018, 11:11 AM"}
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/why-make-bible-academy-oriented-towards-fundamentalist-doctrines/","tags":["website"],"created":"Nov 07, 2018, 11:11 AM","dg-note-properties":{"tags":["website"]}}
 ---
 
 

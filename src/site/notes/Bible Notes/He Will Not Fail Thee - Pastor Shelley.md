@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/he-will-not-fail-thee-pastor-shelley/","tags":["mothers","wives","marriage"],"created":"Jun 23, 2024, 10:30 PM"}
+{"dg-publish":true,"permalink":"/bible-notes/he-will-not-fail-thee-pastor-shelley/","tags":["mothers","wives","marriage"],"created":"Jun 23, 2024, 10:30 PM","dg-note-properties":{"author":"Pastor Shelley","verse-reference":"Leviticus 25:14","tags":["mothers","wives","marriage"]}}
 ---
 
 

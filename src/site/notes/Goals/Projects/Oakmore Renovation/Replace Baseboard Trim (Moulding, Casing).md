@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/replace-baseboard-trim-moulding-casing/","tags":["oakmore-renovation-task"],"created":"Feb 26, 2024, 6:58 PM"}
+{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/replace-baseboard-trim-moulding-casing/","tags":["oakmore-renovation-task"],"created":"Feb 26, 2024, 6:58 PM","dg-note-properties":{"date-completed":null,"parent":"House","status":"Defined","minutes":240,"assigned-to":"Ethan","depends-on":null,"tags":["oakmore-renovation-task"]}}
 ---
 
 # Home Depot Casing

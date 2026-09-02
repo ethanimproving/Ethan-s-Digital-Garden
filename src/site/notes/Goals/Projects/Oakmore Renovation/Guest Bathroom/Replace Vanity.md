@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/guest-bathroom/replace-vanity/","tags":["oakmore-renovation-task"],"created":"Jan 01, 2024, 8:37 PM"}
+{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/guest-bathroom/replace-vanity/","tags":["oakmore-renovation-task"],"created":"Jan 01, 2024, 8:37 PM","dg-note-properties":{"date-completed":null,"parent":"Guest Bathroom","status":"Defined","minutes":60,"assigned-to":null,"depends-on":null,"tags":["oakmore-renovation-task"]}}
 ---
 
 

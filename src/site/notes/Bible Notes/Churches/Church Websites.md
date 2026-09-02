@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/churches/church-websites/","created":"Jun 19, 2023, 10:44 PM"}
+{"dg-publish":true,"permalink":"/bible-notes/churches/church-websites/","created":"Jun 19, 2023, 10:44 PM","dg-note-properties":{}}
 ---
 
 

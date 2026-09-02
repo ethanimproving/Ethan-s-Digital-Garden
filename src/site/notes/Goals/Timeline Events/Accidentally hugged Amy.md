@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/accidentally-hugged-amy/","tags":["timeline","crush"]}
+{"dg-publish":true,"permalink":"/goals/timeline-events/accidentally-hugged-amy/","tags":["timeline","crush"],"dg-note-properties":{"start-date":"2018-12-23","color":"pink","date-limit":"year","importance":50,"tags":["timeline","crush"]}}
 ---
 
 

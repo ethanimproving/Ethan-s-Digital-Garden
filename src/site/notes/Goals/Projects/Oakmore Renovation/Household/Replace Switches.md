@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/household/replace-switches/","tags":["oakmore-renovation-task"],"created":"Jan 01, 2024, 3:05 PM"}
+{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/household/replace-switches/","tags":["oakmore-renovation-task"],"created":"Jan 01, 2024, 3:05 PM","dg-note-properties":{"date-completed":null,"parent":"Household","status":"Complete","minutes":30,"assigned-to":"Ethan","depends-on":null,"tags":["oakmore-renovation-task"]}}
 ---
 
 

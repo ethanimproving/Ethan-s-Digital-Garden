@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/crush-on-bethany-white/","title":"Crush on Bethany White","tags":["timeline","crush"]}
+{"dg-publish":true,"permalink":"/goals/timeline-events/crush-on-bethany-white/","title":"Crush on Bethany White","tags":["timeline","crush"],"dg-note-properties":{"start-date":"2013-01-29","end-date":"2018-01-16","type":"range","color":"pink","title":"Crush on Bethany White","date-limit":"year","importance":30,"tags":["timeline","crush"]}}
 ---
 
 

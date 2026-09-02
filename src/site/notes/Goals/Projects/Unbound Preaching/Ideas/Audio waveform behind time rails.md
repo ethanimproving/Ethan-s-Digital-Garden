@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/audio-waveform-behind-time-rails/","tags":["website"],"created":"Aug 09, 2018, 7:08 PM"}
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/audio-waveform-behind-time-rails/","tags":["website"],"created":"Aug 09, 2018, 7:08 PM","dg-note-properties":{"tags":["website"]}}
 ---
 
 

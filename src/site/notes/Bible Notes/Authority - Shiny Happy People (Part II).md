@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/authority-shiny-happy-people-part-ii/","tags":["authority"],"created":"Jul 2, 2023, 10:40 AM"}
+{"dg-publish":true,"permalink":"/bible-notes/authority-shiny-happy-people-part-ii/","tags":["authority"],"created":"Jul 2, 2023, 10:40 AM","dg-note-properties":{"note-id":1,"verse-reference":"1 Corinthians 11:3","icon":"pulpit","tags":["authority"]}}
 ---
 
 

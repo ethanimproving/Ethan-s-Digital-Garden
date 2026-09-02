@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/example-of-doctrinal-hierarchy/","tags":["website"],"created":"Aug 23, 2018, 8:08 AM"}
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/example-of-doctrinal-hierarchy/","tags":["website"],"created":"Aug 23, 2018, 8:08 AM","dg-note-properties":{"tags":["website"]}}
 ---
 
 

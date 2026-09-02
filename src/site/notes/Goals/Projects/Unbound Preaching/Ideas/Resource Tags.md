@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/resource-tags/","tags":["website"],"created":"Nov 09, 2018, 9:11 AM"}
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/resource-tags/","tags":["website"],"created":"Nov 09, 2018, 9:11 AM","dg-note-properties":{"tags":["website"]}}
 ---
 
 

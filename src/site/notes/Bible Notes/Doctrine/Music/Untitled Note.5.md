@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/doctrine/music/untitled-note-5/","created":"May 28, 2020, 7:35 AM"}
+{"dg-publish":true,"permalink":"/bible-notes/doctrine/music/untitled-note-5/","created":"May 28, 2020, 7:35 AM","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/hopeless/","tags":["jobhunt","algorithmtraining"],"created":"May 16, 2024, 2:01 PM"}
+{"dg-publish":true,"permalink":"/journal/hopeless/","tags":["jobhunt","algorithmtraining"],"created":"May 16, 2024, 2:01 PM","dg-note-properties":{"tags":["jobhunt","algorithmtraining"]}}
 ---
 
 

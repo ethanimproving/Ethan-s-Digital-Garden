@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/audio-bible-text-scroll/","tags":["website"],"created":"Aug 02, 2018, 7:08 AM"}
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/audio-bible-text-scroll/","tags":["website"],"created":"Aug 02, 2018, 7:08 AM","dg-note-properties":{"tags":["website"]}}
 ---
 
 

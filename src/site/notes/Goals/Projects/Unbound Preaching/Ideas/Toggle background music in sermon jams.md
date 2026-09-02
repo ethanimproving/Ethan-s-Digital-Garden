@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/toggle-background-music-in-sermon-jams/","tags":["website"],"created":"Aug 01, 2018, 9:08 AM"}
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/toggle-background-music-in-sermon-jams/","tags":["website"],"created":"Aug 01, 2018, 9:08 AM","dg-note-properties":{"tags":["website"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-notes/do-justice-love-mercy/","created":"Jan 15, 2024, 11:31 AM"}
+{"dg-publish":true,"permalink":"/bible-notes/do-justice-love-mercy/","created":"Jan 15, 2024, 11:31 AM","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/ac/diagnose-ac-reversing-valve-capillary-tubes/","tags":["oakmore-renovation-task"],"created":"Jul 02, 2024, 10:09 PM"}
+{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/ac/diagnose-ac-reversing-valve-capillary-tubes/","tags":["oakmore-renovation-task"],"created":"Jul 02, 2024, 10:09 PM","dg-note-properties":{"date-completed":null,"parent":"Outside","status":"Defined","minutes":600,"assigned-to":"Ethan Miller","tags":["oakmore-renovation-task"],"cost":"109","priority":1}}
 ---
 
 

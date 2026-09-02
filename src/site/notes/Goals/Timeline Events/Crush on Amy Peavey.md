@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/timeline-events/crush-on-amy-peavey/","tags":["timeline","crush"]}
+{"dg-publish":true,"permalink":"/goals/timeline-events/crush-on-amy-peavey/","tags":["timeline","crush"],"dg-note-properties":{"start-date":"2018-08-10","end-date":"2020-02-25","type":"range","color":"pink","date-limit":"year","importance":50,"tags":["timeline","crush"]}}
 ---
 
 

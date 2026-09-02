@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/utility-room/replace-light-bulb/","tags":["oakmore-renovation-task"],"created":"Jan 01, 2024, 3:27 PM"}
+{"dg-publish":true,"permalink":"/goals/projects/oakmore-renovation/utility-room/replace-light-bulb/","tags":["oakmore-renovation-task"],"created":"Jan 01, 2024, 3:27 PM","dg-note-properties":{"date-completed":null,"parent":"Utility","status":"In-Prorgess","minutes":3,"assigned-to":"Ethan","depends-on":null,"tags":["oakmore-renovation-task"]}}
 ---
 
 

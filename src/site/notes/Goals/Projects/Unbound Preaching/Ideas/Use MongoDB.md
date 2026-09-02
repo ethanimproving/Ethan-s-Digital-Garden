@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/use-mongo-db/","tags":["paralinguistic"],"created":"Oct 23, 2018, 1:10 PM"}
+{"dg-publish":true,"permalink":"/goals/projects/unbound-preaching/ideas/use-mongo-db/","tags":["paralinguistic"],"created":"Oct 23, 2018, 1:10 PM","dg-note-properties":{"tags":["paralinguistic"]}}
 ---
 
 
